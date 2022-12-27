@@ -3,6 +3,12 @@
 module.exports = {
   reactStrictMode: true,
   async redirects() {
-    return [];
+    return [
+      // {
+      //   source: "/",
+      //   destination: "/blog",
+      //   permanent: false,
+      // },
+    ];
   },
 };
