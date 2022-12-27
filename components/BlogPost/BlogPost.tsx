@@ -3,7 +3,13 @@ import Link from "next/link";
 import { IBlogPost } from "../../types";
 import { BlogHeading } from "../BlogHeading";
 
-export const BlogPost = ({ markdown, slug }: IBlogPost) => {
+interface IBlogPostProps {
+  blogPost: IBlogPost;
+}
+
+export const BlogPost = ({ blogPost }: IBlogPostProps) => {
+  const { markdown, slug } = blogPost;
+
   const options = {
     overrides: {
       a: Link,
