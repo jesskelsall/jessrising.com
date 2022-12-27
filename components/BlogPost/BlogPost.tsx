@@ -2,6 +2,7 @@ import Markdown from "markdown-to-jsx";
 import Link from "next/link";
 import { IBlogPost } from "../../types";
 import { BlogHeading } from "../BlogHeading";
+import { BlogOrderedList } from "../BlogOrderedList";
 
 interface IBlogPostProps {
   blogPost: IBlogPost;
@@ -17,6 +18,7 @@ export const BlogPost = ({ blogPost }: IBlogPostProps) => {
         component: BlogHeading,
         props: { slug },
       },
+      ol: BlogOrderedList,
     },
   };
 

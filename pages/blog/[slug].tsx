@@ -4,7 +4,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { BlogPost } from "../../components";
-import { BlogPostsContext } from "../../context/blogPosts";
+import { BlogPostsContext } from "../../context";
 import {
   asPageTitle,
   getBlogPostTitle,

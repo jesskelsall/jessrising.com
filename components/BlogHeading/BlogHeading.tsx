@@ -1,9 +1,8 @@
-import { ReactNode } from "react";
 import { SEPARATOR } from "../../consts";
 import { dateFromSlug, longDate } from "../../functions";
 
 interface IBlogHeadingProps {
-  children: ReactNode[];
+  children: React.ReactNode[];
   id?: string;
   slug: string;
 }
