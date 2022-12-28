@@ -1,1 +1,1 @@
-export type ContentType = "blog";
+export type ContentType = "blog" | "photos";
