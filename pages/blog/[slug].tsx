@@ -4,18 +4,23 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { BlogPost } from "../../components";
-import { BlogPostsContext } from "../../context";
+import { BlogPostsContext, GalleryPhotosContext } from "../../context";
 import {
   asPageTitle,
   getBlogPostTitle,
   getSlugsFromMarkdownFiles,
 } from "../../functions";
-import { getAllBlogPosts, getContentFileNames } from "../../functions/fs";
-import { IBlogPost } from "../../types";
+import {
+  getAllBlogPosts,
+  getAllGalleryPhotos,
+  getContentFileNames,
+} from "../../functions/fs";
+import { IBlogPost, IGalleryPhoto } from "../../types";
 
 interface IProps {
   blogPost: IBlogPost;
   allBlogPosts: IBlogPost[];
+  allGalleryPhotos: IGalleryPhoto[];
 }
 
 interface IParams extends ParsedUrlQuery {
@@ -36,7 +41,11 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   context
 ) => {
   try {
+    // Get context data
     const allBlogPosts = await getAllBlogPosts();
+    const allGalleryPhotos = await getAllGalleryPhotos();
+
+    // Prepare page-specific props
     const blogPost = allBlogPosts.find(
       (post) => post.slug === context.params?.slug
     );
@@ -46,6 +55,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
     return {
       props: {
         allBlogPosts,
+        allGalleryPhotos,
         blogPost,
       },
     };
@@ -55,7 +65,11 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   }
 };
 
-export const BlogPostPage: NextPage<IProps> = ({ allBlogPosts, blogPost }) => {
+export const BlogPostPage: NextPage<IProps> = ({
+  allBlogPosts,
+  allGalleryPhotos,
+  blogPost,
+}) => {
   const title = asPageTitle(getBlogPostTitle(blogPost.markdown));
 
   return (
@@ -64,7 +78,9 @@ export const BlogPostPage: NextPage<IProps> = ({ allBlogPosts, blogPost }) => {
         <title>{title}</title>
       </Head>
       <BlogPostsContext.Provider value={allBlogPosts}>
-        <BlogPost blogPost={blogPost} />
+        <GalleryPhotosContext.Provider value={allGalleryPhotos}>
+          <BlogPost blogPost={blogPost} />
+        </GalleryPhotosContext.Provider>
       </BlogPostsContext.Provider>
     </>
   );
