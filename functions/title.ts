@@ -11,7 +11,7 @@ export const asPageTitle = (title?: string): string =>
 
 // Convert a Next.js route URL into a page title
 export const getRouteAsTitle = (route: string): string =>
-  asPageTitle([...route.split("/").slice(1)].pop());
+  asPageTitle(titleCase([...route.split("/").slice(1)].pop() || ""));
 
 // Convert a blog post's first line into a page title
 export const getBlogPostTitle = (markdown: string): string =>

@@ -10,6 +10,10 @@ const HEADER_LINKS: HeaderLink[] = [
     title: "Blog",
     url: "/blog",
   },
+  {
+    title: "Gallery",
+    url: "/gallery",
+  },
 ];
 
 export const Header = () => (

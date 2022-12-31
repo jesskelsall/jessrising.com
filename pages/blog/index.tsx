@@ -1,5 +1,3 @@
-/* eslint-disable security/detect-non-literal-fs-filename */
-
 import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components";
 import { getAllBlogPosts } from "../../functions/fs";
