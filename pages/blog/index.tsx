@@ -23,7 +23,7 @@ const BlogPage: NextPage<IProps> = ({ blogPosts }) => (
     <h1>Blog</h1>
     <ul>
       {blogPosts.map((blogPost) => (
-        <BlogPreview key={blogPost.slug} {...blogPost} />
+        <BlogPreview key={blogPost.slug} blogPost={blogPost} />
       ))}
     </ul>
   </>

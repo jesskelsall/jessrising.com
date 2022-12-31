@@ -16,3 +16,6 @@ export const getRouteAsTitle = (route: string): string =>
 // Convert a blog post's first line into a page title
 export const getBlogPostTitle = (markdown: string): string =>
   markdown.split("\n")[0].replace("# ", "");
+
+export const getBlogPostIntro = (markdown: string): string =>
+  markdown.split("\n").slice(2, 3)[0];

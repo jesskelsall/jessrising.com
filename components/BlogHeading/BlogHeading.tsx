@@ -1,5 +1,5 @@
 import { SEPARATOR } from "../../consts";
-import { dateFromSlug, longDate } from "../../functions";
+import { dateFromSlug, formatFullDate, longDate } from "../../functions";
 
 interface IBlogHeadingProps {
   children: React.ReactNode[];
@@ -19,11 +19,7 @@ export const BlogHeading = ({
       <h1 {...props}>{children}</h1>
       {date && (
         <p>
-          <em>
-            {longDate(date)}
-            {SEPARATOR}
-            {date.toISOWeekDate()}
-          </em>
+          <em>{formatFullDate(date)}</em>
         </p>
       )}
     </>

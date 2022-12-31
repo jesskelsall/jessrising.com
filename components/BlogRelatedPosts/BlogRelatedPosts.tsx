@@ -18,7 +18,7 @@ export const BlogRelatedPosts = ({ children }: IListRendererProps) => {
       </p>
       <ol>
         {blogPostItems.map((blogPost) => (
-          <BlogPreview key={blogPost.slug} {...blogPost} />
+          <BlogPreview key={blogPost.slug} blogPost={blogPost} />
         ))}
       </ol>
     </>

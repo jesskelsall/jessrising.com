@@ -1,4 +1,5 @@
 import { DateTime } from "luxon";
+import { SEPARATOR } from "../consts";
 import { IGalleryPhoto } from "../types";
 
 const ORDINALS = ["th", "st", "nd", "rd"];
@@ -34,3 +35,6 @@ export const sortGalleryPhotosByDate = (
   if (aDate < bDate) return -1;
   return 0;
 };
+
+export const formatFullDate = (date: DateTime): string =>
+  `${longDate(date)}${SEPARATOR}${date.toISOWeekDate()}`;

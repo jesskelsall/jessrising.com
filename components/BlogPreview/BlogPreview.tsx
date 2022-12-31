@@ -1,21 +1,36 @@
 import Link from "next/link";
-import { SEPARATOR } from "../../consts";
+import {
+  dateFromSlug,
+  formatFullDate,
+  getBlogPostIntro,
+  getBlogPostTitle,
+} from "../../functions";
 import { IBlogPost } from "../../types";
-import { dateFromSlug, getBlogPostTitle } from "../../functions";
 
-export const BlogPreview = ({ markdown, slug }: IBlogPost) => {
+interface IBlogPreviewProps {
+  blogPost: IBlogPost;
+}
+
+export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
+  const { slug, markdown } = blogPost;
   const date = dateFromSlug(slug);
   const title = getBlogPostTitle(markdown);
+  const intro = getBlogPostIntro(markdown);
 
   return (
-    <li>
-      <Link href={`/blog/${slug}`}>{title}</Link>
-      {date && (
-        <>
-          {SEPARATOR}
-          {date.toISODate()}
-        </>
-      )}
-    </li>
+    <>
+      <h2>
+        <Link href={`/blog/${slug}`}>{title}</Link>
+      </h2>
+      <p>
+        {date && (
+          <>
+            <em>{formatFullDate(date)}</em>
+            <br />
+          </>
+        )}
+        {intro}
+      </p>
+    </>
   );
 };
