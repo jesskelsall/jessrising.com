@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { SEPARATOR } from "../../consts";
 import { IBlogPost } from "../../types";
-import { dateFromSlug, getBlogPostTitle } from "../../functions";
+import { dateFromSlug, getMarkdownTitle } from "../../functions";
 
 export const BlogLink = ({ markdown, slug }: IBlogPost) => {
   const date = dateFromSlug(slug);
-  const title = getBlogPostTitle(markdown);
+  const title = getMarkdownTitle(markdown);
 
   return (
     <li>

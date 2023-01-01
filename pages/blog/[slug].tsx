@@ -3,11 +3,11 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { BlogPost } from "../../components";
+import { BlogOpenGraphHeaders, BlogPost } from "../../components";
 import { BlogPostsContext, GalleryPhotosContext } from "../../context";
 import {
   asPageTitle,
-  getBlogPostTitle,
+  getMarkdownTitle,
   getSlugsFromMarkdownFiles,
 } from "../../functions";
 import {
@@ -70,12 +70,13 @@ export const BlogPostPage: NextPage<IProps> = ({
   allGalleryPhotos,
   blogPost,
 }) => {
-  const title = asPageTitle(getBlogPostTitle(blogPost.markdown));
+  const title = asPageTitle(getMarkdownTitle(blogPost.markdown));
 
   return (
     <>
       <Head>
         <title>{title}</title>
+        <BlogOpenGraphHeaders blogPost={blogPost} />
       </Head>
       <BlogPostsContext.Provider value={allBlogPosts}>
         <GalleryPhotosContext.Provider value={allGalleryPhotos}>

@@ -2,8 +2,8 @@ import Link from "next/link";
 import {
   dateFromSlug,
   formatFullDate,
-  getBlogPostIntro,
-  getBlogPostTitle,
+  getMarkdownFirstParagraph,
+  getMarkdownTitle,
 } from "../../functions";
 import { IBlogPost } from "../../types";
 
@@ -14,8 +14,8 @@ interface IBlogPreviewProps {
 export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
   const { slug, markdown } = blogPost;
   const date = dateFromSlug(slug);
-  const title = getBlogPostTitle(markdown);
-  const intro = getBlogPostIntro(markdown);
+  const title = getMarkdownTitle(markdown);
+  const intro = getMarkdownFirstParagraph(markdown);
 
   return (
     <>

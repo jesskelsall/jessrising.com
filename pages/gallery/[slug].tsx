@@ -4,7 +4,7 @@ import { ParsedUrlQuery } from "querystring";
 import { GalleryPhoto } from "../../components";
 import {
   asPageTitle,
-  getBlogPostTitle,
+  getMarkdownTitle,
   getSlugsFromMarkdownFiles,
 } from "../../functions";
 import { getAllGalleryPhotos, getContentFileNames } from "../../functions/fs";
@@ -54,7 +54,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 };
 
 const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
-  const title = asPageTitle(getBlogPostTitle(galleryPhoto.markdown));
+  const title = asPageTitle(getMarkdownTitle(galleryPhoto.markdown));
 
   return (
     <>

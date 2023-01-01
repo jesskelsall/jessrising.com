@@ -3,6 +3,7 @@
 import Link from "next/link";
 import path from "path";
 import { useGalleryPhotos } from "../../context";
+import { photoSlugFromSrc } from "../../functions";
 
 interface IBlogImageProps {
   alt: string;
@@ -13,18 +14,15 @@ interface IBlogImageProps {
 // Links to the gallery photo if available, otherwise the image itself
 export const BlogImage = ({ alt, src }: IBlogImageProps) => {
   const allGalleryPhotos = useGalleryPhotos();
-  const imageFileName = src.split("/").reverse()[0];
+  const photoSlug = photoSlugFromSrc(src);
 
   // Check for matching gallery photo
-  const photoSlug = imageFileName.replace(".jpeg", "");
   const galleryPhoto = allGalleryPhotos.find(
     (photo) => photoSlug === photo.slug
   );
 
-  const imagePath = path.join("/photos", imageFileName);
-  const href = galleryPhoto
-    ? path.join("/gallery", photoSlug)
-    : path.join("/photos", imageFileName);
+  const imagePath = path.join("/photos", `${photoSlug}.jpeg`);
+  const href = galleryPhoto ? path.join("/gallery", photoSlug) : imagePath;
 
   return (
     <Link href={href}>
