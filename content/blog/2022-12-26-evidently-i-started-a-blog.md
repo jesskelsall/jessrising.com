@@ -4,9 +4,9 @@ Hello! I have started a blog. If you're reading this, it is proof that I finally
 
 ## Programmer Preamble
 
-Unfortunately as a web developer, I'm mentally unable to pick the simplest off-the-shelf product, and instead trudged into the world of dark-mode IDEs, package dependencies, and scouring StackOverflow while scratching ones' head. This won't be a labour of love. It won't be esoteric, bleeding-edge, feature-laden, or even pretty; it will be as simple as it needs to be to serve its purpose, and most importantly it will exist in some form, now, rather than exist only in an ill-fated pipeline of half-ideas and unrealised aspirations. Getting this up and running is a victory, no matter its form.
+Unfortunately, as a web developer, I'm mentally unable to pick the simplest off-the-shelf product, and instead trudged into the world of dark-mode IDEs, package dependencies, and scouring StackOverflow while scratching ones' head. This won't be a labour of love. It won't be esoteric, bleeding-edge, feature-laden, or even pretty; it will be as simple as it needs to be to serve its purpose, and most importantly it will exist in some form, now, rather than exist only in an ill-fated pipeline of half-ideas and unrealised aspirations. Getting this up and running is a victory, no matter its form.
 
-So let's embrace the minimalism. The first version won't have any CSS. I'm using libraries that I'm familiar with. If there's an error, it won't be handled. All of that can come later, if I want to invest my energy further. It wouldn't be my first repository to abruptly stop receiving commits.
+So, let's embrace the minimalism. The first version won't have any CSS. I'm using libraries that I'm familiar with. If there's an error, it won't be handled. All of that can come later, if I want to invest my energy further. It wouldn't be my first repository to abruptly stop receiving commits.
 
 ## Why Blog?
 
@@ -18,7 +18,7 @@ The goal is to say something, while saying it well is secondary. I'm not interes
 
 It will help to have a focus, otherwise this will truly be a blog full of ramblings.
 
-I did a lot of travelling in 2022. I stayed within my native United Kingdom, but saw an order of magnitude more of it than before, and I enjoyed it more than most of my trips abroad. They were the highlight of my year, and a much needed escape from life's worries. It rekindled my childhood love of landscape photography.
+I did a lot of travelling in 2022. I stayed within my native United Kingdom, but saw an order of magnitude more of it than before, and I enjoyed it more than most of my trips abroad. They were the highlight of my year, and a much-needed escape from life's worries. It rekindled my childhood love of landscape photography.
 
 The goal is to share my travel adventures in several forms:
 
