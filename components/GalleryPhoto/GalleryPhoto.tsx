@@ -15,7 +15,7 @@ export const GalleryPhoto = ({ galleryPhoto }: IGalleryPhotoProps) => {
   const imagePath = path.join("/photos", `${slug}.jpeg`);
 
   return (
-    <>
+    <div style={{ maxWidth: 1200, margin: "0 auto" }}>
       <Link href={imagePath}>
         <img
           alt={startCase(slug)}
@@ -26,7 +26,9 @@ export const GalleryPhoto = ({ galleryPhoto }: IGalleryPhotoProps) => {
           }}
         />
       </Link>
-      <Markdown>{galleryPhoto.markdown}</Markdown>
-    </>
+      <div style={{ maxWidth: 800, margin: "0 auto" }}>
+        <Markdown>{galleryPhoto.markdown}</Markdown>
+      </div>
+    </div>
   );
 };

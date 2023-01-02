@@ -19,14 +19,14 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
 };
 
 const BlogPage: NextPage<IProps> = ({ blogPosts }) => (
-  <>
+  <div style={{ maxWidth: 800, margin: "0 auto" }}>
     <h1>Blog</h1>
     <ul>
       {blogPosts.map((blogPost) => (
         <BlogPreview key={blogPost.slug} blogPost={blogPost} />
       ))}
     </ul>
-  </>
+  </div>
 );
 
 export default BlogPage;

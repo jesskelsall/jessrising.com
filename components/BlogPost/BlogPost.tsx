@@ -24,5 +24,9 @@ export const BlogPost = ({ blogPost }: IBlogPostProps) => {
     },
   };
 
-  return <Markdown options={options}>{markdown}</Markdown>;
+  return (
+    <div style={{ maxWidth: 800, margin: "0 auto" }}>
+      <Markdown options={options}>{markdown}</Markdown>
+    </div>
+  );
 };
