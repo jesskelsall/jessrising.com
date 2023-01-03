@@ -1,9 +1,9 @@
 import { useContext } from "react";
 import { BlogPostsContext } from "../../context";
-import { IBlogPost, IListRendererProps } from "../../types";
+import { TListRenderer } from "../../types";
 import { BlogPreview } from "../BlogPreview";
 
-export const BlogRelatedPosts = ({ children }: IListRendererProps) => {
+export const BlogRelatedPosts: TListRenderer = ({ children }) => {
   const blogPosts = useContext(BlogPostsContext);
 
   const blogPostItems = children

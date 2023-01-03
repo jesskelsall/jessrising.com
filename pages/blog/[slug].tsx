@@ -4,23 +4,23 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { BlogOpenGraphHeaders, BlogPost } from "../../components";
-import { BlogPostsContext, GalleryPhotosContext } from "../../context";
 import {
-  asPageTitle,
-  getMarkdownTitle,
-  getSlugsFromMarkdownFiles,
-} from "../../functions";
+  BlogPostContext,
+  BlogPostsContext,
+  GalleryPhotosContext,
+} from "../../context";
+import { asPageTitle, getSlugsFromMarkdownFiles } from "../../functions";
 import {
   getAllBlogPosts,
   getAllGalleryPhotos,
   getContentFileNames,
 } from "../../functions/fs";
-import { IBlogPost, IGalleryPhoto } from "../../types";
+import { IMarkdownData } from "../../types";
 
 interface IProps {
-  blogPost: IBlogPost;
-  allBlogPosts: IBlogPost[];
-  allGalleryPhotos: IGalleryPhoto[];
+  blogPost: IMarkdownData;
+  allBlogPosts: IMarkdownData[];
+  allGalleryPhotos: IMarkdownData[];
 }
 
 interface IParams extends ParsedUrlQuery {
@@ -70,19 +70,21 @@ export const BlogPostPage: NextPage<IProps> = ({
   allGalleryPhotos,
   blogPost,
 }) => {
-  const title = asPageTitle(getMarkdownTitle(blogPost.markdown));
+  const title = asPageTitle(blogPost.first.heading);
 
   return (
     <>
       <Head>
         <title>{title}</title>
-        <BlogOpenGraphHeaders blogPost={blogPost} />
+        <BlogOpenGraphHeaders />
       </Head>
-      <BlogPostsContext.Provider value={allBlogPosts}>
-        <GalleryPhotosContext.Provider value={allGalleryPhotos}>
-          <BlogPost blogPost={blogPost} />
-        </GalleryPhotosContext.Provider>
-      </BlogPostsContext.Provider>
+      <GalleryPhotosContext.Provider value={allGalleryPhotos}>
+        <BlogPostsContext.Provider value={allBlogPosts}>
+          <BlogPostContext.Provider value={blogPost}>
+            <BlogPost />
+          </BlogPostContext.Provider>
+        </BlogPostsContext.Provider>
+      </GalleryPhotosContext.Provider>
     </>
   );
 };

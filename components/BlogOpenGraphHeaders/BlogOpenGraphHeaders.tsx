@@ -1,50 +1,35 @@
 import { APP_NAME, URL } from "../../consts";
-import {
-  dateFromSlug,
-  getMarkdownFirstImageSlug,
-  getMarkdownFirstParagraph,
-  getMarkdownTitle,
-} from "../../functions";
-import { IBlogPost } from "../../types";
-
-interface IBlogOpenGraphHeaders {
-  blogPost: IBlogPost;
-}
+import { useBlogPost } from "../../context";
 
 /**
  * Renders The Open Graph Protocol headers for blog posts
  * https://ogp.me/
  */
-export const BlogOpenGraphHeaders = ({ blogPost }: IBlogOpenGraphHeaders) => {
-  const { markdown, slug } = blogPost;
-  const date = dateFromSlug(slug);
-  const description = getMarkdownFirstParagraph(markdown);
-  const title = getMarkdownTitle(markdown);
-  const photoSlug = getMarkdownFirstImageSlug(markdown);
+export const BlogOpenGraphHeaders = () => {
+  const { date, first, slug } = useBlogPost();
 
   return (
     <>
-      {title && (
-        <meta property="og:title" content={getMarkdownTitle(markdown)} />
-      )}
+      {first.heading && <meta property="og:title" content={first.heading} />}
       <meta property="og:type" content="article" />
       <meta property="og:url" content={`${URL}/blog/${slug}`} />
-      {photoSlug && (
-        <meta property="og:image" content={`${URL}/photos/${photoSlug}.jpeg`} />
+      {first.imageSlug && (
+        <meta
+          property="og:image"
+          content={`${URL}/photos/${first.imageSlug}.jpeg`}
+        />
       )}
 
-      {description && (
+      {first.paragraph && (
         <>
-          <meta name="description" content={description} key="desc" />
-          <meta property="og:description" content={description} />
+          <meta name="description" content={first.paragraph} key="desc" />
+          <meta property="og:description" content={first.paragraph} />
         </>
       )}
       <meta property="og:site_name" content={APP_NAME} />
 
       <meta property="article:author" content={`${URL}/me`} />
-      {date && (
-        <meta property="article:published_time" content={date.toISODate()} />
-      )}
+      {date && <meta property="article:published_time" content={date} />}
     </>
   );
 };

@@ -5,8 +5,9 @@ import fs from "fs";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, DIR_PHOTOS } from "../consts";
-import { ContentType, IBlogPost, IEXIF, IGalleryPhoto } from "../types";
+import { ContentType, IEXIF, IMarkdownData } from "../types";
 import { getSlugsFromMarkdownFiles } from "./file";
+import { parseMarkdown } from "./markdown";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -21,20 +22,17 @@ export const getContentFileNames = async (
 ): Promise<string[]> => readdir(getContentDirectory(contentType));
 
 // Gets all blog posts in the blog directory
-export const getAllBlogPosts = async (): Promise<IBlogPost[]> => {
+export const getAllBlogPosts = async (): Promise<IMarkdownData[]> => {
   const fileNames = await getContentFileNames("blog");
   const slugs = getSlugsFromMarkdownFiles(fileNames);
 
-  return Promise.all<IBlogPost>(
+  return Promise.all<IMarkdownData>(
     slugs.map(
       (slug) =>
         new Promise((resolve) => {
           const filePath = path.join(getContentDirectory("blog"), `${slug}.md`);
           readFile(filePath).then((buffer) =>
-            resolve({
-              markdown: buffer.toString(),
-              slug,
-            })
+            resolve(parseMarkdown(slug, buffer.toString()))
           );
         })
     )
@@ -61,11 +59,11 @@ export const readPhotoEXIF = async (filePath: string): Promise<IEXIF> => {
 };
 
 // Get all gallery photos in the photos directory
-export const getAllGalleryPhotos = async (): Promise<IGalleryPhoto[]> => {
+export const getAllGalleryPhotos = async (): Promise<IMarkdownData[]> => {
   const fileNames = await getContentFileNames("photos");
   const slugs = getSlugsFromMarkdownFiles(fileNames);
 
-  return Promise.all<IGalleryPhoto>(
+  return Promise.all<IMarkdownData>(
     slugs.map(
       (slug) =>
         new Promise((resolve) => {
@@ -79,11 +77,9 @@ export const getAllGalleryPhotos = async (): Promise<IGalleryPhoto[]> => {
           readFile(contentPath).then((contentBuffer) => {
             // Photo file → EXIF tag values
             readPhotoEXIF(photoPath).then((exif) => {
-              resolve({
-                markdown: contentBuffer.toString(),
-                metaData: exif,
-                slug,
-              });
+              const markdown = parseMarkdown(slug, contentBuffer.toString());
+              markdown.meta.photo = exif;
+              resolve(markdown);
             });
           });
         })

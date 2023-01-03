@@ -1,6 +1,6 @@
 import { createContext, useContext } from "react";
-import { IBlogPost } from "../types";
+import { IMarkdownData } from "../types";
 
-export const BlogPostsContext = createContext<IBlogPost[]>([]);
+export const BlogPostsContext = createContext<IMarkdownData[]>([]);
 
-export const useBlogPosts = (): IBlogPost[] => useContext(BlogPostsContext);
+export const useBlogPosts = (): IMarkdownData[] => useContext(BlogPostsContext);

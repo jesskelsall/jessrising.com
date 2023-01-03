@@ -4,15 +4,16 @@ import { startCase } from "lodash/fp";
 import Markdown from "markdown-to-jsx";
 import Link from "next/link";
 import path from "path";
-import { IGalleryPhoto } from "../../types";
+import { useGalleryPhoto } from "../../context";
 
-interface IGalleryPhotoProps {
-  galleryPhoto: IGalleryPhoto;
-}
+export const GalleryPhoto = () => {
+  const { markdown, slug } = useGalleryPhoto();
 
-export const GalleryPhoto = ({ galleryPhoto }: IGalleryPhotoProps) => {
-  const { slug } = galleryPhoto;
   const imagePath = path.join("/photos", `${slug}.jpeg`);
+
+  const options = {
+    overrides: {},
+  };
 
   return (
     <div style={{ maxWidth: 1200, margin: "0 auto" }}>
@@ -27,7 +28,7 @@ export const GalleryPhoto = ({ galleryPhoto }: IGalleryPhotoProps) => {
         />
       </Link>
       <div style={{ maxWidth: 800, margin: "0 auto" }}>
-        <Markdown>{galleryPhoto.markdown}</Markdown>
+        <Markdown options={options}>{markdown}</Markdown>
       </div>
     </div>
   );

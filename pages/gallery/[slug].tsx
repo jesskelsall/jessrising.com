@@ -2,16 +2,14 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryPhoto } from "../../components";
-import {
-  asPageTitle,
-  getMarkdownTitle,
-  getSlugsFromMarkdownFiles,
-} from "../../functions";
+import { GalleryPhotoContext, GalleryPhotosContext } from "../../context";
+import { asPageTitle, getSlugsFromMarkdownFiles } from "../../functions";
 import { getAllGalleryPhotos, getContentFileNames } from "../../functions/fs";
-import { IGalleryPhoto } from "../../types";
+import { IMarkdownData } from "../../types";
 
 interface IProps {
-  galleryPhoto: IGalleryPhoto;
+  allGalleryPhotos: IMarkdownData[];
+  galleryPhoto: IMarkdownData;
 }
 
 interface IParams extends ParsedUrlQuery {
@@ -44,6 +42,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 
     return {
       props: {
+        allGalleryPhotos,
         galleryPhoto,
       },
     };
@@ -53,15 +52,22 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   }
 };
 
-const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
-  const title = asPageTitle(getMarkdownTitle(galleryPhoto.markdown));
+const GalleryPhotoPage: NextPage<IProps> = ({
+  allGalleryPhotos,
+  galleryPhoto,
+}) => {
+  const title = asPageTitle(galleryPhoto.first.heading);
 
   return (
     <>
       <Head>
         <title>{title}</title>
       </Head>
-      <GalleryPhoto galleryPhoto={galleryPhoto} />
+      <GalleryPhotosContext.Provider value={allGalleryPhotos}>
+        <GalleryPhotoContext.Provider value={galleryPhoto}>
+          <GalleryPhoto />
+        </GalleryPhotoContext.Provider>
+      </GalleryPhotosContext.Provider>
     </>
   );
 };

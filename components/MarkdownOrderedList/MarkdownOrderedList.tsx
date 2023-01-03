@@ -20,7 +20,7 @@ export const getZeroListItemText = (
   return zeroListItemText || undefined;
 };
 
-interface IBlogOrderedListProps {
+interface IMarkdownOrderedListProps {
   children: JSX.Element[];
   start: number;
 }
@@ -29,7 +29,10 @@ interface IBlogOrderedListProps {
  * Render an ordered list and its items
  * 0th list items are used to denote different components to render
  */
-export const BlogOrderedList = ({ children, start }: IBlogOrderedListProps) => {
+export const MarkdownOrderedList = ({
+  children,
+  start,
+}: IMarkdownOrderedListProps) => {
   // Check if another component should be rendered
   const zeroListItemText = getZeroListItemText(children, start);
 

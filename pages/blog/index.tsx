@@ -3,10 +3,10 @@ import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components";
 import { dateFromSlug } from "../../functions";
 import { getAllBlogPosts } from "../../functions/fs";
-import { IBlogPost } from "../../types";
+import { IMarkdownData } from "../../types";
 
 interface IProps {
-  blogPosts: IBlogPost[];
+  blogPosts: IMarkdownData[];
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {

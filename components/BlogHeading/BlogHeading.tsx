@@ -1,24 +1,21 @@
-import { dateFromSlug, formatFullDate } from "../../functions";
+import { DateTime } from "luxon";
+import { useBlogPost } from "../../context";
+import { formatFullDate } from "../../functions";
 
 interface IBlogHeadingProps {
   children: React.ReactNode[];
   id?: string;
-  slug: string;
 }
 
-export const BlogHeading = ({
-  children,
-  slug,
-  ...props
-}: IBlogHeadingProps) => {
-  const date = dateFromSlug(slug);
+export const BlogHeading = ({ children, ...props }: IBlogHeadingProps) => {
+  const { date } = useBlogPost();
 
   return (
     <>
       <h1 {...props}>{children}</h1>
       {date && (
         <p>
-          <em>{formatFullDate(date)}</em>
+          <em>{formatFullDate(DateTime.fromISO(date))}</em>
         </p>
       )}
     </>

@@ -5,10 +5,10 @@ import Link from "next/link";
 import path from "path";
 import { sortGalleryPhotosByDate } from "../../functions";
 import { getAllGalleryPhotos } from "../../functions/fs";
-import { IGalleryPhoto } from "../../types";
+import { IMarkdownData } from "../../types";
 
 interface IProps {
-  galleryPhotos: IGalleryPhoto[];
+  galleryPhotos: IMarkdownData[];
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {

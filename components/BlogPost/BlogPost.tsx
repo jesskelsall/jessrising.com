@@ -1,32 +1,25 @@
 import Markdown from "markdown-to-jsx";
 import Link from "next/link";
-import { IBlogPost } from "../../types";
+import { useBlogPost } from "../../context";
 import { BlogHeading } from "../BlogHeading";
 import { BlogImage } from "../BlogImage";
-import { BlogOrderedList } from "../BlogOrderedList";
+import { MarkdownOrderedList } from "../MarkdownOrderedList";
 
-interface IBlogPostProps {
-  blogPost: IBlogPost;
-}
-
-export const BlogPost = ({ blogPost }: IBlogPostProps) => {
-  const { markdown, slug } = blogPost;
+export const BlogPost = () => {
+  const blogPost = useBlogPost();
 
   const options = {
     overrides: {
       a: Link,
-      h1: {
-        component: BlogHeading,
-        props: { slug },
-      },
+      h1: BlogHeading,
       img: BlogImage,
-      ol: BlogOrderedList,
+      ol: MarkdownOrderedList,
     },
   };
 
   return (
     <div style={{ maxWidth: 800, margin: "0 auto" }}>
-      <Markdown options={options}>{markdown}</Markdown>
+      <Markdown options={options}>{blogPost.markdown}</Markdown>
     </div>
   );
 };

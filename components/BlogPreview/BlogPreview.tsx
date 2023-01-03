@@ -1,35 +1,28 @@
+import { DateTime } from "luxon";
 import Link from "next/link";
-import {
-  dateFromSlug,
-  formatFullDate,
-  getMarkdownFirstParagraph,
-  getMarkdownTitle,
-} from "../../functions";
-import { IBlogPost } from "../../types";
+import { formatFullDate } from "../../functions";
+import { IMarkdownData } from "../../types";
 
 interface IBlogPreviewProps {
-  blogPost: IBlogPost;
+  blogPost: IMarkdownData;
 }
 
 export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
-  const { slug, markdown } = blogPost;
-  const date = dateFromSlug(slug);
-  const title = getMarkdownTitle(markdown);
-  const intro = getMarkdownFirstParagraph(markdown);
+  const { date, first, slug } = blogPost;
 
   return (
     <>
       <h2>
-        <Link href={`/blog/${slug}`}>{title}</Link>
+        <Link href={`/blog/${slug}`}>{first.heading}</Link>
       </h2>
       <p>
         {date && (
           <>
-            <em>{formatFullDate(date)}</em>
+            <em>{formatFullDate(DateTime.fromISO(date))}</em>
             <br />
           </>
         )}
-        {intro}
+        {first.paragraph}
       </p>
     </>
   );

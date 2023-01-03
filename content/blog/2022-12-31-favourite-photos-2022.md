@@ -1,5 +1,7 @@
 # My Favourite Photos I Took in 2022
 
+- Tags: photography
+
 As 2022 ends, I reflect on a year of landscape photography - the hobby I fell out of love with eleven years ago. I've combed through 12,000 photos in search of my favourite ten. Through them I offer a lens into unforgettable adventures with amazing people.
 
 My criteria for judging my photography is unashamedly subjective. I can't untangle the circumstances and feelings surrounding each photograph from the pixels comprising an image file, so I'll be offering an explanation with each photo. Generally speaking, my criteria are:
