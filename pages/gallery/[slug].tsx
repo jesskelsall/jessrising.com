@@ -1,11 +1,11 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { GalleryPhoto } from "../../components";
+import { GalleryPhoto, OpenGraphHeaders } from "../../components";
 import { GalleryPhotoContext, GalleryPhotosContext } from "../../context";
 import { asPageTitle, getSlugsFromMarkdownFiles } from "../../functions";
 import { getAllGalleryPhotos, getContentFileNames } from "../../functions/fs";
-import { IMarkdownData } from "../../types";
+import { IEXIF, IMarkdownData } from "../../types";
 
 interface IProps {
   allGalleryPhotos: IMarkdownData[];
@@ -56,12 +56,23 @@ const GalleryPhotoPage: NextPage<IProps> = ({
   allGalleryPhotos,
   galleryPhoto,
 }) => {
-  const title = asPageTitle(galleryPhoto.first.heading);
+  const { first, meta, slug } = galleryPhoto;
+
+  const photo: IEXIF = meta.photo || {};
+  const location = meta.location ? meta.location.join(", ") : undefined;
+  const title = asPageTitle(first.heading);
 
   return (
     <>
       <Head>
         <title>{title}</title>
+        <OpenGraphHeaders
+          date={photo.date}
+          description={location}
+          imageSlug={slug}
+          urlPath={`gallery/${slug}`}
+          title={first.heading}
+        />
       </Head>
       <GalleryPhotosContext.Provider value={allGalleryPhotos}>
         <GalleryPhotoContext.Provider value={galleryPhoto}>

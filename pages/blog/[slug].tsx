@@ -3,7 +3,7 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { BlogOpenGraphHeaders, BlogPost } from "../../components";
+import { OpenGraphHeaders, BlogPost } from "../../components";
 import {
   BlogPostContext,
   BlogPostsContext,
@@ -70,13 +70,21 @@ export const BlogPostPage: NextPage<IProps> = ({
   allGalleryPhotos,
   blogPost,
 }) => {
-  const title = asPageTitle(blogPost.first.heading);
+  const { date, first, slug } = blogPost;
+
+  const title = asPageTitle(first.heading);
 
   return (
     <>
       <Head>
         <title>{title}</title>
-        <BlogOpenGraphHeaders />
+        <OpenGraphHeaders
+          date={date}
+          description={first.paragraph}
+          imageSlug={first.imageSlug}
+          urlPath={`blog/${slug}`}
+          title={first.heading}
+        />
       </Head>
       <GalleryPhotosContext.Provider value={allGalleryPhotos}>
         <BlogPostsContext.Provider value={allBlogPosts}>
