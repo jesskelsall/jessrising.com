@@ -1,5 +1,7 @@
+import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components";
+import { dateFromSlug } from "../../functions";
 import { getAllBlogPosts } from "../../functions/fs";
 import { IBlogPost } from "../../types";
 
@@ -9,7 +11,11 @@ interface IProps {
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
   const blogPosts = await getAllBlogPosts();
-  const displayedBlogPosts = blogPosts.reverse();
+  const displayedBlogPosts = blogPosts.reverse().filter((blogPost) => {
+    // Hide future posts
+    const date = dateFromSlug(blogPost.slug);
+    return !date || date <= DateTime.now();
+  });
 
   return {
     props: {
