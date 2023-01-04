@@ -1,10 +1,7 @@
-import { IListRendererProps } from "../../types";
+import { TListRenderer } from "../../types";
 import { BlogRelatedPosts } from "../BlogRelatedPosts";
 
-const ORDERED_LIST_RENDERERS: Record<
-  string,
-  (props: IListRendererProps) => JSX.Element
-> = {
+const ORDERED_LIST_RENDERERS: Record<string, TListRenderer> = {
   Related: BlogRelatedPosts,
 };
 
