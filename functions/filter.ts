@@ -8,7 +8,10 @@ export const formatFilterQuery = (
   return typeof queryParam === "string" ? [queryParam] : queryParam;
 };
 
-type ModelFilter<Model> = [string[], (model: Model) => string[]];
+type TModelFilter<Model> = [
+  string[], // Active filter values
+  (model: Model) => string[] // Function to retrieve values to filter by from the object
+];
 
 /**
  * Applies one or more filters to an array of generic objects
@@ -19,7 +22,7 @@ type ModelFilter<Model> = [string[], (model: Model) => string[]];
  */
 export const applyFilterQueries = <Model>(
   objects: Model[],
-  ...filters: ModelFilter<Model>[]
+  ...filters: TModelFilter<Model>[]
 ): Model[] =>
   objects.filter((object) =>
     filters.every(([requiredValues, valueAccessor]) => {
