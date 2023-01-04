@@ -1,19 +1,21 @@
 import Link from "next/link";
 import { SEPARATOR } from "../../consts";
-import { IBlogPost } from "../../types";
-import { dateFromSlug, getMarkdownTitle } from "../../functions";
+import { IMarkdownData } from "../../types";
 
-export const BlogLink = ({ markdown, slug }: IBlogPost) => {
-  const date = dateFromSlug(slug);
-  const title = getMarkdownTitle(markdown);
+interface IBlogLinkProps {
+  blogPost: IMarkdownData;
+}
+
+export const BlogLink = ({ blogPost }: IBlogLinkProps) => {
+  const { date, first, slug } = blogPost;
 
   return (
     <li>
-      <Link href={`/blog/${slug}`}>{title}</Link>
+      <Link href={`/blog/${slug}`}>{first.heading || slug}</Link>
       {date && (
         <>
           {SEPARATOR}
-          {date.toISODate()}
+          {date}
         </>
       )}
     </li>
