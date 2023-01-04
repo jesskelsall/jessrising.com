@@ -21,7 +21,7 @@ export const GalleryHeading = ({
       <h1 {...props}>{children}</h1>
       <ul>
         {date && <li>Taken: {date.toFormat("yyyy-MM-dd HH:mm:ss")}</li>}
-        {meta.location && <MarkdownLocation location={meta.location} />}
+        {meta.locations && <MarkdownLocation locations={meta.locations} />}
         {meta.gps && <MarkdownGPS gps={meta.gps} />}
         {meta.photo?.camera && <li>Camera: {meta.photo.camera}</li>}
         {meta.tags && <MarkdownTags tags={meta.tags} />}

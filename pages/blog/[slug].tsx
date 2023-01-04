@@ -17,14 +17,14 @@ import {
 } from "../../functions/fs";
 import { IMarkdownData } from "../../types";
 
+interface IParams extends ParsedUrlQuery {
+  slug: string;
+}
+
 interface IProps {
   blogPost: IMarkdownData;
   allBlogPosts: IMarkdownData[];
   allGalleryPhotos: IMarkdownData[];
-}
-
-interface IParams extends ParsedUrlQuery {
-  slug: string;
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {

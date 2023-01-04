@@ -7,13 +7,13 @@ import { asPageTitle, getSlugsFromMarkdownFiles } from "../../functions";
 import { getAllGalleryPhotos, getContentFileNames } from "../../functions/fs";
 import { IEXIF, IMarkdownData } from "../../types";
 
+interface IParams extends ParsedUrlQuery {
+  slug: string;
+}
+
 interface IProps {
   allGalleryPhotos: IMarkdownData[];
   galleryPhoto: IMarkdownData;
-}
-
-interface IParams extends ParsedUrlQuery {
-  slug: string;
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
@@ -59,7 +59,7 @@ const GalleryPhotoPage: NextPage<IProps> = ({
   const { first, meta, slug } = galleryPhoto;
 
   const photo: IEXIF = meta.photo || {};
-  const location = meta.location ? meta.location.join(", ") : undefined;
+  const location = meta.locations ? meta.locations.join(", ") : undefined;
   const title = asPageTitle(first.heading);
 
   return (

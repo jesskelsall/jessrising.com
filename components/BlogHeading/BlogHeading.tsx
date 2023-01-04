@@ -1,7 +1,6 @@
 import { DateTime } from "luxon";
 import { useBlogPost } from "../../context";
 import { formatFullDate } from "../../functions";
-import { MarkdownTags } from "../MarkdownTags";
 
 interface IBlogHeadingProps {
   children: React.ReactNode[];
@@ -9,7 +8,7 @@ interface IBlogHeadingProps {
 }
 
 export const BlogHeading = ({ children, ...props }: IBlogHeadingProps) => {
-  const { date, meta } = useBlogPost();
+  const { date } = useBlogPost();
 
   return (
     <>
@@ -19,7 +18,6 @@ export const BlogHeading = ({ children, ...props }: IBlogHeadingProps) => {
           <em>{formatFullDate(DateTime.fromISO(date))}</em>
         </p>
       )}
-      <ul>{meta.tags && <MarkdownTags tags={meta.tags} />}</ul>
     </>
   );
 };
