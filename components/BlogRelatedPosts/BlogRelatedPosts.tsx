@@ -1,15 +1,16 @@
-import { useContext } from "react";
-import { BlogPostsContext } from "../../context";
-import { TListRenderer } from "../../types";
+import { useBlogPosts } from "../../context";
+import { IMarkdownData, TListRenderer } from "../../types";
 import { BlogPreview } from "../BlogPreview";
 
 export const BlogRelatedPosts: TListRenderer = ({ children }) => {
-  const blogPosts = useContext(BlogPostsContext);
+  const allBlogPosts = useBlogPosts();
 
   const blogPostItems = children
     .map((child) => child.props.children[0] as string)
-    .map((slug) => blogPosts.find((blogPost) => blogPost.slug === slug))
-    .filter<IBlogPost>((child): child is IBlogPost => child !== undefined);
+    .map((slug) => allBlogPosts.find((blogPost) => blogPost.slug === slug))
+    .filter<IMarkdownData>(
+      (child): child is IMarkdownData => child !== undefined
+    );
 
   return (
     <>
