@@ -5,6 +5,7 @@ import Markdown from "markdown-to-jsx";
 import Link from "next/link";
 import path from "path";
 import { useGalleryPhoto } from "../../context";
+import { GalleryHeading } from "../GalleryHeading";
 
 export const GalleryPhoto = () => {
   const { markdown, slug } = useGalleryPhoto();
@@ -12,7 +13,9 @@ export const GalleryPhoto = () => {
   const imagePath = path.join("/photos", `${slug}.jpeg`);
 
   const options = {
-    overrides: {},
+    overrides: {
+      h1: GalleryHeading,
+    },
   };
 
   return (

@@ -1,7 +1,7 @@
 # Herdys Overlook Wast Water
 
 - GPS: 54.44305833333333,-3.3042666666666665
-- Location: Wast Water, Lake District, England, UK
+- Location: Wast Water, Lake District, England, United Kingdom
 - Tags: sheep
 
 Two sheep (or herdys as they are known in the Lake District) overlook Wast Water from the edge of a grassy hill. Wast Water in the western Lake District is a stretch of water dramatically flanked by the Wasdale Screes, a long hill culminating in [Illgill Head](https://en.wikipedia.org/wiki/Illgill_Head), with steep cliffs and scree visible from top to bottom. The road from Nether Wasdale to Wasdale Head is visible in the corner, twisting across the yellowed April lakeside.
