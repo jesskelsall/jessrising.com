@@ -3,19 +3,19 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { OpenGraphHeaders, BlogPost } from "../../components";
+import { OpenGraphHeaders, BlogPost } from "../../../components";
 import {
   BlogPostContext,
   BlogPostsContext,
   GalleryPhotosContext,
-} from "../../context";
-import { asPageTitle, getSlugsFromMarkdownFiles } from "../../functions";
+} from "../../../context";
+import { asPageTitle, getSlugsFromMarkdownFiles } from "../../../functions";
 import {
   getAllBlogPosts,
   getAllGalleryPhotos,
   getContentFileNames,
-} from "../../functions/fs";
-import { IMarkdownData } from "../../types";
+} from "../../../functions/fs";
+import { IMarkdownData } from "../../../types";
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -82,7 +82,7 @@ export const BlogPostPage: NextPage<IProps> = ({
           date={date}
           description={first.paragraph}
           imageSlug={first.imageSlug}
-          urlPath={`blog/${slug}`}
+          urlPath={`blog/p/${slug}`}
           title={first.heading}
         />
       </Head>

@@ -15,7 +15,7 @@ export const MarkdownLocation = ({ locations }: IMarkdownLocationProps) => (
       return (
         <React.Fragment key={locationSlug}>
           {index !== 0 && ", "}
-          <Link href={`/gallery?l=${locationSlug}`}>{location}</Link>
+          <Link href={`/gallery/l/${locationSlug}`}>{location}</Link>
         </React.Fragment>
       );
     })}

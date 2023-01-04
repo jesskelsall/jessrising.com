@@ -1,11 +1,14 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { GalleryPhoto, OpenGraphHeaders } from "../../components";
-import { GalleryPhotoContext, GalleryPhotosContext } from "../../context";
-import { asPageTitle, getSlugsFromMarkdownFiles } from "../../functions";
-import { getAllGalleryPhotos, getContentFileNames } from "../../functions/fs";
-import { IEXIF, IMarkdownData } from "../../types";
+import { GalleryPhoto, OpenGraphHeaders } from "../../../components";
+import { GalleryPhotoContext, GalleryPhotosContext } from "../../../context";
+import { asPageTitle, getSlugsFromMarkdownFiles } from "../../../functions";
+import {
+  getAllGalleryPhotos,
+  getContentFileNames,
+} from "../../../functions/fs";
+import { IEXIF, IMarkdownData } from "../../../types";
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -70,7 +73,7 @@ const GalleryPhotoPage: NextPage<IProps> = ({
           date={photo.date}
           description={location}
           imageSlug={slug}
-          urlPath={`gallery/${slug}`}
+          urlPath={`gallery/p/${slug}`}
           title={first.heading}
         />
       </Head>

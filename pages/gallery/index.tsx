@@ -66,7 +66,7 @@ const GalleryPage: NextPage<IProps> = ({
         const imagePath = path.join("/photos", `${slug}.jpeg`);
 
         return (
-          <Link href={`/gallery/${slug}`} key={slug}>
+          <Link href={`/gallery/p/${slug}`} key={slug}>
             <div
               style={{
                 height: 375,

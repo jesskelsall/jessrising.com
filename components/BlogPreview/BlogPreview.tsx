@@ -13,7 +13,7 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
   return (
     <>
       <h2>
-        <Link href={`/blog/${slug}`}>{first.heading}</Link>
+        <Link href={`/blog/p/${slug}`}>{first.heading}</Link>
       </h2>
       <p>
         {date && (

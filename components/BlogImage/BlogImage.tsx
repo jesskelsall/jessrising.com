@@ -22,7 +22,7 @@ export const BlogImage = ({ alt, src }: IBlogImageProps) => {
   );
 
   const imagePath = path.join("/photos", `${photoSlug}.jpeg`);
-  const href = galleryPhoto ? path.join("/gallery", photoSlug) : imagePath;
+  const href = galleryPhoto ? `/gallery/p/${photoSlug}` : imagePath;
 
   return (
     <Link href={href}>

@@ -11,7 +11,7 @@ export const BlogLink = ({ blogPost }: IBlogLinkProps) => {
 
   return (
     <li>
-      <Link href={`/blog/${slug}`}>{first.heading || slug}</Link>
+      <Link href={`/blog/p/${slug}`}>{first.heading || slug}</Link>
       {date && (
         <>
           {SEPARATOR}
