@@ -1,6 +1,5 @@
 import { DateTime } from "luxon";
 import { SEPARATOR } from "../consts";
-import { IMarkdownData } from "../types";
 
 const ORDINALS = ["th", "st", "nd", "rd"];
 
@@ -18,23 +17,6 @@ export const longDate = (date: DateTime): string => {
 
 export const parseEXIFDate = (date: string): DateTime =>
   DateTime.fromFormat(date, "yyyy:MM:dd HH:mm:ss");
-
-// Sort gallery photos chronologically
-// Any photos with no date are placed at the end of the array
-export const sortGalleryPhotosByDate = (
-  a: IMarkdownData,
-  b: IMarkdownData
-): number => {
-  if (a.meta.photo?.date === undefined) return 1;
-  if (b.meta.photo?.date === undefined) return -1;
-
-  const aDate = parseEXIFDate(a.meta.photo.date);
-  const bDate = parseEXIFDate(b.meta.photo.date);
-
-  if (aDate > bDate) return 1;
-  if (aDate < bDate) return -1;
-  return 0;
-};
 
 export const formatFullDate = (date: DateTime): string =>
   `${longDate(date)}${SEPARATOR}${date.toISOWeekDate()}`;

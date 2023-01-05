@@ -7,12 +7,13 @@ import { parsePhotoSlugFromSrc } from "../../functions";
 
 interface IBlogImageProps {
   alt: string;
+  caption?: string;
   src: string;
 }
 
 // Display an image in a blog post
 // Links to the gallery photo if available, otherwise the image itself
-export const BlogImage = ({ alt, src }: IBlogImageProps) => {
+export const BlogImage = ({ alt, caption, src }: IBlogImageProps) => {
   const allGalleryPhotos = useGalleryPhotos();
   const photoSlug = parsePhotoSlugFromSrc(src);
 
@@ -25,15 +26,22 @@ export const BlogImage = ({ alt, src }: IBlogImageProps) => {
   const href = galleryPhoto ? `/gallery/p/${photoSlug}` : imagePath;
 
   return (
-    <Link href={href}>
-      <img
-        src={imagePath}
-        alt={alt}
-        style={{
-          width: 800,
-          maxWidth: "100%",
-        }}
-      />
-    </Link>
+    <>
+      <Link href={href}>
+        <img
+          src={imagePath}
+          alt={alt}
+          style={{
+            width: 800,
+            maxWidth: "100%",
+          }}
+        />
+      </Link>
+      {caption && (
+        <p>
+          <em>{caption}</em>
+        </p>
+      )}
+    </>
   );
 };

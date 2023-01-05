@@ -1,14 +1,6 @@
-import { startCase } from "lodash/fp";
 import { GetStaticProps, NextPage } from "next";
-import Image from "next/image";
-import Link from "next/link";
-import path from "path";
 import { GalleryGrid } from "../../components";
-import {
-  applyFilterQueries,
-  formatFilterQuery,
-  sortGalleryPhotosByDate,
-} from "../../functions";
+import { sortGalleryPhotosByDate } from "../../functions";
 import { getAllGalleryPhotos } from "../../functions/fs";
 import { IMarkdownData } from "../../types";
 

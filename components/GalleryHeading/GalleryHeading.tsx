@@ -1,3 +1,4 @@
+import { DateTime } from "luxon";
 import { useGalleryPhoto } from "../../context";
 import { MarkdownGPS } from "../MarkdownGPS";
 import { MarkdownLocation } from "../MarkdownLocation";
@@ -20,7 +21,15 @@ export const GalleryHeading = ({
     <>
       <h1 {...props}>{children}</h1>
       <ul>
-        {date && <li>Taken: {date.toFormat("yyyy-MM-dd HH:mm:ss")}</li>}
+        {date && (
+          <li>
+            Taken:{" "}
+            {date.toLocaleString({
+              ...DateTime.DATETIME_FULL,
+              timeZoneName: undefined,
+            })}
+          </li>
+        )}
         {meta.locations && <MarkdownLocation locations={meta.locations} />}
         {meta.gps && <MarkdownGPS gps={meta.gps} />}
         {meta.photo?.camera && <li>Camera: {meta.photo.camera}</li>}
