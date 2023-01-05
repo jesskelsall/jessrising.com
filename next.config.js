@@ -2,7 +2,7 @@
 
 module.exports = {
   reactStrictMode: true,
-  staticPageGenerationTimeout: 600,
+  staticPageGenerationTimeout: 60,
   async redirects() {
     return [
       // {
