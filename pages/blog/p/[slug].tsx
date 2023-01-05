@@ -45,10 +45,11 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
     const allBlogPosts = await getAllBlogPosts();
     const allGalleryPhotos = await getAllGalleryPhotos();
 
+    const slug = context.params?.slug;
+    if (!slug) return { notFound: true };
+
     // Prepare page-specific props
-    const blogPost = allBlogPosts.find(
-      (post) => post.slug === context.params?.slug
-    );
+    const blogPost = allBlogPosts.find((post) => post.slug === slug);
 
     if (!blogPost) return { notFound: true };
 
