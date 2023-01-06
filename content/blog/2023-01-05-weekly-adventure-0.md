@@ -30,7 +30,7 @@ I was surprised to find an almost full car park and plenty of park visitors. May
 
 The first matter of business was to decide on a direction. The park lends itself to a single circuit, as two separate paths that circumnavigate the main area meet near the river at the very back. Sophie opted for clockwise - ever the gold standard. Most others concurred.
 
-# Infrequent Familiarity
+## Infrequent Familiarity
 
 As we started our walk, I found myself wondering why we don't visit more often. This is our closest park in the typical definition of the word - a place for people to relax, play, and exercise, all in a well-maintained green setting. After all, we can be here any time we want within ten minutes. My dad runs here or another similar park every Saturday like clockwork.
 
