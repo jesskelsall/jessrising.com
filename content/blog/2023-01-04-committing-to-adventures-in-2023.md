@@ -1,6 +1,6 @@
 # Committing to Adventures in 2023
 
-- Tags: Weekly Adventures 2023, Monthly Adventures 2023
+- Tags: Adventures 2023, Holidays 2023
 
 This year I want to travel more and see new places. As someone whose main hobby is traveling, this seems like an obvious choice, but I've put in place some rules that should transform this New Year's resolution from a sentiment into a challenge.
 
