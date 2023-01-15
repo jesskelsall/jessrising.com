@@ -15,16 +15,23 @@ export const parseMarkdownFirstHeading = (
   return firstTitle.replace(/^#+ /, "");
 };
 
-// Get the first image slug from a list of markdown lines
-export const parseMarkdownFirstImageSlug = (
+/**
+ * Get the "cover" image slug from a markdown file
+ * The first img tag with a "cover" attribute, or first image
+ */
+export const parseMarkdownCoverImageSlug = (
   markdownLines: string[]
 ): string | undefined => {
-  // Get image tag
+  // Get image tags
   const imageLines = markdownLines.filter((line) => line.startsWith("<img"));
   if (!imageLines.length) return undefined;
 
+  // Get image tag
+  const coverImage = imageLines.find((line) => line.endsWith(" cover />"));
+  const imageLine = coverImage || imageLines[0];
+
   // Get URL from src
-  const srcMatch = imageLines[0].match(/src="([^"]+)"/);
+  const srcMatch = imageLine.match(/src="([^"]+)"/);
   if (!srcMatch) return undefined;
 
   return parsePhotoSlugFromSrc(srcMatch[1]);
@@ -113,22 +120,22 @@ export const parseMarkdown = (
   const [meta, markdownLinesWithoutMeta] = parseMarkdownMeta(markdownLines);
 
   const markdownData: IMarkdownData = {
-    first: {},
     markdown: markdownLinesWithoutMeta.join("\n"),
     meta,
     slug,
+    summary: {},
   };
 
   // Optional properties
   const date = dateFromSlug(slug);
-  const firstHeading = parseMarkdownFirstHeading(markdownLines);
-  const firstImageSlug = parseMarkdownFirstImageSlug(markdownLines);
-  const firstParagraph = parseMarkdownFirstParagraph(markdownLines);
+  const summaryHeading = parseMarkdownFirstHeading(markdownLines);
+  const summaryImageSlug = parseMarkdownCoverImageSlug(markdownLines);
+  const summaryParagraph = parseMarkdownFirstParagraph(markdownLines);
 
   if (date) markdownData.date = date.toISODate();
-  if (firstHeading) markdownData.first.heading = firstHeading;
-  if (firstImageSlug) markdownData.first.imageSlug = firstImageSlug;
-  if (firstParagraph) markdownData.first.paragraph = firstParagraph;
+  if (summaryHeading) markdownData.summary.heading = summaryHeading;
+  if (summaryImageSlug) markdownData.summary.imageSlug = summaryImageSlug;
+  if (summaryParagraph) markdownData.summary.paragraph = summaryParagraph;
 
   return markdownData;
 };

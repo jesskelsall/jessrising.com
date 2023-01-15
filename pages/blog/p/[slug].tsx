@@ -71,9 +71,9 @@ export const BlogPostPage: NextPage<IProps> = ({
   allGalleryPhotos,
   blogPost,
 }) => {
-  const { date, first, slug } = blogPost;
+  const { date, slug, summary } = blogPost;
 
-  const title = asPageTitle(first.heading);
+  const title = asPageTitle(summary.heading);
 
   return (
     <>
@@ -81,10 +81,10 @@ export const BlogPostPage: NextPage<IProps> = ({
         <title>{title}</title>
         <OpenGraphHeaders
           date={date}
-          description={first.paragraph}
-          imageSlug={first.imageSlug}
+          description={summary.paragraph}
+          imageSlug={summary.imageSlug}
           urlPath={`blog/p/${slug}`}
-          title={first.heading}
+          title={summary.heading}
         />
       </Head>
       <GalleryPhotosContext.Provider value={allGalleryPhotos}>

@@ -16,14 +16,14 @@ export interface IMarkdownMetaData {
 // Parsed markdown file with all metadata extracted
 export interface IMarkdownData {
   date?: string;
-  first: {
+  markdown: string;
+  meta: IMarkdownMetaData;
+  slug: string;
+  summary: {
     heading?: string;
     imageSlug?: string;
     paragraph?: string;
   };
-  markdown: string;
-  meta: IMarkdownMetaData;
-  slug: string;
 }
 
 interface IListRendererProps {

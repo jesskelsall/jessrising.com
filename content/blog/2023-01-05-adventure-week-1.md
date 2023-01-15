@@ -44,7 +44,7 @@ Riverside Park has a section of fenced off areas filled with interesting structu
 
 We happened upon a family approaching a lone pine tree, getting a closer look at dozens of Christmas baubles hanging from its branches. It is unclear for what reason they were put there - was this a concerted effort, or an ad-hoc crowdfunded decoration where visitors brought their own after seeing the initial spark of creativity? At any rate, a whimsical sight to remind us of the season.
 
-<img src="../../public/photos/chester-park-2.jpeg" />
+<img src="../../public/photos/chester-park-2.jpeg" cover />
 
 So too, the River Wear itself. After heavy rainfall over the last few days, it had burst its banks and flooded the path running directly alongside it which was to be our return route from the park's opposite end. Fast flowing water rushed past as ducks and swans battled with the currents.
 

@@ -99,7 +99,7 @@ The woods here are ancient sanctuaries for a large proportion of the UK's endang
 
 Eventually Loch Mallachie came into view, initially as a sliver of blue between the trees. Immediately an unforgettable vista opened before us - a small *eilean* on the far side of the loch, bathed in perpetual winter [golden hour](https://en.wikipedia.org/wiki/Golden_hour_(photography)) light, with the woods and snowy mountains beyond. Here the water is icy still, and we infrequently passed other afternoon walkers. It was as if we had the place to ourselves. Further round, the same island with the sun behind it, the last of the winter sun soon departing.
 
-<img src="../../public/photos/loch-mallachie-1.jpeg" />
+<img src="../../public/photos/loch-mallachie-1.jpeg" cover />
 <img src="../../public/photos/loch-mallachie-2.jpeg" />
 
 Loch Garten itself provided much of the same allure, just on a grander scale. By the time we arrived the muted tones of the setting sun were truly upon us.

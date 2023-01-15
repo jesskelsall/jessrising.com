@@ -8,12 +8,12 @@ interface IBlogPreviewProps {
 }
 
 export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
-  const { date, first, slug } = blogPost;
+  const { date, slug, summary } = blogPost;
 
   return (
     <>
       <h2>
-        <Link href={`/blog/p/${slug}`}>{first.heading}</Link>
+        <Link href={`/blog/p/${slug}`}>{summary.heading}</Link>
       </h2>
       <p>
         {date && (
@@ -22,7 +22,7 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
             <br />
           </>
         )}
-        {first.paragraph}
+        {summary.paragraph}
       </p>
     </>
   );
