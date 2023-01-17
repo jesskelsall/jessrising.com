@@ -59,11 +59,11 @@ const GalleryPhotoPage: NextPage<IProps> = ({
   allGalleryPhotos,
   galleryPhoto,
 }) => {
-  const { first, meta, slug } = galleryPhoto;
+  const { meta, slug, summary } = galleryPhoto;
 
   const photo: IEXIF = meta.photo || {};
   const location = meta.locations ? meta.locations.join(", ") : undefined;
-  const title = asPageTitle(first.heading);
+  const title = asPageTitle(summary.heading);
 
   return (
     <>
@@ -74,7 +74,7 @@ const GalleryPhotoPage: NextPage<IProps> = ({
           description={location}
           imageSlug={slug}
           urlPath={`gallery/p/${slug}`}
-          title={first.heading}
+          title={summary.heading}
         />
       </Head>
       <GalleryPhotosContext.Provider value={allGalleryPhotos}>

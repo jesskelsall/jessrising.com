@@ -7,11 +7,11 @@ interface IBlogLinkProps {
 }
 
 export const BlogLink = ({ blogPost }: IBlogLinkProps) => {
-  const { date, first, slug } = blogPost;
+  const { date, slug, summary } = blogPost;
 
   return (
     <li>
-      <Link href={`/blog/p/${slug}`}>{first.heading || slug}</Link>
+      <Link href={`/blog/p/${slug}`}>{summary.heading || slug}</Link>
       {date && (
         <>
           {SEPARATOR}
