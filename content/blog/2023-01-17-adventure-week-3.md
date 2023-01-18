@@ -6,7 +6,7 @@ My first hike of the year takes me to the Yorkshire Dales for an explore of Ribb
 
 ## Ey Up, Yorkshire Dales!
 
-With a four hour hiking circular planned and limited winter daylight, the day started early. In the car at 06:15 for a 08:30 start, the journey down the A1(M) to Catterick was entirely in the dark. Only once past [ITC Catterick](https://en.wikipedia.org/wiki/Infantry_Training_Centre_(British_Army)) and into the [Yorkshire Dales](https://www.yorkshiredales.org.uk/) did the early morning light begin to show itself.
+With a four-hour hiking circular planned and limited winter daylight, the day started early. In the car at 06:15 for a 08:30 start, the journey down the A1(M) to Catterick was entirely in the dark. Only once past [ITC Catterick](https://en.wikipedia.org/wiki/Infantry_Training_Centre_(British_Army)) and into the [Yorkshire Dales](https://www.yorkshiredales.org.uk/) did the early morning light begin to show itself.
 
 Streaks of white across the hilltops were a welcome surprise - snow, not forecast, graced the dales and added further intrigue to a day of exploration. As I drove the meandering valleys in search of my starting point before Ribblehead, the hills grew whiter and more prominent.
 
@@ -34,13 +34,13 @@ The path led me up along the rail line, revealing long since disused [semaphore 
 
 <img src="../../public/photos/settle-carlisle-railway-1.jpeg" />
 
-Beyond here, the path began losing its battle against nature. Two separate streams rushed down a nearby hill and across the stones, eroding much of the path and forcing a choice between teetering across slippy stones or hopping a narrower section of flow - the latter my preferred option. The second stream, completely engulfing the path, forced its maintainers to build a diversion and bridge to circumvent it. Benefits of the national park catering to the needs of [Yorkshire Three Peaks](https://www.yorkshiredales.org.uk/things-to-do/get-outdoors/yorkshire-three-peaks/) hikers, even inadvertent ones such as myself.
+Beyond here, the path began losing its battle against nature. Two separate streams rushed down a nearby hill and across the stones, eroding much of the path and forcing a choice between teetering across slippery stones or hopping a narrower section of flow - the latter my preferred option. The second stream, completely engulfing the path, forced its maintainers to build a diversion and bridge to circumvent it. Benefits of the national park catering to the needs of [Yorkshire Three Peaks](https://www.yorkshiredales.org.uk/things-to-do/get-outdoors/yorkshire-three-peaks/) hikers, even inadvertent ones such as myself.
 
 <img src="../../public/photos/settle-carlisle-railway-2.jpeg" />
 
 At this stream I hopped across to the left and ascended a faint trail towards a bridge over the line. This grass-covered span looked barely traversed and perplexingly led nowhere, only a descent to another stream beyond it. No matter, I was here for the view.
 
-To the north, Blea Moor tunnel, seen under the next bridge on my route. To the south, the curve by Blea Moor signal box, and still unfulfilled promises of Ingleborough. From the opposite end of the bridge I found a promising spot looking south; no obstructions, good elevation, compelling enough scenery, and a sense of this strip of metal blasted through the countryside. Its only detraction: garish metal boxes and signalling. 
+To the north, Blea Moor tunnel, seen under the next bridge on my route. To the south, the curve by Blea Moor signal box, and still unfulfilled promises of Ingleborough. From the opposite end of the bridge, I found a promising spot looking south; no obstructions, good elevation, compelling enough scenery, and a sense of this strip of metal blasted through the countryside. Its only detraction: garish metal boxes and signalling. 
 
 <img src="../../public/photos/settle-carlisle-railway-3.jpeg" alt="The Settle-Carlisle railway line curves away to the left. On its far side, Blea Moor signal box. The Yorkshire Moors to both sides, and thick cloud on the horizon." />
 
@@ -48,11 +48,11 @@ I pressed on, now confident of my destination. I could see the tunnel portal and
 
 The next section proved to be the most troublesome of the entire hike. More hill water rushed across the trail, this time wide and boggy. The choices were: get wet and be direct, hunt for firm footing around the mud, or bypass on the hillside. I chose the mud and immediately regretted it as both feet slurped into it in quick succession, my socks above the ankle turning cold with moisture. Not hesitating I quickly got out, lamenting my choice as another hiker bypassed me above. It was hard not to feel out of practice, but every step is a learning experience, and the mud would soon fade. An investment in good hiking socks would keep the water at bay.
 
-Before the bridge I watched the water flow between stone brick walls and across multiple choreographed weirs, navigating the S-bend gently and ordely. Moments later it struck me, looking backwards down the train line, that I had just witnessed an aqueduct. The stream here was intentionally diverted across a bridge to keep it from the rail line and allow it to proceed down the valley unhindered.
+Before the bridge I watched the water flow between stone brick walls and across multiple choreographed weirs, navigating the S-bend gently and orderly. Moments later it struck me, looking backwards down the train line, that I had just witnessed an aqueduct. The stream here was intentionally diverted across a bridge to keep it from the rail line and allow it to proceed down the valley unhindered.
 
 <img src="../../public/photos/settle-carlisle-railway-4.jpeg" />
 
-All that remained to my north was the final stretch of line before the tunnel. Here a box of stone brick wall encicles the cutting. Proceeding around to its rear behind the tunnel, I was soon dismayed to find no clear vantage point on the line and bridge below. Where had this photographer stood that winter's day? Without having downloaded their photo to my phone, I pondered idly. Was there an angle I was missing? Had they hopped the wall? Was their telephoto lens distorting my perception of this place?
+All that remained to my north was the final stretch of line before the tunnel. Here a box of stone brick wall encircles the cutting. Proceeding around to its rear behind the tunnel, I was soon dismayed to find no clear vantage point on the line and bridge below. Where had this photographer stood that winter's day? Without having downloaded their photo to my phone, I pondered idly. Was there an angle I was missing? Had they hopped the wall? Was their telephoto lens distorting my perception of this place?
 
 I paced back and forth, looking for a gap in the wall, but there was none. Extra metal wire fencing had been affixed to the brickwork in recent times which deterred a climb, rightfully so considering the potential to tumble onto a live train line, even despite the smaller fence below. The dirt mound directly above the tunnel blocked the view I sought. There was only a small window where this hill subsided, though the angle was too oblique to match perfectly.
 
@@ -64,13 +64,13 @@ I had completed my mission: to find at least one spot from which I could take a 
 
 ## Upwards to Whernside
 
-Returning back to the aqueduct, the path started to lead me along the Dales High Way. Here I saw the first typical hiking ascent of flagstone stairs and meandering routes, though it was hesitant to commit to a meaningful climb just yet. Underfoot I tread my first snow of the day.
+Returning to the aqueduct, the path started to lead me along the Dales High Way. Here I saw the first typical hiking ascent of flagstone stairs and meandering routes, though it was hesitant to commit to a meaningful climb just yet. Underfoot I tread my first snow of the day.
 
-In the distance, a cascade of Force Gill thundered. Even my thorough research into my destinations hadn't spotted a waterfall of this significance, so hearing and then seeing it in all of its rainwater-charged beauty was a sight to behold. No closer view would be had as the path would ascend away from its gulley.
+In the distance, a cascade of Force Gill thundered. Even my thorough research into my destinations hadn't spotted a waterfall of this significance, so hearing and then seeing it in all its rainwater-charged beauty was a sight to behold. No closer view would be had as the path would ascend away from its gulley.
 
 <img src="../../public/photos/whernside-1.jpeg" />
 
-The Dales High Way rose up the hillside, straight and consistent - just the sort of path to awaken slumbering thigh muscles, dormant after six months away from hiking. The relentless ascent here begged for periodic stops, which I initially obliged, before I began motivating myself by promising a rest at the next arbitrary milestone.
+The Dales High Way rose the hillside, straight and consistent - just the sort of path to awaken slumbering thigh muscles, dormant after six months away from hiking. The relentless ascent here begged for periodic stops, which I initially obliged, before I began motivating myself by promising a rest at the next arbitrary milestone.
 
 A stile and signpost pointed me across a diagonal shortcut. Here the path gained character, undulating its way up the hill, increasingly snow-covered. Looking backwards continued to unfold the landscape, views of the rail line replaced by rolling moors and low cloud cover. The sun hung low behind me, though it was tamed by an anti-glare camera filter.
 
@@ -90,9 +90,9 @@ With the sun in the upper clouds, a view across the tarn below Whernside begged 
 
 ## A Snowy Summit
 
-Eventually the route reached Whernside itself - a two-kilometre long ridge overlooking Blea Moor and Ribblehead. On this side the slope is at its steepest, and the path was about to walk its crest like a tightrope.
+Eventually the route reached Whernside itself - a two-kilometre-long ridge overlooking Blea Moor and Ribblehead. On this side the slope is at its steepest, and the path was about to walk its crest like a tightrope.
 
-Slushy stream-saturated trails gave way to crunchy snow as grip returned to my shoes. To my right, a fast approaching stone wall and fance, demarcating one side of the ridge from the other, covered in glistening snow. To my left, precious few foot-widths of safety followed by an increasingly dangerous slope - serious injury awaiting anyone tumbling this way.
+Slushy stream-saturated trails gave way to crunchy snow as grip returned to my shoes. To my right, a fast-approaching stone wall and fence, demarcating one side of the ridge from the other, covered in glistening snow. To my left, precious few foot-widths of safety followed by an increasingly dangerous slope - serious injury awaiting anyone tumbling this way.
 
 The cloud layer grew closer as the wind blew across the summit. Finally, I felt lofty heights.
 
@@ -104,7 +104,7 @@ To the north-west: views across the green valley of Dentdale. Standing proudly b
 
 <img src="../../public/photos/whernside-6.jpeg" />
 
-To the north-east: views fully opened up across Dent Fell. Emerging from the other side of Blea Moor tunnel, the Settle-Carlisle line could be seen crossing (right-to-left) [Dent Head](https://en.wikipedia.org/wiki/Dent_Head_Viaduct) and [Arten Gill](https://en.wikipedia.org/wiki/Arten_Gill_Viaduct) viaducts, with Great Knoutberry hill towering over the latter.
+To the north-east: views fully opened across Dent Fell. Emerging from the other side of Blea Moor tunnel, the Settle-Carlisle line could be seen crossing (right-to-left) [Dent Head](https://en.wikipedia.org/wiki/Dent_Head_Viaduct) and [Arten Gill](https://en.wikipedia.org/wiki/Arten_Gill_Viaduct) viaducts, with Great Knoutberry hill towering over the latter.
 
 <img src="../../public/photos/whernside-7.jpeg" />
 
@@ -114,11 +114,11 @@ As I proceeded, drifting snow lined the path and walls, accumulating to six inch
 
 <img src="../../public/photos/whernside-8.jpeg" />
 
-The summit itself was a muted affair. No large cairn of stones greeted me. In fact the first sign of completion was a crowd of fellow hikers taking well-earned breaks. Between the wall a stile formed of two stones provided access to the [trig point](https://en.wikipedia.org/wiki/Triangulation_station#United_Kingdom), the *official* summit. A quick touch of skin to the metal plate affixed to the concrete sealed the deal.
+The summit itself was a muted affair. No large cairn of stones greeted me. In fact, the first sign of completion was a crowd of fellow hikers taking well-earned breaks. Between the wall a stile formed of two stones provided access to the [trig point](https://en.wikipedia.org/wiki/Triangulation_station#United_Kingdom), the *official* summit. A quick touch of skin to the metal plate affixed to the concrete sealed the deal.
 
-Here, much like on the ascent, hikers are a friendly community, united by a shared love for their pursuit and the challenge before them. My leisurely pace meant other hikers passed me with regularity. Camraderie was typically present, along with small talk, though not much more as everyone was driven to continue. At the summit this need abated, even if temporarily.
+Here, much like on the ascent, hikers are a friendly community, united by a shared love for their pursuit and the challenge before them. My leisurely pace meant other hikers passed me with regularity. Camaraderie was typically present, along with small talk, though not much more as everyone was driven to continue. At the summit this need abated, even if temporarily.
 
-The wall here is intentionally curved on both sides with slate slabs jutting out from the bottom to form makeshift seats. In these crevices hikers sat, enjoying their warm flasked drinks and packed lunches. I asked if I could join one group and was welcomed immediately. Conversation was cheery and light, talking mostly of the conditions, home towns, further destinations and hiking aspirations. A lengthy debate started when I produced sausage rolls for my lunch: sausage rolls or scotch eggs - which made the better hiking food?
+The wall here is intentionally curved on both sides with slate slabs jutting out from the bottom to form makeshift seats. In these crevices hikers sat, enjoying their warm flasked drinks and packed lunches. I asked if I could join one group and was welcomed immediately. Conversation was cheery and light, talking mostly of the conditions, hometowns, further destinations and hiking aspirations. A lengthy debate started when I produced sausage rolls for my lunch: sausage rolls or scotch eggs - which made the better hiking food?
 
 Couples, friends, and families came and went quickly, keen to press on to nearby Ingleborough or other destinations. I chose to remain for some time, my only remaining goal to complete my circular route back to my car. Another couple joined me with two dogs. Then two more. A man in his fifties with a strong Yorkshire accent offered me whisky from his flask. I eagerly obliged a polite sip.
 
@@ -128,7 +128,7 @@ Upon standing to begin my descent, I looked over the edge and witnessed Ribblehe
 
 ## Descent and Return
 
-The deed done, it was time to descend the other side of Whernside. Not armed with experience or local knowledge, I'd inadvertently summited "the correct way around" - my descent would be much steeper, a much easier task with the aid of gravity.
+The deed done; it was time to descend the other side of Whernside. Not armed with experience or local knowledge, I'd inadvertently summited "the correct way around" - my descent would be much steeper, a much easier task with the aid of gravity.
 
 As the gently descending path along the ridge became a staircase of uneven rocks, I stopped to watch a Northern train cross Ribblehead Viaduct heading north. I was lucky to catch it at this distance - a silver strip glinting in the sun.
 
@@ -144,11 +144,11 @@ By the time I had reached the next gate and crossed into a field full of colourf
 
 <img src="../../public/photos/whernside-11.jpeg" />
 
-At the next gate I committed to my choice to follow a public right of way north-east. First I would enter directly into a grazing field for sheep. From the gate I watched five sheep eat hay with nary a care in the world, not even my nearby presence. I entered their home with trepidation.
+At the next gate I committed to my choice to follow a public right of way north-east. First, I would enter directly into a grazing field for sheep. From the gate I watched five sheep eat hay with nary a care in the world, not even my nearby presence. I entered their home with trepidation.
 
 <img src="../../public/photos/whernside-12.jpeg" />
 
-Here I was directly confronted with the juxtaposition between ancient rights of way, paths providing egalitarian access to the natural countryside and all of its bounties, with stone walls penning in livestock on private land. Both systems exist on top one another, sometimes begrudgingly. I followed the instructions laid out on the gate: single file along the gravel track. A farmer's effort to limit damage to the pasture and allow the sheep undistubed places. Quite a fair compromise in my opinion. I trekked through the path's mud puddles obediently.
+Here I was directly confronted with the juxtaposition between ancient rights of way, paths providing egalitarian access to the natural countryside and all its bounties, with stone walls penning in livestock on private land. Both systems exist on top one another, sometimes begrudgingly. I followed the instructions laid out on the gate: single file along the gravel track. A farmer's effort to limit damage to the pasture and allow the sheep undisturbed places. Quite a fair compromise in my opinion. I trekked through the path's mud puddles obediently.
 
 At the field's end lay several houses, one converted into a weaver's studio. A sign affixed to a tree advertised the course for the high season. Here in January, tourism is seemingly sparse and not worth sitting around waiting for.
 
@@ -160,13 +160,13 @@ The hiker behind me was quick to inform that this waterfall is rarely present, a
 
 We chatted for a time. Mentioning living near Newcastle-upon-Tyne, he regaled me a tale of a recent weekend spent in the city, in search of new scenery and a quiet weekend away from his native Yorkshire. I asked about the neighbouring fells. By this point I was set on returning for the other two of the Yorkshire Three Peaks.
 
-For the next while the return walk was much the same, though excitingly the right of way passed directly through two farm yards. My fellow hikers and I contemplated the best route back to Ribblehead Viaduct, the signposts only getting us in the right direction. Many a muddy field of sheep needed to be crossed, with the following stile hard to pinpoint over undulating hills. Eventually an access road was found, followed by the other end of the well-maintained gravel path that I started my hike on.
+For the next while the return walk was much the same, though excitingly the right of way passed directly through two farmyards. My fellow hikers and I contemplated the best route back to Ribblehead Viaduct, the signposts only getting us in the right direction. Many a muddy field of sheep needed to be crossed, with the following stile hard to pinpoint over undulating hills. Eventually an access road was found, followed by the other end of the well-maintained gravel path that I started my hike on.
 
 <img src="../../public/photos/whernside-14.jpeg" />
 
 ## Ribblehead Viaduct Up Close
 
-The path snaked closer to the viaduct. By this point the 14:25 sunset illuminated the brickwork on this side, revealing every imperfection, every affixed metal plate, every leaky drain pipe.
+The path snaked closer to the viaduct. By this point the 14:25 sunset illuminated the brickwork on this side, revealing every imperfection, every affixed metal plate, every leaky drainpipe.
 
 <img src="../../public/photos/ribblehead-viaduct-3.jpeg" cover />
 
@@ -179,9 +179,9 @@ Even from here, the beauty of this structure on the moors is apparent. From the 
 
 ## Conclusion
 
-It was a remarkable pleasure to spend some quality time visiting the Yorkshire Dales, a place I have a newfound fondness for that will need satisfying again soon. Fortunately trainspotting will have me back the next two weekends!
+It was a remarkable pleasure to spend some quality time visiting the Yorkshire Dales, a place I have a newfound fondness for that will need satisfying again soon. Fortunately, trainspotting will have me back the next two weekends!
 
-Hiking in such clear winter surroundings proved equally enjoyable, and the statistics of the hike will spur me to ascend to loftier heights in preparation for truly ambitious summits on my monthly aventures - in particular the peaks of [South Uist](https://en.wikipedia.org/wiki/South_Uist).
+Hiking in such clear winter surroundings proved equally enjoyable, and the statistics of the hike will spur me to ascend to loftier heights in preparation for truly ambitious summits on my monthly adventures - in particular the peaks of [South Uist](https://en.wikipedia.org/wiki/South_Uist).
 
 - **Distance:** 13.15 km / 8.17 mi
 - **Max elevation:** 736 m / 2,414 ft
