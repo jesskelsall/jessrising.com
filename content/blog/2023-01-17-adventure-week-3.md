@@ -6,7 +6,7 @@ My first hike of the year takes me to the Yorkshire Dales for an explore of Ribb
 
 ## Ey Up, Yorkshire Dales!
 
-With a four-hour hiking circular planned and limited winter daylight, the day started early. In the car at 06:15 for a 08:30 start, the journey down the A1(M) to Catterick was entirely in the dark. Only once past [ITC Catterick](https://en.wikipedia.org/wiki/Infantry_Training_Centre_(British_Army)) and into the [Yorkshire Dales](https://www.yorkshiredales.org.uk/) did the early morning light begin to show itself.
+With a four-hour hiking circular planned and limited winter daylight, the day started early. In the car at 06:15 for a 08:30 start, the journey down the A1(M) to Catterick was entirely in the dark. Only once past [ITC Catterick](https://en.wikipedia.org/wiki/Infantry_Training_Centre_%28British_Army%29) and into the [Yorkshire Dales](https://www.yorkshiredales.org.uk/) did the early morning light begin to show itself.
 
 Streaks of white across the hilltops were a welcome surprise - snow, not forecast, graced the dales and added further intrigue to a day of exploration. As I drove the meandering valleys in search of my starting point before Ribblehead, the hills grew whiter and more prominent.
 
@@ -18,7 +18,7 @@ Parking up in the gravel lay-by, I was car number three that morning, and nowher
 
 <img src="../../public/photos/ribblehead-viaduct-1.jpeg" alt="A gravel path winding through the moors. On the horizon, morning orange sunlight illuminates upper clouds from behind lower ones." />
 
-The path brought me past the impressive spans, constructed in the late nineteenth century to meet growing demands for rail services in north-west England. 2,300 men were charged with constructing it. Over 200 died in the process. A large metal plaque before the viaduct pays tribute to their efforts, though the structure's lasting presence and use does them better justice.
+The path brought me past the impressive spans, constructed in the late nineteenth century to meet growing demands for rail services in north-west England. 2,300 men were charged with constructing it. Over 200 died in the process. A large metal plaque before the viaduct pays tribute to their efforts, though the structure's lasting presence and use does them better tribute.
 
 It is hard not to be awestruck by a viaduct this long, seemingly in the middle of nowhere. Finding an angle from which to photograph the full bridge, contextually seated within the moors, proved challenging, even after treading *off-piste* to ascend a nearby hill. Compounding the issue, snow-kissed [Ingleborough](https://en.wikipedia.org/wiki/Ingleborough) hid in the clouds beyond.
 
@@ -100,7 +100,7 @@ The cloud layer grew closer as the wind blew across the summit. Finally, I felt 
 
 One benefit of such a ridge is that the ascent levels off towards the summit. The hard work was behind me. It was now time to drink in the scenery and beauty of this ice-blessed day. With the ridge reached, I was finally afforded views of its other side.
 
-To the north-west: views across the green valley of Dentdale. Standing proudly behind, the [Howgill Fells](https://en.wikipedia.org/wiki/Howgill_Fells). Further back yet, the eastern Lake District's fells. Fresh winter air and the slow sun behind made such views across 26 miles possible.
+To the north-west: views across the green valley of Dentdale. Standing proudly behind, the [Howgill Fells](https://en.wikipedia.org/wiki/Howgill_Fells). Further back yet, the eastern Lake District's fells. Fresh winter air and the low sun behind made such views across 26 miles possible.
 
 <img src="../../public/photos/whernside-6.jpeg" />
 
