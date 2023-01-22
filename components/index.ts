@@ -4,6 +4,7 @@ export * from "./BlogLink";
 export * from "./BlogPost";
 export * from "./BlogPreview";
 export * from "./BlogRelatedPosts";
+export * from "./BlogYouTubeVideo";
 export * from "./GalleryGrid";
 export * from "./GalleryHeading";
 export * from "./GalleryPhoto";
