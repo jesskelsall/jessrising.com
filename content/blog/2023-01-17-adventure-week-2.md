@@ -1,4 +1,4 @@
-# Adventure Week 3: Ribblehead Viaduct and Whernside
+# Adventure Week 2: Ribblehead Viaduct and Whernside
 
 - Tags: Adventures 2023, Train
 

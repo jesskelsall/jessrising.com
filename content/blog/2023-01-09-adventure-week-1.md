@@ -1,4 +1,4 @@
-# Adventure Week 2: Caingorms and Loch Rannoch
+# Adventure Week 1: Caingorms and Loch Rannoch
 
 - Tags: Adventures 2023, Holidays 2023
 

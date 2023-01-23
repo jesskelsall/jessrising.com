@@ -1,4 +1,4 @@
-# Adventure Week 1: Riverside Park, Chester-le-Street
+# Adventure Week 0: Riverside Park, Chester-le-Street
 
 - Tags: Adventures 2023
 

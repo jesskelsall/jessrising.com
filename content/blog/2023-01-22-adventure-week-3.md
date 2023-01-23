@@ -1,10 +1,10 @@
-# Adventure Week 4: Steam at Blea Moor
+# Adventure Week 3: Steam at Blea Moor
 
 Following a successful foray last week to Ribblehead Viaduct and the Settle-Carlisle line, I returned to capture a steam locomotive traversing the snowy Yorkshire Dales.
 
 ## Double Dipping
 
-First off, let's address the elephant-in-the-room: yes, I'm effectively repeating a location, and [claiming it as an adventure for the week](./2023-01-04-committing-to-adventures-in-2023). Now, the excuses: I named [Ribblehead Viaduct and Whernside](./2023-01-17-adventure-week-3), not Blea Moor, which is part of the surrounding area, but really, we're talking about the Blea Moor signal box. Secondly, part of last week's goal was to scout out a location for this very photo shoot, so this isn't a cop-out.
+First off, let's address the elephant-in-the-room: yes, I'm effectively repeating a location, and [claiming it as an adventure for the week](./2023-01-04-committing-to-adventures-in-2023). Now, the excuses: I named [Ribblehead Viaduct and Whernside](./2023-01-17-adventure-week-2), not Blea Moor, which is part of the surrounding area, but really, we're talking about the Blea Moor signal box. Secondly, part of last week's goal was to scout out a location for this very photo shoot, so this isn't a cop-out.
 
 With that out of the way, let's begin!
 
