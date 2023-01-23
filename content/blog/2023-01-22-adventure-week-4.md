@@ -26,7 +26,7 @@ Arriving at the bridge I said hello to two already waiting trainspotters, hopped
 
 I could not have asked for better conditions. A mostly blue-sky day, only small puffs of cloud and strands gathering on Ingleborough to spoil the low winter light. Snow was more abundant than last week, some between the rails below, and considerably more lining the distant valley and hills. I was excited!
 
-<img src="../../public/photos/steam-blea-moor-1.jpeg" alt="Multiple train lines stretch below, turning a gentle corner to the left. To their left, an old signal box and nearby dilapidated house. In the background, rolling snow-kissed hills and Ingleborough, a tall snow-covered hill. Clouds cling to its summit." cover />
+<img src="../../public/photos/blea-moor-signal-box.jpeg" alt="Multiple train lines stretch below, turning a gentle corner to the left. To their left, an old signal box and nearby dilapidated house. In the background, rolling snow-kissed hills and Ingleborough, a tall snow-covered hill. Clouds cling to its summit." cover />
 
 ## Trainspotters
 
