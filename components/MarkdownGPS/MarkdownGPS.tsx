@@ -7,7 +7,11 @@ interface IMarkdownGPSProps {
 
 export const MarkdownGPS = ({ gps }: IMarkdownGPSProps) => (
   <li>
-    <Link href={`https://google.com/maps/search/${gps.lat},${gps.long}`}>
+    <Link
+      href={`https://google.com/maps/search/${gps.lat},${gps.long}`}
+      target="_blank"
+      rel="noopener"
+    >
       GPS Location
     </Link>
   </li>
