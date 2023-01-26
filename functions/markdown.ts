@@ -98,7 +98,9 @@ export const parseMarkdownMeta = (
         }
         break;
       case "Location":
-        meta.locations = entry[1].split(", ");
+        meta.locations = entry[1]
+          .split(", ")
+          .map((locationGroup) => locationGroup.split(" / "));
         break;
       case "Tags":
         meta.tags = entry[1].split(",");
