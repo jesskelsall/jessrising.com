@@ -23,7 +23,7 @@ export const getStaticPaths: GetStaticPaths<IParams> = async () => {
   const galleryPhotos = await getAllGalleryPhotos();
   const locations = uniq(
     galleryPhotos
-      .map((photo) => (photo.meta.locations || []).map(kebabCase))
+      .map((photo) => (photo.meta.locations || []).flat().map(kebabCase))
       .flat()
   );
 
@@ -45,8 +45,10 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   // Prepare page-specific props
   const displayGalleryPhotos = applyFilterQueries<IMarkdownData>(
     allGalleryPhotos,
-    [[location], (photo) => photo.meta.locations || []]
-  ).sort(sortGalleryPhotosByDate);
+    [[location], (photo) => photo.meta.locations?.flat() || []]
+  )
+    .sort(sortGalleryPhotosByDate)
+    .reverse();
 
   return {
     props: {

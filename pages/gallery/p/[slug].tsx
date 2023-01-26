@@ -62,7 +62,11 @@ const GalleryPhotoPage: NextPage<IProps> = ({
   const { meta, slug, summary } = galleryPhoto;
 
   const photo: IEXIF = meta.photo || {};
-  const location = meta.locations ? meta.locations.join(", ") : undefined;
+  const location = meta.locations
+    ? meta.locations
+        .map((locationGroup) => locationGroup.join(" / "))
+        .join(", ")
+    : undefined;
   const title = asPageTitle(summary.heading);
 
   return (

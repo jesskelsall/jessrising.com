@@ -10,7 +10,9 @@ interface IProps {
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
   const galleryPhotos = await getAllGalleryPhotos();
-  const displayGalleryPhotos = galleryPhotos.sort(sortGalleryPhotosByDate);
+  const displayGalleryPhotos = galleryPhotos
+    .sort(sortGalleryPhotosByDate)
+    .reverse();
 
   return {
     props: {
