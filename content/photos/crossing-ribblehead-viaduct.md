@@ -2,7 +2,7 @@
 
 - GPS: 54.20970555555556,-2.3670222222222224
 - Location: Ribblehead Viaduct, Yorkshire Dales, England, United Kingdom
-- Tags: Landscape, Snow, Train
+- Tags: Landscape, Snow, Rail
 
 A [Northern Trains](https://en.wikipedia.org/wiki/Northern_Trains) British Rail Class 158 *Express Sprinter* crosses Ribblehead Viaduct heading north. In the background, snow-covered Whernside can be seen through light cumulus clouds.
 

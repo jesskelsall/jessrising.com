@@ -1,6 +1,6 @@
 # Adventure Week 2: Ribblehead Viaduct and Whernside
 
-- Tags: Adventures 2023, Train
+- Tags: Adventures 2023, Rail
 
 My first hike of the year takes me to the Yorkshire Dales for an explore of Ribblehead Viaduct and Whernside overlooking it, wrapped in unexpected overnight snow.
 
@@ -32,7 +32,7 @@ Recently I had resolved to find the location of the photo used on the web page f
 
 The path led me up along the rail line, revealing long since disused [semaphore signals](https://en.wikipedia.org/wiki/Railway_semaphore_signal), and eventually, a signal box. Surprisingly the box was still in use by National Rail - a worker sat in the elevated box conducting his work. A reminder that the line still sees [daily services](https://settle-carlisle.co.uk/tickets-times-travel/timetables/leeds-settle-carlisle-timetable/) operated by Northern.
 
-<img src="../../public/photos/settle-carlisle-railway-1.jpeg" />
+<img src="../../public/photos/blea-moor-signal-box.jpeg" />
 
 Beyond here, the path began losing its battle against nature. Two separate streams rushed down a nearby hill and across the stones, eroding much of the path and forcing a choice between teetering across slippery stones or hopping a narrower section of flow - the latter my preferred option. The second stream, completely engulfing the path, forced its maintainers to build a diversion and bridge to circumvent it. Benefits of the national park catering to the needs of [Yorkshire Three Peaks](https://www.yorkshiredales.org.uk/things-to-do/get-outdoors/yorkshire-three-peaks/) hikers, even inadvertent ones such as myself.
 
@@ -56,7 +56,7 @@ All that remained to my north was the final stretch of line before the tunnel. H
 
 I paced back and forth, looking for a gap in the wall, but there was none. Extra metal wire fencing had been affixed to the brickwork in recent times which deterred a climb, rightfully so considering the potential to tumble onto a live train line, even despite the smaller fence below. The dirt mound directly above the tunnel blocked the view I sought. There was only a small window where this hill subsided, though the angle was too oblique to match perfectly.
 
-<img src="../../public/photos/settle-carlisle-railway-5.jpeg" />
+<img src="../../public/photos/above-blea-moor-tunnel.jpeg" />
 
 Perhaps I was fixating too much. Either way, I concluded that this view wouldn't work for me, and that is okay. Emulating others' photographs like-for-like is no realistic pursuit, and it is more interesting to find my own angle, my own view, my own commentary.
 
@@ -74,7 +74,7 @@ The Dales High Way rose the hillside, straight and consistent - just the sort of
 
 A stile and signpost pointed me across a diagonal shortcut. Here the path gained character, undulating its way up the hill, increasingly snow-covered. Looking backwards continued to unfold the landscape, views of the rail line replaced by rolling moors and low cloud cover. The sun hung low behind me, though it was tamed by an anti-glare camera filter.
 
-<img src="../../public/photos/whernside-2.jpeg" />
+<img src="../../public/photos/ascending-the-wintry-dales.jpeg" />
 
 At this point I was curious where exactly I was headed. Like Ingleborough, Whernside started its day with its head in the clouds, making it hard to get a read on my destination. A smaller ridge (Greensett Craggs) below appeared a fair summit, though my exercise-addled brain could not then reconcile the taller snowier peak behind it. Cross-referencing my map allowed the penny to drop, right as the clouds began to depart and the ascent path was revealed.
 
@@ -86,7 +86,7 @@ After the route levelled out onto Greensett Moss, it was back upwards again. Vie
 
 With the sun in the upper clouds, a view across the tarn below Whernside begged to be captured. To its side, shake holes in the limestone appeared as if craters on the surface of the moon.
 
-<img src="../../public/photos/whernside-4.jpeg" />
+<img src="../../public/photos/sun-and-tarn.jpeg" />
 
 ## A Snowy Summit
 
@@ -168,14 +168,14 @@ For the next while the return walk was much the same, though excitingly the righ
 
 The path snaked closer to the viaduct. By this point the 14:25 sunset illuminated the brickwork on this side, revealing every imperfection, every affixed metal plate, every leaky drainpipe.
 
-<img src="../../public/photos/ribblehead-viaduct-3.jpeg" cover />
+<img src="../../public/photos/ribblehead-viaduct.jpeg" cover />
 
 From up close the notion of a cookie-cutter repeating design falters. That is not to say the design is sloppy, but details such as the spans grouped in sixes and the differing brickwork become apparent.
 
 Even from here, the beauty of this structure on the moors is apparent. From the angle of approach, nothing but grass and sky can be seen through its arching spans. It appears as if anchored in a sea of grass, swelling all around it.
 
-<img src="../../public/photos/ribblehead-viaduct-4.jpeg" />
-<img src="../../public/photos/ribblehead-viaduct-5.jpeg" />
+<img src="../../public/photos/spans-of-ribblehead-1.jpeg" />
+<img src="../../public/photos/spans-of-ribblehead-2.jpeg" />
 
 ## Conclusion
 

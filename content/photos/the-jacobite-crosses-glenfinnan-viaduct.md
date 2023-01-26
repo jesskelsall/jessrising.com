@@ -2,7 +2,7 @@
 
 - GPS: 56.87587222222222,-5.435075
 - Location: Glenfinnan, Scotland, United Kingdom
-- Tags: Landscape, Train
+- Tags: Landscape, Viaduct, Rail, Steam
 
 A steam train called [The Jacobite](https://westcoastrailways.co.uk/jacobite/steam-train-trip) pulling carriages crosses the Glenfinnan Viaduct, a crescent shaped stone viaduct set amongst the dramatic hills surrounding the village of Glenfinnan. The steam train is approaching the camera, about to exit the viaduct, while its plume of white steam trails behind it, rising high into the air.
 
