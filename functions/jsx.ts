@@ -1,5 +1,3 @@
-import _ from "lodash/fp";
-
 export const zipBetween = <Element = JSX.Element, Between = string>(
   list: Element[],
   between: Between
