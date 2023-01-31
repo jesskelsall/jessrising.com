@@ -1,6 +1,6 @@
 # Adventure Week 3: Steam at Blea Moor
 
-- Tags: Adventures 2023, Rail
+- Tags: Adventures 2023, Rail, Steam
 
 Following a successful foray last week to Ribblehead Viaduct and the Settle-Carlisle line, I returned to capture a steam locomotive traversing the snowy Yorkshire Dales.
 
