@@ -2,6 +2,8 @@
 
 - Tags: Adventures 2023, Rail, Steam
 
+To close out January, I continued my streak of steam trainspotting, this time at Shap Summit on the West Coast Main Line.
+
 ## Another Saturday, Another Trainspotting
 
 January has blessed me with two back-to-back weekends of trainspotting. Preparation and research have seen me add chartered steam journeys to my calendar that I can reasonably access. Both Saturday 21st and Saturday 28th January would lead me to rolling hills in search of illusive machines of steam.
