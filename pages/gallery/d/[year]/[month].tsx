@@ -1,9 +1,11 @@
 import { DateTime } from "luxon";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
+import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryGrid } from "../../../../components";
 import {
   applyFilterQueries,
+  asPageTitle,
   parseEXIFDate,
   sortGalleryPhotosByDate,
 } from "../../../../functions";
@@ -86,14 +88,18 @@ const GalleryByMonthPage: NextPage<IProps> = ({
   month,
   year,
 }) => {
-  const date = DateTime.fromObject({ year, month, day: 1 }).toFormat(
+  const monthTitle = DateTime.fromObject({ year, month, day: 1 }).toFormat(
     "LLLL yyyy"
   );
+  const title = asPageTitle(`Gallery by Month: ${monthTitle}`);
 
   return (
     <>
+      <Head>
+        <title>{title}</title>
+      </Head>
       <h1>Gallery</h1>
-      <h2>Month: {date}</h2>
+      <h2>Month: {monthTitle}</h2>
       <GalleryGrid galleryPhotos={galleryPhotos} />
     </>
   );

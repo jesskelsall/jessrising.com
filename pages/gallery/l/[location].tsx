@@ -1,9 +1,11 @@
 import { kebabCase, uniq } from "lodash/fp";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
+import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryGrid } from "../../../components";
 import {
   applyFilterQueries,
+  asPageTitle,
   sortGalleryPhotosByDate,
   titleCase,
 } from "../../../functions";
@@ -59,12 +61,20 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 const GalleryByLocationPage: NextPage<IProps> = ({
   galleryPhotos,
   location,
-}) => (
-  <>
-    <h1>Gallery</h1>
-    <h2>Location: {titleCase(location)}</h2>
-    <GalleryGrid galleryPhotos={galleryPhotos} />
-  </>
-);
+}) => {
+  const locationTitle = titleCase(location);
+  const title = asPageTitle(`Gallery by Location: ${locationTitle}`);
+
+  return (
+    <>
+      <Head>
+        <title>{title}</title>
+      </Head>
+      <h1>Gallery</h1>
+      <h2>Location: {locationTitle}</h2>
+      <GalleryGrid galleryPhotos={galleryPhotos} />
+    </>
+  );
+};
 
 export default GalleryByLocationPage;

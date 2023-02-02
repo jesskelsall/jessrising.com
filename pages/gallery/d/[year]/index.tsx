@@ -1,8 +1,10 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
+import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryGrid } from "../../../../components";
 import {
   applyFilterQueries,
+  asPageTitle,
   parseEXIFDate,
   sortGalleryPhotosByDate,
 } from "../../../../functions";
@@ -64,12 +66,18 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   };
 };
 
-const GalleryByYearPage: NextPage<IProps> = ({ galleryPhotos, year }) => (
-  <>
-    <h1>Gallery</h1>
-    <h2>Year: {year}</h2>
-    <GalleryGrid galleryPhotos={galleryPhotos} />
-  </>
-);
+const GalleryByYearPage: NextPage<IProps> = ({ galleryPhotos, year }) => {
+  const title = asPageTitle(`Gallery by Year: ${year}`);
 
+  return (
+    <>
+      <Head>
+        <title>{title}</title>
+      </Head>
+      <h1>Gallery</h1>
+      <h2>Year: {year}</h2>
+      <GalleryGrid galleryPhotos={galleryPhotos} />
+    </>
+  );
+};
 export default GalleryByYearPage;
