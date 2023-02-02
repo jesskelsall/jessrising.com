@@ -15,7 +15,7 @@ export const GalleryHeading = ({
   ...props
 }: IGalleryHeadingProps) => {
   const { meta } = useGalleryPhoto();
-  const date = meta.photo?.date ? parseEXIFDate(meta.photo.date) : null;
+  const date = parseEXIFDate(meta.photo?.date) || null;
 
   return (
     <>

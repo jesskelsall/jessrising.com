@@ -7,14 +7,14 @@ export const sortGalleryPhotosByDate = (
   a: IMarkdownData,
   b: IMarkdownData
 ): number => {
-  if (a.meta.photo?.date === undefined) return 1;
-  if (b.meta.photo?.date === undefined) return -1;
+  const aDate = parseEXIFDate(a.meta.photo?.date);
+  const bDate = parseEXIFDate(b.meta.photo?.date);
 
-  const aDate = parseEXIFDate(a.meta.photo.date);
-  const bDate = parseEXIFDate(b.meta.photo.date);
+  if (!aDate) return -1;
+  if (!bDate) return 1;
 
-  if (aDate > bDate) return 1;
-  if (aDate < bDate) return -1;
+  if (aDate > bDate) return -1;
+  if (aDate < bDate) return 1;
   return 0;
 };
 

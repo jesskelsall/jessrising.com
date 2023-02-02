@@ -46,9 +46,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   const displayGalleryPhotos = applyFilterQueries<IMarkdownData>(
     allGalleryPhotos,
     [[location], (photo) => photo.meta.locations?.flat() || []]
-  )
-    .sort(sortGalleryPhotosByDate)
-    .reverse();
+  ).sort(sortGalleryPhotosByDate);
 
   return {
     props: {
