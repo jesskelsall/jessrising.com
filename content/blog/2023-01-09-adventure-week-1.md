@@ -55,17 +55,17 @@ Two staff and a volunteer rounded the tour group up before explaining the plan -
 
 The journey was steady, allowing everyone (including children) to traverse the dirt and rocky trail carefully. At the bottom of the valley, a bridge with views across the purple birch and peak beyond.
 
-<img src="../../public/photos/cairngorms-1.jpeg" />
+<img src="../../public/photos/stream-and-snowy-peak.jpeg" />
 
 Rising sharply on the other side, we were met with a wire fence - the 80-kilometre fence demarcating this enclosure, currently containing mothers and calves from the latest birthing season. Further safety instructions before entering - don't touch, watch the antlers, reindeer don't have top teeth so you can't be bitten, move together and we'll soon be part of the pack!
 
 Howling winds above the tree line meant we would set up shop down the hill. The reindeer, anticipating this daily routine, were nearby and ready to be fed - a necessary bribe for compliance. As we descended the hill as a group, they followed, and not just from a distance - they got right in amongst us without hesitation. Once stopped at the bottom of the hill, snapping a headshot of a reindeer proved surprisingly simple.
 
-<img src="../../public/photos/reindeer-2.jpeg" />
+<img src="../../public/photos/a-cairngorm-reindeer.jpeg" />
 
 Food was laid out which provided the staff an opportunity to count the herd. We were advised to stay still so as not to get caught in the polite stampede for a free meal. A line of reindeer set before a rolling backdrop was truly magical.
 
-<img src="../../public/photos/reindeer-3.jpeg" />
+<img src="../../public/photos/the-cairngorm-reindeer-herd-2.jpeg" />
 
 There was one final step - hand feeding. This was offered to anyone who wanted "gentle kisses" as it was described, from cupped hands filled with rich feed. Adults (myself included) and children alike lined up for a handful, quickly set upon by the nearest eager reindeer not content with one free meal. Suddenly a large nose was in my hands, then the next moment the feed was gone. Shuffling the remains in my hand allowed me a second chance. I was instantly a kid again!
 
@@ -99,8 +99,8 @@ The woods here are ancient sanctuaries for a large proportion of the UK's endang
 
 Eventually Loch Mallachie came into view, initially as a sliver of blue between the trees. Immediately an unforgettable vista opened before us - a small *eilean* on the far side of the loch, bathed in perpetual winter [golden hour](https://en.wikipedia.org/wiki/Golden_hour_(photography)) light, with the woods and snowy mountains beyond. Here the water is icy still, and we infrequently passed other afternoon walkers. It was as if we had the place to ourselves. Further round, the same island with the sun behind it, the last of the winter sun soon departing.
 
-<img src="../../public/photos/loch-mallachie-1.jpeg" cover />
-<img src="../../public/photos/loch-mallachie-2.jpeg" />
+<img src="../../public/photos/loch-mallachie-and-bynack-more.jpeg" cover />
+<img src="../../public/photos/loch-mallachie-island.jpeg" />
 
 Loch Garten itself provided much of the same allure, just on a grander scale. By the time we arrived the muted tones of the setting sun were truly upon us.
 
