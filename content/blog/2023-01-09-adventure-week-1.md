@@ -130,7 +130,7 @@ Cut to Sunday morning. Another early start saw us leave our woodland lodging and
 
 First, a short drive down the road to Loch Vaa. This small loch is hidden out of sight from the main road by a small hill, in front of which is a graveyard and car park. At 08:45 we are the only ones here. Slightly drizzly weather, a surprising first for a forecast wet trip, kept us on our toes as we explored the rocky shoreline and admired another icy mirror with views across the mountains. Not wanting to venture too far and spend precious daylight, we opted for a view of the solitary boathouse before an about turn.
 
-<img src="../../public/photos/loch-vaa.jpeg" />
+<img src="../../public/photos/loch-vaa-boathouse.jpeg" />
 
 The car was fuelled in Aviemore, supplies were bought, and we were off heading south on the A9, an important trunk road connecting Edinburgh and Inverness. Twenty minutes later we arrived at Dalwhinnie, a footnote along the road made famous by its distillery and hotel. A quick visit to my first loch, Loch Ericht was in order. The walk along the concrete levee was enough to chill us through and work up an appetite - perfect conditions for a warm breakfast.
 
@@ -150,8 +150,8 @@ Beyond this vista, our journey took us along challenging roads, including throug
 
 Between the lochs, [Dunalasdair Estate](https://www.dunalastair.com/History-of-Dunalastair-Estate) provided an opportunity to abandon the car in a muddy side track, rouse farmer's dogs by our mere presence, and escape down the hill to the remains of a once proud manor house. The site is now convincingly ruined, fenced off and hazardous, though beautiful even in this state, and in part because of it. Views of the delaminating interior walls and crooked weathervanes speaks volumes of the turbulent history of this glen, the clans that once inhabited it, and its modern role in rural Scottish life.
 
-<img src="../../public/photos/dunalasdair-estate-1.jpeg" />
-<img src="../../public/photos/dunalasdair-estate-2.jpeg" />
+<img src="../../public/photos/dunalasdair-estate.jpeg" />
+<img src="../../public/photos/sheep-near-balmore.jpeg" />
 
 ## Few Destinations Remain
 
@@ -167,7 +167,7 @@ Before long the road submitted to a single track with sporadic designated passin
 
 Eventually the road gives up altogether at [Rannoch Station](https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ran). A few houses and a seasonal lodge/restaurant stand with a perplexingly desolate train station on the arterial line between Glasgow and Fort William.
 
-<img src="../../public/photos/rannoch-station.jpeg" />
+<img src="../../public/photos/rannoch-station-2.jpeg" />
 
 Its purpose isn't immediately clear, especially at this time of year. But in this area, good hiking can be found. Along Loch Laidon to the south-west the land is flat and easy-going, with panoramic views across the mountains. To the north-east, the bottom edge of Loch Ericht, which we had seen from its opposite end that morning. Truly, it is possible to catch a train from Scotland's most populous city to hiking nirvana in less than three hours.
 
