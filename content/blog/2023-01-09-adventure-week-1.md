@@ -157,7 +157,7 @@ Between the lochs, [Dunalasdair Estate](https://www.dunalastair.com/History-of-D
 
 Beyond Kinloch Rannoch, settlements become increasingly sparse, and so too do road junctions, as there are fewer places to reach without turning around. Civilisation quickly falls off along this part of the glen, though the views are equally stunning. Here a true sense of rural isolation is reached, with little except the road and occasional homesteads to suggest otherwise. A quick trip down onto Loch Rannoch's rocky shore provided dramatic views of Schiehallion reminiscent of Japan's Mount Fuji.
 
-<img src="../../public/photos/loch-rannoch.jpeg" />
+<img src="../../public/photos/schiehallion-from-loch-rannoch.jpeg" />
 
 As the loch comes to an end, torrential rainfall cascades from the west along River Gaur, satisfying the many dams and hydroelectric power stations along this part of the highlands - at least five we counted. Scotland is in an advantageous position to capitalise on hydro and wind power due to its location and geologic happenstance.
 
