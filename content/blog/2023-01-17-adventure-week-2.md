@@ -1,6 +1,6 @@
 # Adventure Week 2: Ribblehead Viaduct and Whernside
 
-- Tags: Adventures 2023, Rail
+- Tags: Adventures 2023, Hiking, Rail
 
 My first hike of the year takes me to the Yorkshire Dales for an explore of Ribblehead Viaduct and Whernside overlooking it, wrapped in unexpected overnight snow.
 
