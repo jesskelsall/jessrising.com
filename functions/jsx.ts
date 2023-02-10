@@ -1,3 +1,4 @@
+// Separates array with the given element
 export const zipBetween = <Element = JSX.Element, Between = string>(
   list: Element[],
   between: Between

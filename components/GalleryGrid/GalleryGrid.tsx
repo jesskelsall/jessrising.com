@@ -9,21 +9,18 @@ interface IGalleryGridProps {
 }
 
 export const GalleryGrid = ({ galleryPhotos }: IGalleryGridProps) => (
-  <div style={{ display: "flex", flexWrap: "wrap", gap: 20 }}>
+  <div className="gallery-grid">
     {galleryPhotos.map(({ slug }) => {
       const imagePath = path.join("/photos", `${slug}.jpeg`);
 
       return (
         <Link href={`/gallery/p/${slug}`} key={slug}>
-          <div
-            style={{
-              height: 375,
-              position: "relative",
-              width: 500,
-            }}
-          >
-            <Image alt={startCase(slug)} src={imagePath} fill />
-          </div>
+          <Image
+            alt={startCase(slug)}
+            src={imagePath}
+            height="375"
+            width="500"
+          />
         </Link>
       );
     })}

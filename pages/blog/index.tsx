@@ -28,14 +28,14 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
 };
 
 const BlogPage: NextPage<IProps> = ({ blogPosts }) => (
-  <div style={{ maxWidth: 800, margin: "0 auto" }}>
+  <main className="content-area blog">
     <h1>Blog</h1>
-    <ul>
+    <ul className="blog-list">
       {blogPosts.map((blogPost) => (
         <BlogPreview key={blogPost.slug} blogPost={blogPost} />
       ))}
     </ul>
-  </div>
+  </main>
 );
 
 export default BlogPage;

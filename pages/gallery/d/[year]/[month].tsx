@@ -3,6 +3,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryGrid } from "../../../../components";
+import { TContentArea } from "../../../../components/Header/Header";
 import galleryPhotosJSON from "../../../../data/galleryPhotos.json";
 import {
   applyFilterQueries,
@@ -21,6 +22,7 @@ interface IParams extends ParsedUrlQuery {
 }
 
 interface IProps {
+  contentArea: TContentArea;
   galleryPhotos: IMarkdownData[];
   month: number;
   year: number;
@@ -79,6 +81,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 
   return {
     props: {
+      contentArea: "gallery",
       galleryPhotos: displayGalleryPhotos,
       month,
       year,
@@ -101,9 +104,11 @@ const GalleryByMonthPage: NextPage<IProps> = ({
       <Head>
         <title>{title}</title>
       </Head>
-      <h1>Gallery</h1>
-      <h2>Month: {monthTitle}</h2>
-      <GalleryGrid galleryPhotos={galleryPhotos} />
+      <main className="content-area gallery">
+        <h1>Gallery</h1>
+        <h2>Month: {monthTitle}</h2>
+        <GalleryGrid galleryPhotos={galleryPhotos} />
+      </main>
     </>
   );
 };

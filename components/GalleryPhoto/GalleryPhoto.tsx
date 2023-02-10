@@ -19,20 +19,11 @@ export const GalleryPhoto = () => {
   };
 
   return (
-    <div style={{ maxWidth: 1200, margin: "0 auto" }}>
-      <Link href={imagePath}>
-        <img
-          alt={startCase(slug)}
-          src={imagePath}
-          style={{
-            width: 1200,
-            maxWidth: "100%",
-          }}
-        />
+    <main className="content-area photo">
+      <Link className="photo" href={imagePath}>
+        <img alt={startCase(slug)} src={imagePath} />
       </Link>
-      <div style={{ maxWidth: 800, margin: "0 auto" }}>
-        <Markdown options={options}>{markdown}</Markdown>
-      </div>
-    </div>
+      <Markdown options={options}>{markdown}</Markdown>
+    </main>
   );
 };

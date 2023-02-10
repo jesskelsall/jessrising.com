@@ -2,6 +2,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryPhoto, OpenGraphHeaders } from "../../../components";
+import { TContentArea } from "../../../components/Header/Header";
 import { GalleryPhotoContext } from "../../../context";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import {
@@ -19,6 +20,7 @@ interface IParams extends ParsedUrlQuery {
 }
 
 interface IProps {
+  contentArea: TContentArea;
   galleryPhoto: IMarkdownData;
 }
 
@@ -46,6 +48,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 
     return {
       props: {
+        contentArea: "photo",
         galleryPhoto,
       },
     };

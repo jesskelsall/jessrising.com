@@ -1,6 +1,7 @@
 import { DateTime } from "luxon";
+import { ReactNode } from "react";
 import { useBlogPost } from "../../context";
-import { formatFullDate } from "../../functions";
+import { formatLongDate } from "../../functions";
 
 interface IBlogHeadingProps {
   children: React.ReactNode[];
@@ -9,15 +10,25 @@ interface IBlogHeadingProps {
 
 export const BlogHeading = ({ children, ...props }: IBlogHeadingProps) => {
   const { date } = useBlogPost();
+  let heading: ReactNode[] = children;
+
+  if (
+    heading.length === 1 &&
+    typeof heading[0] === "string" &&
+    heading[0].includes(": ")
+  ) {
+    const headingParts = heading[0].split(": ");
+    heading = [`${headingParts[0]}:`, <br key="break" />, headingParts[1]];
+  }
 
   return (
-    <>
-      <h1 {...props}>{children}</h1>
+    <div>
+      <h1 {...props}>{heading}</h1>
       {date && (
         <p>
-          <em>{formatFullDate(DateTime.fromISO(date))}</em>
+          <em>{formatLongDate(DateTime.fromISO(date))}</em>
         </p>
       )}
-    </>
+    </div>
   );
 };

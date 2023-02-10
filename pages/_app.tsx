@@ -2,18 +2,25 @@ import type { AppProps } from "next/app";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import { Header } from "../components";
+import { TContentArea } from "../components/Header/Header";
 import { getRouteAsTitle } from "../functions";
+import "../styles.css";
 
-const App = ({ Component, pageProps }: AppProps) => {
+interface IAppProps {
+  contentArea?: TContentArea;
+}
+
+const App = ({ Component, pageProps }: AppProps<IAppProps>) => {
   const router = useRouter();
   const title = getRouteAsTitle(router.route);
+  const { contentArea } = pageProps;
 
   return (
     <>
       <Head>
         <title>{title}</title>
       </Head>
-      <Header />
+      <Header contentArea={contentArea} />
       <Component {...pageProps} />
     </>
   );

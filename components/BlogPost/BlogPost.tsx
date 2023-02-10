@@ -20,8 +20,8 @@ export const BlogPost = () => {
   };
 
   return (
-    <div style={{ maxWidth: 800, margin: "0 auto" }}>
+    <main className="content-area blog">
       <Markdown options={options}>{blogPost.markdown}</Markdown>
-    </div>
+    </main>
   );
 };

@@ -1,4 +1,11 @@
+import Image from "next/image";
 import Link from "next/link";
+
+export type TContentArea = "blog" | "gallery" | "photo";
+
+interface IHeaderProps {
+  contentArea?: TContentArea;
+}
 
 interface HeaderLink {
   title: string;
@@ -16,10 +23,16 @@ const HEADER_LINKS: HeaderLink[] = [
   },
 ];
 
-export const Header = () => (
+export const Header = ({ contentArea }: IHeaderProps) => (
   <header>
-    <ul>
-      <li>
+    <ul className={`content-area ${contentArea || "blog"}`}>
+      <li className="website">
+        <Image
+          alt="Photo of Jess Rising"
+          src="/avatar.jpeg"
+          height="64"
+          width="64"
+        />
         <Link href="/">Jess Rising</Link>
       </li>
       {HEADER_LINKS.map(({ title, url }) => (
