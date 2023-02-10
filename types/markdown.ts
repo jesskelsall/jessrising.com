@@ -26,6 +26,8 @@ export interface IMarkdownData {
   };
 }
 
+export type TMarkdownDataFile = Record<string, IMarkdownData>;
+
 interface IListRendererProps {
   children: JSX.Element[];
 }

@@ -11,7 +11,7 @@
       "dom.iterable",
       "esnext"
     ],
-    "module": "esnext",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "noEmit": true,
     "resolveJsonModule": true,
@@ -25,7 +25,6 @@
     "**/*.tsx"
   ],
   "exclude": [
-    "node_modules",
-    "prebuild"
+    "node_modules"
   ]
 }

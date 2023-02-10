@@ -3,19 +3,22 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { OpenGraphHeaders, BlogPost } from "../../../components";
+import { BlogPost, OpenGraphHeaders } from "../../../components";
 import {
   BlogPostContext,
   BlogPostsContext,
   GalleryPhotosContext,
 } from "../../../context";
-import { asPageTitle, getSlugsFromMarkdownFiles } from "../../../functions";
+import blogPostsJSON from "../../../data/blogPosts.json";
 import {
-  getAllBlogPosts,
-  getAllGalleryPhotos,
-  getContentFileNames,
-} from "../../../functions/fs";
-import { IMarkdownData } from "../../../types";
+  asPageTitle,
+  getMarkdownDataBySlug,
+  getOtherMarkdownData,
+} from "../../../functions";
+import { getAllGalleryPhotos } from "../../../functions/fs";
+import { IMarkdownData, TMarkdownDataFile } from "../../../types";
+
+const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -28,8 +31,7 @@ interface IProps {
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
-  const blogFiles = await getContentFileNames("blog");
-  const blogSlugs = getSlugsFromMarkdownFiles(blogFiles);
+  const blogSlugs = Object.keys(blogPostsData);
 
   return {
     paths: blogSlugs.map((slug) => ({ params: { slug } })),
@@ -42,14 +44,14 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 ) => {
   try {
     // Get context data
-    const allBlogPosts = await getAllBlogPosts();
+    const allBlogPosts = getOtherMarkdownData(blogPostsData);
     const allGalleryPhotos = await getAllGalleryPhotos();
 
     const slug = context.params?.slug;
     if (!slug) return { notFound: true };
 
     // Prepare page-specific props
-    const blogPost = allBlogPosts.find((post) => post.slug === slug);
+    const blogPost = getMarkdownDataBySlug(blogPostsData, slug);
 
     if (!blogPost) return { notFound: true };
 

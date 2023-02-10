@@ -2,16 +2,17 @@ import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components";
 import { dateFromSlug, sortBlogPostsByDate } from "../../functions";
-import { getAllBlogPosts } from "../../functions/fs";
-import { IMarkdownData } from "../../types";
+import { IMarkdownData, TMarkdownDataFile } from "../../types";
+import blogPostsJSON from "../../data/blogPosts.json";
+
+const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 
 interface IProps {
   blogPosts: IMarkdownData[];
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
-  const allBlogPosts = await getAllBlogPosts();
-  const displayedBlogPosts = allBlogPosts
+  const displayedBlogPosts = Object.values(blogPostsData)
     .filter((blogPost) => {
       // Hide future posts
       const date = dateFromSlug(blogPost.slug);
