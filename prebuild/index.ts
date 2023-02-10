@@ -1,38 +1,42 @@
 /* eslint-disable security/detect-non-literal-fs-filename */
 
 import fs from "fs";
-import util from "util";
+import { keyBy } from "lodash/fp";
 import path from "path";
-import { getAllBlogPosts } from "../functions/fs";
-import { TMarkdownDataFile } from "../types";
+import util from "util";
 import { DIR_DATA } from "../consts";
+import { getAllBlogPosts, getAllGalleryPhotos } from "../functions/fs";
+import { IMarkdownData, TMarkdownDataFile } from "../types";
 
+const keyBySlug = keyBy<IMarkdownData>("slug");
 const writeFile = util.promisify(fs.writeFile);
 
-/**
- * TODO
- * Load all data up-front so that the rest of the build process is swift
- * Also means each page can be statically generated as HTML
- *
- * gallery photos
- * blog posts
- *
- * write each category to a big JSON file which can be loaded when needed
- * object keyed by slug
- */
+// Write a JSON data file that collates all data file entries
+const writeData = async (
+  data: TMarkdownDataFile,
+  fileName: string
+): Promise<void> => {
+  await writeFile(path.resolve(DIR_DATA, fileName), JSON.stringify(data));
+  console.info(fileName, Object.keys(data).length);
+};
 
 const preBuildBlogPosts = async (): Promise<void> => {
   const allBlogPosts = await getAllBlogPosts();
-  const blogPostsData: TMarkdownDataFile = allBlogPosts.reduce(
-    (collection, blogPost) => ({ ...collection, [blogPost.slug]: blogPost }),
-    {}
-  );
+  const blogPostsData = keyBySlug(allBlogPosts);
 
-  await writeFile(
-    path.resolve(DIR_DATA, "blogPosts.json"),
-    JSON.stringify(blogPostsData)
-  );
-  console.info("blogPosts.json", allBlogPosts.length);
+  writeData(blogPostsData, "blogPosts.json");
 };
 
-preBuildBlogPosts();
+const preBuildGalleryPhotos = async (): Promise<void> => {
+  const allGalleryPhotos = await getAllGalleryPhotos();
+  const galleryPhotosData = keyBySlug(allGalleryPhotos);
+
+  writeData(galleryPhotosData, "galleryPhotos.json");
+};
+
+const prebuild = async (): Promise<void> => {
+  await preBuildBlogPosts();
+  await preBuildGalleryPhotos();
+};
+
+prebuild();

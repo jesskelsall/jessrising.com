@@ -1,15 +1,17 @@
 import { GetStaticProps, NextPage } from "next";
 import { GalleryGrid } from "../../components";
-import { sortGalleryPhotosByDate } from "../../functions";
-import { getAllGalleryPhotos } from "../../functions/fs";
-import { IMarkdownData } from "../../types";
+import galleryPhotosJSON from "../../data/galleryPhotos.json";
+import { getOtherMarkdownData, sortGalleryPhotosByDate } from "../../functions";
+import { IMarkdownData, TMarkdownDataFile } from "../../types";
+
+const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 interface IProps {
   galleryPhotos: IMarkdownData[];
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
-  const galleryPhotos = await getAllGalleryPhotos();
+  const galleryPhotos = getOtherMarkdownData(galleryPhotosData);
   const displayGalleryPhotos = galleryPhotos.sort(sortGalleryPhotosByDate);
 
   return {

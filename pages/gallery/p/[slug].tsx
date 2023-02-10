@@ -2,20 +2,23 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryPhoto, OpenGraphHeaders } from "../../../components";
-import { GalleryPhotoContext, GalleryPhotosContext } from "../../../context";
-import { asPageTitle, getSlugsFromMarkdownFiles } from "../../../functions";
+import { GalleryPhotoContext } from "../../../context";
+import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import {
-  getAllGalleryPhotos,
-  getContentFileNames,
-} from "../../../functions/fs";
-import { IEXIF, IMarkdownData } from "../../../types";
+  asPageTitle,
+  getMarkdownDataBySlug,
+  getSlugsFromMarkdownFiles,
+} from "../../../functions";
+import { getContentFileNames } from "../../../functions/fs";
+import { IEXIF, IMarkdownData, TMarkdownDataFile } from "../../../types";
+
+const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
 }
 
 interface IProps {
-  allGalleryPhotos: IMarkdownData[];
   galleryPhoto: IMarkdownData;
 }
 
@@ -33,19 +36,16 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   context
 ) => {
   try {
-    // Get context data
-    const allGalleryPhotos = await getAllGalleryPhotos();
+    const slug = context.params?.slug;
+    if (!slug) return { notFound: true };
 
     // Prepare page-specific props
-    const galleryPhoto = allGalleryPhotos.find(
-      (photo) => photo.slug === context.params?.slug
-    );
+    const galleryPhoto = getMarkdownDataBySlug(galleryPhotosData, slug);
 
     if (!galleryPhoto) return { notFound: true };
 
     return {
       props: {
-        allGalleryPhotos,
         galleryPhoto,
       },
     };
@@ -55,10 +55,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   }
 };
 
-const GalleryPhotoPage: NextPage<IProps> = ({
-  allGalleryPhotos,
-  galleryPhoto,
-}) => {
+const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
   const { meta, slug, summary } = galleryPhoto;
 
   const photo: IEXIF = meta.photo || {};
@@ -81,11 +78,9 @@ const GalleryPhotoPage: NextPage<IProps> = ({
           title={summary.heading}
         />
       </Head>
-      <GalleryPhotosContext.Provider value={allGalleryPhotos}>
-        <GalleryPhotoContext.Provider value={galleryPhoto}>
-          <GalleryPhoto />
-        </GalleryPhotoContext.Provider>
-      </GalleryPhotosContext.Provider>
+      <GalleryPhotoContext.Provider value={galleryPhoto}>
+        <GalleryPhoto />
+      </GalleryPhotoContext.Provider>
     </>
   );
 };

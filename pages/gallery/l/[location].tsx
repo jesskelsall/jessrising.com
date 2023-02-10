@@ -3,14 +3,17 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryGrid } from "../../../components";
+import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import {
   applyFilterQueries,
   asPageTitle,
+  getOtherMarkdownData,
   sortGalleryPhotosByDate,
   titleCase,
 } from "../../../functions";
-import { getAllGalleryPhotos } from "../../../functions/fs";
-import { IMarkdownData } from "../../../types";
+import { IMarkdownData, TMarkdownDataFile } from "../../../types";
+
+const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 interface IParams extends ParsedUrlQuery {
   location: string;
@@ -22,7 +25,7 @@ interface IProps {
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
-  const galleryPhotos = await getAllGalleryPhotos();
+  const galleryPhotos = getOtherMarkdownData(galleryPhotosData);
   const locations = uniq(
     galleryPhotos
       .map((photo) => (photo.meta.locations || []).flat().map(kebabCase))
@@ -39,7 +42,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   context
 ) => {
   // Get context data
-  const allGalleryPhotos = await getAllGalleryPhotos();
+  const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData);
 
   const location = context.params?.location;
   if (!location) return { notFound: true };

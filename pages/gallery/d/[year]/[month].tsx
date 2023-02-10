@@ -3,14 +3,17 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryGrid } from "../../../../components";
+import galleryPhotosJSON from "../../../../data/galleryPhotos.json";
 import {
   applyFilterQueries,
   asPageTitle,
+  getOtherMarkdownData,
   parseEXIFDate,
   sortGalleryPhotosByDate,
 } from "../../../../functions";
-import { getAllGalleryPhotos } from "../../../../functions/fs";
-import { IMarkdownData } from "../../../../types";
+import { IMarkdownData, TMarkdownDataFile } from "../../../../types";
+
+const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 interface IParams extends ParsedUrlQuery {
   year: string;
@@ -29,7 +32,7 @@ export const getPhotoYearAndMonth = (
   parseEXIFDate(photo.meta.photo?.date)?.toFormat("yyyy-LL");
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
-  const galleryPhotos = await getAllGalleryPhotos();
+  const galleryPhotos = getOtherMarkdownData(galleryPhotosData);
 
   const yearsAndMonths = galleryPhotos.reduce((uniqYearAndMonth, photo) => {
     const yearAndMonth = getPhotoYearAndMonth(photo);
@@ -51,7 +54,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   context
 ) => {
   // Get context data
-  const allGalleryPhotos = await getAllGalleryPhotos();
+  const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData);
 
   const yearString = context.params?.year;
   const monthString = context.params?.month;

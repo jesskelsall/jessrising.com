@@ -10,15 +10,16 @@ import {
   GalleryPhotosContext,
 } from "../../../context";
 import blogPostsJSON from "../../../data/blogPosts.json";
+import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import {
   asPageTitle,
   getMarkdownDataBySlug,
   getOtherMarkdownData,
 } from "../../../functions";
-import { getAllGalleryPhotos } from "../../../functions/fs";
 import { IMarkdownData, TMarkdownDataFile } from "../../../types";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
+const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -45,7 +46,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   try {
     // Get context data
     const allBlogPosts = getOtherMarkdownData(blogPostsData);
-    const allGalleryPhotos = await getAllGalleryPhotos();
+    const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData);
 
     const slug = context.params?.slug;
     if (!slug) return { notFound: true };
