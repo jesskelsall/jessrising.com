@@ -183,7 +183,7 @@ It was a remarkable pleasure to spend some quality time visiting the Yorkshire D
 
 Hiking in such clear winter surroundings proved equally enjoyable, and the statistics of the hike will spur me to ascend to loftier heights in preparation for truly ambitious summits on my monthly adventures - in particular the peaks of [South Uist](https://en.wikipedia.org/wiki/South_Uist).
 
-- **Distance:** 13.15 km / 8.17 mi
-- **Max elevation:** 736 m / 2,414 ft
-- **Total ascent:** 506 m / 1,660 ft
+- **Distance:** 13.15 km
+- **Max elevation:** 736 m
+- **Total ascent:** 506 m
 - **Time taken, including breaks:** 6 hours 15 minutes
