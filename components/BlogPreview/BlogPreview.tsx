@@ -1,4 +1,5 @@
 import { DateTime } from "luxon";
+import Image from "next/image";
 import Link from "next/link";
 import { formatLongDate } from "../../functions";
 import { IMarkdownData } from "../../types";
@@ -25,12 +26,7 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
       </div>
 
       {summary.imageSlug && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={`photos/${summary.imageSlug}.jpeg`}
-          alt={summary.heading}
-          style={{ maxHeight: 150, maxWidth: 200 }}
-        />
+        <img src={`photos/${summary.imageSlug}.jpeg`} alt={summary.heading} />
       )}
     </li>
   );

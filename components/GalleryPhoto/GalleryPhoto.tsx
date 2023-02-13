@@ -1,5 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
-
 import { startCase } from "lodash/fp";
 import Markdown from "markdown-to-jsx";
 import Link from "next/link";

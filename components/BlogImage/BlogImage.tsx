@@ -1,5 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
-
 import Link from "next/link";
 import path from "path";
 import { useGalleryPhotos } from "../../context";
