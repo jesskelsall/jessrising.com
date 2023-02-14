@@ -1,10 +1,8 @@
+import _ from "lodash/fp";
+import { ReactNode } from "react";
+
 // Separates array with the given element
-export const zipBetween = <Element = JSX.Element, Between = string>(
-  list: Element[],
-  between: Between
-): (Element | Between)[] =>
-  list.reduce(
-    (collated, nextElement) =>
-      collated.length ? [...collated, between, nextElement] : [nextElement],
-    [] as (Element | Between)[]
-  );
+export const zipBetween = (
+  list: ReactNode[],
+  between: ReactNode
+): ReactNode[] => _.zip(list, Array(list.length - 1).fill(between)).flat();

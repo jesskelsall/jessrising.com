@@ -2,6 +2,9 @@ import { DateTime } from "luxon";
 import { ReactNode } from "react";
 import { useBlogPost } from "../../context";
 import { formatLongDate } from "../../functions";
+import { zipBetween } from "../../functions/jsx";
+
+const lineBreak = <br />;
 
 interface IBlogHeadingProps {
   children: React.ReactNode[];
@@ -18,7 +21,7 @@ export const BlogHeading = ({ children, ...props }: IBlogHeadingProps) => {
     heading[0].includes(": ")
   ) {
     const headingParts = heading[0].split(": ");
-    heading = [`${headingParts[0]}:`, <br key="break" />, headingParts[1]];
+    heading = zipBetween(headingParts, [":", lineBreak]);
   }
 
   return (

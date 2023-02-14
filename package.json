@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "next build",
-    "dev": "next dev",
+    "dev": "npm run prebuild && next dev",
     "lint": "next lint --fix",
     "prebuild": "ts-node -P ./prebuild/tsconfig.json ./prebuild/index.ts",
     "prepare": "husky install",
