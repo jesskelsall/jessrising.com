@@ -50,7 +50,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   // Prepare page-specific props
   const displayGalleryPhotos = applyFilterQueries<IMarkdownData>(
     allGalleryPhotos,
-    [[tag], (photo) => photo.meta.tags || []]
+    [[[tag], (photo) => photo.meta.tags || []]]
   ).sort(sortGalleryPhotosByDate);
 
   return {

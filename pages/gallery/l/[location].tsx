@@ -52,7 +52,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   // Prepare page-specific props
   const displayGalleryPhotos = applyFilterQueries<IMarkdownData>(
     allGalleryPhotos,
-    [[location], (photo) => photo.meta.locations?.flat() || []]
+    [[[location], (photo) => photo.meta.locations?.flat() || []]]
   ).sort(sortGalleryPhotosByDate);
 
   return {

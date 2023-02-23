@@ -55,11 +55,13 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   const displayGalleryPhotos = applyFilterQueries<IMarkdownData>(
     allGalleryPhotos,
     [
-      [year],
-      (photo) => {
-        const photoYear = getPhotoYear(photo);
-        return photoYear ? [photoYear] : [];
-      },
+      [
+        [year],
+        (photo) => {
+          const photoYear = getPhotoYear(photo);
+          return photoYear ? [photoYear] : [];
+        },
+      ],
     ]
   ).sort(sortGalleryPhotosByDate);
 

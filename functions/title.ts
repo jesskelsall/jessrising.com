@@ -12,3 +12,10 @@ export const asPageTitle = (title?: string): string =>
 // Convert a Next.js route URL into a page title
 export const getRouteAsTitle = (route: string): string =>
   asPageTitle(titleCase([...route.split("/").slice(1)].pop() || ""));
+
+// Display a word as a singular or plural depending on quantity
+export const pluralise = (
+  singular: string,
+  plural: string,
+  quantity: number
+): string => (quantity === 1 ? singular : plural);

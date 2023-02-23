@@ -15,7 +15,7 @@ export const MarkdownTags = ({ tags }: IMarkdownTagsProps) => (
       return (
         <React.Fragment key={tagSlug}>
           {index !== 0 && ", "}
-          <Link href={`/gallery/t/${tagSlug}`}>{tag}</Link>
+          <Link href={`/gallery?tag=${tagSlug}`}>{tag}</Link>
         </React.Fragment>
       );
     })}

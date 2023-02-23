@@ -238,6 +238,16 @@ a:visited {
   .content-area.gallery {
     max-width: calc(1024px + 1rem);
   }
+
+  .gallery-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .gallery-heading p {
+    margin: 0.75em 0;
+  }
 }
 
 @media (min-width: calc(1548px + 1rem)) {
@@ -245,10 +255,6 @@ a:visited {
     max-width: calc(1548px + 1rem);
   }
 }
-
-/* 1x: 500
-/* 2x: 500 + 24 + 500 = 1024 */
-/* 3x: 500 + 24 + 500 + 24 + 500 = 1548 */
 
 /* Photo */
 

@@ -16,7 +16,7 @@ export const MarkdownLocation = ({ locations }: IMarkdownLocationProps) => {
         const locationSlug = kebabCase(location);
 
         return (
-          <Link key={locationSlug} href={`/gallery/l/${locationSlug}`}>
+          <Link key={locationSlug} href={`/gallery?location=${locationSlug}`}>
             {location}
           </Link>
         );

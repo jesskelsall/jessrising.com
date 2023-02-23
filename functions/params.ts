@@ -5,7 +5,8 @@ export const queryParamToStrings = (
   param: TQueryParam | undefined
 ): string[] => {
   if (!param) return [];
-  return [...param].flat();
+  if (typeof param === "string") return [param];
+  return param;
 };
 
 // Same as queryParamToStrings but casts to integers and removes invalid values

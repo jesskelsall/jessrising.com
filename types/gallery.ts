@@ -8,5 +8,7 @@ export interface IEXIF {
 export type TQueryParam = string | string[];
 
 export interface IGalleryQuery extends ParsedUrlQuery {
+  location?: TQueryParam;
   page?: TQueryParam;
+  tag?: TQueryParam;
 }
