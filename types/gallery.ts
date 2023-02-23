@@ -9,6 +9,8 @@ export type TQueryParam = string | string[];
 
 export interface IGalleryQuery extends ParsedUrlQuery {
   location?: TQueryParam;
+  month?: TQueryParam;
   page?: TQueryParam;
   tag?: TQueryParam;
+  year?: TQueryParam;
 }

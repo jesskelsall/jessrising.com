@@ -1,4 +1,5 @@
 import { DateTime } from "luxon";
+import { IMarkdownData } from "../types";
 
 const ORDINALS = ["th", "st", "nd", "rd"];
 
@@ -30,6 +31,10 @@ export const formatLongDate = (date: DateTime): string => {
   return date.toFormat("d! MMMM y").replace("!", ordinal);
 };
 
+// Convert EXIF date string to Luxon DateTime object
 export const parseEXIFDate = (
   dateString: string | undefined
 ): DateTime | undefined => dateFromString(dateString, "yyyy:MM:dd HH:mm:ss");
+
+export const getPhotoDate = (photo: IMarkdownData): DateTime | undefined =>
+  parseEXIFDate(photo.meta.photo?.date);

@@ -1,4 +1,5 @@
 import _ from "lodash/fp";
+import { DateTime } from "luxon";
 import { GetServerSideProps, NextPage } from "next";
 import { GalleryGrid, GalleryPagination } from "../../components";
 import { TContentArea } from "../../components/Header/Header";
@@ -7,6 +8,7 @@ import galleryPhotosJSON from "../../data/galleryPhotos.json";
 import {
   applyFilterQueries,
   getOtherMarkdownData,
+  getPhotoDate,
   pluralise,
   sortGalleryPhotosByDate,
   titleCase,
@@ -30,9 +32,11 @@ interface IProps {
   contentArea: TContentArea;
   galleryPhotos: IMarkdownData[];
   locations: string[];
+  month: number | null;
   pagination: IPagination;
   query: IGalleryQuery;
   tags: string[];
+  year: number | null;
 }
 
 export const getServerSideProps: GetServerSideProps<
@@ -51,6 +55,10 @@ export const getServerSideProps: GetServerSideProps<
   const locations = queryParamToStrings(query.location);
   const tags = queryParamToStrings(query.tag);
 
+  const year: number | null = queryParamToIntegers(query.year)[0] || null;
+  let month: number | null = queryParamToIntegers(query.month)[0] || null;
+  if (month && (month < 1 || month > 12)) month = null;
+
   // Apply filters
 
   const filters: TModelFilter<IMarkdownData>[] = [];
@@ -60,6 +68,24 @@ export const getServerSideProps: GetServerSideProps<
   }
   if (tags.length) {
     filters.push([tags, (photo) => photo.meta.tags || []]);
+  }
+  if (month) {
+    filters.push([
+      [month.toString()],
+      (photo) => {
+        const date = getPhotoDate(photo);
+        return date ? [date.month.toString()] : [];
+      },
+    ]);
+  }
+  if (year) {
+    filters.push([
+      [year.toString()],
+      (photo) => {
+        const date = getPhotoDate(photo);
+        return date ? [date.year.toString()] : [];
+      },
+    ]);
   }
 
   const filteredPhotos = applyFilterQueries<IMarkdownData>(allPhotos, filters);
@@ -76,6 +102,7 @@ export const getServerSideProps: GetServerSideProps<
       contentArea: "gallery",
       galleryPhotos: galleryPage,
       locations,
+      month,
       pagination: {
         page,
         pages,
@@ -83,6 +110,7 @@ export const getServerSideProps: GetServerSideProps<
       },
       query,
       tags,
+      year,
     },
   };
 };
@@ -90,9 +118,11 @@ export const getServerSideProps: GetServerSideProps<
 const GalleryPage: NextPage<IProps> = ({
   galleryPhotos,
   locations,
+  month,
   pagination,
   query,
   tags,
+  year,
 }) => {
   const { page, pages, total } = pagination;
 
@@ -108,6 +138,10 @@ const GalleryPage: NextPage<IProps> = ({
     );
   };
 
+  const displayMonth = month
+    ? DateTime.fromObject({ month }).toFormat("LLLL")
+    : "";
+
   return (
     <main className="content-area gallery">
       <div className="gallery-heading">
@@ -115,6 +149,11 @@ const GalleryPage: NextPage<IProps> = ({
           <h1>Gallery</h1>
           {showFilter(locations, "Location", "Locations")}
           {showFilter(tags, "Tag", "Tags")}
+          {(month || year) && (
+            <h2>
+              Date: {displayMonth} {year}
+            </h2>
+          )}
         </div>
         <div>
           <p>
