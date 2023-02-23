@@ -28,6 +28,7 @@ body {
   --dark-red: #B60106;
   --red: #D72F3C;
   --light-red: #F5555F;
+  --white: #FFFFFF;
 }
 
 /* Width */
@@ -60,7 +61,7 @@ header li {
 }
 
 header a {
-  color: white;
+  color: var(--white);
   text-decoration: none;
 }
 
@@ -69,7 +70,7 @@ header a:hover {
 }
 
 header a:visited {
-  color: white;
+  color: var(--white);
 }
 
 header .website {
@@ -207,13 +208,12 @@ a:visited {
 .gallery-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-left: -0.5rem;
-  margin-right: -0.5rem;
+  gap: 8px;
 }
 
 .gallery-grid > a {
   position: relative;
+  max-height: 375px;
 }
 
 .gallery-grid img {
@@ -222,29 +222,33 @@ a:visited {
   height: auto;
 }
 
-@media (min-width: 500px) {
+@media (min-width: calc(500px + 1rem)) {
   .content-area.gallery {
-    max-width: 500px;
+    max-width: calc(500px + 1rem);
   }
 }
 
 @media (min-width: 800px) {
   .gallery-grid {
-    gap: 1.5rem;
+    gap: 24px;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: calc(1024px + 1rem)) {
   .content-area.gallery {
-    max-width: 1024px;
+    max-width: calc(1024px + 1rem);
   }
 }
 
-@media (min-width: 1548px) {
+@media (min-width: calc(1548px + 1rem)) {
   .content-area.gallery {
-    max-width: 1548px;
+    max-width: calc(1548px + 1rem);
   }
 }
+
+/* 1x: 500
+/* 2x: 500 + 24 + 500 = 1024 */
+/* 3x: 500 + 24 + 500 + 24 + 500 = 1548 */
 
 /* Photo */
 
@@ -280,4 +284,48 @@ a:visited {
   .content-area.photo {
     max-width: 1200px;
   }
+}
+
+/* Button */
+
+.button {
+  display: block;
+  padding: 0.5em 1em;
+  background-color: var(--red);
+  color: var(--white);
+  text-decoration: none;
+}
+
+.button:hover,
+.button:active {
+  background-color: var(--dark-red);
+}
+
+a.button {
+  color: var(--white);
+}
+
+.button + .button {
+  margin-left: 0.5em;
+}
+
+/* Pagination */
+
+.pagination {
+  display: flex;
+  margin-top: 1em;
+}
+
+.pagination > div {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.pagination .current {
+  justify-content: center;
+}
+
+.pagination .next {
+  justify-content: flex-end;
 }

@@ -1,0 +1,19 @@
+import { TQueryParam } from "../types";
+
+// Ensures a consistent array of strings for a given query parameter
+export const queryParamToStrings = (
+  param: TQueryParam | undefined
+): string[] => {
+  if (!param) return [];
+  return [...param].flat();
+};
+
+// Same as queryParamToStrings but casts to integers and removes invalid values
+export const queryParamToIntegers = (
+  param: TQueryParam | undefined
+): number[] => {
+  const strings = queryParamToStrings(param);
+  return strings
+    .map((string) => Number.parseInt(string, 10))
+    .filter((number) => !Number.isNaN(number));
+};

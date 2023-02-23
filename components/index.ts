@@ -7,6 +7,7 @@ export * from "./BlogRelatedPosts";
 export * from "./BlogYouTubeVideo";
 export * from "./GalleryGrid";
 export * from "./GalleryHeading";
+export * from "./GalleryPagination";
 export * from "./GalleryPhoto";
 export * from "./Header";
 export * from "./MarkdownLocation";
