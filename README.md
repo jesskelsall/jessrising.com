@@ -5,8 +5,6 @@ V2 in development.
 ## TODO
 
 - Server side rendered gallery:
-  - Pagination.
-  - Combineable tag/location/year/month (AND).
   - Interactive filtering system.
     - Flat list of tags.
     - Locations provide more specific options when selected.

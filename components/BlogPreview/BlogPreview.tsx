@@ -26,7 +26,12 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
       </div>
 
       {summary.imageSlug && (
-        <img src={`photos/${summary.imageSlug}.jpeg`} alt={summary.heading} />
+        <Image
+          src={`/photos/${summary.imageSlug}.jpeg`}
+          alt={summary.heading || ""}
+          width={200}
+          height={150}
+        />
       )}
     </li>
   );
