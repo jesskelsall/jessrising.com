@@ -4,6 +4,8 @@ V2 in development.
 
 ## TODO
 
+- Newsletter sign-up:
+  - Mailchimp integration
 - Server side rendered gallery:
   - Interactive filtering system.
     - Flat list of tags.
@@ -24,4 +26,4 @@ V2 in development.
 - Hot reloading:
   - Development environment - saving markdown files & images shows immediate changes.
   - Production environment - data pre-built and used each time.
-  - Environment variable switch in logic..
+  - Environment variable switch in logic.
