@@ -24,4 +24,4 @@ V2 in development.
 - Hot reloading:
   - Development environment - saving markdown files & images shows immediate changes.
   - Production environment - data pre-built and used each time.
-  - Environment variable switch in logic.
+  - Environment variable switch in logic..
