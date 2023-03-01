@@ -1,6 +1,6 @@
-import { useBlogPosts } from "../../context";
-import { IMarkdownData, TListRenderer } from "../../types";
-import { BlogPreview } from "../BlogPreview";
+import { useBlogPosts } from "../../context/blogPosts";
+import { IMarkdownData, TListRenderer } from "../../types/markdown";
+import { BlogPreview } from "../BlogPreview/BlogPreview";
 
 export const BlogRelatedPosts: TListRenderer = ({ children }) => {
   const allBlogPosts = useBlogPosts();

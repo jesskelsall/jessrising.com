@@ -1,8 +1,8 @@
 import { DateTime } from "luxon";
 import Image from "next/image";
 import Link from "next/link";
-import { formatLongDate } from "../../functions";
-import { IMarkdownData } from "../../types";
+import { formatLongDate } from "../../functions/date";
+import { IMarkdownData } from "../../types/markdown";
 
 interface IBlogPreviewProps {
   blogPost: IMarkdownData;

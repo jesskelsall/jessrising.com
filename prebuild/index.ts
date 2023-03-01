@@ -4,9 +4,9 @@ import fs from "fs";
 import { keyBy } from "lodash/fp";
 import path from "path";
 import util from "util";
-import { DIR_DATA } from "../consts";
+import { DIR_DATA } from "../consts/app";
 import { getAllBlogPosts, getAllGalleryPhotos } from "../functions/fs";
-import { IMarkdownData, TMarkdownDataFile } from "../types";
+import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
 
 const keyBySlug = keyBy<IMarkdownData>("slug");
 const writeFile = util.promisify(fs.writeFile);

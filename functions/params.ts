@@ -1,4 +1,4 @@
-import { TQueryParam } from "../types";
+import { TQueryParam } from "../types/gallery";
 
 // Ensures a consistent array of strings for a given query parameter
 export const queryParamToStrings = (

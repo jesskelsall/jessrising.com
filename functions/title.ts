@@ -1,6 +1,7 @@
 import { apStyleTitleCase } from "ap-style-title-case";
 import { startCase } from "lodash/fp";
-import { APP_NAME, SEPARATOR } from "../consts";
+import { APP_NAME } from "../consts/app";
+import { SEPARATOR } from "../consts/text";
 
 export const titleCase = (title: string): string =>
   apStyleTitleCase(startCase(title));

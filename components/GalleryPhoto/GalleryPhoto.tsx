@@ -2,8 +2,8 @@ import { startCase } from "lodash/fp";
 import Markdown from "markdown-to-jsx";
 import Link from "next/link";
 import path from "path";
-import { useGalleryPhoto } from "../../context";
-import { GalleryHeading } from "../GalleryHeading";
+import { useGalleryPhoto } from "../../context/galleryPhoto";
+import { GalleryHeading } from "../GalleryHeading/GalleryHeading";
 
 export const GalleryPhoto = () => {
   const { markdown, slug } = useGalleryPhoto();

@@ -1,5 +1,5 @@
-import { TListRenderer } from "../../types";
-import { BlogRelatedPosts } from "../BlogRelatedPosts";
+import { TListRenderer } from "../../types/markdown";
+import { BlogRelatedPosts } from "../BlogRelatedPosts/BlogRelatedPosts";
 
 const ORDERED_LIST_RENDERERS: Record<string, TListRenderer> = {
   Related: BlogRelatedPosts,

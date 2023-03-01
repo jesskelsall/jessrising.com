@@ -1,4 +1,4 @@
-import { IMarkdownData, IMarkdownMetaData } from "../types";
+import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
 import { dateFromSlug } from "./date";
 
 // Get the photo file name from a markdown file's img src attribute

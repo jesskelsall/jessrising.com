@@ -1,9 +1,9 @@
 import { DateTime } from "luxon";
-import { useGalleryPhoto } from "../../context";
-import { MarkdownGPS } from "../MarkdownGPS";
-import { MarkdownLocation } from "../MarkdownLocation";
-import { MarkdownTags } from "../MarkdownTags";
-import { parseEXIFDate } from "../../functions";
+import { useGalleryPhoto } from "../../context/galleryPhoto";
+import { parseEXIFDate } from "../../functions/date";
+import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
+import { MarkdownLocation } from "../MarkdownLocation/MarkdownLocation";
+import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
 
 interface IGalleryHeadingProps {
   children: React.ReactNode[];

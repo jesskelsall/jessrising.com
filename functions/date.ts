@@ -1,5 +1,5 @@
 import { DateTime } from "luxon";
-import { IMarkdownData } from "../types";
+import { IMarkdownData } from "../types/markdown";
 
 const ORDINALS = ["th", "st", "nd", "rd"];
 

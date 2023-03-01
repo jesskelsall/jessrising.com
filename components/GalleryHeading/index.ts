@@ -1,1 +1,0 @@
-export { GalleryHeading } from "./GalleryHeading";

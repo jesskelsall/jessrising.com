@@ -1,1 +1,0 @@
-export { GalleryPagination } from "./GalleryPagination";

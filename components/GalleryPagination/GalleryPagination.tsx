@@ -1,6 +1,6 @@
 import Link from "next/link";
 import url from "url";
-import { IGalleryQuery } from "../../types";
+import { IGalleryQuery } from "../../types/gallery";
 
 interface IGalleryPaginationProps {
   page: number;

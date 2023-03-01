@@ -1,4 +1,4 @@
-import { APP_NAME, URL } from "../../consts";
+import { APP_NAME, URL } from "../../consts/app";
 
 interface IOpenGraphHeadersProps {
   date?: string;

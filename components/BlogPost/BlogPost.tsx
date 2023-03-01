@@ -1,10 +1,10 @@
 import Markdown from "markdown-to-jsx";
 import Link from "next/link";
-import { useBlogPost } from "../../context";
-import { BlogHeading } from "../BlogHeading";
-import { BlogImage } from "../BlogImage";
-import { BlogYouTubeVideo } from "../BlogYouTubeVideo";
-import { MarkdownOrderedList } from "../MarkdownOrderedList";
+import { useBlogPost } from "../../context/blogPost";
+import { BlogHeading } from "../BlogHeading/BlogHeading";
+import { BlogImage } from "../BlogImage/BlogImage";
+import { BlogYouTubeVideo } from "../BlogYouTubeVideo/BlogYouTubeVideo";
+import { MarkdownOrderedList } from "../MarkdownOrderedList/MarkdownOrderedList";
 
 export const BlogPost = () => {
   const blogPost = useBlogPost();

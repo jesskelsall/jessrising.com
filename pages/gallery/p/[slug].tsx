@@ -1,17 +1,17 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { GalleryPhoto, OpenGraphHeaders } from "../../../components";
+import { GalleryPhoto } from "../../../components/GalleryPhoto/GalleryPhoto";
 import { TContentArea } from "../../../components/Header/Header";
-import { GalleryPhotoContext } from "../../../context";
+import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
+import { GalleryPhotoContext } from "../../../context/galleryPhoto";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
-import {
-  asPageTitle,
-  getMarkdownDataBySlug,
-  getSlugsFromMarkdownFiles,
-} from "../../../functions";
+import { getMarkdownDataBySlug } from "../../../functions/data";
+import { getSlugsFromMarkdownFiles } from "../../../functions/file";
 import { getContentFileNames } from "../../../functions/fs";
-import { IEXIF, IMarkdownData, TMarkdownDataFile } from "../../../types";
+import { asPageTitle } from "../../../functions/title";
+import { IEXIF } from "../../../types/gallery";
+import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdown";
 
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 

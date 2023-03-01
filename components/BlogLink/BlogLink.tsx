@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { SEPARATOR } from "../../consts";
-import { IMarkdownData } from "../../types";
+import { SEPARATOR } from "../../consts/text";
+import { IMarkdownData } from "../../types/markdown";
 
 interface IBlogLinkProps {
   blogPost: IMarkdownData;

@@ -1,4 +1,4 @@
-import { MARKDOWN_FILETYPE } from "../consts";
+import { MARKDOWN_FILETYPE } from "../consts/app";
 
 export const getSlugsFromMarkdownFiles = (files: string[]): string[] =>
   files

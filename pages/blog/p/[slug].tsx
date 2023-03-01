@@ -3,20 +3,19 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { BlogPost, OpenGraphHeaders } from "../../../components";
-import {
-  BlogPostContext,
-  BlogPostsContext,
-  GalleryPhotosContext,
-} from "../../../context";
+import { BlogPost } from "../../../components/BlogPost/BlogPost";
+import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
+import { BlogPostContext } from "../../../context/blogPost";
+import { BlogPostsContext } from "../../../context/blogPosts";
+import { GalleryPhotosContext } from "../../../context/galleryPhotos";
 import blogPostsJSON from "../../../data/blogPosts.json";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import {
-  asPageTitle,
   getMarkdownDataBySlug,
   getOtherMarkdownData,
-} from "../../../functions";
-import { IMarkdownData, TMarkdownDataFile } from "../../../types";
+} from "../../../functions/data";
+import { asPageTitle } from "../../../functions/title";
+import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdown";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;

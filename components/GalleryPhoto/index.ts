@@ -1,1 +1,0 @@
-export { GalleryPhoto } from "./GalleryPhoto";

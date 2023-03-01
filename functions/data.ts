@@ -1,4 +1,4 @@
-import { IMarkdownData, TMarkdownDataFile } from "../types";
+import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
 
 // Return the markdown data file at the given slug key
 export const getMarkdownDataBySlug = (

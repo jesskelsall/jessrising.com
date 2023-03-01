@@ -1,24 +1,22 @@
 import _ from "lodash/fp";
 import { DateTime } from "luxon";
 import { GetServerSideProps, NextPage } from "next";
-import { GalleryGrid, GalleryPagination } from "../../components";
+import { GalleryGrid } from "../../components/GalleryGrid/GalleryGrid";
+import { GalleryPagination } from "../../components/GalleryPagination/GalleryPagination";
 import { TContentArea } from "../../components/Header/Header";
-import { GALLERY_PHOTOS_PER_PAGE } from "../../consts";
+import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import galleryPhotosJSON from "../../data/galleryPhotos.json";
-import {
-  applyFilterQueries,
-  getOtherMarkdownData,
-  getPhotoDate,
-  pluralise,
-  sortGalleryPhotosByDate,
-  titleCase,
-  TModelFilter,
-} from "../../functions";
+import { getOtherMarkdownData } from "../../functions/data";
+import { getPhotoDate } from "../../functions/date";
+import { applyFilterQueries, TModelFilter } from "../../functions/filter";
 import {
   queryParamToIntegers,
   queryParamToStrings,
 } from "../../functions/params";
-import { IGalleryQuery, IMarkdownData, TMarkdownDataFile } from "../../types";
+import { sortGalleryPhotosByDate } from "../../functions/sort";
+import { pluralise, titleCase } from "../../functions/title";
+import { IGalleryQuery } from "../../types/gallery";
+import { IMarkdownData, TMarkdownDataFile } from "../../types/markdown";
 
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 

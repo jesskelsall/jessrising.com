@@ -1,9 +1,10 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
-import { BlogPreview } from "../../components";
-import { dateFromSlug, sortBlogPostsByDate } from "../../functions";
-import { IMarkdownData, TMarkdownDataFile } from "../../types";
+import { BlogPreview } from "../../components/BlogPreview/BlogPreview";
 import blogPostsJSON from "../../data/blogPosts.json";
+import { dateFromSlug } from "../../functions/date";
+import { sortBlogPostsByDate } from "../../functions/sort";
+import { IMarkdownData, TMarkdownDataFile } from "../../types/markdown";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 

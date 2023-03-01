@@ -1,7 +1,7 @@
 import Link from "next/link";
 import path from "path";
-import { useGalleryPhotos } from "../../context";
-import { parsePhotoSlugFromSrc } from "../../functions";
+import { useGalleryPhotos } from "../../context/galleryPhotos";
+import { parsePhotoSlugFromSrc } from "../../functions/markdown";
 
 interface IBlogImageProps {
   alt: string;

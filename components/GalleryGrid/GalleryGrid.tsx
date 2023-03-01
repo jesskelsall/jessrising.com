@@ -2,7 +2,7 @@ import { startCase } from "lodash/fp";
 import Image from "next/image";
 import Link from "next/link";
 import path from "path";
-import { IMarkdownData } from "../../types";
+import { IMarkdownData } from "../../types/markdown";
 
 interface IGalleryGridProps {
   galleryPhotos: IMarkdownData[];

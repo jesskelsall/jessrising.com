@@ -4,8 +4,10 @@ import ExifReader from "exifreader";
 import fs from "fs";
 import path from "path";
 import util from "util";
-import { DIR_CONTENT, DIR_PHOTOS } from "../consts";
-import { ContentType, IEXIF, IMarkdownData } from "../types";
+import { DIR_CONTENT, DIR_PHOTOS } from "../consts/app";
+import { ContentType } from "../types/content";
+import { IEXIF } from "../types/gallery";
+import { IMarkdownData } from "../types/markdown";
 import { getSlugsFromMarkdownFiles } from "./file";
 import { parseMarkdown } from "./markdown";
 

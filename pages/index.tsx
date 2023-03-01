@@ -1,15 +1,16 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
-import { BlogImage, BlogPreview } from "../components";
+import { BlogImage } from "../components/BlogImage/BlogImage";
+import { BlogPreview } from "../components/BlogPreview/BlogPreview";
 import blogPostsJSON from "../data/blogPosts.json";
+import galleryPhotosJSON from "../data/galleryPhotos.json";
+import { getOtherMarkdownData } from "../functions/data";
+import { dateFromSlug } from "../functions/date";
 import {
-  dateFromSlug,
-  getOtherMarkdownData,
   sortBlogPostsByDate,
   sortGalleryPhotosByDate,
-} from "../functions";
-import { IMarkdownData, TMarkdownDataFile } from "../types";
-import galleryPhotosJSON from "../data/galleryPhotos.json";
+} from "../functions/sort";
+import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
