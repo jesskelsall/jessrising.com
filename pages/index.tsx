@@ -1,9 +1,67 @@
-import { NextPage } from "next";
+import { DateTime } from "luxon";
+import { GetStaticProps, NextPage } from "next";
+import { BlogImage, BlogPreview } from "../components";
+import blogPostsJSON from "../data/blogPosts.json";
+import {
+  dateFromSlug,
+  getOtherMarkdownData,
+  sortBlogPostsByDate,
+  sortGalleryPhotosByDate,
+} from "../functions";
+import { IMarkdownData, TMarkdownDataFile } from "../types";
+import galleryPhotosJSON from "../data/galleryPhotos.json";
 
-const HomePage: NextPage = () => (
+const blogPostsData = blogPostsJSON as TMarkdownDataFile;
+const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
+
+// If empty strings, the most recent is used instead
+const FEATURED_BLOG_POST = "";
+const FEATURED_PHOTO = "from-long-crag-to-the-irish-sea";
+
+interface IProps {
+  blogPost: IMarkdownData;
+  photo: IMarkdownData;
+}
+
+export const getStaticProps: GetStaticProps<IProps> = async () => {
+  const allBlogPosts = Object.values(blogPostsData)
+    .filter((blogPost) => {
+      // Hide future posts
+      const date = dateFromSlug(blogPost.slug);
+      return !date || date <= DateTime.now();
+    })
+    .sort(sortBlogPostsByDate);
+  const featuredBlogPost =
+    allBlogPosts.find((post) => post.slug === FEATURED_BLOG_POST) ||
+    allBlogPosts[0];
+
+  const allPhotos = getOtherMarkdownData(galleryPhotosData).sort(
+    sortGalleryPhotosByDate
+  );
+  const featuredPhoto =
+    allPhotos.find((photo) => photo.slug === FEATURED_PHOTO) || allPhotos[0];
+
+  return {
+    props: {
+      blogPost: featuredBlogPost,
+      photo: featuredPhoto,
+    },
+  };
+};
+
+const HomePage: NextPage<IProps> = ({ blogPost, photo }) => (
   <main className="content-area blog">
-    <h1>Welcome!</h1>
-    <p>Click a link above to get started.</p>
+    <h1>Featured Blog Post</h1>
+    <ul className="blog-list">
+      <BlogPreview blogPost={blogPost} />
+    </ul>
+    <h1>Featured Photo</h1>
+    <h2>{photo.summary.heading}</h2>
+    <BlogImage
+      alt={photo.summary.heading || ""}
+      src={`${photo.slug}.jpeg`}
+      forceGallery
+    />
   </main>
 );
 

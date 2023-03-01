@@ -18,6 +18,10 @@
   margin: 0;
 }
 
+*:focus-visible {
+  outline-color: var(--darker-red);
+}
+
 body {
   font-family: "San Francisco", Helvetica, sans-serif;
   font-size: 16px;
@@ -28,6 +32,7 @@ body {
   --dark-red: #B60106;
   --red: #D72F3C;
   --light-red: #F5555F;
+  --lightest-red: #FCC4C7;
   --white: #FFFFFF;
 }
 
@@ -294,14 +299,18 @@ a:visited {
 
 /* Button */
 
+button,
 .button {
-  display: block;
+  display: inline-block;
   padding: 0.5em 1em;
   background-color: var(--red);
   color: var(--white);
   text-decoration: none;
+  border: none;
 }
 
+button:hover,
+button:active,
 .button:hover,
 .button:active {
   background-color: var(--dark-red);
@@ -311,8 +320,17 @@ a.button {
   color: var(--white);
 }
 
+button + button,
 .button + .button {
   margin-left: 0.5em;
+}
+
+/* Input */
+
+.input {
+  display: inline-block;
+  padding: 0.5em 1em;
+  border: none;
 }
 
 /* Pagination */
@@ -334,4 +352,37 @@ a.button {
 
 .pagination .next {
   justify-content: flex-end;
+}
+
+/* Block */
+
+.block {
+  margin: 0.5rem auto;
+  padding: 1em 0.5em;
+  background-color: var(--lightest-red);
+}
+
+.block > *:first-child {
+  margin-top: 0;
+}
+
+.block > *:last-child {
+  margin-bottom: 0;
+}
+
+/* Newsletter */
+
+.newsletter input,
+.newsletter button {
+  font-size: 1rem;
+}
+
+.newsletter form {
+  display: flex;
+  gap: 0.5em;
+}
+
+.newsletter input {
+  flex: 1;
+  max-width: 25em;
 }
