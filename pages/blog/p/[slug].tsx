@@ -4,6 +4,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { BlogPost } from "../../../components/BlogPost/BlogPost";
+import { Newsletter } from "../../../components/Newsletter/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
 import { BlogPostContext } from "../../../context/blogPost";
 import { BlogPostsContext } from "../../../context/blogPosts";
@@ -96,6 +97,7 @@ export const BlogPostPage: NextPage<IProps> = ({
           </BlogPostContext.Provider>
         </BlogPostsContext.Provider>
       </GalleryPhotosContext.Provider>
+      <Newsletter />
     </>
   );
 };

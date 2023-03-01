@@ -4,6 +4,7 @@ import { GetServerSideProps, NextPage } from "next";
 import { GalleryGrid } from "../../components/GalleryGrid/GalleryGrid";
 import { GalleryPagination } from "../../components/GalleryPagination/GalleryPagination";
 import { TContentArea } from "../../components/Header/Header";
+import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import galleryPhotosJSON from "../../data/galleryPhotos.json";
 import { getOtherMarkdownData } from "../../functions/data";
@@ -141,28 +142,31 @@ const GalleryPage: NextPage<IProps> = ({
     : "";
 
   return (
-    <main className="content-area gallery">
-      <div className="gallery-heading">
-        <div>
-          <h1>Gallery</h1>
-          {showFilter(locations, "Location", "Locations")}
-          {showFilter(tags, "Tag", "Tags")}
-          {(month || year) && (
-            <h2>
-              Date: {displayMonth} {year}
-            </h2>
-          )}
+    <>
+      <main className="content-area gallery">
+        <div className="gallery-heading">
+          <div>
+            <h1>Gallery</h1>
+            {showFilter(locations, "Location", "Locations")}
+            {showFilter(tags, "Tag", "Tags")}
+            {(month || year) && (
+              <h2>
+                Date: {displayMonth} {year}
+              </h2>
+            )}
+          </div>
+          <div>
+            <p>
+              {total} {pluralise("Photo", "Photos", total)} / {pages}{" "}
+              {pluralise("Page", "Pages", pages)}
+            </p>
+          </div>
         </div>
-        <div>
-          <p>
-            {total} {pluralise("Photo", "Photos", total)} / {pages}{" "}
-            {pluralise("Page", "Pages", pages)}
-          </p>
-        </div>
-      </div>
-      <GalleryGrid galleryPhotos={galleryPhotos} />
-      <GalleryPagination page={page} pages={pages} query={query} />
-    </main>
+        <GalleryGrid galleryPhotos={galleryPhotos} />
+        <GalleryPagination page={page} pages={pages} query={query} />
+      </main>
+      <Newsletter />
+    </>
   );
 };
 export default GalleryPage;

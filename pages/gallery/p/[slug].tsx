@@ -3,6 +3,7 @@ import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryPhoto } from "../../../components/GalleryPhoto/GalleryPhoto";
 import { TContentArea } from "../../../components/Header/Header";
+import { Newsletter } from "../../../components/Newsletter/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
@@ -84,6 +85,7 @@ const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
       <GalleryPhotoContext.Provider value={galleryPhoto}>
         <GalleryPhoto />
       </GalleryPhotoContext.Provider>
+      <Newsletter />
     </>
   );
 };
