@@ -2,7 +2,7 @@
 
 - GPS: 50.70476111111111,-3.059625
 - Location: Seaton, England, United Kingdom
-- Tags: Landscape, Sunset
+- Tags: Landscape, Sunset, Boat
 
 The mouth of the River Axe in [Seaton](https://en.wikipedia.org/wiki/Seaton,_Devon) near Exeter. A variety of small fishing boats sit motionless upon the glassy river surface that reflects pink and orange tones from the setting sun.
 

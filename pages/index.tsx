@@ -17,7 +17,7 @@ const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
 const FEATURED_BLOG_POST = "";
-const FEATURED_PHOTO = "from-long-crag-to-the-irish-sea";
+const FEATURED_PHOTO = "view-to-skyfall-230224";
 
 interface IProps {
   blogPost: IMarkdownData;

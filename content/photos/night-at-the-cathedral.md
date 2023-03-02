@@ -2,7 +2,7 @@
 
 - GPS: 54.773808333333335,-1.5766777777777778
 - Location: Durham Cathedral, Durham, England, United Kingdom
-- Tags: Interior, Cathedral
+- Tags: Interior, Church/Cathedral
 
 The nave of Durham Cathedral, facing the choir. A group of students walks between empty pews, on their way to listen to an organ recital. The cathedral's interior is lit by spotlights near the ceiling, washing the bare stonework with moody lighting. At the far end, the Rose Window is lit from the inside rather than by sunlight from outside.
 

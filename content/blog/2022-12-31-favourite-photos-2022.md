@@ -54,9 +54,9 @@ At the end of my June trip to south-east England, an impromptu stop at [Fountain
 
 This photo towards the crossing, looking up at the pillars and arches, contrasts the textured stonework with the perfectly blue summer's sky beyond. The angle and placement of the structure's geometry creates multiple holes that the sky enters through, making this long disused place vibrant again.
 
-## #5: Lagangarbh in December
+## #5: Lagangarbh Hut and Buachaille Etive Mòr
 
-<img src="../../public/photos/lagangarbh-in-december.jpeg" />
+<img src="../../public/photos/lagangarbh-hut-and-buachaille-etive-mòr-20221210.jpeg" />
 
 When compiling this list, I started with a "shortlist" of around 100 photos - three of which were of Lagangarbh, the famous white house at the top of Glen Coe. Each was from a different season, but I've chosen this one from December for several reasons.
 
