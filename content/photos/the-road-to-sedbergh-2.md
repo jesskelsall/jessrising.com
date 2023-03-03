@@ -2,7 +2,7 @@
 
 - GPS: 54.42805,-2.3783527777777778
 - Location: Howgill Fells, Yorkshire Dales, England, United Kingdom
-- Tags: Landscape, Snow
+- Tags: Landscape
 
 A rough road stretches into the distance before turning sharply out of sight. It lines the undulating hills with little confidence. Beyond it, green and brown-orange hills rise into the low drifting clouds, obscuring the summits. Above, thick grey cloud lingers.
 
