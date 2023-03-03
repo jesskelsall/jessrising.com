@@ -32,7 +32,7 @@ At Dalness, a large green estate stands behind a wooden fence. Driving back out 
 
 Deeper yet, Glen Etive Forest appears. Much of the trees here are non-native pine, with clear signs of logging routes. A series of hydro works have been taking place in Glen Etive since 2019, some controversial amongst hikers who wish to preserve the rugged nature of this glen, surrounded by oft in demand hiking routes and summits. Nevertheless, progress marches on unrelentingly.
 
-The forest also provides the first habitat for deer, the glen's most populous inhabitants. At this time of year towards the end of winter, deer are still found in the valley where the temperature is more forgiving. In spring they will return to higher climbs. We would often spot deer near the road of treeline while driving the worn road here.
+The forest also provides the first habitat for deer, the glen's most populous inhabitants. At this time of year towards the end of winter, deer are still found in the valley where the temperature is more forgiving. In spring they will return to higher climbs. We would often spot deer near the road or treeline while driving the worn road here.
 
 <img src="../../public/photos/deer-below-stob-dubh.jpeg">
 
@@ -49,7 +49,7 @@ Past Ben Starav, the glen widens as the river Etive snakes downhill to its event
 
 Glen Etive has no amenities, no businesses, no public toilets. Aside from the few houses and holiday lets, the main draw is the scenery. Many wild campers, both in tents and camper vans, revel in a stop along their journey through Glen Coe, and yet more pull in to passing places briefly for choice photos of the landscape.
 
-It was a real privilege to stay here for a week. The drive from the main road to our accommodation took 20 to 30 minutes each way, and it was hard not to get excited each time for it. Each time I found new vantage points and ideas for photo scenes, realised on future trips. Once the first few days' rains departed, clear skies and the gift of an overnight snow flurry above the freezing level beckoned my camera to retake many of my photos.
+It was a real privilege to stay here for a week. The drive from the main road to our accommodation took 20 to 30 minutes each way, and it was hard not to get consistently excited for it. Each time I found new vantage points and ideas for photo scenes, realised on future trips. Once the first few days' rains departed, clear skies and the gift of an overnight snow flurry above the freezing level beckoned my camera to retake many of my photos.
 
 ## Accommodation
 
