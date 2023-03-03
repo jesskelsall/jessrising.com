@@ -12,11 +12,11 @@ As this holiday took place Saturday to Saturday, there's so much I want to cover
 
 In the middle of the Scottish Highlands, the arterial A82 winds its way from Loch Lomond to Fort William. Along the way, it passes through some of the Highlands' greatest scenery: Glen Coe. Right before descending the once inaccessible glen and sampling its sights, a small road sign points the route to Glen Etive.
 
-Immediately the road becomes bumpy, and signs warn that it is single-track with passing places. Its undulating roads, perilously above the river Etive at times, and with many blind spots and sharp crests, keeps an eager foot hovered over the brake pedal at all times.
+Immediately the road becomes bumpy, and signs warn that it is single-track with passing places. Its undulating roads, perilously above the river Etive at times, and with many blind spots and sharp crests, keeps an eager foot hovered over the brake pedal.
 
 <img src="../../public/photos/river-and-road.jpeg">
 
-Glen Etive is perhaps best known for a location used in the 3023 James Bond film [Skyfall](https://www.imdb.com/title/tt1074638/). Setting the film up for its dramatic finale, Bond (Daniel Craig) drives M (Judi Dench) into Scotland, towards his ancestral home, the film's namesake. Along the way they stop to admire the glen scenery and have a poignant conversation about Bond's parents.
+Glen Etive is perhaps best known for a location used in the 2012 James Bond film [Skyfall](https://www.imdb.com/title/tt1074638/). Setting the film up for its dramatic finale, Bond (Daniel Craig) drives M (Judi Dench) into Scotland, towards his ancestral home, the film's namesake. Along the way they stop to admire the glen scenery and have a poignant conversation about Bond's parents.
 
 This scene was filmed in Glen Etive, about one third of the way along its only road. While the film suggests that further sights and a large manor lay beyond, the location was chosen for its beauty, and Skyfall manor was a set constructed on a sound stage for the film. Glen Etive's road eventually terminates at Loch Etive. Nonetheless, many fans venture here to take the same iconic photo, stood in front of their car in the now well-worn lay-by.
 
