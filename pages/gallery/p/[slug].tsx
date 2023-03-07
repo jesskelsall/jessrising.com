@@ -7,7 +7,7 @@ import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraph
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import { getMarkdownDataBySlug } from "../../../functions/data";
-import { getSlugsFromMarkdownFiles } from "../../../functions/file";
+import { getSlugsFromMarkdownFileNames } from "../../../functions/file";
 import { getContentFileNames } from "../../../functions/fs";
 import { asPageTitle } from "../../../functions/title";
 import { IEXIF } from "../../../types/gallery";
@@ -26,7 +26,7 @@ interface IProps {
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
   const photoFiles = await getContentFileNames("photos");
-  const photoSlugs = getSlugsFromMarkdownFiles(photoFiles);
+  const photoSlugs = getSlugsFromMarkdownFileNames(photoFiles);
 
   return {
     paths: photoSlugs.map((slug) => ({ params: { slug } })),
