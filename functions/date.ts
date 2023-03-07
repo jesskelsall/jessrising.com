@@ -1,8 +1,8 @@
 import { DateTime } from "luxon";
 import { IMarkdownData } from "../types/markdown";
 
-const ORDINALS = ["th", "st", "nd", "rd"];
-
+// Parses the given date in the given format as a Luxon DateTime object
+// Returns undefined if an invalid date or no date value
 export const dateFromString = (
   dateString: string | undefined | null,
   format?: string
@@ -17,24 +17,31 @@ export const dateFromString = (
   return date.setLocale("en-GB");
 };
 
+// dateFromString wrapper for EXIF date format
+export const dateFromEXIFString = (
+  dateString: string | undefined
+): DateTime | undefined => dateFromString(dateString, "yyyy:MM:dd HH:mm:ss");
+
+// dateFromString wrapper for IMarkdownData optional chaining
+export const dateFromPhoto = (photo: IMarkdownData): DateTime | undefined =>
+  dateFromEXIFString(photo.meta.photo?.date);
+
+// Get a date prefixed to the given slug, if one is present
 export const dateFromSlug = (slug: string): DateTime | undefined => {
   const dateString = slug.slice(0, 10);
   return dateFromString(dateString);
 };
 
-export const formatLongDate = (date: DateTime): string => {
-  let [ordinal] = ORDINALS;
-  if (date.day < 11 && date.day > 13) {
-    ordinal = ORDINALS[date.day % 10] || ORDINALS[0];
-  }
+// Returns the English ordinal to use for the given day of the month
+export const getDateOrdinal = (day: number): string => {
+  const ordinals = ["th", "st", "nd", "rd"];
 
-  return date.toFormat("d! MMMM y").replace("!", ordinal);
+  if (day >= 11 && day <= 13) return ordinals[0];
+  return ordinals[day % 10] || ordinals[0];
 };
 
-// Convert EXIF date string to Luxon DateTime object
-export const parseEXIFDate = (
-  dateString: string | undefined
-): DateTime | undefined => dateFromString(dateString, "yyyy:MM:dd HH:mm:ss");
-
-export const getPhotoDate = (photo: IMarkdownData): DateTime | undefined =>
-  parseEXIFDate(photo.meta.photo?.date);
+// Output the given date in the typical UK long format
+export const formatLongDate = (date: DateTime): string => {
+  const ordinal = getDateOrdinal(date.day);
+  return date.toFormat("d! MMMM y").replace("!", ordinal);
+};

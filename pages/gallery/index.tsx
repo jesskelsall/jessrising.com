@@ -7,7 +7,7 @@ import { TContentArea } from "../../components/Header/Header";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import galleryPhotosJSON from "../../data/galleryPhotos.json";
 import { getOtherMarkdownData } from "../../functions/data";
-import { getPhotoDate } from "../../functions/date";
+import { dateFromPhoto } from "../../functions/date";
 import { applyFilterQueries, TModelFilter } from "../../functions/filter";
 import {
   queryParamToIntegers,
@@ -71,7 +71,7 @@ export const getServerSideProps: GetServerSideProps<
     filters.push([
       [month.toString()],
       (photo) => {
-        const date = getPhotoDate(photo);
+        const date = dateFromPhoto(photo);
         return date ? [date.month.toString()] : [];
       },
     ]);
@@ -80,7 +80,7 @@ export const getServerSideProps: GetServerSideProps<
     filters.push([
       [year.toString()],
       (photo) => {
-        const date = getPhotoDate(photo);
+        const date = dateFromPhoto(photo);
         return date ? [date.year.toString()] : [];
       },
     ]);

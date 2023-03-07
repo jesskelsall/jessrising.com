@@ -7,6 +7,9 @@ V2 in development.
 - Newsletter sign-up:
   - Mailchimp integration
 - Server side rendered gallery:
+  - Better date ranges
+    - Year & month uses printer-style ranges e.g. 1,2,3-5
+    - From & to fields that accept Y, M, D fully or partially. Inclusive
   - Interactive filtering system.
     - Flat list of tags.
     - Locations provide more specific options when selected.

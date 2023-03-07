@@ -8,7 +8,7 @@ import { DIR_CONTENT, DIR_PHOTOS } from "../consts/app";
 import { ContentType } from "../types/content";
 import { IEXIF } from "../types/gallery";
 import { IMarkdownData } from "../types/markdown";
-import { getSlugsFromMarkdownFiles } from "./file";
+import { getSlugsFromMarkdownFileNames } from "./file";
 import { parseMarkdown } from "./markdown";
 
 const readdir = util.promisify(fs.readdir);
@@ -26,7 +26,7 @@ export const getContentFileNames = async (
 // Gets all blog posts in the blog directory
 export const getAllBlogPosts = async (): Promise<IMarkdownData[]> => {
   const fileNames = await getContentFileNames("blog");
-  const slugs = getSlugsFromMarkdownFiles(fileNames);
+  const slugs = getSlugsFromMarkdownFileNames(fileNames);
 
   return Promise.all<IMarkdownData>(
     slugs.map(
@@ -63,7 +63,7 @@ export const readPhotoEXIF = async (filePath: string): Promise<IEXIF> => {
 // Get all gallery photos in the photos directory
 export const getAllGalleryPhotos = async (): Promise<IMarkdownData[]> => {
   const fileNames = await getContentFileNames("photos");
-  const slugs = getSlugsFromMarkdownFiles(fileNames);
+  const slugs = getSlugsFromMarkdownFileNames(fileNames);
 
   return Promise.all<IMarkdownData>(
     slugs.map(
