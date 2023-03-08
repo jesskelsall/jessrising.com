@@ -31,6 +31,10 @@ export const expandRange = (param: TQueryParam): number[] => {
       const rangeAsParts = range
         .split("-")
         .map((part) => Number.parseInt(part, 10));
+      if (rangeAsParts.length > 2 || Number.isNaN(rangeAsParts[0])) {
+        return undefined;
+      }
+
       const isValidRange =
         rangeAsParts.length === 2 &&
         rangeAsParts.every((part) => !Number.isNaN(part));

@@ -89,5 +89,24 @@ describe("expandRange", () => {
     test("returns unique values for overlapping numbers and ranges", () => {
       expect(expandRange("15,13-17")).toEqual([15, 13, 14, 16, 17]);
     });
+
+    test("returns unique values for ranges of one number", () => {
+      expect(expandRange("3-3")).toEqual([3]);
+    });
+  });
+
+  describe("invalid numbers", () => {
+    test("returns an empty array when a number is negative", () => {
+      expect(expandRange("-7")).toEqual([]);
+    });
+
+    test("returns an empty array when not parseable as a number", () => {
+      expect(expandRange("string")).toEqual([]);
+    });
+
+    test("returns an empty array when a range has multiple hyphens", () => {
+      expect(expandRange("-3-0")).toEqual([]);
+      expect(expandRange("1-3-7")).toEqual([]);
+    });
   });
 });
