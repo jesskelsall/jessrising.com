@@ -102,6 +102,7 @@ describe("expandRange", () => {
 
     test("returns an empty array when not parseable as a number", () => {
       expect(expandRange("string")).toEqual([]);
+      expect(expandRange("2-x")).toEqual([]);
     });
 
     test("returns an empty array when a range has multiple hyphens", () => {

@@ -31,9 +31,12 @@ export const expandRange = (param: TQueryParam): number[] => {
       const rangeAsParts = range
         .split("-")
         .map((part) => Number.parseInt(part, 10));
-      if (rangeAsParts.length > 2 || Number.isNaN(rangeAsParts[0])) {
-        return undefined;
-      }
+
+      // Disregard negative numbers and strings
+      if (Number.isNaN(rangeAsParts[0])) return undefined;
+
+      // Return numbers as-is
+      if (rangeAsParts.length === 1) return rangeAsParts[0];
 
       const isValidRange =
         rangeAsParts.length === 2 &&
@@ -52,10 +55,6 @@ export const expandRange = (param: TQueryParam): number[] => {
         );
         return ascending ? numbers : numbers.reverse();
       }
-
-      // Return numbers as-is
-      const rangeAsNumber = parseInt(range, 10);
-      if (!Number.isNaN(rangeAsNumber)) return rangeAsNumber;
 
       // Disregard all other values
       return undefined;
