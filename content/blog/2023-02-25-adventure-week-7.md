@@ -6,7 +6,7 @@ A transformative week-long holiday staying in Glen Etive, one road away from Gle
 
 As this holiday took place Saturday to Saturday, there's so much I want to cover, but it'll be necessary to be brief, otherwise this will turn into an essay. Rather than providing a chronological account of the holiday, I'm grouping my thoughts into areas and locations, noting particular days where relevant.
 
-<img src="../../public/photos/glen-etive-1.jpeg" cover>
+<img src="../../public/photos/glen-etive-1.jpeg" cover />
 
 ## Glen Etive
 
@@ -14,7 +14,7 @@ In the middle of the Scottish Highlands, the arterial A82 winds its way from Loc
 
 Immediately the road becomes bumpy, and signs warn that it is single-track with passing places. Its undulating roads, perilously above the river Etive at times, and with many blind spots and sharp crests, keeps an eager foot hovered over the brake pedal.
 
-<img src="../../public/photos/river-and-road.jpeg">
+<img src="../../public/photos/river-and-road.jpeg" />
 
 Glen Etive is perhaps best known for a location used in the 2012 James Bond film [Skyfall](https://www.imdb.com/title/tt1074638/). Setting the film up for its dramatic finale, Bond (Daniel Craig) drives M (Judi Dench) into Scotland, towards his ancestral home, the film's namesake. Along the way they stop to admire the glen scenery and have a poignant conversation about Bond's parents.
 
@@ -22,30 +22,30 @@ This scene was filmed in Glen Etive, about one third of the way along its only r
 
 I had insisted on the same pilgrimage when travelling through Glen Coe to the Isle of Skye with my friend Rin last summer. That gave me the first taste of a quiet valley, towered over on both sides by [munros](https://en.wikipedia.org/wiki/Munro), dramatic scenery constantly unfolding with each passing moment of the drive.
 
-<img src="../../public/photos/view-to-skyfall-230220.jpeg">
+<img src="../../public/photos/view-to-skyfall-230220.jpeg" />
 
 The character of the landscape changes along the nearly 19-mile drive from junction to loch. Initially set amongst rolling hills, with torrential river swell deep below, the terrain begins to undulate around the Skyfall viewpoint. Beyond it, a flatter plains-like area flanked by mountains gives the greatest sense of verticality - the mountains above barely seem to move with each passing corner of the road.
 
 At Dalness, a large green estate stands behind a wooden fence. Driving back out of the glen reveals a stately home with newer outbuildings, and the closest land you'll find here resembling a lawn. Horses in coats roam nearby.
 
-<img src="../../public/photos/dalness.jpeg">
+<img src="../../public/photos/dalness.jpeg" />
 
 Deeper yet, Glen Etive Forest appears. Much of the trees here are non-native pine, with clear signs of logging routes. A series of hydro works have been taking place in Glen Etive since 2019, some controversial amongst hikers who wish to preserve the rugged nature of this glen, surrounded by oft in demand hiking routes and summits. Nevertheless, progress marches on unrelentingly.
 
 The forest also provides the first habitat for deer, the glen's most populous inhabitants. At this time of year towards the end of winter, deer are still found in the valley where the temperature is more forgiving. In spring they will return to higher climbs. We would often spot deer near the road or treeline while driving the worn road here.
 
-<img src="../../public/photos/deer-below-stob-dubh.jpeg">
+<img src="../../public/photos/deer-below-stob-dubh.jpeg" />
 
 Just a bit further on, the road ascends suddenly, clinging to the hillside above Lochan Urr. This "little lake" provides an exquisite vantage point for the backsides of Buachaille Etive Beag and Buachaille Etive Mòr to the north, and a complete view of Ben Starav to the south. Midweek these peaks were snow-capped.
 
-<img src="../../public/photos/lochan-urr-viewpoint-230222.jpeg">
-<img src="../../public/photos/ben-starav.jpeg">
+<img src="../../public/photos/lochan-urr-viewpoint-230222.jpeg" />
+<img src="../../public/photos/ben-starav.jpeg" />
 
 Descending back to the valley floor, more forest gives home to several buildings, the last locals still clinging to the remoteness of this place. Fields for horses and a few token sheep were mostly full of grazing deer, easily able to leap the fences any time they so wished. Past the next stream was our home for the week, but I'll get back to that in a moment.
 
 Past Ben Starav, the glen widens as the river Etive snakes downhill to its eventual end at Loch Etive. Here the road ends at a car park, popular with campers even during the rainy first days of the holiday, with only a jetty and boggy trail beyond it. After a few rainy days with limited visibility, Ben Cruachan far beyond revealed itself to us.
 
-<img src="../../public/photos/loch-etive.jpeg">
+<img src="../../public/photos/loch-etive.jpeg" />
 
 Glen Etive has no amenities, no businesses, no public toilets. Aside from the few houses and holiday lets, the main draw is the scenery. Many wild campers, both in tents and camper vans, revel in a stop along their journey through Glen Coe, and yet more pull in to passing places briefly for choice photos of the landscape.
 
@@ -57,7 +57,7 @@ Sophie and I stayed at [Glen Etive Schoolhouse](https://glenetiveschoolhouse.co.
 
 A winding track from the glen road brought us down to the schoolhouse, nestled between forest on one side and tributary on the other. At the bottom of the garden wall, heather gives way to rocks and then the river Etive itself. On the other side, [Stob Dubh](https://www.walkhighlands.co.uk/munros/stob-dubh-buachaille-etive-beag) and Beinn Chaorach loomed large, often with their heads in the clouds. On a clear day, facing south the top of [Ben Starav](https://www.walkhighlands.co.uk/munros/ben-starav) could be seen between hillside and tree.
 
-<img src="../../public/photos/glen-etive-2.jpeg">
+<img src="../../public/photos/glen-etive-2.jpeg" />
 
 The schoolhouse itself was thick-walled, large, and well equipped. A generous living room with wood burning fire provided us with somewhere to relax, while a high ceiling kitchen would be where most of our meals would be had. Plenty of room in the hall and a downstairs toilet completed the floor. Upstairs, a bedroom with double bed looking out over the nearby stream, and a second bedroom with two single beds - clearly space for plenty of people. The bathroom contained a bath and shower with a curtain.
 
@@ -71,11 +71,11 @@ This is exceptionally easy in Glen Etive as there is no phone signal. The accomm
 
 As a result, late lie-ins and early nights were had. We both brought our laptops, affording Sophie a chance to write and me a chance to edit some of last year's 10,000 photos. We felt productive and without pressure, or could just relax without feeling like failures. The house's DVD collection was put to good use. First up was Skyfall, naturally.
 
-<img src="../../public/photos/glen-etive-schoolhouse-by-night.jpeg">
+<img src="../../public/photos/glen-etive-schoolhouse-by-night.jpeg" />
 
 The wood burning fire in the living room was my favourite part of our accommodation. Armed with two backseats full of wood and kindling, we felt overly prepared for a roaring fire each night, but we got through most of our supply. Crackling logs engulfed in rolling flames was a constant evening backdrop, burning for hours under my constant maintenance. Keeping a fire burning well takes effort, a process which I found cathartic.
 
-<img src="../../public/photos/glen-etive-3.jpeg">
+<img src="../../public/photos/glen-etive-3.jpeg" />
 
 On reflection, Glen Etive Schoolhouse was almost the perfect winter getaway. Cosy, embedded in its natural surroundings, quiet, and easily warm, it only missed a perfect score for its sheer remoteness. We are now planning a similar trip next year, somewhere with phone signal and walking distance from a pub!
 
@@ -83,11 +83,11 @@ On reflection, Glen Etive Schoolhouse was almost the perfect winter getaway. Cos
 
 We brought enough food to eat three meals each day in the schoolhouse, but of course it's more fun to sample local eateries. Our closest restaurant was at [Kingshouse Hotel](https://www.kingshousehotel.co.uk/), within viewing distance at the nearest road junction at the top of Glen Coe. This upmarket hotel provides hikers and skiers unparalleled highlands scenery, the [Glencoe Mountain Resort](https://www.glencoemountain.co.uk/) the only other building in the area.
 
-<img src="../../public/photos/glen-etive-4.jpeg">
+<img src="../../public/photos/glen-etive-4.jpeg" />
 
 Price be damned, a nice holiday demands nice meals. On our first night we had dinner in the restaurant, then returned on Thursday for lunch in the bar. Both meals were superlative. I had venison both times, keen to taste the highland delicacy while here. The treacle sponge with salted caramel ice cream delivered me to tastebud heaven on both occasions, too good to pass up at lunch.
 
-<img src="../../public/photos/glen-etive-5.jpeg">
+<img src="../../public/photos/glen-etive-5.jpeg" />
 
 Beyond this, a stop at Castle Stalker Viewpoint was our only other meal away from home. I did a lot of solo travelling throughout the week and often had few places to stop for food, so I took sandwiches or went without, gorging on the evening meal instead.
 
@@ -99,30 +99,30 @@ Around that, I stopped at [Stob Dearg](../../gallery/p/stob-dearg-230224), [Meet
 
 Our "Glen Coe day" started with Lagangarbh, home to my favourite white house in Scotland - the [Scottish Mountaineering Club](https://www.smc.org.uk/)'s building at the base of [Buachaille Etive Mòr](https://en.wikipedia.org/wiki/Buachaille_Etive_M%C3%B2r). The sun directly behind the mountain made capturing a good photo difficult, but I was happy with my effort from the National Trust for Scotland sign, an angle that includes the river Coupall.
 
-<img src="../../public/photos/lagangarbh.jpeg">
+<img src="../../public/photos/lagangarbh.jpeg" />
 
 Further down we parked up and attempted to get onto Old Military Road, this section part of the [West Highland Way](https://www.westhighlandway.org/). The charged river meant parking further back and elongating the walk, but views across The Three Sisters and a vantage point directly down the road made the walk exciting and breathtakingly beautiful.
 
 Our destination was Ralston Cairn, dedicated to [Ralston Claud Muir](https://www.livebreathescotland.com/ralston-cairn-glencoe/). The poignant tribute overlooking The Three Sisters and down towards Loch Achtriochtan was surprisingly hard to find, but a worthwhile find and resting point before heading back.
 
-<img src="../../public/photos/pass-of-glencoe.jpeg">
-<img src="../../public/photos/ralston-cairn.jpeg">
+<img src="../../public/photos/pass-of-glencoe.jpeg" />
+<img src="../../public/photos/ralston-cairn.jpeg" />
 
 Continuing down the valley, we stopped in at the [Glencoe Visitor Centre](https://www.nts.org.uk/visit/places/glencoe/highlights/visitor-centre). Here we found an exhibition on hiking in the glen and mountain rescue, enjoyed a video detailing the construction of their traditional MacDonald turf house, and then got to explore it ourselves, surrounded by snow-capped mountains. Afterwards the café and visitor centre provided a refuel and mementos. What more could you ask for? This was an impressive attraction.
 
-<img src="../../public/photos/glen-etive-6.jpeg">
+<img src="../../public/photos/glen-etive-6.jpeg" />
 
 ## Glen Creran
 
 Our first adventure of the holiday was to Glen Creran. This tucked away valley was just west of Glen Etive and potentially walkable from the house (a feat I'd originally considered) but would have taken dawn until dusk to complete. Instead, we drove around via the coast and past [Castle Stalker](https://www.wildernessscotland.com/blog/castle-stalker/). Here we enjoyed coffee, cake, and a view of the Monty Python and the Holy Grail castle from atop of the car park.
 
-<img src="../../public/photos/castle-stalker.jpeg">
+<img src="../../public/photos/castle-stalker.jpeg" />
 
 As we approached Glen Creran, the road quickly deteriorated into single-track. Eventually the solitary car park spelled the end of the road and the start of a quick walk, albeit one full of drizzle and rain.
 
 Retracing the road we ascended into the trees through muddy worn paths alongside a stream, catching views of waterfalls between the trees. Atop the largest sits a stone bridge with spiky sides, affectionately known as _The Fairy Bridge of Glen Creran._
 
-<img src="../../public/photos/the-fairy-bridge-of-glen-creran.jpeg">
+<img src="../../public/photos/the-fairy-bridge-of-glen-creran.jpeg" />
 
 This magical place is an unironic "hidden gem", with little information present online aside from a hiking route and a few blog posts. Its inaccessibility perhaps keeps it away from travel TikToks / Instagram Reels, so many would-be visitors are missing out.
 
@@ -132,12 +132,12 @@ The stream cascading through, and the moss-covered bridge and trees gives an anc
 
 On Monday we headed to Oban via Loch Awe, allowing us to stop at Kilchurn Castle and St Conan's Kirk along the way. The former is not worth getting close to, instead a visit to an opposite shore provides a photo of the loch, castle, and mountains behind. Alas, this day more rain kept us from Loch Awe's shores, and a simple photo from the lay-by would be good enough.
 
-<img src="../../public/photos/glen-etive-7.jpeg">
+<img src="../../public/photos/glen-etive-7.jpeg" />
 
 We had a much more fruitful time at St Conan's Kirk. My third visit but Sophie's first, the surprisingly recent _kirk_ (church) dazzled with its semi-circular ambulatory behind the altar. Set on the shores of Loch Awe, a quick trip to the back garden reveals a haphazard exterior incorporating multiple styles, and with creamy replacement stones, work still ongoing to keep the building for future generations.
 
-<img src="../../public/photos/st-conans-kirk-choir-230220.jpeg">
-<img src="../../public/photos/st-conans-kirk-230220.jpeg">
+<img src="../../public/photos/st-conans-kirk-choir-230220.jpeg" />
+<img src="../../public/photos/st-conans-kirk-230220.jpeg" />
 
 Soon we arrived in Oban. My only previous visit was to catch the ferry to the Isle of Mull last October, so just being back got me excited with both nostalgia and longing for a repeat trip this May with friends. A well-known port for seafood, Oban is otherwise quiet and dishevelled, especially on a winter's weekday.
 
@@ -145,8 +145,8 @@ Our first port of call was breakfast. Immediately after we trudged steeply uphil
 
 Beyond exploring the structure was the best view of Oban, the isle of Kerrera, and Mull's mountains disappearing into distant clouds. From here the [Caledonian MacBrayne](https://www.calmac.co.uk/) ferry port was clearly visible, and we watched the [MV Isle of Mull](https://www.calmac.co.uk/fleet/mv-isle-of-mull) arrive into port.
 
-<img src="../../public/photos/mc-caigs-tower.jpeg">
-<img src="../../public/photos/oban.jpeg">
+<img src="../../public/photos/mc-caigs-tower.jpeg" />
+<img src="../../public/photos/oban.jpeg" />
 
 ## Morvern
 
@@ -154,7 +154,7 @@ After several days of rain and cloud, and one ill-fated attempt to hike that saw
 
 Getting there involved driving down Glen Coe, then catching the car ferry to Corran. This ferry bypasses Loch Linhe, Fort William, and the multi-hour drive around via rough single-track road. For £10 a short ferry hop delivered me to Morvern, an area overlooking the isle of Mull.
 
-<img src="../../public/photos/glen-etive-8.jpeg">
+<img src="../../public/photos/glen-etive-8.jpeg" />
 
 Once disembarked, I felt as if I had stepped into another world. Much like arriving on Mull, a strong sense of remoteness took hold, despite the proximity of civilisation across the water. Arterial roads with rarely a house in sight snaked the rugged landscape, and I was in my element.
 
@@ -162,18 +162,18 @@ After crossing Glen Tarbert, I enjoyed views across Loch Sunart before getting d
 
 Lochaline was stunningly moody. Strong sunbeams pierced the clouds and illuminated the sound for my arrival. I pulled up at the community centre where I bought a hot chocolate, then wandered down to the ferry terminal. Cars queued for the short journey to Mull, specifically Fishnish. I briefly considered going myself.
 
-<img src="../../public/photos/sunbeams-above-the-sound.jpeg">
-<img src="../../public/photos/glen-etive-9.jpeg">
+<img src="../../public/photos/sunbeams-above-the-sound.jpeg" />
+<img src="../../public/photos/glen-etive-9.jpeg" />
 
 Walking further along the coast to the next jetty, I crossed paths with a woman from Yorkshire. As she entertained her two sprockers on the beach, we chatted about the area, the best place to spot otters (no luck unfortunately) and how she found herself here - her husband worked in a coal mine until it closed, then they moved here so he would work in a nearby sand mine. She seemed content with the remoteness and slow easy-going pace. I envied her.
 
-<img src="../../public/photos/the-woman-and-her-dog.jpeg">
+<img src="../../public/photos/the-woman-and-her-dog.jpeg" />
 
 Making my way back to Lochaline, I felt the tug of home, and Sophie who had asked me to return by dark. My lie-in left me with little time to play with, and I'd enjoyed most of it around Morvern. Seeing Tobermory felt a waste of what was left, so I headed back to Loch Sunart for a chance at wildlife watching.
 
 A walk through steep forest revealed a wildlife hide on the forest's edge. From here views of Garbh Eilean could provide opportunities to watch otters, seals, herons, and maybe even golden eagles. Instead, two kayakers put to bed any chance of wildlife, though two nearby common seals either hadn't noticed or didn't care.
 
-<img src="../../public/photos/glen-etive-10.jpeg">
+<img src="../../public/photos/glen-etive-10.jpeg" />
 
 Heading home from here, I spent my time waiting for the ferry contemplating a return before the trip's end. Ardnamurchan was still firmly my target.
 
@@ -183,27 +183,27 @@ On the last day of the trip, I did exactly that. Back across the Corran ferry I 
 
 At the edge of Loch Shiel, I was treated to panoramic views of the loch and the mouth of river Polloch. The train meandered through pine forest, down to the water's edge and a pontoon, the perfect position for photos.
 
-<img src="../../public/photos/loch-shiel.jpeg">
+<img src="../../public/photos/loch-shiel.jpeg" />
 
 The morning's digression sharpened my mind, so I made haste back to Strontian and towards Salen, where I turned off the main road into Ardnamurchan. Destination: Point of Ardnamurchan and its lighthouse. From here that meant a scenic one-hour drive along the coast and over hills. What a shame.
 
-<img src="../../public/photos/glen-etive-11.jpeg">
+<img src="../../public/photos/glen-etive-11.jpeg" />
 
 The drive was unknowingly elongated by frequent stops for photos, and then suddenly by [Ardnamurchan Distillery](https://www.adelphidistillery.com/) which beckoned me in and sent me away with a bottle. I stopped briefly at Kilchoan too, photographing Mingary Castle from Mingary Pier, empty at this time.
 
-<img src="../../public/photos/mingary-castle.jpeg">
+<img src="../../public/photos/mingary-castle.jpeg" />
 
 When the road eventually ended at Ardnamurchan Lighthouse, I was not alone, but most stopped only briefly as it was cold, windy, and the visitor centre was closed for the low season. Regardless, rugged coastline views could be had of Coll to the south-west and The Small Isles of Eigg, Much, and Rùm to the north. The first cardinal extreme of Great Britain was complete. The next will fall in April with my tour of the [North Coast 500](https://www.northcoast500.com/).
 
-<img src="../../public/photos/coastline-to-coll.jpeg">
+<img src="../../public/photos/coastline-to-coll.jpeg" />
 
 The drive back was easy going. At Salen I turned left, heading towards Mallaig via Kinlochmoidart. Here I would enjoy views of Loch Moidart and then the Sound of Arisaig. While scouring the horizon from the shore, I spotted the jagged peaks of the Black Cullin mountain range on the Isle of Skye, barely visible in the clouds behind Arisaig, 32 miles away.
 
-<img src="../../public/photos/glen-etive-12.jpeg">
+<img src="../../public/photos/glen-etive-12.jpeg" />
 
 After driving back via Glenfinnan and Fort William where I fuelled up the car for tomorrow's return home, I drove back down Glen Etive one last time. The setting sun illuminated sky behind the peaks, hazy orange. I chased it, driving the winding unsighted roads as fast as I dared. Emotion came over me - this beautiful trip was ending, and I welled up on the verge of tears. One last stop at the Skyfall viewpoint reminded me of just how fortunate we were to call Glen Etive our home for a week.
 
-<img src="../../public/photos/view-to-skyfall-230224.jpeg">
+<img src="../../public/photos/view-to-skyfall-230224.jpeg" />
 
 ## Conclusion
 
