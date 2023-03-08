@@ -32,7 +32,7 @@ describe("queryParamToIntegers", () => {
   });
 
   test("returns array without param when param is not a number", () => {
-    expect(queryParamToIntegers([0, "string"])).toEqual([0]);
+    expect(queryParamToIntegers(["0", "string"])).toEqual([0]);
   });
 });
 
