@@ -140,7 +140,7 @@ const addBlogPhoto = async (
   directory: string,
   photoName: string
 ): Promise<void> => {
-  const photoSlug = photoName;
+  const photoSlug = photoName.replace(".jpeg", "");
 
   const filePath = path.join(directory, photoName);
   const fileBuffer = await readFile(filePath);
@@ -174,12 +174,11 @@ const addAllPhotos = async (): Promise<void> => {
     directory: string,
     action: (dir: string, photoName: string) => Promise<void>
   ) => {
-    const directoryFiles = await readdir(
-      path.join(newPhotosDirectory, directory)
-    );
+    const directoryPath = path.join(newPhotosDirectory, directory);
+    const directoryFiles = await readdir(directoryPath);
     const photoFiles = directoryFiles.filter((file) => file.endsWith(".jpeg"));
 
-    return photoFiles.map((photo) => action(directory, photo));
+    return photoFiles.map((photo) => action(directoryPath, photo));
   };
 
   // Add each photo
