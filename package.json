@@ -12,7 +12,7 @@
     "build": "next build",
     "dev": "npm run prebuild && next dev",
     "lint": "next lint --fix",
-    "prebuild": "ts-node -P ./prebuild/tsconfig.json ./prebuild/index.ts",
+    "prebuild": "ts-node -P ./scripts/tsconfig.json ./scripts/prebuild.ts",
     "prepare": "husky install",
     "start": "next start",
     "test": "jest --verbose"
