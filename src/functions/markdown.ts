@@ -1,7 +1,10 @@
+import _ from "lodash/fp";
+import { MARKDOWN_DATA_EMPTY } from "../consts/data";
 import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
 import { dateFromSlug } from "./date";
 
-const emptyMetaData = (): IMarkdownMetaData => ({ photo: {} });
+const emptyMetaData = (): IMarkdownMetaData =>
+  _.cloneDeep(MARKDOWN_DATA_EMPTY.meta);
 
 // Get the photo file name from a markdown file's img src attribute
 export const parsePhotoSlugFromSrc = (src: string): string =>
