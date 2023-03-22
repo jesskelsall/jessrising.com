@@ -52,7 +52,7 @@ const addGalleryPhoto = async (
   fileName: string
 ): Promise<void> => {
   const [photoName, fileSuffix] = fileName.replace(".jpeg", "").split(" = ");
-  const photoSlug = _.kebabCase([photoName, fileSuffix || ""].join(" "));
+  const photoSlug = [_.kebabCase(photoName), fileSuffix || ""].join("-");
 
   // Check if this photo name has already been used
 
@@ -62,24 +62,15 @@ const addGalleryPhoto = async (
     `${photoSlug}.md`
   );
 
-  const filePath = path.join(directory, photoName);
-
   const markdownAlreadyExists = await fileExists(markdownFilePath);
-  if (!markdownAlreadyExists) {
-    // Delete the original photo
-
-    try {
-      await unlink(filePath);
-      console.info("Blog photo deleted", photoSlug);
-      return;
-    } catch {
-      console.warn("Failed to delete photo file", photoSlug);
-      return;
-    }
+  if (markdownAlreadyExists) {
+    console.warn("Photo already exists", photoSlug);
+    return;
   }
 
   // Extract EXIF data from file
 
+  const filePath = path.join(directory, fileName);
   const fileBuffer = await readFile(filePath);
   const {
     DateTime: Date,
@@ -109,15 +100,21 @@ const addGalleryPhoto = async (
 
   // Write photo to AWS S3 bucket
 
-  // const writeSuccess = await writeFileToBucket(fileBuffer, `${photoSlug}.jpeg`);
-  // if (!writeSuccess) {
-  //   console.warn("Failed to write file to S3 bucket", photoSlug);
-  //   return;
-  // }
+  const writeSuccess = await writeFileToBucket(fileBuffer, `${photoSlug}.jpeg`);
+  if (!writeSuccess) {
+    console.warn("Failed to write file to S3 bucket", photoSlug);
+    return;
+  }
 
   // Write gallery photo data file
 
-  const markdownContent: string[] = [];
+  const markdownContent: string[] = [
+    `# ${photoName}`,
+    "",
+    "- GPS: ",
+    "- Location: ",
+    "- Tags: Landscape",
+  ];
   if (exifData.camera) markdownContent.push(`- Camera: ${exifData.camera}`);
   if (exifData.date) markdownContent.push(`- Date: ${exifData.date}`);
   if (exifData.dimensions)
@@ -125,16 +122,7 @@ const addGalleryPhoto = async (
       `- Dimensions: ${exifData.dimensions.width}x${exifData.dimensions.height}`
     );
 
-  const markdownFile = await readFile(markdownFilePath);
-  const markdownLines = markdownFile.toString().split("\n");
-  if (!markdownLines[4].startsWith("- Tags:")) {
-    console.warn("Unexpected markdown structure:", photoSlug);
-    return;
-  }
-
-  markdownLines.splice(5, 0, ...markdownContent);
-
-  await writeFile(markdownFilePath, markdownLines.join("\n"));
+  await writeFile(markdownFilePath, markdownContent.join("\n").concat("\n"));
 
   // Delete the original photo
 
@@ -196,7 +184,7 @@ const addAllPhotos = async (): Promise<void> => {
   // Add each photo
 
   const promises = [
-    // ...(await getPhotoPromises("blog", addBlogPhoto)),
+    ...(await getPhotoPromises("blog", addBlogPhoto)),
     ...(await getPhotoPromises("gallery", addGalleryPhoto)),
   ];
 
