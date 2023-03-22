@@ -1,4 +1,3 @@
-import { IEXIF } from "../types/gallery";
 import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
 import { dateFromSlug } from "./date";
 

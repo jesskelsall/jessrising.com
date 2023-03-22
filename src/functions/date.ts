@@ -24,7 +24,7 @@ export const dateFromEXIFString = (
 
 // dateFromString wrapper for IMarkdownData optional chaining
 export const dateFromPhoto = (photo: IMarkdownData): DateTime | undefined =>
-  dateFromEXIFString(photo.meta.photo?.date);
+  dateFromString(photo.meta.photo?.date);
 
 // Get a date prefixed to the given slug, if one is present
 export const dateFromSlug = (slug: string): DateTime | undefined => {

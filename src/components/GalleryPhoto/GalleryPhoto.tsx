@@ -1,14 +1,13 @@
 import { startCase } from "lodash/fp";
 import Markdown from "markdown-to-jsx";
-import Link from "next/link";
-import path from "path";
 import { useGalleryPhoto } from "../../context/galleryPhoto";
+import { getImageSrcFromSlug } from "../../functions/image";
 import { GalleryHeading } from "../GalleryHeading/GalleryHeading";
 
 export const GalleryPhoto = () => {
   const { markdown, slug } = useGalleryPhoto();
 
-  const imagePath = path.join("/photos", `${slug}.jpeg`);
+  const imagePath = getImageSrcFromSlug(slug);
 
   const options = {
     overrides: {
@@ -18,9 +17,9 @@ export const GalleryPhoto = () => {
 
   return (
     <main className="content-area photo">
-      <Link className="photo" href={imagePath}>
+      <div className="photo">
         <img alt={startCase(slug)} src={imagePath} />
-      </Link>
+      </div>
       <Markdown options={options}>{markdown}</Markdown>
     </main>
   );

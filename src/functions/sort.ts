@@ -1,5 +1,5 @@
 import { IMarkdownData } from "../types/markdown";
-import { dateFromEXIFString } from "./date";
+import { dateFromString } from "./date";
 
 // Sort gallery photos chronologically
 // Any photos with no date are placed at the end of the array
@@ -7,8 +7,8 @@ export const sortGalleryPhotosByDate = (
   a: IMarkdownData,
   b: IMarkdownData
 ): number => {
-  const aDate = dateFromEXIFString(a.meta.photo?.date);
-  const bDate = dateFromEXIFString(b.meta.photo?.date);
+  const aDate = dateFromString(a.meta.photo?.date);
+  const bDate = dateFromString(b.meta.photo?.date);
 
   if (!aDate) return -1;
   if (!bDate) return 1;

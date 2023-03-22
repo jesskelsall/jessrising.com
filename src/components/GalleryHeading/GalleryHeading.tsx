@@ -1,6 +1,6 @@
 import { DateTime } from "luxon";
 import { useGalleryPhoto } from "../../context/galleryPhoto";
-import { dateFromEXIFString } from "../../functions/date";
+import { dateFromString } from "../../functions/date";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocation } from "../MarkdownLocation/MarkdownLocation";
 import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
@@ -15,7 +15,7 @@ export const GalleryHeading = ({
   ...props
 }: IGalleryHeadingProps) => {
   const { meta } = useGalleryPhoto();
-  const date = dateFromEXIFString(meta.photo?.date) || null;
+  const date = dateFromString(meta.photo?.date) || null;
 
   return (
     <>

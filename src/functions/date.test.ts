@@ -11,9 +11,9 @@ import {
 } from "./date";
 
 const EXIF_DATE_STRING = "2023:03:07 21:34:06";
+const ISO_DATE_STRING = "2023-03-07T21:34:06.327Z";
 
 describe("dateFromString", () => {
-  const isoDate = "2023-03-07T21:34:06.327Z";
   const customDate = "07-03-2023";
   const customFormat = "dd-MM-yyyy";
 
@@ -30,11 +30,11 @@ describe("dateFromString", () => {
   });
 
   test("returns undefined when date doesn't match custom format", () => {
-    expect(dateFromString(isoDate, customFormat)).toBeUndefined();
+    expect(dateFromString(ISO_DATE_STRING, customFormat)).toBeUndefined();
   });
 
   test("returns a DateTime for the default format", () => {
-    const date = dateFromString(isoDate);
+    const date = dateFromString(ISO_DATE_STRING);
 
     expect(date instanceof DateTime).toBeTruthy();
 
@@ -57,7 +57,7 @@ describe("dateFromString", () => {
   });
 
   test("returns DateTime with the en-GB locale", () => {
-    expect(dateFromString(isoDate)?.locale).toBe("en-GB");
+    expect(dateFromString(ISO_DATE_STRING)?.locale).toBe("en-GB");
   });
 });
 
@@ -88,7 +88,7 @@ describe("dateFromPhoto", () => {
   test("returns DateTime for a photo with a date", () => {
     const dataWithDate: IMarkdownData = {
       ...MARKDOWN_DATA_EMPTY,
-      meta: { photo: { date: EXIF_DATE_STRING } },
+      meta: { photo: { date: ISO_DATE_STRING } },
     };
     const date = dateFromPhoto(dataWithDate);
 

@@ -1,6 +1,6 @@
 import Link from "next/link";
-import path from "path";
 import { useGalleryPhotos } from "../../context/galleryPhotos";
+import { getImageSrcFromSlug } from "../../functions/image";
 import { parsePhotoSlugFromSrc } from "../../functions/markdown";
 
 interface IBlogImageProps {
@@ -21,27 +21,29 @@ export const BlogImage = ({
   const allGalleryPhotos = useGalleryPhotos();
   const photoSlug = parsePhotoSlugFromSrc(src);
 
-  // Check for matching gallery photo
-  const galleryPhoto = allGalleryPhotos.find(
-    (photo) => photoSlug === photo.slug
+  const image = (
+    <img
+      src={getImageSrcFromSlug(photoSlug)}
+      alt={alt}
+      style={{
+        width: 800,
+        maxWidth: "100%",
+      }}
+    />
   );
 
-  const imagePath = path.join("/photos", `${photoSlug}.jpeg`);
-  const href =
-    galleryPhoto || forceGallery ? `/gallery/p/${photoSlug}` : imagePath;
+  // Check for matching gallery photo
+  const linkToGalleryPhoto: boolean =
+    forceGallery ||
+    Boolean(allGalleryPhotos.find((photo) => photoSlug === photo.slug));
 
   return (
     <>
-      <Link href={href}>
-        <img
-          src={imagePath}
-          alt={alt}
-          style={{
-            width: 800,
-            maxWidth: "100%",
-          }}
-        />
-      </Link>
+      {linkToGalleryPhoto ? (
+        <Link href={`/gallery/p/${photoSlug}`}>{image}</Link>
+      ) : (
+        image
+      )}
       {caption && (
         <p>
           <em>{caption}</em>

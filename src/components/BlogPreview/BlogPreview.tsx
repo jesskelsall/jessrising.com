@@ -2,6 +2,7 @@ import { DateTime } from "luxon";
 import Image from "next/image";
 import Link from "next/link";
 import { formatLongDate } from "../../functions/date";
+import { getImageSrcFromSlug } from "../../functions/image";
 import { IMarkdownData } from "../../types/markdown";
 
 interface IBlogPreviewProps {
@@ -27,7 +28,7 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
 
       {summary.imageSlug && (
         <Image
-          src={`/photos/${summary.imageSlug}.jpeg`}
+          src={getImageSrcFromSlug(summary.imageSlug)}
           alt={summary.heading || ""}
           width={200}
           height={150}
