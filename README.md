@@ -35,20 +35,13 @@ V2 in development.
 
 ## Move Images to S3
 
-- Move website to ./src
 - Improve upload script
-  - Extract EXIF data from image
-    - GPS coordinates
-    - Dimensions
-    - Datetime
-    - Camera make & model
   - Render image at different sizes (if needed?)
     - Original
     - Large (gallery)
     - Medium (blog)
     - Small (thumbnail)
   - Upload to S3
-  - Write EXIF data to gallery photo markdown file header
 - All image references point to S3 URLs
 - Gallery photo data JSON references header EXIF values
 - Delete old public images

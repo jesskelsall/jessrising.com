@@ -9,6 +9,7 @@
     "url": "https://jesskelsall.com"
   },
   "scripts": {
+    "addphotos": "ts-node -P ./scripts/tsconfig.json ./scripts/addGalleryPhotos.ts",
     "build": "next build",
     "dev": "npm run prebuild && next dev",
     "lint": "next lint --fix",
@@ -31,6 +32,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@aws-sdk/client-s3": "^3.296.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.4.3",

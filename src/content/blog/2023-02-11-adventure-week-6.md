@@ -28,7 +28,7 @@ Mercifully, my map instructed me to take a hard right off the trail and ascend t
 
 <img src="../../public/photos/holme-wood.jpeg" />
 
-Beyond this, the trail became heavily wooded, accompanied by a pair of [Cheviot sheep](TODO) before the next gate leading out onto exposed hillside. A short walk downhill from here, the wooden bridge crossing Holme Beck. The views from here were my favourite of the day - Loweswater coming into view with Low Fell beyond. As the trail continued upward and round the hillside, a wooden bench afforded an opportunity to rest and take in the dramatic clouded scenery.
+Beyond this, the trail became heavily wooded, accompanied by a pair of [Swaledale sheep](https://en.wikipedia.org/wiki/Swaledale_sheep) before the next gate leading out onto exposed hillside. A short walk downhill from here, the wooden bridge crossing Holme Beck. The views from here were my favourite of the day - Loweswater coming into view with Low Fell beyond. As the trail continued upward and round the hillside, a wooden bench afforded an opportunity to rest and take in the dramatic clouded scenery.
 
 <img src="../../public/photos/holme-beck.jpeg" />
 <img src="../../public/photos/loweswater-from-the-bench.jpeg" />
