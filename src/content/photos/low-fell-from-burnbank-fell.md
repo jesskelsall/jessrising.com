@@ -1,6 +1,6 @@
 # Low Fell from Burnbank Fell
 
-- GPS: 
+- GPS: 54.580308333333335,-3.3726833333333333
 - Location: Burnbank Fell, Loweswater Fell, Lake District, England, United Kingdom
 - Tags: Landscape, Clouds
 - Camera: Apple iPhone 14 Pro Max
