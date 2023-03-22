@@ -3,6 +3,9 @@
 - GPS: 57.15620555555555,-5.673852777777778
 - Location: Sandaig, Scotland, United Kingdom
 - Tags: Landscape, Sunset
+- Camera: Apple iPhone 11 Pro Max
+- Date: 2022-06-04T22:12:36.000+01:00
+- Dimensions: 4032x3024
 
 A dramatic orange sunset illuminates the clouds blood orange above hills and water. From Sandaig, the Isle of Skye can be seen across the Sound of Sleat. Beinn na Seamraig and Ben Aslak scrape against the clouds in the middle of the photo, while the unmistakably jagged peaks of the [Cullin](https://en.wikipedia.org/wiki/Cuillin) can be seen on the furthest horizon where muted blue haze meets orange. The waters are illuminated orange tones.
 

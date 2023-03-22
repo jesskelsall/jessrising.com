@@ -2,6 +2,9 @@
 
 - Location: County Durham, England, United Kingdom
 - Tags: Landscape, Snow
+- Camera: SONY DSLR-A550
+- Date: 2010-01-04T09:10:50.000+00:00
+- Dimensions: 4592x3056
 
 An adolescent tree at head-height, its branches thick with delicate ice crystals, stands in a field of snow. Across the rolling fields the morning sun appears over the horizon, illuminating the snow and ice crystals.
 

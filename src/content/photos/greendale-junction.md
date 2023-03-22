@@ -3,6 +3,9 @@
 - GPS: 54.43685833333333,-3.310344444444444
 - Location: Wast Water, Lake District, England, United Kingdom
 - Tags: Landscape
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-01-22T09:34:34.000+00:00
+- Dimensions: 4003x3002
 
 A countryside signpost sits slightly crooked next to a road junction, identifying the valley as Greendale. To its right, Wasdale Head lies three miles away, the end of the road. Behind it, [Buckbarrow](https://en.wikipedia.org/wiki/Buckbarrow)'s craggy outline.
 

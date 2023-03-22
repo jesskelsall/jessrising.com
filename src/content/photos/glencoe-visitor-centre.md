@@ -3,3 +3,6 @@
 - GPS: 56.67095277777778,-5.081488888888889
 - Location: Glencoe, Glen Coe, Ben Nevis & Glen Coe, Scotland, United Kingdom
 - Tags: Landscape, Snow
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-02-22T14:48:33.000+00:00
+- Dimensions: 4032x3024

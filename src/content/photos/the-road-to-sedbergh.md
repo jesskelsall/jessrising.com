@@ -3,6 +3,9 @@
 - GPS: 54.42856111111111,-2.377063888888889
 - Location: Howgill Fells, Yorkshire Dales, England, United Kingdom
 - Tags: Landscape, Snow
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-01-22T12:38:40.000+00:00
+- Dimensions: 4032x3024
 
 A rough road stretches into the distance before turning sharply out of sight. It lines the undulating hills with little confidence. Beyond it, hills build into snow-capped Howgill Fells, stretching the entire length of the horizon.
 

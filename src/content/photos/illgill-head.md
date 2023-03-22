@@ -3,6 +3,9 @@
 - GPS: 54.45545277777778,-3.2690777777777775
 - Location: Wast Water, Lake District, England, United Kingdom
 - Tags: Landscape, Clouds
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-01-22T09:44:33.000+00:00
+- Dimensions: 4014x3010
 
 A dramatic slope of scree, descending mercilessly into Wast Water, stretches off into the mists beyond. High on its slopes, snow clings to its darker recesses, while clouds cling to its flat summit.
 

@@ -3,4 +3,7 @@
 - GPS: 56.664525,-5.037038888888889
 - Location: Loch Achtriochtan, Glen Coe, Ben Nevis & Glen Coe, Scotland, United Kingdom
 - Tags: Landscape, Snow, Waterfall, White House
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-02-22T13:48:35.000+00:00
+- Dimensions: 4032x3024
 

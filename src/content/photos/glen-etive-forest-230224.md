@@ -3,3 +3,6 @@
 - GPS: 56.60466666666667,-5.012291666666667
 - Location: Glen Etive Forest, Glen Etive, Ben Nevis & Glen Coe, Scotland, United Kingdom
 - Tags: Landscape, Snow, Sunset
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-02-24T17:38:18.000+00:00
+- Dimensions: 4032x3024

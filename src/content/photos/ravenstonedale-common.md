@@ -3,6 +3,9 @@
 - GPS: 54.43748055555555,-2.40855
 - Location: Howgill Fells, Yorkshire Dales, England, United Kingdom
 - Tags: Landscape, Snow
+- Camera: Apple iPhone 14 Pro Max
+- Date: 2023-01-22T12:49:43.000+00:00
+- Dimensions: 4032x3024
 
 Farmer's fields delineated by rough stone walls and posts trail off down the hill. Beyond them, trees and further fields at the base of the Howgill Fells. Snow hangs onto grassy areas and the peaks, particularly of [Wild Boar Fell](https://en.wikipedia.org/wiki/Wild_Boar_Fell) to the left.
 

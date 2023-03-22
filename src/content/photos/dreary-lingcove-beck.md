@@ -3,6 +3,9 @@
 - GPS: 56.87587222222222,-5.435075
 - Location: River Esk, Lake District, England, United Kingdom
 - Tags: Landscape
+- Camera: Apple iPhone 11 Pro Max
+- Date: 2022-07-23T13:31:12.000+01:00
+- Dimensions: 4032x3024
 
 Grass interspersed with small fell flowers, dotted with both wet rocks and deep puddles, gives way to a vista along a Lake District valley with no name, carrying the river Esk downstream. A consistently sloping valley of ferns disappears up the mountainside into low-hanging clouds where the going gets rocky. To the right, a dead tree partially obscures the valley's end, its branches like tendrils.
 
