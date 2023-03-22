@@ -9,7 +9,7 @@ export interface IGPS {
 export interface IMarkdownMetaData {
   gps?: IGPS;
   locations?: string[][];
-  photo?: IEXIF;
+  photo: IEXIF;
   tags?: string[];
 }
 

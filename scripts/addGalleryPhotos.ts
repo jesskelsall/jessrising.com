@@ -28,6 +28,38 @@ const fileExists = async (filePath: string): Promise<boolean> => {
   }
 };
 
+// Read EXIF data from a photo file
+const readPhotoEXIF = async (fileBuffer: Buffer): Promise<IEXIF> => {
+  const {
+    DateTime: Date,
+    "Image Height": Height,
+    "Image Width": Width,
+    Make,
+    Model,
+  } = await ExifReader.load(fileBuffer);
+
+  // Apply EXIF tag data if present
+  const exifData: IEXIF = {};
+
+  if (Make?.value[0] && Model?.value[0]) {
+    exifData.camera = `${Make.value[0]} ${Model.value[0]}`;
+  }
+
+  if (Date?.value[0]) {
+    const isoDate = dateFromEXIFString(Date.value[0]);
+    if (isoDate?.isValid) exifData.date = isoDate.toISO();
+  }
+
+  if (Height.value && Width.value) {
+    exifData.dimensions = {
+      height: parseInt(Height.value, 10),
+      width: parseInt(Width.value, 10),
+    };
+  }
+
+  return exifData;
+};
+
 // Write a file to the S3 bucket. Returns whether it was successful
 const writeFileToBucket = async (
   file: Buffer,
@@ -72,31 +104,7 @@ const addGalleryPhoto = async (
 
   const filePath = path.join(directory, fileName);
   const fileBuffer = await readFile(filePath);
-  const {
-    DateTime: Date,
-    "Image Height": Height,
-    "Image Width": Width,
-    Make,
-    Model,
-  } = await ExifReader.load(fileBuffer);
-
-  const exifData: IEXIF = {};
-
-  if (Make?.value[0] && Model?.value[0]) {
-    exifData.camera = `${Make.value[0]} ${Model.value[0]}`;
-  }
-
-  if (Date?.value[0]) {
-    const isoDate = dateFromEXIFString(Date.value[0]);
-    if (isoDate?.isValid) exifData.date = isoDate.toISO();
-  }
-
-  if (Height.value && Width.value) {
-    exifData.dimensions = {
-      height: parseInt(Height.value, 10),
-      width: parseInt(Width.value, 10),
-    };
-  }
+  const exifData = await readPhotoEXIF(fileBuffer);
 
   // Write photo to AWS S3 bucket
 

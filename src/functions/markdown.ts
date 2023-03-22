@@ -1,5 +1,8 @@
+import { IEXIF } from "../types/gallery";
 import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
 import { dateFromSlug } from "./date";
+
+const emptyMetaData = (): IMarkdownMetaData => ({ photo: {} });
 
 // Get the photo file name from a markdown file's img src attribute
 export const parsePhotoSlugFromSrc = (src: string): string =>
@@ -62,7 +65,7 @@ export const parseMarkdownMeta = (
 ): [IMarkdownMetaData, string[]] => {
   // Get the start of the list
   const firstIndex = markdownLines.findIndex(lineIsUnorderedListItem);
-  if (firstIndex === -1) return [{}, markdownLines];
+  if (firstIndex === -1) return [emptyMetaData(), markdownLines];
 
   // Get the end of the list
   const lastIndex = markdownLines
@@ -79,16 +82,32 @@ export const parseMarkdownMeta = (
 
   // Check list is key/value pairs (meta)
   const isMetaList = listLines.every((line) => /^\w+: .{1,}$/.test(line));
-  if (!isMetaList) return [{}, markdownLines];
+  if (!isMetaList) return [emptyMetaData(), markdownLines];
 
   // Parse key/value pairs
   const metaEntries = listLines.map((line) => line.split(": "));
 
   // Convert to valid meta attributes
-  const meta: IMarkdownMetaData = {};
+  const meta: IMarkdownMetaData = emptyMetaData();
 
   metaEntries.forEach((entry) => {
     switch (entry[0]) {
+      case "Camera":
+        meta.photo.camera = `${entry[1]}`;
+        break;
+      case "Date":
+        meta.photo.date = `${entry[1]}`;
+        break;
+      case "Dimensions":
+        {
+          const [width, height] = entry[1]
+            .split("x")
+            .map((dimension) => parseInt(dimension, 10));
+          if (!Number.isNaN(width) && !Number.isNaN(height)) {
+            meta.photo.dimensions = { height, width };
+          }
+        }
+        break;
       case "GPS":
         {
           const [lat, long] = entry[1]
