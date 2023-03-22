@@ -1,6 +1,7 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components/BlogPreview/BlogPreview";
+import { Newsletter } from "../../components/Newsletter/Newsletter";
 import blogPostsJSON from "../../data/blogPosts.json";
 import { dateFromSlug } from "../../functions/date";
 import { sortBlogPostsByDate } from "../../functions/sort";
@@ -29,14 +30,17 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
 };
 
 const BlogPage: NextPage<IProps> = ({ blogPosts }) => (
-  <main className="content-area blog">
-    <h1>Blog</h1>
-    <ul className="blog-list">
-      {blogPosts.map((blogPost) => (
-        <BlogPreview key={blogPost.slug} blogPost={blogPost} />
-      ))}
-    </ul>
-  </main>
+  <>
+    <main className="content-area blog">
+      <h1>Blog</h1>
+      <ul className="blog-list">
+        {blogPosts.map((blogPost) => (
+          <BlogPreview key={blogPost.slug} blogPost={blogPost} />
+        ))}
+      </ul>
+    </main>
+    <Newsletter />
+  </>
 );
 
 export default BlogPage;
