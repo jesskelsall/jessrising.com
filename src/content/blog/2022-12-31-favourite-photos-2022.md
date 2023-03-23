@@ -56,7 +56,7 @@ This photo towards the crossing, looking up at the pillars and arches, contrasts
 
 ## #5: Lagangarbh Hut and Buachaille Etive Mòr
 
-<img src="../../public/photos/lagangarbh-hut-and-buachaille-etive-mòr-20221210.jpeg" />
+<img src="../../public/photos/lagangarbh-hut-and-buachaille-etive-mor-20221210.jpeg" />
 
 When compiling this list, I started with a "shortlist" of around 100 photos - three of which were of Lagangarbh, the famous white house at the top of Glen Coe. Each was from a different season, but I've chosen this one from December for several reasons.
 
