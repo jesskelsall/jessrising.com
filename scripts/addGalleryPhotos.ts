@@ -10,6 +10,8 @@ import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
 import { IEXIF } from "../src/types/gallery";
 import { dateFromEXIFString } from "../src/functions/date";
 
+const GALLERY_PHOTO_SUFFIX_SEPARATOR = " = ";
+
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
 const stat = util.promisify(fs.stat);
@@ -83,8 +85,13 @@ const addGalleryPhoto = async (
   directory: string,
   fileName: string
 ): Promise<void> => {
-  const [photoName, fileSuffix] = fileName.replace(".jpeg", "").split(" = ");
-  const photoSlug = [_.kebabCase(photoName), fileSuffix || ""].join("-");
+  const [photoName, fileSuffix] = fileName
+    .replace(".jpeg", "")
+    .split(GALLERY_PHOTO_SUFFIX_SEPARATOR);
+  const photoSlug = [
+    _.kebabCase(photoName),
+    ...(fileSuffix ? [fileSuffix] : []),
+  ].join("-");
 
   // Check if this photo name has already been used
 
