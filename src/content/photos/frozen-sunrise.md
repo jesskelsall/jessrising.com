@@ -1,7 +1,7 @@
 # Frozen Sunrise
 
 - Location: County Durham, England, United Kingdom
-- Tags: Landscape, Snow
+- Tags: Landscape, Snow, Sunrise
 - Camera: SONY DSLR-A550
 - Date: 2010-01-04T09:10:50.000+00:00
 - Dimensions: 4592x3056
