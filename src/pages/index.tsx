@@ -11,13 +11,14 @@ import {
   sortGalleryPhotosByDate,
 } from "../functions/sort";
 import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
+import { CONFIG } from "../consts/config";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
 const FEATURED_BLOG_POST = "";
-const FEATURED_PHOTO = "medieval-theme-park";
+const FEATURED_PHOTO = "dore-head-view";
 
 interface IProps {
   blogPost: IMarkdownData;
@@ -52,17 +53,26 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
 
 const HomePage: NextPage<IProps> = ({ blogPost, photo }) => (
   <main className="content-area blog">
-    <h1>Featured Blog Post</h1>
-    <ul className="blog-list">
-      <BlogPreview blogPost={blogPost} />
-    </ul>
-    <h1>Featured Photo</h1>
-    <h2>{photo.summary.heading}</h2>
-    <BlogImage
-      alt={photo.summary.heading || ""}
-      src={`${photo.slug}.jpeg`}
-      forceGallery
-    />
+    {CONFIG.SHOW_FEATURED_BLOG_POST && (
+      <>
+        <h1>Featured Blog Post</h1>
+        <ul className="blog-list">
+          <BlogPreview blogPost={blogPost} />
+        </ul>
+      </>
+    )}
+
+    {CONFIG.SHOW_FEATURED_PHOTO && (
+      <>
+        <h1>Featured Photo</h1>
+        <h2>{photo.summary.heading}</h2>
+        <BlogImage
+          alt={photo.summary.heading || ""}
+          src={`${photo.slug}.jpeg`}
+          forceGallery
+        />
+      </>
+    )}
   </main>
 );
 

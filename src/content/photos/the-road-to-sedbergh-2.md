@@ -2,7 +2,7 @@
 
 - GPS: 54.42805,-2.3783527777777778
 - Location: Howgill Fells, Yorkshire Dales, England, United Kingdom
-- Tags: Landscape
+- Tags: Landscape, Road
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-28T12:59:58.000+00:00
 - Dimensions: 4032x3024

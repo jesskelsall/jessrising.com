@@ -5,6 +5,7 @@ import { GalleryPhoto } from "../../../components/GalleryPhoto/GalleryPhoto";
 import { TContentArea } from "../../../components/Header/Header";
 import { Newsletter } from "../../../components/Newsletter/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
+import { CONFIG } from "../../../consts/config";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import { getMarkdownDataBySlug } from "../../../functions/data";
@@ -85,7 +86,7 @@ const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
       <GalleryPhotoContext.Provider value={galleryPhoto}>
         <GalleryPhoto />
       </GalleryPhotoContext.Provider>
-      <Newsletter />
+      {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );
 };

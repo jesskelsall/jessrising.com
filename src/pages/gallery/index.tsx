@@ -5,11 +5,12 @@ import { GalleryGrid } from "../../components/GalleryGrid/GalleryGrid";
 import { GalleryPagination } from "../../components/GalleryPagination/GalleryPagination";
 import { TContentArea } from "../../components/Header/Header";
 import { Newsletter } from "../../components/Newsletter/Newsletter";
+import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import galleryPhotosJSON from "../../data/galleryPhotos.json";
 import { getOtherMarkdownData } from "../../functions/data";
 import { dateFromPhoto } from "../../functions/date";
-import { applyFilterQueries, TModelFilter } from "../../functions/filter";
+import { TModelFilter, applyFilterQueries } from "../../functions/filter";
 import {
   queryParamToIntegers,
   queryParamToStrings,
@@ -165,7 +166,7 @@ const GalleryPage: NextPage<IProps> = ({
         <GalleryGrid galleryPhotos={galleryPhotos} />
         <GalleryPagination page={page} pages={pages} query={query} />
       </main>
-      <Newsletter />
+      {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );
 };

@@ -2,6 +2,7 @@ import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components/BlogPreview/BlogPreview";
 import { Newsletter } from "../../components/Newsletter/Newsletter";
+import { CONFIG } from "../../consts/config";
 import blogPostsJSON from "../../data/blogPosts.json";
 import { dateFromSlug } from "../../functions/date";
 import { sortBlogPostsByDate } from "../../functions/sort";
@@ -39,7 +40,7 @@ const BlogPage: NextPage<IProps> = ({ blogPosts }) => (
         ))}
       </ul>
     </main>
-    <Newsletter />
+    {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
   </>
 );
 

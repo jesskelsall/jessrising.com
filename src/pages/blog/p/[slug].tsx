@@ -6,6 +6,7 @@ import { ParsedUrlQuery } from "querystring";
 import { BlogPost } from "../../../components/BlogPost/BlogPost";
 import { Newsletter } from "../../../components/Newsletter/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
+import { CONFIG } from "../../../consts/config";
 import { BlogPostContext } from "../../../context/blogPost";
 import { BlogPostsContext } from "../../../context/blogPosts";
 import { GalleryPhotosContext } from "../../../context/galleryPhotos";
@@ -97,7 +98,7 @@ export const BlogPostPage: NextPage<IProps> = ({
           </BlogPostContext.Provider>
         </BlogPostsContext.Provider>
       </GalleryPhotosContext.Provider>
-      <Newsletter />
+      {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );
 };
