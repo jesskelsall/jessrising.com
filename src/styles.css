@@ -237,6 +237,10 @@ a:visited {
   .gallery-grid {
     gap: 24px;
   }
+
+  .gallery-grid > a {
+    min-width: 500px;
+  }
 }
 
 @media (min-width: calc(1024px + 1rem)) {
@@ -252,6 +256,10 @@ a:visited {
 
   .gallery-heading p {
     margin: 0.75em 0;
+  }
+
+  .gallery-grid > a {
+    min-height: 332.87px;
   }
 }
 
