@@ -1,7 +1,7 @@
 # New Year's Browns
 
 - GPS: 54.85234166666667,-1.5595138888888889
-- Location: County Durham, England, United Kingdom
+- Location: County Durham
 - Tags: Landscape
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-01T14:35:31.000+00:00

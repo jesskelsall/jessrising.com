@@ -1,7 +1,7 @@
 # Glen Etive Forest
 
 - GPS: 56.60466666666667,-5.012291666666667
-- Location: Glen Etive Forest, Glen Etive, Ben Nevis & Glen Coe, Scotland, United Kingdom
+- Location: Glen Etive Forest
 - Tags: Landscape, Snow, Sunset
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-24T17:38:18.000+00:00

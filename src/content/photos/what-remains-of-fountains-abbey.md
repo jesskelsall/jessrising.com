@@ -1,7 +1,7 @@
 # What Remains of Fountains Abbey
 
 - GPS: 54.10998611111111,-1.5806888888888888
-- Location: Fountains Abbey, Ripon, England, United Kingdom
+- Location: Fountains Abbey
 - Tags: Ruin, National Trust
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-06-23T12:12:17.000+01:00

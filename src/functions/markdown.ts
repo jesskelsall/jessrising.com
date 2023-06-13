@@ -2,6 +2,7 @@ import _ from "lodash/fp";
 import { MARKDOWN_DATA_EMPTY } from "../consts/data";
 import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
 import { dateFromSlug } from "./date";
+import { getLocationHierarchy } from "./location";
 
 const emptyMetaData = (): IMarkdownMetaData =>
   _.cloneDeep(MARKDOWN_DATA_EMPTY.meta);
@@ -119,9 +120,7 @@ export const parseMarkdownMeta = (
         }
         break;
       case "Location":
-        meta.locations = entry[1]
-          .split(", ")
-          .map((locationGroup) => locationGroup.split(" / "));
+        meta.locations = getLocationHierarchy(entry[1]);
         break;
       case "Tags":
         meta.tags = entry[1].split(",");

@@ -1,7 +1,7 @@
 # Class 802 at Shap Summit
 
 - GPS: 54.462448,-2.622213
-- Location: Shap, England, United Kingdom
+- Location: Shap
 - Tags: Rail
 - Camera: SONY DSLR-A550
 - Date: 2023-01-28T11:42:38.000+00:00

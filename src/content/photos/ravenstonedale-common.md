@@ -1,7 +1,7 @@
 # Ravenstonedale Common
 
 - GPS: 54.43748055555555,-2.40855
-- Location: Howgill Fells, Yorkshire Dales, England, United Kingdom
+- Location: Howgill Fells
 - Tags: Landscape, Snow
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T12:49:43.000+00:00

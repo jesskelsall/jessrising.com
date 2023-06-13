@@ -1,7 +1,7 @@
 # Greendale Junction
 
 - GPS: 54.43685833333333,-3.310344444444444
-- Location: Wast Water, Lake District, England, United Kingdom
+- Location: Wast Water
 - Tags: Landscape
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T09:34:34.000+00:00

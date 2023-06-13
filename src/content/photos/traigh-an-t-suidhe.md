@@ -1,7 +1,7 @@
 # Tràigh an t-Suidhe
 
 - GPS: 56.34770277777778,-6.392555555555556
-- Location: Iona, Scotland, United Kingdom
+- Location: Isle of Iona
 - Tags: Landscape, Beach
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2022-10-23T11:37:16.000+01:00

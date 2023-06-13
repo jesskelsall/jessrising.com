@@ -1,7 +1,7 @@
 # Illgill Head
 
 - GPS: 54.45545277777778,-3.2690777777777775
-- Location: Wast Water, Lake District, England, United Kingdom
+- Location: Wast Water
 - Tags: Landscape, Clouds
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T09:44:33.000+00:00

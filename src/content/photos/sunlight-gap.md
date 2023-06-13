@@ -1,7 +1,7 @@
 # Sunlight Gap
 
 - GPS: 56.61604444444445,-4.953744444444444
-- Location: Glen Etive, Ben Nevis & Glen Coe, Scotland, United Kingdom
+- Location: Glen Etive
 - Tags: Landscape
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-22T11:25:13.000+00:00

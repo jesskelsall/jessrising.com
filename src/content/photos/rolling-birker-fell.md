@@ -1,7 +1,7 @@
 # Rolling Birker Fell
 
 - GPS: 54.37049444444445,-3.278825
-- Location: Birker Fell, Lake District, England, United Kingdom
+- Location: Birker Fell
 - Tags: Landscape, Clouds
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T10:37:41.000+00:00

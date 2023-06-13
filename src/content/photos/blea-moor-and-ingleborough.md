@@ -1,7 +1,7 @@
 # Blea Moor and Ingleborough
 
 - GPS: 54.22334166666667,-2.3719083333333333
-- Location: Blea Moor, Yorkshire Dales, England, United Kingdom
+- Location: Blea Moor
 - Tags: Landscape, Clouds, Snow
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-21T11:08:52.000+00:00

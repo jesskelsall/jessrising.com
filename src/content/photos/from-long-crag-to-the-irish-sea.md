@@ -1,7 +1,7 @@
 # From Long Crag to the Irish Sea
 
 - GPS: 54.44175,-3.333194444444444
-- Location: Buckbarrow, Copeland Forest, Lake District, England, United Kingdom
+- Location: Buckbarrow
 - Tags: Landscape, Sunset
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-05T14:09:23.000+00:00

@@ -1,7 +1,7 @@
 # Lagangarbh Hut and Buachaille Etive Mòr
 
 - GPS: 56.662730555555555,-4.903052777777778
-- Location: Lagangarbh, Glen Coe, Ben Nevis & Glen Coe, Scotland, United Kingdom
+- Location: Lagangarbh
 - Tags: Landscape, Snow, White House
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2022-12-10T11:43:05.000+00:00

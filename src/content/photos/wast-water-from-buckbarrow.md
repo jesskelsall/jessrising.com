@@ -1,7 +1,7 @@
 # Wast Water from Buckbarrow
 
 - GPS: 54.44178333333333,-3.332905555555555
-- Location: Buckbarrow, Copeland Forest / Wast Water, Lake District, England, United Kingdom
+- Location: Buckbarrow
 - Tags: Landscape
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-05T14:11:38.000+00:00

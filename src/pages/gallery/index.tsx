@@ -64,7 +64,7 @@ export const getServerSideProps: GetServerSideProps<
   const filters: TModelFilter<IMarkdownData>[] = [];
 
   if (locations.length) {
-    filters.push([locations, (photo) => photo.meta.locations?.flat() || []]);
+    filters.push([locations, (photo) => photo.meta.locations || []]);
   }
   if (tags.length) {
     filters.push([tags, (photo) => photo.meta.tags || []]);

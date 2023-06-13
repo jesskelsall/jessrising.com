@@ -1,7 +1,7 @@
 # Scotch Corner Hoar Frost
 
 - GPS: 54.45753611111111,-1.6679138888888887
-- Location: Scotch Corner, England, United Kingdom
+- Location: Scotch Corner
 - Tags: Landscape, Frost
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T13:39:20.000+00:00

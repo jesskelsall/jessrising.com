@@ -1,7 +1,7 @@
 # Grey Knotts to Pillar
 
 - GPS: 54.50405833333333,-3.209216666666667
-- Location: Grey Knotts, Fleetwith, Lake District, England, United Kingdom
+- Location: Grey Knotts
 - Tags: Landscape
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-03-26T10:42:17.000+01:00

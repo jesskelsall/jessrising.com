@@ -1,7 +1,7 @@
 # Shieldaig Peninsula
 
 - GPS: 57.54063055555555,-5.659350000000001
-- Location: Shieldaig, Upper Loch Torridon, Wester Ross, Scotland, United Kingdom
+- Location: Shieldaig
 - Tags: Landscape, Snow
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-04-15T17:49:43.000+01:00

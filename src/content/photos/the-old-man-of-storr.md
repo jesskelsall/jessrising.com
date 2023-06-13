@@ -1,7 +1,7 @@
 # The Old Man of Storr
 
 - GPS: 57.511208333333336,-6.1741472222222225
-- Location: The Storr, Isle of Skye, Scotland, United Kingdom
+- Location: The Storr
 - Tags: Landscape, Loch
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-06-05T11:26:39.000+01:00

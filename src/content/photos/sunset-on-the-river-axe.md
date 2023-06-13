@@ -1,7 +1,7 @@
 # Sunset on the River Axe
 
 - GPS: 50.70476111111111,-3.059625
-- Location: Seaton, England, United Kingdom
+- Location: Seaton
 - Tags: Landscape, Sunset, Boat
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-06-20T21:23:22.000+01:00

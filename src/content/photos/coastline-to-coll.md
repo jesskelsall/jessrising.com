@@ -1,7 +1,7 @@
 # Coastline to Coll
 
 - GPS: 56.72506388888889,-6.225433333333333
-- Location: Point of Ardnamurchan, Ardnamurchan, Scotland, United Kingdom
+- Location: Point of Ardnamurchan
 - Tags: Landscape, Coast
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-24T14:01:58.000+00:00

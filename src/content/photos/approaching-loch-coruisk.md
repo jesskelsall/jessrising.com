@@ -1,7 +1,7 @@
 # Approaching Loch Coruisk
 
 - GPS: 57.19639166666666,-6.166155555555556
-- Location: Loch na Cuilce, Isle of Skye, Scotland, United Kingdom
+- Location: Loch na Cuilce
 - Tags: Landscape, Loch
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-08-14T11:39:40.000+01:00

@@ -1,7 +1,7 @@
 # The Jacobite Crosses Glenfinnan Viaduct
 
 - GPS: 56.87587222222222,-5.435075
-- Location: Glenfinnan, Scotland, United Kingdom
+- Location: Glenfinnan
 - Tags: Landscape, Viaduct, Rail, Steam
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-06-19T10:55:20.000+01:00

@@ -2,4 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npm run prebuild
+npx jest --config data.config.js
 npx lint-staged

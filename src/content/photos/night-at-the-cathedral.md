@@ -1,7 +1,7 @@
 # Night at the Cathedral
 
 - GPS: 54.773808333333335,-1.5766777777777778
-- Location: Durham Cathedral, Durham, England, United Kingdom
+- Location: Durham Cathedral
 - Tags: Interior, Church/Cathedral
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-18T19:13:45.000+00:00

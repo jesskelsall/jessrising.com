@@ -1,7 +1,7 @@
 # Dreary Lingcove Beck
 
 - GPS: 56.87587222222222,-5.435075
-- Location: River Esk, Lake District, England, United Kingdom
+- Location: River Esk
 - Tags: Landscape
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-07-23T13:31:12.000+01:00

@@ -1,7 +1,7 @@
 # Herdys Overlook Wast Water
 
 - GPS: 54.44305833333333,-3.3042666666666665
-- Location: Wast Water, Lake District, England, United Kingdom
+- Location: Wast Water
 - Tags: Landscape, Sheep
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-04-28T10:52:51.000+01:00

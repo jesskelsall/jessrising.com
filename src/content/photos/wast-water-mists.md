@@ -1,7 +1,7 @@
 # Wast Water Mists
 
 - GPS: 54.43621944444444,-3.3097638888888885
-- Location: Wast Water, Lake District, England, United Kingdom
+- Location: Wast Water
 - Tags: Landscape, Clouds
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T09:29:35.000+00:00

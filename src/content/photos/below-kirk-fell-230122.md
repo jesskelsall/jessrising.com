@@ -1,7 +1,7 @@
 # Below Kirk Fell
 
 - GPS: 54.46295277777778,-3.260425
-- Location: Wasdale Head, Lake District, England, United Kingdom
+- Location: Wasdale Head
 - Tags: Landscape, Clouds
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-22T09:50:00.000+00:00

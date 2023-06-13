@@ -1,7 +1,7 @@
 # Scots Guardsman at Shap Summit
 
 - GPS: 54.462448,-2.622213
-- Location: Shap, England, United Kingdom
+- Location: Shap
 - Tags: Rail, Steam
 - Camera: SONY DSLR-A550
 - Date: 2023-01-28T11:56:47.000+00:00

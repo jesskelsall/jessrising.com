@@ -1,7 +1,7 @@
 # Crossing Ribblehead Viaduct
 
 - GPS: 54.20970555555556,-2.3670222222222224
-- Location: Ribblehead Viaduct, Yorkshire Dales, England, United Kingdom
+- Location: Ribblehead Viaduct
 - Tags: Landscape, Snow, Rail
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-01-21T12:08:22.000+00:00
