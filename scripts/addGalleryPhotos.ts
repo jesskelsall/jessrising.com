@@ -1,14 +1,15 @@
-/* eslint-disable security/detect-non-literal-fs-filename */
+/* eslint-disable security/detect-non-literal-fs-filename,no-restricted-syntax,no-await-in-loop */
 
+import { PutObjectCommand, S3Client } from "@aws-sdk/client-s3";
 import ExifReader from "exifreader";
 import fs from "fs";
-import util from "util";
-import path from "path";
+import { convert } from "imagemagick";
 import _ from "lodash/fp";
-import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
+import path from "path";
+import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
-import { IEXIF } from "../src/types/gallery";
 import { dateFromEXIFString } from "../src/functions/date";
+import { IEXIF } from "../src/types/gallery";
 
 const GALLERY_PHOTO_SUFFIX_SEPARATOR = " = ";
 
@@ -19,6 +20,33 @@ const unlink = util.promisify(fs.unlink);
 const writeFile = util.promisify(fs.writeFile);
 
 const s3Client = new S3Client({ region: "eu-west-2" });
+
+interface ImageSize {
+  maxDimension: number;
+  suffix: string;
+}
+
+const galleryImageSizes: ImageSize[] = [
+  {
+    maxDimension: 500,
+    suffix: "-sm",
+  },
+  {
+    maxDimension: 1200,
+    suffix: "-lg",
+  },
+];
+
+// Create a resized version of the given image
+const resizeImage = (inputPath: string, outputPath: string, maxWidth: number) =>
+  new Promise((resolve, reject) => {
+    const args = [inputPath, "-resize", maxWidth, outputPath];
+
+    convert(args, (error, result) => {
+      if (error) return reject(error);
+      return resolve(result);
+    });
+  });
 
 // Check if a file already exists
 const fileExists = async (filePath: string): Promise<boolean> => {
@@ -113,12 +141,43 @@ const addGalleryPhoto = async (
   const fileBuffer = await readFile(filePath);
   const exifData = await readPhotoEXIF(fileBuffer);
 
-  // Write photo to AWS S3 bucket
+  const images = galleryImageSizes.map(({ maxDimension, suffix }) => ({
+    fileName: `${photoSlug}${suffix}.jpeg`,
+    maxDimension,
+  }));
 
-  const writeSuccess = await writeFileToBucket(fileBuffer, `${photoSlug}.jpeg`);
-  if (!writeSuccess) {
-    console.warn("Failed to write file to S3 bucket", photoSlug);
-    return;
+  for (const image of images) {
+    // Render photo at different size
+
+    const resizedFilePath = path.resolve(directory, image.fileName);
+
+    try {
+      await resizeImage(
+        path.resolve(directory, fileName),
+        resizedFilePath,
+        image.maxDimension
+      );
+    } catch {
+      console.warn("Failed to render a resized image", photoSlug);
+      return;
+    }
+
+    // Write photo to AWS S3 bucket
+
+    const imageBuffer = await readFile(resizedFilePath);
+    const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
+    if (!writeSuccess) {
+      console.warn("Failed to write file to S3 bucket", image.fileName);
+      return;
+    }
+
+    // Delete the rendered image
+    try {
+      await unlink(resizedFilePath);
+    } catch {
+      console.warn("Failed to delete resized image", image.fileName);
+      return;
+    }
   }
 
   // Write gallery photo data file
@@ -183,27 +242,23 @@ const addBlogPhoto = async (
 const addAllPhotos = async (): Promise<void> => {
   const newPhotosDirectory = path.resolve(__dirname, "newPhotos");
 
-  // Get all new photos
-
-  const getPhotoPromises = async (
+  const addPhotos = async (
     directory: string,
-    action: (dir: string, photoName: string) => Promise<void>
+    method: (dir: string, pn: string) => Promise<any>
   ) => {
+    // Get all new photos
     const directoryPath = path.join(newPhotosDirectory, directory);
     const directoryFiles = await readdir(directoryPath);
     const photoFiles = directoryFiles.filter((file) => file.endsWith(".jpeg"));
 
-    return photoFiles.map((photo) => action(directoryPath, photo));
+    // Add each photo
+    for (const photoFile of photoFiles) {
+      await method(directoryPath, photoFile);
+    }
   };
 
-  // Add each photo
-
-  const promises = [
-    ...(await getPhotoPromises("blog", addBlogPhoto)),
-    ...(await getPhotoPromises("gallery", addGalleryPhoto)),
-  ];
-
-  await Promise.allSettled(promises);
+  await addPhotos("blog", addBlogPhoto);
+  await addPhotos("gallery", addGalleryPhoto);
 };
 
 addAllPhotos();
