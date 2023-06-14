@@ -11,8 +11,6 @@ import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
 import { dateFromEXIFString } from "../src/functions/date";
 import { IEXIF } from "../src/types/gallery";
 
-const GALLERY_PHOTO_SUFFIX_SEPARATOR = " = ";
-
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
 const stat = util.promisify(fs.stat);
@@ -26,7 +24,9 @@ interface ImageSize {
   suffix: string;
 }
 
-const galleryImageSizes: ImageSize[] = [
+const GALLERY_PHOTO_SUFFIX_SEPARATOR = " = ";
+const GALLERY_PHOTO_OVERWRITE = false; // Allows reupload to S3 without touching MD file
+const GALLERY_IMAGE_SIZES: ImageSize[] = [
   {
     maxDimension: 500,
     suffix: "-sm",
@@ -130,7 +130,7 @@ const addGalleryPhoto = async (
   );
 
   const markdownAlreadyExists = await fileExists(markdownFilePath);
-  if (markdownAlreadyExists) {
+  if (markdownAlreadyExists && GALLERY_PHOTO_OVERWRITE === false) {
     console.warn("Photo already exists", photoSlug);
     return;
   }
@@ -141,7 +141,7 @@ const addGalleryPhoto = async (
   const fileBuffer = await readFile(filePath);
   const exifData = await readPhotoEXIF(fileBuffer);
 
-  const images = galleryImageSizes.map(({ maxDimension, suffix }) => ({
+  const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
     fileName: `${photoSlug}${suffix}.jpeg`,
     maxDimension,
   }));
@@ -182,21 +182,23 @@ const addGalleryPhoto = async (
 
   // Write gallery photo data file
 
-  const markdownContent: string[] = [
-    `# ${photoName}`,
-    "",
-    "- GPS: ",
-    "- Location: ",
-    "- Tags: Landscape",
-  ];
-  if (exifData.camera) markdownContent.push(`- Camera: ${exifData.camera}`);
-  if (exifData.date) markdownContent.push(`- Date: ${exifData.date}`);
-  if (exifData.dimensions)
-    markdownContent.push(
-      `- Dimensions: ${exifData.dimensions.width}x${exifData.dimensions.height}`
-    );
+  if (!markdownAlreadyExists) {
+    const markdownContent: string[] = [
+      `# ${photoName}`,
+      "",
+      "- GPS: ",
+      "- Location: ",
+      "- Tags: Landscape",
+    ];
+    if (exifData.camera) markdownContent.push(`- Camera: ${exifData.camera}`);
+    if (exifData.date) markdownContent.push(`- Date: ${exifData.date}`);
+    if (exifData.dimensions)
+      markdownContent.push(
+        `- Dimensions: ${exifData.dimensions.width}x${exifData.dimensions.height}`
+      );
 
-  await writeFile(markdownFilePath, markdownContent.join("\n").concat("\n"));
+    await writeFile(markdownFilePath, markdownContent.join("\n").concat("\n"));
+  }
 
   // Delete the original photo
 
