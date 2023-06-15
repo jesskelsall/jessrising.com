@@ -101,6 +101,8 @@ export const locationHierarchy: ILocationHierarchy = {
         "Point of Ardnamurchan": {},
       },
       "Assynt-Coigach": {
+        Inchnadamph: {},
+        Kylesku: {},
         "Glencanisp Forest": {
           Suilven: {},
         },
@@ -191,6 +193,14 @@ export const locationHierarchy: ILocationHierarchy = {
       Sandaig: {},
       Sunart: {
         "Loch Sunart": {},
+      },
+      Sutherland: {
+        "Kyle of Tongue": {},
+        "North-west Sutherland": {
+          "Loch Stack": {},
+        },
+        "Sandwood Bay": {},
+        "Strathy Point": {},
       },
       Ullapool: {},
       "Wester Ross": {
