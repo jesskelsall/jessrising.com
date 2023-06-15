@@ -25,7 +25,7 @@ interface ImageSize {
 }
 
 const GALLERY_PHOTO_SUFFIX_SEPARATOR = " = ";
-const GALLERY_PHOTO_OVERWRITE = false; // Allows reupload to S3 without touching MD file
+const GALLERY_PHOTO_OVERWRITE = true; // Allows reupload to S3 without touching MD file
 const GALLERY_IMAGE_SIZES: ImageSize[] = [
   {
     maxDimension: 500,
@@ -130,7 +130,7 @@ const addGalleryPhoto = async (
   );
 
   const markdownAlreadyExists = await fileExists(markdownFilePath);
-  if (markdownAlreadyExists && GALLERY_PHOTO_OVERWRITE === false) {
+  if (markdownAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
     console.warn("Photo already exists", photoSlug);
     return;
   }

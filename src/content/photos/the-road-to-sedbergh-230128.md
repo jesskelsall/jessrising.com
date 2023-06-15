@@ -1,4 +1,4 @@
-# The Road to Sedbergh 2
+# The Road to Sedbergh
 
 - GPS: 54.42805,-2.3783527777777778
 - Location: Howgill Fells

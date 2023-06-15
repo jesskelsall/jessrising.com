@@ -6,4 +6,3 @@
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-22T13:48:35.000+00:00
 - Dimensions: 4032x3024
-
