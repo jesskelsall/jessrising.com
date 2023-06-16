@@ -1,6 +1,7 @@
 import { DateTime } from "luxon";
 import { useGalleryPhoto } from "../../context/galleryPhoto";
 import { dateFromString } from "../../functions/date";
+import { getCameraDisplayName } from "../../functions/photo";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";
 import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
@@ -32,7 +33,9 @@ export const GalleryHeading = ({
         )}
         {meta.locations && <MarkdownLocations locations={meta.locations} />}
         {meta.gps && <MarkdownGPS gps={meta.gps} />}
-        {meta.photo?.camera && <li>Camera: {meta.photo.camera}</li>}
+        {meta.photo?.camera && (
+          <li>Camera: {getCameraDisplayName(meta.photo.camera)}</li>
+        )}
         {meta.tags && <MarkdownTags tags={meta.tags} />}
       </ul>
     </>

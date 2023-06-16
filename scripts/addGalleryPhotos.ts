@@ -246,7 +246,7 @@ const addAllPhotos = async (): Promise<void> => {
 
   const addPhotos = async (
     directory: string,
-    method: (dir: string, pn: string) => Promise<any>
+    method: (dir: string, pn: string) => Promise<unknown>
   ) => {
     // Get all new photos
     const directoryPath = path.join(newPhotosDirectory, directory);
