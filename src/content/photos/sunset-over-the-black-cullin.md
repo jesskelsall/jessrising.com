@@ -2,7 +2,7 @@
 
 - GPS: 57.15620555555555,-5.673852777777778
 - Location: Sandaig
-- Tags: Landscape, Sunset
+- Tags: Landscape, Sunrise/Sunset
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-06-04T22:12:36.000+01:00
 - Dimensions: 4032x3024

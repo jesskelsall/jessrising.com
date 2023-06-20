@@ -2,7 +2,7 @@
 
 - GPS: 50.70476111111111,-3.059625
 - Location: Seaton
-- Tags: Landscape, Sunset, Boat
+- Tags: Landscape, Sunrise/Sunset, Boat
 - Camera: Apple iPhone 11 Pro Max
 - Date: 2022-06-20T21:23:22.000+01:00
 - Dimensions: 3985x2988

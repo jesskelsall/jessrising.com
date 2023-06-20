@@ -2,7 +2,7 @@
 
 - GPS: 54.44175,-3.333194444444444
 - Location: Buckbarrow
-- Tags: Landscape, Sunset
+- Tags: Landscape, Sunrise/Sunset
 - Camera: Apple iPhone 14 Pro Max
 - Date: 2023-02-05T14:09:23.000+00:00
 - Dimensions: 4014x3010

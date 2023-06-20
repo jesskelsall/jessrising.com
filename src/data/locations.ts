@@ -146,6 +146,7 @@ export const locationHierarchy: ILocationHierarchy = {
         Rothiemurchus: {},
         Tomintoul: {},
       },
+      Caithness: {},
       Cromar: {},
       Edinburgh: {
         "Princes Street Gardens": {},
@@ -195,7 +196,11 @@ export const locationHierarchy: ILocationHierarchy = {
         "Loch Sunart": {},
       },
       Sutherland: {
+        Durness: {
+          "Smoo Cave": {},
+        },
         "Kyle of Tongue": {},
+        "Loch Eriboll": {},
         "North-west Sutherland": {
           "Loch Stack": {},
         },
