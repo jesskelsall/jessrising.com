@@ -12,11 +12,22 @@ export const locationHierarchy: ILocationHierarchy = {
       },
       "Lake District": {
         "Birker Fell": {},
+        "Borrowdale Fells": {
+          Seathwaite: {
+            "Base Brown": {},
+            "Sty Head": {},
+          },
+        },
         Buttermere: {
           "Buttermere Fell": {
             "High Crag": {},
             "High Stile": {},
             "Scarth Gap Pass": {},
+          },
+        },
+        "Coniston Water": {
+          Coniston: {
+            "Yew Tree Farm": {},
           },
         },
         "Copeland Forest": {
