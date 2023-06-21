@@ -1,5 +1,7 @@
 import Link from "next/link";
+import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotos } from "../../context/galleryPhotos";
+import { findMarkdownDataBySlug } from "../../functions/data";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { parsePhotoSlugFromSrc } from "../../functions/markdown";
 
@@ -21,9 +23,14 @@ export const BlogImage = ({
   const allGalleryPhotos = useGalleryPhotos();
   const photoSlug = parsePhotoSlugFromSrc(src);
 
+  const isGalleryPhoto =
+    forceGallery ||
+    Boolean(findMarkdownDataBySlug(allGalleryPhotos, photoSlug));
+  const imageSrcSuffix = isGalleryPhoto ? PHOTO_SIZE_SUFFIX.LARGE : "";
+
   const image = (
     <img
-      src={getImageSrcFromSlug(photoSlug)}
+      src={getImageSrcFromSlug(photoSlug, imageSrcSuffix)}
       alt={alt}
       style={{
         width: 800,
@@ -32,14 +39,9 @@ export const BlogImage = ({
     />
   );
 
-  // Check for matching gallery photo
-  const linkToGalleryPhoto: boolean =
-    forceGallery ||
-    Boolean(allGalleryPhotos.find((photo) => photoSlug === photo.slug));
-
   return (
     <>
-      {linkToGalleryPhoto ? (
+      {isGalleryPhoto ? (
         <Link href={`/gallery/p/${photoSlug}`}>{image}</Link>
       ) : (
         image

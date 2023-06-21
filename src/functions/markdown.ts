@@ -3,13 +3,19 @@ import { MARKDOWN_DATA_EMPTY } from "../consts/data";
 import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
 import { dateFromSlug } from "./date";
 import { getLocationHierarchy } from "./location";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 
 const emptyMetaData = (): IMarkdownMetaData =>
   _.cloneDeep(MARKDOWN_DATA_EMPTY.meta);
 
+// eslint-disable-next-line security/detect-non-literal-regexp
+const suffixesRegExp = new RegExp(
+  `(${Object.values(PHOTO_SIZE_SUFFIX).join("|")})$`
+);
+
 // Get the photo file name from a markdown file's img src attribute
 export const parsePhotoSlugFromSrc = (src: string): string =>
-  src.split("/").reverse()[0].replace(".jpeg", "");
+  src.split("/").reverse()[0].replace(".jpeg", "").replace(suffixesRegExp, "");
 
 // Get the first heading from a list of markdown lines
 export const parseMarkdownFirstHeading = (

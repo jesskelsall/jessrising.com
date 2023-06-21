@@ -2,6 +2,8 @@ import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import { BlogImage } from "../components/BlogImage/BlogImage";
 import { BlogPreview } from "../components/BlogPreview/BlogPreview";
+import { CONFIG } from "../consts/config";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import blogPostsJSON from "../data/blogPosts.json";
 import galleryPhotosJSON from "../data/galleryPhotos.json";
 import { getOtherMarkdownData } from "../functions/data";
@@ -11,8 +13,6 @@ import {
   sortGalleryPhotosByDate,
 } from "../functions/sort";
 import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
-import { CONFIG } from "../consts/config";
-import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
@@ -69,7 +69,7 @@ const HomePage: NextPage<IProps> = ({ blogPost, photo }) => (
         <h2>{photo.summary.heading}</h2>
         <BlogImage
           alt={photo.summary.heading || ""}
-          src={`${photo.slug}${PHOTO_SIZE_SUFFIX.LARGE}.jpeg`}
+          src={`${photo.slug}${PHOTO_SIZE_SUFFIX.LARGE}`}
           forceGallery
         />
       </>

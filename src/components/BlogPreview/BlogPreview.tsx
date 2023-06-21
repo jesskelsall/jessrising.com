@@ -1,6 +1,9 @@
 import { DateTime } from "luxon";
 import Image from "next/image";
 import Link from "next/link";
+import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
+import { useGalleryPhotos } from "../../context/galleryPhotos";
+import { findMarkdownDataBySlug } from "../../functions/data";
 import { formatLongDate } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { IMarkdownData } from "../../types/markdown";
@@ -10,7 +13,29 @@ interface IBlogPreviewProps {
 }
 
 export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
+  const allGalleryPhotos = useGalleryPhotos();
   const { date, slug, summary } = blogPost;
+  const { imageSlug } = summary;
+
+  let image: JSX.Element | null = null;
+
+  if (imageSlug) {
+    const isGalleryPhoto = Boolean(
+      imageSlug && findMarkdownDataBySlug(allGalleryPhotos, imageSlug)
+    );
+
+    image = (
+      <Image
+        src={getImageSrcFromSlug(
+          imageSlug,
+          isGalleryPhoto ? PHOTO_SIZE_SUFFIX.SMALL : ""
+        )}
+        alt={summary.heading || ""}
+        width={200}
+        height={150}
+      />
+    );
+  }
 
   return (
     <li>
@@ -25,15 +50,7 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
         )}
         <p className="summary">{summary.paragraph}</p>
       </div>
-
-      {summary.imageSlug && (
-        <Image
-          src={getImageSrcFromSlug(summary.imageSlug)}
-          alt={summary.heading || ""}
-          width={200}
-          height={150}
-        />
-      )}
+      {image}
     </li>
   );
 };
