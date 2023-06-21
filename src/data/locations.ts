@@ -146,8 +146,15 @@ export const locationHierarchy: ILocationHierarchy = {
         Rothiemurchus: {},
         Tomintoul: {},
       },
-      Caithness: {},
+      Caithness: {
+        "Duncansby Head": {},
+        "Noss Head": {},
+      },
       Cromar: {},
+      "Easter Ross": {
+        Balintore: {},
+        "Tarbat Ness": {},
+      },
       Edinburgh: {
         "Princes Street Gardens": {},
         Stockbridge: {},
@@ -199,7 +206,11 @@ export const locationHierarchy: ILocationHierarchy = {
         Durness: {
           "Smoo Cave": {},
         },
+        Golspie: {
+          "Dunrobin Castle": {},
+        },
         "Kyle of Tongue": {},
+        Lairg: {},
         "Loch Eriboll": {},
         "North-west Sutherland": {
           "Loch Stack": {},

@@ -12,13 +12,14 @@ import {
 } from "../functions/sort";
 import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
 import { CONFIG } from "../consts/config";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
 const FEATURED_BLOG_POST = "";
-const FEATURED_PHOTO = "dore-head-view";
+const FEATURED_PHOTO = "northern-lights-over-strathy-point-lighthouse";
 
 interface IProps {
   blogPost: IMarkdownData;
@@ -68,7 +69,7 @@ const HomePage: NextPage<IProps> = ({ blogPost, photo }) => (
         <h2>{photo.summary.heading}</h2>
         <BlogImage
           alt={photo.summary.heading || ""}
-          src={`${photo.slug}.jpeg`}
+          src={`${photo.slug}${PHOTO_SIZE_SUFFIX.LARGE}.jpeg`}
           forceGallery
         />
       </>
