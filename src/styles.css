@@ -269,6 +269,12 @@ a:visited {
   }
 }
 
+@media (min-width: calc(2072px + 1rem)) {
+  .content-area.gallery {
+    max-width: calc(2072px + 1rem);
+  }
+}
+
 /* Photo */
 
 .content-area.photo .photo {
