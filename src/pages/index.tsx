@@ -4,6 +4,7 @@ import { BlogImage } from "../components/BlogImage/BlogImage";
 import { BlogPreview } from "../components/BlogPreview/BlogPreview";
 import { CONFIG } from "../consts/config";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import { GalleryPhotosContext } from "../context/galleryPhotos";
 import blogPostsJSON from "../data/blogPosts.json";
 import galleryPhotosJSON from "../data/galleryPhotos.json";
 import { getOtherMarkdownData } from "../functions/data";
@@ -18,10 +19,11 @@ const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
-const FEATURED_BLOG_POST = "";
+const FEATURED_BLOG_POST = "2022-12-31-favourite-photos-2022";
 const FEATURED_PHOTO = "northern-lights-over-strathy-point-lighthouse";
 
 interface IProps {
+  allGalleryPhotos: IMarkdownData[];
   blogPost: IMarkdownData;
   photo: IMarkdownData;
 }
@@ -38,43 +40,47 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
     allBlogPosts.find((post) => post.slug === FEATURED_BLOG_POST) ||
     allBlogPosts[0];
 
-  const allPhotos = getOtherMarkdownData(galleryPhotosData).sort(
+  const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData).sort(
     sortGalleryPhotosByDate
   );
   const featuredPhoto =
-    allPhotos.find((photo) => photo.slug === FEATURED_PHOTO) || allPhotos[0];
+    allGalleryPhotos.find((photo) => photo.slug === FEATURED_PHOTO) ||
+    allGalleryPhotos[0];
 
   return {
     props: {
+      allGalleryPhotos,
       blogPost: featuredBlogPost,
       photo: featuredPhoto,
     },
   };
 };
 
-const HomePage: NextPage<IProps> = ({ blogPost, photo }) => (
-  <main className="content-area blog">
-    {CONFIG.SHOW_FEATURED_BLOG_POST && (
-      <>
-        <h1>Featured Blog Post</h1>
-        <ul className="blog-list">
-          <BlogPreview blogPost={blogPost} />
-        </ul>
-      </>
-    )}
+const HomePage: NextPage<IProps> = ({ allGalleryPhotos, blogPost, photo }) => (
+  <GalleryPhotosContext.Provider value={allGalleryPhotos}>
+    <main className="content-area blog">
+      {CONFIG.SHOW_FEATURED_BLOG_POST && (
+        <>
+          <h1>Featured Blog Post</h1>
+          <ul className="blog-list">
+            <BlogPreview blogPost={blogPost} />
+          </ul>
+        </>
+      )}
 
-    {CONFIG.SHOW_FEATURED_PHOTO && (
-      <>
-        <h1>Featured Photo</h1>
-        <h2>{photo.summary.heading}</h2>
-        <BlogImage
-          alt={photo.summary.heading || ""}
-          src={`${photo.slug}${PHOTO_SIZE_SUFFIX.LARGE}`}
-          forceGallery
-        />
-      </>
-    )}
-  </main>
+      {CONFIG.SHOW_FEATURED_PHOTO && (
+        <>
+          <h1>Featured Photo</h1>
+          <h2>{photo.summary.heading}</h2>
+          <BlogImage
+            alt={photo.summary.heading || ""}
+            src={`${photo.slug}${PHOTO_SIZE_SUFFIX.LARGE}`}
+            forceGallery
+          />
+        </>
+      )}
+    </main>
+  </GalleryPhotosContext.Provider>
 );
 
 export default HomePage;
