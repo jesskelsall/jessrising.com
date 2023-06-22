@@ -38,6 +38,9 @@ export const locationHierarchy: ILocationHierarchy = {
         "Crummock Water": {
           "Scale Beck": {},
         },
+        "Derwent Water": {
+          "Cat Bells": {},
+        },
         "Ennerdale Water": {
           "Ennerdale Fell": {
             "Caw Fell": {},
