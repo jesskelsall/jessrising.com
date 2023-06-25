@@ -9,6 +9,7 @@ module.exports = {
         hostname: "s3.eu-west-2.amazonaws.com",
       },
     ],
+    unoptimized: true,
   },
   reactStrictMode: true,
   staticPageGenerationTimeout: 60,
