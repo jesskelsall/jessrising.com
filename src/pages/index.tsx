@@ -9,10 +9,7 @@ import blogPostsJSON from "../data/blogPosts.json";
 import galleryPhotosJSON from "../data/galleryPhotos.json";
 import { getOtherMarkdownData } from "../functions/data";
 import { dateFromSlug } from "../functions/date";
-import {
-  sortBlogPostsByDate,
-  sortGalleryPhotosByDate,
-} from "../functions/sort";
+import { sortBlogPostsByDate } from "../functions/sort";
 import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
@@ -40,9 +37,7 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
     allBlogPosts.find((post) => post.slug === FEATURED_BLOG_POST) ||
     allBlogPosts[0];
 
-  const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData).sort(
-    sortGalleryPhotosByDate
-  );
+  const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData);
   const featuredPhoto =
     allGalleryPhotos.find((photo) => photo.slug === FEATURED_PHOTO) ||
     allGalleryPhotos[0];
