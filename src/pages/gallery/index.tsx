@@ -17,7 +17,7 @@ import {
 } from "../../functions/params";
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
-import { IGalleryQuery } from "../../types/gallery";
+import { IGalleryQuery, TOrder } from "../../types/gallery";
 import { IMarkdownData, TMarkdownDataFile } from "../../types/markdown";
 
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
@@ -33,6 +33,7 @@ interface IProps {
   galleryPhotos: IMarkdownData[];
   locations: string[];
   month: number | null;
+  order: TOrder;
   pagination: IPagination;
   query: IGalleryQuery;
   tags: string[];
@@ -43,9 +44,7 @@ export const getServerSideProps: GetServerSideProps<
   IProps,
   IGalleryQuery
 > = async (context) => {
-  const allPhotos = getOtherMarkdownData(galleryPhotosData).sort(
-    sortGalleryPhotosByDate
-  );
+  const allPhotos = getOtherMarkdownData(galleryPhotosData);
 
   // Query parameters
 
@@ -54,10 +53,20 @@ export const getServerSideProps: GetServerSideProps<
   let page = queryParamToIntegers(query.page)[0] || 1;
   const locations = queryParamToStrings(query.location);
   const tags = queryParamToStrings(query.tag);
+  const order: TOrder =
+    queryParamToStrings<TOrder>(query.order)[0] === "oldest"
+      ? "oldest"
+      : "newest";
 
   const year: number | null = queryParamToIntegers(query.year)[0] || null;
   let month: number | null = queryParamToIntegers(query.month)[0] || null;
   if (month && (month < 1 || month > 12)) month = null;
+
+  // Apply sorting
+
+  const sortedPhotos = allPhotos.sort(
+    sortGalleryPhotosByDate(order === "oldest")
+  );
 
   // Apply filters
 
@@ -88,7 +97,10 @@ export const getServerSideProps: GetServerSideProps<
     ]);
   }
 
-  const filteredPhotos = applyFilterQueries<IMarkdownData>(allPhotos, filters);
+  const filteredPhotos = applyFilterQueries<IMarkdownData>(
+    sortedPhotos,
+    filters
+  );
 
   // Apply pagination
 
@@ -103,6 +115,7 @@ export const getServerSideProps: GetServerSideProps<
       galleryPhotos: galleryPage,
       locations,
       month,
+      order,
       pagination: {
         page,
         pages,
@@ -119,6 +132,7 @@ const GalleryPage: NextPage<IProps> = ({
   galleryPhotos,
   locations,
   month,
+  order,
   pagination,
   query,
   tags,
@@ -164,7 +178,12 @@ const GalleryPage: NextPage<IProps> = ({
           </div>
         </div>
         <GalleryGrid galleryPhotos={galleryPhotos} />
-        <GalleryPagination page={page} pages={pages} query={query} />
+        <GalleryPagination
+          order={order}
+          page={page}
+          pages={pages}
+          query={query}
+        />
       </main>
       {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>

@@ -1,20 +1,24 @@
 import Link from "next/link";
 import url from "url";
-import { IGalleryQuery } from "../../types/gallery";
+import { IGalleryQuery, TOrder } from "../../types/gallery";
+import { GALLERY_PAGINATION_BUTTONS } from "../../consts/gallery";
 
 interface IGalleryPaginationProps {
+  order: TOrder;
   page: number;
   pages: number;
   query: IGalleryQuery;
 }
 
 export const GalleryPagination = ({
+  order,
   page,
   pages,
   query,
 }: IGalleryPaginationProps) => {
   const pageLink = (pageNumber: number) =>
     url.format({ pathname: "gallery", query: { ...query, page: pageNumber } });
+  const buttonsText = GALLERY_PAGINATION_BUTTONS[`${order}`];
 
   const isFirstPage = page === 1;
   const isLastPage = page === pages;
@@ -25,10 +29,10 @@ export const GalleryPagination = ({
         {!isFirstPage && (
           <>
             <Link className="button" href={pageLink(1)}>
-              First
+              {buttonsText.first}
             </Link>
             <Link className="button" href={pageLink(page - 1)}>
-              Previous
+              {buttonsText.previous}
             </Link>
           </>
         )}
@@ -42,10 +46,10 @@ export const GalleryPagination = ({
         {!isLastPage && (
           <>
             <Link className="button" href={pageLink(page + 1)}>
-              Next
+              {buttonsText.next}
             </Link>
             <Link className="button" href={pageLink(pages)}>
-              Last
+              {buttonsText.last}
             </Link>
           </>
         )}

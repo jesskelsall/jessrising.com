@@ -2,9 +2,9 @@ import _ from "lodash/fp";
 import { TQueryParam } from "../types/gallery";
 
 // Ensures a consistent array of strings for a given query parameter
-export const queryParamToStrings = (
-  param: TQueryParam | undefined
-): string[] => {
+export const queryParamToStrings = <T extends string = string>(
+  param: TQueryParam<T> | undefined
+): T[] => {
   if (!param) return [];
   if (typeof param === "string") return [param];
   return param;
