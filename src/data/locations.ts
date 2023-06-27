@@ -36,6 +36,7 @@ export const locationHierarchy: ILocationHierarchy = {
           "Middle Fell": {},
         },
         "Crummock Water": {
+          Mellbreak: {},
           "Scale Beck": {},
         },
         "Derwent Water": {
