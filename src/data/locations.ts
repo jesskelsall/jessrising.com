@@ -178,6 +178,13 @@ export const locationHierarchy: ILocationHierarchy = {
       "Glen Creran": {},
       Glenfinnan: {},
       "Isle of Iona": {},
+      "Isle of Mull": {
+        "Calgary Bay": {},
+        Lochbuie: {},
+        "Loch Spelve": {},
+        "Sound of Mull": {},
+        Tobermory: {},
+      },
       "Isle of Skye": {
         "Loch na Cuilce": {},
         "The Storr": {},
@@ -208,6 +215,7 @@ export const locationHierarchy: ILocationHierarchy = {
         Lochaline: {},
       },
       Oban: {
+        "Firth of Lorn": {},
         "McCaig's Tower": {},
       },
       "Rannoch Moor": {
