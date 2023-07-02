@@ -16,6 +16,7 @@ module.exports = {
     "import/no-extraneous-dependencies": ["error", { devDependencies: true }],
     "import/prefer-default-export": "off",
     "no-console": ["warn", { allow: ["error", "info", "warn"] }],
+    "prefer-destructuring": "warn",
     "prettier/prettier": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/function-component-definition": [

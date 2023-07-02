@@ -1,4 +1,4 @@
-import { getLocationHierarchy } from "./location";
+import { getLocationHierarchy } from "../../../src/functions/location";
 
 describe("getLocationHierarchy", () => {
   const topLevelLocation = "United Kingdom";

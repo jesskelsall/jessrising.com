@@ -82,8 +82,14 @@ export const parseMarkdownListData = <K extends string = string>(
   return listLines.reduce<TMarkdownListData<K>>((data, line) => {
     if (!line.includes(":")) return data;
 
-    const [category, content] = line.split(":").map((part) => part.trim());
-    const values = compact(content.split(",").map((value) => value.trim()));
+    const [category, ...contentParts] = line
+      .split(":")
+      .map((part) => part.trim());
+    const values = contentParts
+      .join(":")
+      .split(",")
+      .map((value) => value.trim())
+      .filter((value) => value);
 
     const updatedData: TMarkdownListData<K> = { ...data };
     updatedData[category as K] = [
@@ -184,4 +190,45 @@ export const parseMarkdown = (
   if (summaryParagraph) markdownData.summary.paragraph = summaryParagraph;
 
   return markdownData;
+};
+
+// TODO new below vvv
+
+// Tests if a markdown line can be considered content when evaluating metadata lists
+export const lineIsContentLine = (line: string): boolean =>
+  line.trim().length !== 0 && !line.startsWith("# ");
+
+// Separates markdown metadata lines from all other lines
+// Metadata lines are the first list below the main heading
+export const extractMarkdownMetaLines = (
+  markdownLines: string[]
+): {
+  metaLines: string[];
+  otherLines: string[];
+} => {
+  // Get the start of the content
+  const firstContentIndex = markdownLines.findIndex(lineIsContentLine);
+
+  // Get the start of the list
+  const firstIndex = markdownLines.findIndex(lineIsUnorderedListItem);
+
+  // List must exist
+  // List must be first content
+  if (firstIndex === -1 || firstIndex !== firstContentIndex) {
+    return { metaLines: [], otherLines: markdownLines };
+  }
+
+  // Get the end of the list
+  const lastIndex = markdownLines
+    .slice(firstIndex)
+    .findIndex((line) => !lineIsUnorderedListItem(line));
+
+  // Splice list lines from markdown lines
+  const otherLines = [...markdownLines];
+  const metaLines =
+    lastIndex === -1
+      ? otherLines.splice(firstIndex)
+      : otherLines.splice(firstIndex, lastIndex);
+
+  return { metaLines, otherLines };
 };
