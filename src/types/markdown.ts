@@ -2,7 +2,9 @@ import { IEXIF } from "./gallery";
 
 // Parsing
 
-export type TMarkdownListData = Record<string, string[]>;
+export type TMarkdownListData<K extends string = string> = Partial<
+  Record<K, string[]>
+>;
 
 // GPS coordinate
 export interface IGPS {

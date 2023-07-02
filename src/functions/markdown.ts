@@ -72,25 +72,26 @@ export const lineIsUnorderedListItem = (line: string): boolean =>
   line.startsWith(LIST_LINE_PREFIX);
 
 // Parse markdown data from specially formatted unordered list
-// TODO USE
-export const parseMarkdownListData = (
+export const parseMarkdownListData = <K extends string = string>(
   markdownLines: string[]
-): TMarkdownListData => {
+): TMarkdownListData<K> => {
   const listLines = markdownLines
     .filter(lineIsUnorderedListItem)
     .map((line) => line.replace(LIST_LINE_PREFIX, ""));
 
-  return listLines.reduce<TMarkdownListData>((data, line) => {
+  return listLines.reduce<TMarkdownListData<K>>((data, line) => {
     if (!line.includes(":")) return data;
 
     const [category, content] = line.split(":").map((part) => part.trim());
     const values = compact(content.split(",").map((value) => value.trim()));
 
-    return {
-      ...data,
-      [category]:
-        category in data ? [...data[`${category}`], ...values] : values,
-    };
+    const updatedData: TMarkdownListData<K> = { ...data };
+    updatedData[category as K] = [
+      ...(updatedData[category as K] || []),
+      ...values,
+    ];
+
+    return updatedData;
   }, {});
 };
 
@@ -112,58 +113,46 @@ export const parseMarkdownMeta = (
 
   // Splice list lines from markdown lines
   const editedMarkdownLines = [...markdownLines];
-  const listLines = (
+  const listLines =
     lastIndex === -1
       ? editedMarkdownLines.splice(firstIndex)
-      : editedMarkdownLines.splice(firstIndex, lastIndex)
-  ).map((line) => line.replace(/^- /, ""));
+      : editedMarkdownLines.splice(firstIndex, lastIndex);
 
-  // Check list is key/value pairs (meta)
-  const isMetaList = listLines.every((line) => /^\w+: .{1,}$/.test(line));
-  if (!isMetaList) return [emptyMetaData(), markdownLines];
-
-  // Parse key/value pairs
-  const metaEntries = listLines.map((line) => line.split(": "));
+  // Get metadata from list lines
+  const listData = parseMarkdownListData(listLines);
 
   // Convert to valid meta attributes
   const meta: IMarkdownMetaData = emptyMetaData();
 
-  metaEntries.forEach((entry) => {
-    switch (entry[0]) {
-      case "Camera":
-        meta.photo.camera = `${entry[1]}`;
-        break;
-      case "Date":
-        meta.photo.date = `${entry[1]}`;
-        break;
-      case "Dimensions":
-        {
-          const [width, height] = entry[1]
-            .split("x")
-            .map((dimension) => parseInt(dimension, 10));
-          if (!Number.isNaN(width) && !Number.isNaN(height)) {
-            meta.photo.dimensions = { height, width };
-          }
-        }
-        break;
-      case "GPS":
-        {
-          const [lat, long] = entry[1]
-            .split(",")
-            .map((value) => parseFloat(value));
-          meta.gps = { lat, long };
-        }
-        break;
-      case "Location":
-        meta.locations = getLocationHierarchy(entry[1]);
-        break;
-      case "Tags":
-        meta.tags = entry[1].split(",");
-        break;
-      default:
-        console.warn(`Unexpected markdown meta tag "${entry[0]}".`);
+  if (listData.Camera) {
+    meta.photo.camera = `${listData.Camera[0]}`;
+  }
+
+  if (listData.Date) {
+    meta.photo.date = `${listData.Date[0]}`;
+  }
+
+  if (listData.Dimensions) {
+    const [width, height] = listData.Dimensions[0]
+      .split("x")
+      .map((dimension) => parseInt(dimension, 10));
+    if (!Number.isNaN(width) && !Number.isNaN(height)) {
+      meta.photo.dimensions = { height, width };
     }
-  });
+  }
+
+  if (listData.GPS) {
+    const [lat, long] = listData.GPS.map((value) => parseFloat(value));
+    meta.gps = { lat, long };
+  }
+
+  if (listData.Location) {
+    meta.locations = getLocationHierarchy(listData.Location[0]);
+  }
+
+  if (listData.Tags) {
+    meta.tags = listData.Tags;
+  }
 
   return [meta, editedMarkdownLines];
 };
