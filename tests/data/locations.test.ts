@@ -1,5 +1,8 @@
 import { groupBy, identity } from "lodash/fp";
-import { ILocationHierarchy, locationHierarchy } from "./locations";
+import {
+  ILocationHierarchy,
+  locationHierarchy,
+} from "../../src/data/locations";
 
 describe("Locations", () => {
   test("All locations are unique", () => {

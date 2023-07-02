@@ -1,8 +1,8 @@
 import Joi from "joi";
 import { last } from "lodash/fp";
-import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
-import galleryPhotosJSON from "./galleryPhotos.json";
-import { locationHierarchy } from "./locations";
+import galleryPhotosJSON from "../../src/data/galleryPhotos.json";
+import { locationHierarchy } from "../../src/data/locations";
+import { IMarkdownData, TMarkdownDataFile } from "../../src/types/markdown";
 
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 const topLevelLocations = Object.keys(locationHierarchy);
