@@ -8,6 +8,11 @@ describe("getLocationHierarchy", () => {
     expect(getLocationHierarchy("")).toEqual([]);
   });
 
+  test("returns one string when location is unknown", () => {
+    const unknownLocation = "Unknown Location";
+    expect(getLocationHierarchy(unknownLocation)).toEqual([unknownLocation]);
+  });
+
   test("returns one string when location is top level", () => {
     expect(getLocationHierarchy(topLevelLocation)).toEqual([topLevelLocation]);
   });

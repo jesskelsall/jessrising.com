@@ -23,6 +23,7 @@ const findLocations = (
   return results.find((result) => result !== undefined);
 };
 
+// Returns an array of locations, from the location specified, to least specific parent
 export const getLocationHierarchy = (location: string): string[] => {
   if (!location) return [];
 

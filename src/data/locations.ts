@@ -205,7 +205,9 @@ export const locationHierarchy: ILocationHierarchy = {
         "Loch Tummel": {},
       },
       "Loch Shiel": {
-        Sunart: {},
+        Sunart: {
+          "Loch Sunart": {},
+        },
       },
       Moidart: {
         "Loch Moidart": {},
@@ -222,9 +224,6 @@ export const locationHierarchy: ILocationHierarchy = {
         "Rannoch Station": {},
       },
       Sandaig: {},
-      Sunart: {
-        "Loch Sunart": {},
-      },
       Sutherland: {
         Durness: {
           "Smoo Cave": {},
