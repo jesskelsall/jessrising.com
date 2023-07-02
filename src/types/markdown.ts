@@ -1,5 +1,9 @@
 import { IEXIF } from "./gallery";
 
+// Parsing
+
+export type TMarkdownListData = Record<string, string[]>;
+
 // GPS coordinate
 export interface IGPS {
   lat: number;

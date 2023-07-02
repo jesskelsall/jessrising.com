@@ -1,12 +1,18 @@
-import _ from "lodash/fp";
+import { cloneDeep, compact } from "lodash/fp";
 import { MARKDOWN_DATA_EMPTY } from "../consts/data";
-import { IMarkdownData, IMarkdownMetaData } from "../types/markdown";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import {
+  IMarkdownData,
+  IMarkdownMetaData,
+  TMarkdownListData,
+} from "../types/markdown";
 import { dateFromSlug } from "./date";
 import { getLocationHierarchy } from "./location";
-import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+
+const LIST_LINE_PREFIX = "- ";
 
 const emptyMetaData = (): IMarkdownMetaData =>
-  _.cloneDeep(MARKDOWN_DATA_EMPTY.meta);
+  cloneDeep(MARKDOWN_DATA_EMPTY.meta);
 
 // eslint-disable-next-line security/detect-non-literal-regexp
 const suffixesRegExp = new RegExp(
@@ -63,7 +69,30 @@ export const parseMarkdownFirstParagraph = (
   )[0];
 
 export const lineIsUnorderedListItem = (line: string): boolean =>
-  line.startsWith("- ");
+  line.startsWith(LIST_LINE_PREFIX);
+
+// Parse markdown data from specially formatted unordered list
+// TODO USE
+export const parseMarkdownListData = (
+  markdownLines: string[]
+): TMarkdownListData => {
+  const listLines = markdownLines
+    .filter(lineIsUnorderedListItem)
+    .map((line) => line.replace(LIST_LINE_PREFIX, ""));
+
+  return listLines.reduce<TMarkdownListData>((data, line) => {
+    if (!line.includes(":")) return data;
+
+    const [category, content] = line.split(":").map((part) => part.trim());
+    const values = compact(content.split(",").map((value) => value.trim()));
+
+    return {
+      ...data,
+      [category]:
+        category in data ? [...data[`${category}`], ...values] : values,
+    };
+  }, {});
+};
 
 /**
  * Parse markdown data from a specially formatted unordered list
