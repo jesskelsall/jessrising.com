@@ -1,4 +1,4 @@
-import { getCameraDisplayName } from "./photo";
+import { getCameraDisplayName } from "../../../src/functions/photo";
 
 describe("getCameraDisplayName", () => {
   test("returns a known camera display name", () => {

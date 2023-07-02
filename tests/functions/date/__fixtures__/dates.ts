@@ -1,0 +1,2 @@
+export const EXIF_DATE_STRING = "2023:03:07 21:34:06";
+export const ISO_DATE_STRING = "2023-03-07T21:34:06.327Z";
