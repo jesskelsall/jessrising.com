@@ -22,7 +22,7 @@ const customJestConfig = {
 
     "^@/pages/(.*)$": "<rootDir>/pages/$1",
   },
-  setupFilesAfterEnv: ["<rootDir>/jest.setup.js"],
+  setupFilesAfterEnv: ["<rootDir>/jest.setup.ts"],
   testEnvironment: "jest-environment-jsdom",
   testMatch: ["**/*.test.(ts|tsx)", "!**/data/*"],
   verbose: true,
