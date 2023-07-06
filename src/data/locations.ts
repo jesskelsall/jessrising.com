@@ -177,13 +177,17 @@ export const locationHierarchy: ILocationHierarchy = {
       },
       "Glen Creran": {},
       Glenfinnan: {},
-      "Isle of Iona": {},
       "Isle of Mull": {
         "Calgary Bay": {},
+        "Isle of Iona": {},
+        "Isle of Staffa": {},
         Lochbuie: {},
         "Loch Spelve": {},
         "Sound of Mull": {},
         Tobermory: {},
+        "Treshnish Isles": {
+          "Isle of Lunga": {},
+        },
       },
       "Isle of Skye": {
         "Loch na Cuilce": {},
