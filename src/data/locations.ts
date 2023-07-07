@@ -179,7 +179,10 @@ export const locationHierarchy: ILocationHierarchy = {
       Glenfinnan: {},
       "Isle of Mull": {
         "Calgary Bay": {},
-        "Isle of Iona": {},
+        Fionnphort: {},
+        "Isle of Iona": {
+          "Iona Abbey": {},
+        },
         "Isle of Staffa": {},
         Lochbuie: {},
         "Loch Spelve": {},
@@ -202,6 +205,11 @@ export const locationHierarchy: ILocationHierarchy = {
       "Loch Carron": {
         Attadale: {},
         "Strome Castle": {},
+      },
+      "Loch Lomond & The Trossachs": {
+        "Loch Lomond": {
+          Inveruglas: {},
+        },
       },
       "Loch Rannoch & Glen Lyon": {
         "Dunalasdair Estate": {},

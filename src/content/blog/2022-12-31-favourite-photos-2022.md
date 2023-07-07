@@ -40,7 +40,7 @@ Dramatic views of the rocky land tantalisingly obscuring our first view of Loch 
 
 ## #7: Tràigh an t-Suidhe
 
-<img src="../../public/photos/traigh-an-t-suidhe.jpeg" />
+<img src="../../public/photos/traigh-an-t-suidhe-221023.jpeg" />
 
 Iona, a small island near the Isle of Mull, is a fantastic place to wander in solitude away from life's worries. Here on its north edge, I explored *Beach of the Seat* completely alone, with views across uninhabited sea and land as my only company. The sand here is white, the rocks are orange and green, and in typical western Highlands fashion, the sky threatens rain.
 
@@ -56,7 +56,7 @@ This photo towards the crossing, looking up at the pillars and arches, contrasts
 
 ## #5: Lagangarbh Hut and Buachaille Etive Mòr
 
-<img src="../../public/photos/lagangarbh-hut-and-buachaille-etive-mor-20221210.jpeg" />
+<img src="../../public/photos/lagangarbh-hut-and-buachaille-etive-mor-221210.jpeg" />
 
 When compiling this list, I started with a "shortlist" of around 100 photos - three of which were of Lagangarbh, the famous white house at the top of Glen Coe. Each was from a different season, but I've chosen this one from December for several reasons.
 
