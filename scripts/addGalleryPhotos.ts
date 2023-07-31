@@ -60,13 +60,15 @@ const fileExists = async (filePath: string): Promise<boolean> => {
 
 // Read EXIF data from a photo file
 const readPhotoEXIF = async (fileBuffer: Buffer): Promise<IEXIF> => {
+  const exif = await ExifReader.load(fileBuffer);
+  console.log(exif);
   const {
     DateTime: Date,
     "Image Height": Height,
     "Image Width": Width,
     Make,
     Model,
-  } = await ExifReader.load(fileBuffer);
+  } = exif;
 
   // Apply EXIF tag data if present
   const exifData: IEXIF = {};
@@ -130,10 +132,10 @@ const addGalleryPhoto = async (
   );
 
   const markdownAlreadyExists = await fileExists(markdownFilePath);
-  if (markdownAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
-    console.warn("Photo already exists", photoSlug);
-    return;
-  }
+  // if (markdownAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
+  //   console.warn("Photo already exists", photoSlug);
+  //   return;
+  // }
 
   // Extract EXIF data from file
 
@@ -141,75 +143,75 @@ const addGalleryPhoto = async (
   const fileBuffer = await readFile(filePath);
   const exifData = await readPhotoEXIF(fileBuffer);
 
-  const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
-    fileName: `${photoSlug}${suffix}.jpeg`,
-    maxDimension,
-  }));
+  // const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
+  //   fileName: `${photoSlug}${suffix}.jpeg`,
+  //   maxDimension,
+  // }));
 
-  for (const image of images) {
-    // Render photo at different size
+  // for (const image of images) {
+  //   // Render photo at different size
 
-    const resizedFilePath = path.resolve(directory, image.fileName);
+  //   const resizedFilePath = path.resolve(directory, image.fileName);
 
-    try {
-      await resizeImage(
-        path.resolve(directory, fileName),
-        resizedFilePath,
-        image.maxDimension
-      );
-    } catch {
-      console.warn("Failed to render a resized image", photoSlug);
-      return;
-    }
+  //   try {
+  //     await resizeImage(
+  //       path.resolve(directory, fileName),
+  //       resizedFilePath,
+  //       image.maxDimension
+  //     );
+  //   } catch {
+  //     console.warn("Failed to render a resized image", photoSlug);
+  //     return;
+  //   }
 
-    // Write photo to AWS S3 bucket
+  //   // Write photo to AWS S3 bucket
 
-    const imageBuffer = await readFile(resizedFilePath);
-    const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
-    if (!writeSuccess) {
-      console.warn("Failed to write file to S3 bucket", image.fileName);
-      return;
-    }
+  //   const imageBuffer = await readFile(resizedFilePath);
+  //   const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
+  //   if (!writeSuccess) {
+  //     console.warn("Failed to write file to S3 bucket", image.fileName);
+  //     return;
+  //   }
 
-    // Delete the rendered image
-    try {
-      await unlink(resizedFilePath);
-    } catch {
-      console.warn("Failed to delete resized image", image.fileName);
-      return;
-    }
-  }
+  //   // Delete the rendered image
+  //   try {
+  //     await unlink(resizedFilePath);
+  //   } catch {
+  //     console.warn("Failed to delete resized image", image.fileName);
+  //     return;
+  //   }
+  // }
 
-  // Write gallery photo data file
+  // // Write gallery photo data file
 
-  if (!markdownAlreadyExists) {
-    const markdownContent: string[] = [
-      `# ${photoName}`,
-      "",
-      "- GPS: ",
-      "- Location: ",
-      "- Tags: Landscape",
-    ];
-    if (exifData.camera) markdownContent.push(`- Camera: ${exifData.camera}`);
-    if (exifData.date) markdownContent.push(`- Date: ${exifData.date}`);
-    if (exifData.dimensions)
-      markdownContent.push(
-        `- Dimensions: ${exifData.dimensions.width}x${exifData.dimensions.height}`
-      );
+  // if (!markdownAlreadyExists) {
+  //   const markdownContent: string[] = [
+  //     `# ${photoName}`,
+  //     "",
+  //     "- GPS: ",
+  //     "- Location: ",
+  //     "- Tags: Landscape",
+  //   ];
+  //   if (exifData.camera) markdownContent.push(`- Camera: ${exifData.camera}`);
+  //   if (exifData.date) markdownContent.push(`- Date: ${exifData.date}`);
+  //   if (exifData.dimensions)
+  //     markdownContent.push(
+  //       `- Dimensions: ${exifData.dimensions.width}x${exifData.dimensions.height}`
+  //     );
 
-    await writeFile(markdownFilePath, markdownContent.join("\n").concat("\n"));
-  }
+  //   await writeFile(markdownFilePath, markdownContent.join("\n").concat("\n"));
+  // }
 
-  // Delete the original photo
+  // // Delete the original photo
 
-  try {
-    await unlink(filePath);
-  } catch {
-    console.warn("Failed to delete photo file", photoSlug);
-    return;
-  }
+  // try {
+  //   await unlink(filePath);
+  // } catch {
+  //   console.warn("Failed to delete photo file", photoSlug);
+  //   return;
+  // }
 
-  console.info("Success (gallery)", photoSlug);
+  // console.info("Success (gallery)", photoSlug);
 };
 
 const addBlogPhoto = async (
