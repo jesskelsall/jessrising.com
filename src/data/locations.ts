@@ -2,6 +2,11 @@ export interface ILocationHierarchy {
   [location: string]: ILocationHierarchy;
 }
 
+/**
+ * Gallery photo tests will fail on locations not defined here
+ * Locations tests will fail if all locations aren't unique
+ * Nesting expresses hierarchy
+ */
 export const locationHierarchy: ILocationHierarchy = {
   "United Kingdom": {
     England: {
