@@ -30,8 +30,8 @@ export const parseMarkdownGalleryPhoto = (
 
   // Set optional values
 
-  if (metaData.Camera) galleryPhoto.exif.camera = metaData.Camera[0];
-  if (metaData.Date) galleryPhoto.exif.date = metaData.Date[0];
+  if (metaData.Camera) galleryPhoto.exif.camera = `${metaData.Camera[0]}`;
+  if (metaData.Date) galleryPhoto.exif.date = `${metaData.Date[0]}`;
   if (metaData.Tags) galleryPhoto.meta.tags = metaData.Tags;
 
   if (metaData.Dimensions) {

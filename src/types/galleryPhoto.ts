@@ -7,7 +7,17 @@ export type TGalleryPhotoMetaCategory =
   | "Tags";
 
 export interface IEXIF {
-  camera?: string;
+  camera?: {
+    name: string;
+    lens?: string;
+    settings?: {
+      exposureBias?: number;
+      exposureTime?: number;
+      focalLength?: number;
+      fStop?: number;
+      ISO?: number;
+    };
+  };
   date?: string;
   dimensions?: {
     height: number;

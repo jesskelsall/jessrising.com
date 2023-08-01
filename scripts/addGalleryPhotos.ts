@@ -61,7 +61,7 @@ const fileExists = async (filePath: string): Promise<boolean> => {
 // Read EXIF data from a photo file
 const readPhotoEXIF = async (fileBuffer: Buffer): Promise<IEXIF> => {
   const exif = await ExifReader.load(fileBuffer);
-  console.log(exif);
+  console.log(JSON.stringify(exif));
   const {
     DateTime: Date,
     "Image Height": Height,
