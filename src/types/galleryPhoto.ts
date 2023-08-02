@@ -1,12 +1,13 @@
-export type TGalleryPhotoMetaCategory =
+export type GalleryPhotoMetaCategory =
   | "Camera"
   | "Date"
   | "Dimensions"
+  | "EXIF"
   | "GPS"
   | "Location"
   | "Tags";
 
-export interface IEXIF {
+export type EXIF = {
   camera?: {
     name: string;
     lens?: string;
@@ -23,12 +24,12 @@ export interface IEXIF {
     height: number;
     width: number;
   };
-}
+};
 
-export interface IGalleryPhoto {
+export type GalleryPhoto = {
   slug: string;
   title: string;
-  exif: IEXIF;
+  exif: EXIF;
   markdown?: string;
   meta: {
     gps?: {
@@ -38,4 +39,4 @@ export interface IGalleryPhoto {
     location?: string[];
     tags?: string[];
   };
-}
+};

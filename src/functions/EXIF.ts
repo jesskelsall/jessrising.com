@@ -1,6 +1,6 @@
 import ExifReader from "exifreader";
 import { Camera, Device } from "../data/cameras";
-import { IEXIF } from "../types/galleryPhoto";
+import { EXIF } from "../types/galleryPhoto";
 import { dateFromEXIFString } from "./date";
 
 export type EXIFLoaded = ExifReader.Tags &
@@ -27,7 +27,7 @@ const numberValue = (
   return castTag.value[0] / castTag.value[1];
 };
 
-export const parseEXIF = (cameras: Camera[], exif: EXIFLoaded): IEXIF => {
+export const parseEXIF = (cameras: Camera[], exif: EXIFLoaded): EXIF => {
   const {
     DateTime: Date,
     ExposureBiasValue,
@@ -42,7 +42,7 @@ export const parseEXIF = (cameras: Camera[], exif: EXIFLoaded): IEXIF => {
     Model,
   } = exif;
 
-  const exifData: IEXIF = {};
+  const exifData: EXIF = {};
 
   // Timestamp
 

@@ -85,9 +85,10 @@ export const parseMarkdownListData = <K extends string = string>(
     const [category, ...contentParts] = line
       .split(":")
       .map((part) => part.trim());
+    const isJSONValue = contentParts[0]?.startsWith("`");
     const values = contentParts
       .join(":")
-      .split(",")
+      .split(isJSONValue ? /^/ : ",")
       .map((value) => value.trim())
       .filter((value) => value);
 

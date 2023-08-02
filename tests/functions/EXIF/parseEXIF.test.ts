@@ -115,7 +115,9 @@ describe("parseEXIF", () => {
   });
 
   test("Sony ɑ550 ∙ Samyang 1:28 10mm ED AS NCS CS", () => {
-    expect(parseEXIF(allCameras, a550Wide)).toEqual({
+    const result = parseEXIF(allCameras, a550Wide);
+    console.log(JSON.stringify(result));
+    expect(result).toEqual({
       camera: {
         lens: undefined,
         name: "Sony ɑ550",
@@ -139,7 +141,7 @@ describe("parseEXIF", () => {
     expect(parseEXIF(allCameras, iPhone14Main)).toEqual({
       camera: {
         lens: "Main Camera",
-        name: "iPhone 14 Pro Max",
+        name: "Apple iPhone 14 Pro Max",
       },
       date: "2023-06-01T09:44:51.000+01:00",
       dimensions: {

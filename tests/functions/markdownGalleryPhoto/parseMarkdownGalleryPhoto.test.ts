@@ -1,7 +1,7 @@
 import { parseMarkdownGalleryPhoto } from "../../../src/functions/markdownGalleryPhoto";
 
 describe("parseMarkdownGalleryPhoto", () => {
-  test("returns a completely defined gallery photo", () => {
+  test("returns a complete gallery photo (extracted EXIF properties)", () => {
     const slug = "the-old-man-of-storr";
     const lines: string[] = [
       "# The Old Man of Storr",
@@ -25,7 +25,9 @@ describe("parseMarkdownGalleryPhoto", () => {
       slug,
       title: "The Old Man of Storr",
       exif: {
-        camera: "Apple iPhone 11 Pro Max",
+        camera: {
+          name: "Apple iPhone 11 Pro Max",
+        },
         date: "2022-06-05T11:26:39.000+01:00",
         dimensions: {
           height: 3024,
@@ -39,6 +41,47 @@ describe("parseMarkdownGalleryPhoto", () => {
           long: -6.1741472222222225,
         },
         location: ["The Storr", "Isle of Skye", "Scotland", "United Kingdom"],
+        tags: ["Landscape", "Loch"],
+      },
+    });
+  });
+
+  test("returns a complete gallery photo (EXIF JSON)", () => {
+    const slug = "rowing-boat-on-loch-arkaig";
+    const lines: string[] = [
+      "# Rowing Boat on Loch Arkaig",
+      "",
+      "- Location: Loch Arkaig",
+      "- Tags: Landscape, Loch",
+      '- EXIF: `{"date":"2023-07-30T10:32:58.000+01:00","dimensions":{"height":6336,"width":9504},"camera":{"name":"Sony ɑ7R V","lens":"Sony FE 24-70mm F2.8 GM II","settings":{"exposureBias":0,"exposureTime":0.016666666666666666,"focalLength":51,"fStop":22,"ISO":500}}}`',
+    ];
+
+    const result = parseMarkdownGalleryPhoto(slug, lines.join("\n"));
+
+    expect(result).toEqual({
+      slug,
+      title: "Rowing Boat on Loch Arkaig",
+      exif: {
+        camera: {
+          name: "Sony ɑ7R V",
+          lens: "Sony FE 24-70mm F2.8 GM II",
+          settings: {
+            exposureBias: 0,
+            exposureTime: 0.016666666666666666,
+            focalLength: 51,
+            fStop: 22,
+            ISO: 500,
+          },
+        },
+        date: "2023-07-30T10:32:58.000+01:00",
+        dimensions: {
+          height: 6336,
+          width: 9504,
+        },
+      },
+      markdown: [...lines.slice(0, 2)].join("\n"),
+      meta: {
+        location: ["Loch Arkaig", "Lochaber", "Scotland", "United Kingdom"],
         tags: ["Landscape", "Loch"],
       },
     });

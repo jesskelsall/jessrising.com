@@ -16,7 +16,7 @@ export type Camera = Device & {
  */
 export const cameras: Camera[] = [
   {
-    displayName: "iPhone 14 Pro Max",
+    displayName: "Apple iPhone 14 Pro Max",
     displaySettings: false,
     make: "Apple",
     model: "iPhone 14 Pro Max",

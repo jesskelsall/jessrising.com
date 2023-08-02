@@ -1,7 +1,4 @@
-import {
-  IGalleryPhoto,
-  TGalleryPhotoMetaCategory,
-} from "../types/galleryPhoto";
+import { GalleryPhoto, GalleryPhotoMetaCategory } from "../types/galleryPhoto";
 import { getLocationHierarchy } from "./location";
 import {
   extractMarkdownMetaLines,
@@ -13,14 +10,14 @@ import {
 export const parseMarkdownGalleryPhoto = (
   slug: string,
   markdown: string
-): IGalleryPhoto => {
+): GalleryPhoto => {
   // Parse markdown lines
   const markdownLines = markdown.trim().split("\n");
   const { metaLines, otherLines } = extractMarkdownMetaLines(markdownLines);
-  const metaData = parseMarkdownListData<TGalleryPhotoMetaCategory>(metaLines);
+  const metaData = parseMarkdownListData<GalleryPhotoMetaCategory>(metaLines);
 
   // Create object
-  const galleryPhoto: IGalleryPhoto = {
+  const galleryPhoto: GalleryPhoto = {
     slug,
     title: parseMarkdownFirstHeading(markdownLines) || slug,
     exif: {},
@@ -30,16 +27,23 @@ export const parseMarkdownGalleryPhoto = (
 
   // Set optional values
 
-  if (metaData.Camera) galleryPhoto.exif.camera = `${metaData.Camera[0]}`;
-  if (metaData.Date) galleryPhoto.exif.date = `${metaData.Date[0]}`;
-  if (metaData.Tags) galleryPhoto.meta.tags = metaData.Tags;
+  if (metaData.EXIF) {
+    galleryPhoto.exif = JSON.parse(metaData.EXIF[0].replace(/`/g, ""));
+  } else {
+    if (metaData.Camera) {
+      galleryPhoto.exif.camera = {
+        name: `${metaData.Camera[0]}`,
+      };
+    }
+    if (metaData.Date) galleryPhoto.exif.date = `${metaData.Date[0]}`;
 
-  if (metaData.Dimensions) {
-    const [width, height] = metaData.Dimensions[0]
-      .split("x")
-      .map((dimension) => parseInt(dimension, 10));
-    if (!Number.isNaN(width) && !Number.isNaN(height)) {
-      galleryPhoto.exif.dimensions = { height, width };
+    if (metaData.Dimensions) {
+      const [width, height] = metaData.Dimensions[0]
+        .split("x")
+        .map((dimension) => parseInt(dimension, 10));
+      if (!Number.isNaN(width) && !Number.isNaN(height)) {
+        galleryPhoto.exif.dimensions = { height, width };
+      }
     }
   }
 
@@ -48,8 +52,11 @@ export const parseMarkdownGalleryPhoto = (
     galleryPhoto.meta.gps = { lat, long };
   }
 
-  if (metaData.Location)
+  if (metaData.Location) {
     galleryPhoto.meta.location = getLocationHierarchy(metaData.Location[0]);
+  }
+
+  if (metaData.Tags) galleryPhoto.meta.tags = metaData.Tags;
 
   return galleryPhoto;
 };

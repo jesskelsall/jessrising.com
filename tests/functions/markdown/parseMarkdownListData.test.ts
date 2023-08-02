@@ -16,6 +16,14 @@ describe("parseMarkdownListData", () => {
     });
   });
 
+  test("Parses categories with JSON data", () => {
+    const json = "`{one:1,two:2}`";
+
+    expect(parseMarkdownListData([`- JSON: ${json}`])).toEqual({
+      JSON: [json],
+    });
+  });
+
   test("Parses categories with no values", () => {
     expect(parseMarkdownListData(["- Blank:"])).toEqual({ Blank: [] });
   });

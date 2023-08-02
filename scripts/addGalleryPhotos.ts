@@ -8,8 +8,9 @@ import _ from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
-import { dateFromEXIFString } from "../src/functions/date";
-import { IEXIF } from "../src/types/gallery";
+import { cameras } from "../src/data/cameras";
+import { parseEXIF } from "../src/functions/EXIF";
+import { EXIF } from "../src/types/galleryPhoto";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -37,6 +38,8 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
   },
 ];
 
+const DRY_RUN = true;
+
 // Create a resized version of the given image
 const resizeImage = (inputPath: string, outputPath: string, maxWidth: number) =>
   new Promise((resolve, reject) => {
@@ -59,37 +62,9 @@ const fileExists = async (filePath: string): Promise<boolean> => {
 };
 
 // Read EXIF data from a photo file
-const readPhotoEXIF = async (fileBuffer: Buffer): Promise<IEXIF> => {
+const readPhotoEXIF = async (fileBuffer: Buffer): Promise<EXIF> => {
   const exif = await ExifReader.load(fileBuffer);
-  console.log(JSON.stringify(exif));
-  const {
-    DateTime: Date,
-    "Image Height": Height,
-    "Image Width": Width,
-    Make,
-    Model,
-  } = exif;
-
-  // Apply EXIF tag data if present
-  const exifData: IEXIF = {};
-
-  if (Make?.value[0] && Model?.value[0]) {
-    exifData.camera = `${Make.value[0]} ${Model.value[0]}`;
-  }
-
-  if (Date?.value[0]) {
-    const isoDate = dateFromEXIFString(Date.value[0]);
-    if (isoDate?.isValid) exifData.date = isoDate.toISO();
-  }
-
-  if (Height.value && Width.value) {
-    exifData.dimensions = {
-      height: parseInt(Height.value, 10),
-      width: parseInt(Width.value, 10),
-    };
-  }
-
-  return exifData;
+  return parseEXIF(cameras, exif);
 };
 
 // Write a file to the S3 bucket. Returns whether it was successful
@@ -132,10 +107,10 @@ const addGalleryPhoto = async (
   );
 
   const markdownAlreadyExists = await fileExists(markdownFilePath);
-  // if (markdownAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
-  //   console.warn("Photo already exists", photoSlug);
-  //   return;
-  // }
+  if (!DRY_RUN && markdownAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
+    console.warn("Photo already exists", photoSlug);
+    return;
+  }
 
   // Extract EXIF data from file
 
@@ -143,75 +118,81 @@ const addGalleryPhoto = async (
   const fileBuffer = await readFile(filePath);
   const exifData = await readPhotoEXIF(fileBuffer);
 
-  // const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
-  //   fileName: `${photoSlug}${suffix}.jpeg`,
-  //   maxDimension,
-  // }));
+  const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
+    fileName: `${photoSlug}${suffix}.jpeg`,
+    maxDimension,
+  }));
 
-  // for (const image of images) {
-  //   // Render photo at different size
+  for (const image of images) {
+    // Render photo at different size
 
-  //   const resizedFilePath = path.resolve(directory, image.fileName);
+    if (!DRY_RUN) {
+      const resizedFilePath = path.resolve(directory, image.fileName);
 
-  //   try {
-  //     await resizeImage(
-  //       path.resolve(directory, fileName),
-  //       resizedFilePath,
-  //       image.maxDimension
-  //     );
-  //   } catch {
-  //     console.warn("Failed to render a resized image", photoSlug);
-  //     return;
-  //   }
+      try {
+        await resizeImage(
+          path.resolve(directory, fileName),
+          resizedFilePath,
+          image.maxDimension
+        );
+      } catch {
+        console.warn("Failed to render a resized image", photoSlug);
+        return;
+      }
 
-  //   // Write photo to AWS S3 bucket
+      // Write photo to AWS S3 bucket
 
-  //   const imageBuffer = await readFile(resizedFilePath);
-  //   const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
-  //   if (!writeSuccess) {
-  //     console.warn("Failed to write file to S3 bucket", image.fileName);
-  //     return;
-  //   }
+      const imageBuffer = await readFile(resizedFilePath);
+      const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
+      if (!writeSuccess) {
+        console.warn("Failed to write file to S3 bucket", image.fileName);
+        return;
+      }
 
-  //   // Delete the rendered image
-  //   try {
-  //     await unlink(resizedFilePath);
-  //   } catch {
-  //     console.warn("Failed to delete resized image", image.fileName);
-  //     return;
-  //   }
-  // }
+      // Delete the rendered image
 
-  // // Write gallery photo data file
+      try {
+        await unlink(resizedFilePath);
+      } catch {
+        console.warn("Failed to delete resized image", image.fileName);
+        return;
+      }
+    }
+  }
 
-  // if (!markdownAlreadyExists) {
-  //   const markdownContent: string[] = [
-  //     `# ${photoName}`,
-  //     "",
-  //     "- GPS: ",
-  //     "- Location: ",
-  //     "- Tags: Landscape",
-  //   ];
-  //   if (exifData.camera) markdownContent.push(`- Camera: ${exifData.camera}`);
-  //   if (exifData.date) markdownContent.push(`- Date: ${exifData.date}`);
-  //   if (exifData.dimensions)
-  //     markdownContent.push(
-  //       `- Dimensions: ${exifData.dimensions.width}x${exifData.dimensions.height}`
-  //     );
+  // Write gallery photo data file
 
-  //   await writeFile(markdownFilePath, markdownContent.join("\n").concat("\n"));
-  // }
+  if (DRY_RUN || !markdownAlreadyExists) {
+    const markdownContent = [
+      `# ${photoName}`,
+      "",
+      "- GPS: ",
+      "- Location: ",
+      "- Tags: Landscape",
+      `- EXIF: \`${JSON.stringify(exifData)}\``,
+    ]
+      .join("\n")
+      .concat("\n");
 
-  // // Delete the original photo
+    if (DRY_RUN) {
+      console.info(markdownContent);
+    } else {
+      await writeFile(markdownFilePath, markdownContent);
+    }
+  }
 
-  // try {
-  //   await unlink(filePath);
-  // } catch {
-  //   console.warn("Failed to delete photo file", photoSlug);
-  //   return;
-  // }
+  // Delete the original photo
 
-  // console.info("Success (gallery)", photoSlug);
+  if (!DRY_RUN) {
+    try {
+      await unlink(filePath);
+    } catch {
+      console.warn("Failed to delete photo file", photoSlug);
+      return;
+    }
+  }
+
+  console.info("Success (gallery)", photoSlug);
 };
 
 const addBlogPhoto = async (
@@ -244,6 +225,8 @@ const addBlogPhoto = async (
 
 // Add all new photos, whether they are for the gallery or not
 const addAllPhotos = async (): Promise<void> => {
+  console.info("DRY_RUN", DRY_RUN);
+
   const newPhotosDirectory = path.resolve(__dirname, "newPhotos");
 
   const addPhotos = async (

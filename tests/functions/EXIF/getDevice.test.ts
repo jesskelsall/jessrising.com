@@ -4,7 +4,7 @@ import { getDevice } from "../../../src/functions/EXIF";
 describe("getDevice", () => {
   test("returns device from make and model", () => {
     const iPhone14ProMax = cameras.find(
-      (camera) => camera.displayName === "iPhone 14 Pro Max"
+      (camera) => camera.displayName === "Apple iPhone 14 Pro Max"
     );
 
     expect(iPhone14ProMax).not.toBeUndefined();

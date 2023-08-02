@@ -226,6 +226,9 @@ export const locationHierarchy: ILocationHierarchy = {
           "Loch Sunart": {},
         },
       },
+      Lochaber: {
+        "Loch Arkaig": {},
+      },
       Moidart: {
         "Loch Moidart": {},
       },
