@@ -3,25 +3,25 @@ import { GetStaticProps, NextPage } from "next";
 import { BlogPreview } from "../../components/BlogPreview/BlogPreview";
 import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { CONFIG } from "../../consts/config";
-import { GalleryPhotosContext } from "../../context/galleryPhotos";
+import { GalleryPhotoSlugsContext } from "../../context/galleryPhotoSlugs";
 import blogPostsJSON from "../../data/blogPosts.json";
 import galleryPhotosJSON from "../../data/galleryPhotos.json";
-import { getOtherMarkdownData } from "../../functions/data";
 import { dateFromSlug } from "../../functions/date";
 import { sortBlogPostsByDate } from "../../functions/sort";
+import { GalleryPhotos } from "../../types/galleryPhoto";
 import { IMarkdownData, TMarkdownDataFile } from "../../types/markdown";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
-const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
+const galleryPhotosData = galleryPhotosJSON as GalleryPhotos;
 
 interface IProps {
-  allGalleryPhotos: IMarkdownData[];
   blogPosts: IMarkdownData[];
+  galleryPhotoSlugs: string[];
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
   // Get context data
-  const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData);
+  const galleryPhotoSlugs = Object.keys(galleryPhotosData);
 
   const displayedBlogPosts = Object.values(blogPostsData)
     .filter((blogPost) => {
@@ -33,14 +33,14 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
 
   return {
     props: {
-      allGalleryPhotos,
       blogPosts: displayedBlogPosts,
+      galleryPhotoSlugs,
     },
   };
 };
 
-const BlogPage: NextPage<IProps> = ({ allGalleryPhotos, blogPosts }) => (
-  <GalleryPhotosContext.Provider value={allGalleryPhotos}>
+const BlogPage: NextPage<IProps> = ({ blogPosts, galleryPhotoSlugs }) => (
+  <GalleryPhotoSlugsContext.Provider value={galleryPhotoSlugs}>
     <main className="content-area blog">
       <h1>Blog</h1>
       <ul className="blog-list">
@@ -50,7 +50,7 @@ const BlogPage: NextPage<IProps> = ({ allGalleryPhotos, blogPosts }) => (
       </ul>
     </main>
     {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
-  </GalleryPhotosContext.Provider>
+  </GalleryPhotoSlugsContext.Provider>
 );
 
 export default BlogPage;

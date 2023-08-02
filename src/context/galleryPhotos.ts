@@ -1,7 +1,7 @@
 import { createContext, useContext } from "react";
-import { IMarkdownData } from "../types/markdown";
+import { GalleryPhotos } from "../types/galleryPhoto";
 
-export const GalleryPhotosContext = createContext<IMarkdownData[]>([]);
+export const GalleryPhotosContext = createContext<GalleryPhotos>({});
 
-export const useGalleryPhotos = (): IMarkdownData[] =>
+export const useGalleryPhotos = (): GalleryPhotos =>
   useContext(GalleryPhotosContext);

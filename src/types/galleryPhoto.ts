@@ -40,3 +40,5 @@ export type GalleryPhoto = {
     tags?: string[];
   };
 };
+
+export type GalleryPhotos = Record<string, GalleryPhoto>;

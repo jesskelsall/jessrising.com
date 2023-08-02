@@ -9,7 +9,7 @@ import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraph
 import { CONFIG } from "../../../consts/config";
 import { BlogPostContext } from "../../../context/blogPost";
 import { BlogPostsContext } from "../../../context/blogPosts";
-import { GalleryPhotosContext } from "../../../context/galleryPhotos";
+import { GalleryPhotoSlugsContext } from "../../../context/galleryPhotoSlugs";
 import blogPostsJSON from "../../../data/blogPosts.json";
 import galleryPhotosJSON from "../../../data/galleryPhotos.json";
 import {
@@ -17,10 +17,11 @@ import {
   getOtherMarkdownData,
 } from "../../../functions/data";
 import { asPageTitle } from "../../../functions/title";
+import { GalleryPhotos } from "../../../types/galleryPhoto";
 import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdown";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
-const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
+const galleryPhotosData = galleryPhotosJSON as GalleryPhotos;
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -29,7 +30,7 @@ interface IParams extends ParsedUrlQuery {
 interface IProps {
   blogPost: IMarkdownData;
   allBlogPosts: IMarkdownData[];
-  allGalleryPhotos: IMarkdownData[];
+  galleryPhotoSlugs: string[];
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
@@ -47,7 +48,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   try {
     // Get context data
     const allBlogPosts = getOtherMarkdownData(blogPostsData);
-    const allGalleryPhotos = getOtherMarkdownData(galleryPhotosData);
+    const galleryPhotoSlugs = Object.keys(galleryPhotosData);
 
     const slug = context.params?.slug;
     if (!slug) return { notFound: true };
@@ -60,8 +61,8 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
     return {
       props: {
         allBlogPosts,
-        allGalleryPhotos,
         blogPost,
+        galleryPhotoSlugs,
       },
     };
   } catch (error) {
@@ -72,8 +73,8 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 
 export const BlogPostPage: NextPage<IProps> = ({
   allBlogPosts,
-  allGalleryPhotos,
   blogPost,
+  galleryPhotoSlugs,
 }) => {
   const { date, slug, summary } = blogPost;
 
@@ -91,13 +92,13 @@ export const BlogPostPage: NextPage<IProps> = ({
           title={summary.heading}
         />
       </Head>
-      <GalleryPhotosContext.Provider value={allGalleryPhotos}>
+      <GalleryPhotoSlugsContext.Provider value={galleryPhotoSlugs}>
         <BlogPostsContext.Provider value={allBlogPosts}>
           <BlogPostContext.Provider value={blogPost}>
             <BlogPost />
           </BlogPostContext.Provider>
         </BlogPostsContext.Provider>
-      </GalleryPhotosContext.Provider>
+      </GalleryPhotoSlugsContext.Provider>
       {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );

@@ -2,8 +2,7 @@ import { DateTime } from "luxon";
 import Image from "next/image";
 import Link from "next/link";
 import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { useGalleryPhotos } from "../../context/galleryPhotos";
-import { findMarkdownDataBySlug } from "../../functions/data";
+import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { formatLongDate } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { IMarkdownData } from "../../types/markdown";
@@ -13,16 +12,14 @@ interface IBlogPreviewProps {
 }
 
 export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
-  const allGalleryPhotos = useGalleryPhotos();
+  const galleryPhotoSlugs = useGalleryPhotoSlugs();
   const { date, slug, summary } = blogPost;
   const { imageSlug } = summary;
 
   let image: JSX.Element | null = null;
 
   if (imageSlug) {
-    const isGalleryPhoto = Boolean(
-      imageSlug && findMarkdownDataBySlug(allGalleryPhotos, imageSlug)
-    );
+    const isGalleryPhoto = imageSlug && galleryPhotoSlugs.includes(imageSlug);
 
     image = (
       <Image

@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { useGalleryPhotos } from "../../context/galleryPhotos";
-import { findMarkdownDataBySlug } from "../../functions/data";
+import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { parsePhotoSlugFromSrc } from "../../functions/markdown";
 
@@ -20,12 +19,10 @@ export const BlogImage = ({
   forceGallery,
   src,
 }: IBlogImageProps) => {
-  const allGalleryPhotos = useGalleryPhotos();
+  const galleryPhotoSlugs = useGalleryPhotoSlugs();
   const photoSlug = parsePhotoSlugFromSrc(src);
 
-  const isGalleryPhoto =
-    forceGallery ||
-    Boolean(findMarkdownDataBySlug(allGalleryPhotos, photoSlug));
+  const isGalleryPhoto = forceGallery || galleryPhotoSlugs.includes(photoSlug);
   const imageSrcSuffix = isGalleryPhoto ? PHOTO_SIZE_SUFFIX.LARGE : "";
 
   const image = (

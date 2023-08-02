@@ -8,6 +8,8 @@ import { ContentType } from "../types/content";
 import { IMarkdownData } from "../types/markdown";
 import { getSlugsFromMarkdownFileNames } from "./file";
 import { parseMarkdown } from "./markdown";
+import { GalleryPhoto } from "../types/galleryPhoto";
+import { parseMarkdownGalleryPhoto } from "./markdownGalleryPhoto";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -40,15 +42,15 @@ export const getAllBlogPosts = async (): Promise<IMarkdownData[]> => {
 };
 
 // Get all gallery photos in the photos directory
-export const getAllGalleryPhotos = async (): Promise<IMarkdownData[]> => {
+export const getAllGalleryPhotos = async (): Promise<GalleryPhoto[]> => {
   const fileNames = await getContentFileNames("photos");
   const slugs = getSlugsFromMarkdownFileNames(fileNames);
 
   const getGalleryPhoto = async (slug: string) => {
     const contentPath = path.join(getContentDirectory("photos"), `${slug}.md`);
     const contentBuffer = await readFile(contentPath);
-    return parseMarkdown(slug, contentBuffer.toString());
+    return parseMarkdownGalleryPhoto(slug, contentBuffer.toString());
   };
 
-  return Promise.all<IMarkdownData>(slugs.map(getGalleryPhoto));
+  return Promise.all<GalleryPhoto>(slugs.map(getGalleryPhoto));
 };

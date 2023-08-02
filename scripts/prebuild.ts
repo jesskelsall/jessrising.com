@@ -6,14 +6,14 @@ import path from "path";
 import util from "util";
 import { DIR_DATA } from "../src/consts/app";
 import { getAllBlogPosts, getAllGalleryPhotos } from "../src/functions/fs";
-import { IMarkdownData, TMarkdownDataFile } from "../src/types/markdown";
+import { IMarkdownData } from "../src/types/markdown";
+import { GalleryPhoto } from "../src/types/galleryPhoto";
 
-const keyBySlug = keyBy<IMarkdownData>("slug");
 const writeFile = util.promisify(fs.writeFile);
 
 // Write a JSON data file that collates all data file entries
-const writeData = async (
-  data: TMarkdownDataFile,
+const writeData = async <Data extends object>(
+  data: Record<string, Data>,
   fileName: string
 ): Promise<void> => {
   await writeFile(path.resolve(DIR_DATA, fileName), JSON.stringify(data));
@@ -22,16 +22,16 @@ const writeData = async (
 
 const preBuildBlogPosts = async (): Promise<void> => {
   const allBlogPosts = await getAllBlogPosts();
-  const blogPostsData = keyBySlug(allBlogPosts);
+  const blogPostsData = keyBy<IMarkdownData>("slug", allBlogPosts);
 
-  writeData(blogPostsData, "blogPosts.json");
+  writeData<IMarkdownData>(blogPostsData, "blogPosts.json");
 };
 
 const preBuildGalleryPhotos = async (): Promise<void> => {
   const allGalleryPhotos = await getAllGalleryPhotos();
-  const galleryPhotosData = keyBySlug(allGalleryPhotos);
+  const galleryPhotosData = keyBy<GalleryPhoto>("slug", allGalleryPhotos);
 
-  writeData(galleryPhotosData, "galleryPhotos.json");
+  writeData<GalleryPhoto>(galleryPhotosData, "galleryPhotos.json");
 };
 
 const prebuild = async (): Promise<void> => {
