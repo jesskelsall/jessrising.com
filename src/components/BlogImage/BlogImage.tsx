@@ -3,6 +3,7 @@ import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { parsePhotoSlugFromSrc } from "../../functions/markdown";
+import { GalleryPhotoSlug } from "../../types/galleryPhoto";
 
 interface IBlogImageProps {
   alt: string;
@@ -20,7 +21,7 @@ export const BlogImage = ({
   src,
 }: IBlogImageProps) => {
   const galleryPhotoSlugs = useGalleryPhotoSlugs();
-  const photoSlug = parsePhotoSlugFromSrc(src);
+  const photoSlug = parsePhotoSlugFromSrc(src) as GalleryPhotoSlug;
 
   const isGalleryPhoto = forceGallery || galleryPhotoSlugs.includes(photoSlug);
   const imageSrcSuffix = isGalleryPhoto ? PHOTO_SIZE_SUFFIX.LARGE : "";

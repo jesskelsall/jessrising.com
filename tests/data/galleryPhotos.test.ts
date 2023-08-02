@@ -1,5 +1,5 @@
 import { last } from "lodash/fp";
-import { galleryPhotosList } from "../../src/data/galleryPhotos";
+import { allGalleryPhotosList } from "../../src/data/galleryPhotos";
 import { locationHierarchy } from "../../src/data/locations";
 import { getLocationHierarchy } from "../../src/functions/location";
 import { GalleryPhoto, GalleryPhotoSlug } from "../../src/types/galleryPhoto";
@@ -7,7 +7,7 @@ import { GalleryPhoto, GalleryPhotoSlug } from "../../src/types/galleryPhoto";
 const topLevelLocations = Object.keys(locationHierarchy);
 
 describe("Gallery Photos", () => {
-  const galleryPhotoTests = galleryPhotosList.map<
+  const galleryPhotoTests = allGalleryPhotosList.map<
     [GalleryPhotoSlug, GalleryPhoto]
   >((galleryPhoto) => [galleryPhoto.slug, galleryPhoto]);
 

@@ -7,10 +7,10 @@ import { TContentArea } from "../../components/Header/Header";
 import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
-import galleryPhotosJSON from "../../data/galleryPhotos.json";
-import { getOtherMarkdownData } from "../../functions/data";
-import { dateFromPhoto } from "../../functions/date";
+import { allGalleryPhotosList } from "../../data/galleryPhotos";
+import { dateFromGalleryPhoto } from "../../functions/date";
 import { TModelFilter, applyFilterQueries } from "../../functions/filter";
+import { getLocationHierarchy } from "../../functions/location";
 import {
   queryParamToIntegers,
   queryParamToStrings,
@@ -18,9 +18,7 @@ import {
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
 import { IGalleryQuery, TOrder } from "../../types/gallery";
-import { IMarkdownData, TMarkdownDataFile } from "../../types/markdownOld";
-
-const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
+import { GalleryPhoto } from "../../types/galleryPhoto";
 
 interface IPagination {
   page: number;
@@ -30,7 +28,7 @@ interface IPagination {
 
 interface IProps {
   contentArea: TContentArea;
-  galleryPhotos: IMarkdownData[];
+  galleryPhotos: GalleryPhoto[];
   locations: string[];
   month: number | null;
   order: TOrder;
@@ -44,8 +42,6 @@ export const getServerSideProps: GetServerSideProps<
   IProps,
   IGalleryQuery
 > = async (context) => {
-  const allPhotos = getOtherMarkdownData(galleryPhotosData);
-
   // Query parameters
 
   const query = context.query as IGalleryQuery;
@@ -64,25 +60,28 @@ export const getServerSideProps: GetServerSideProps<
 
   // Apply sorting
 
-  const sortedPhotos = allPhotos.sort(
+  const sortedPhotos = allGalleryPhotosList.sort(
     sortGalleryPhotosByDate(order === "oldest")
   );
 
   // Apply filters
 
-  const filters: TModelFilter<IMarkdownData>[] = [];
+  const filters: TModelFilter<GalleryPhoto>[] = [];
 
   if (locations.length) {
-    filters.push([locations, (photo) => photo.meta.locations || []]);
+    filters.push([
+      locations,
+      (photo) => getLocationHierarchy(photo.meta.location),
+    ]);
   }
   if (tags.length) {
-    filters.push([tags, (photo) => photo.meta.tags || []]);
+    filters.push([tags, (photo) => photo.meta.tags]);
   }
   if (month) {
     filters.push([
       [month.toString()],
       (photo) => {
-        const date = dateFromPhoto(photo);
+        const date = dateFromGalleryPhoto(photo);
         return date ? [date.month.toString()] : [];
       },
     ]);
@@ -91,13 +90,13 @@ export const getServerSideProps: GetServerSideProps<
     filters.push([
       [year.toString()],
       (photo) => {
-        const date = dateFromPhoto(photo);
+        const date = dateFromGalleryPhoto(photo);
         return date ? [date.year.toString()] : [];
       },
     ]);
   }
 
-  const filteredPhotos = applyFilterQueries<IMarkdownData>(
+  const filteredPhotos = applyFilterQueries<GalleryPhoto>(
     sortedPhotos,
     filters
   );

@@ -5,24 +5,20 @@ import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { CONFIG } from "../../consts/config";
 import { GalleryPhotoSlugsContext } from "../../context/galleryPhotoSlugs";
 import blogPostsJSON from "../../data/blogPosts.json";
-import galleryPhotosJSON from "../../data/galleryPhotos.json";
+import { allGalleryPhotoSlugs } from "../../data/galleryPhotos";
 import { dateFromSlug } from "../../functions/date";
 import { sortBlogPostsByDate } from "../../functions/sort";
-import { GalleryPhotos } from "../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../types/galleryPhoto";
 import { IMarkdownData, TMarkdownDataFile } from "../../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
-const galleryPhotosData = galleryPhotosJSON as GalleryPhotos;
 
 interface IProps {
   blogPosts: IMarkdownData[];
-  galleryPhotoSlugs: string[];
+  galleryPhotoSlugs: GalleryPhotoSlug[];
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
-  // Get context data
-  const galleryPhotoSlugs = Object.keys(galleryPhotosData);
-
   const displayedBlogPosts = Object.values(blogPostsData)
     .filter((blogPost) => {
       // Hide future posts
@@ -34,7 +30,7 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
   return {
     props: {
       blogPosts: displayedBlogPosts,
-      galleryPhotoSlugs,
+      galleryPhotoSlugs: allGalleryPhotoSlugs,
     },
   };
 };

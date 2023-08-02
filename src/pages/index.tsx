@@ -6,28 +6,29 @@ import { CONFIG } from "../consts/config";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { GalleryPhotoSlugsContext } from "../context/galleryPhotoSlugs";
 import blogPostsJSON from "../data/blogPosts.json";
-import galleryPhotosJSON from "../data/galleryPhotos.json";
+import {
+  allGalleryPhotoSlugs,
+  allGalleryPhotosDict,
+} from "../data/galleryPhotos";
 import { dateFromSlug } from "../functions/date";
 import { sortBlogPostsByDate } from "../functions/sort";
-import { GalleryPhoto, GalleryPhotos } from "../types/galleryPhoto";
+import { GalleryPhoto, GalleryPhotoSlug } from "../types/galleryPhoto";
 import { IMarkdownData, TMarkdownDataFile } from "../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
-const galleryPhotosData = galleryPhotosJSON as GalleryPhotos;
 
 // If empty strings, the most recent is used instead
 const FEATURED_BLOG_POST = "2022-12-31-favourite-photos-2022";
-const FEATURED_PHOTO = "northern-lights-over-strathy-point-lighthouse";
+const FEATURED_PHOTO =
+  "northern-lights-over-strathy-point-lighthouse" as GalleryPhotoSlug;
 
 interface IProps {
   blogPost: IMarkdownData;
-  galleryPhotoSlugs: string[];
+  galleryPhotoSlugs: GalleryPhotoSlug[];
   photo: GalleryPhoto | undefined;
 }
 
 export const getStaticProps: GetStaticProps<IProps> = async () => {
-  const galleryPhotoSlugs = Object.keys(galleryPhotosData);
-
   const allBlogPosts = Object.values(blogPostsData)
     .filter((blogPost) => {
       // Hide future posts
@@ -39,12 +40,12 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
     allBlogPosts.find((post) => post.slug === FEATURED_BLOG_POST) ||
     allBlogPosts[0];
 
-  const featuredPhoto = galleryPhotosData[`${FEATURED_PHOTO}`];
+  const featuredPhoto = allGalleryPhotosDict[FEATURED_PHOTO];
 
   return {
     props: {
       blogPost: featuredBlogPost,
-      galleryPhotoSlugs,
+      galleryPhotoSlugs: allGalleryPhotoSlugs,
       photo: featuredPhoto,
     },
   };

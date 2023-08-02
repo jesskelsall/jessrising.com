@@ -11,17 +11,16 @@ import { BlogPostContext } from "../../../context/blogPost";
 import { BlogPostsContext } from "../../../context/blogPosts";
 import { GalleryPhotoSlugsContext } from "../../../context/galleryPhotoSlugs";
 import blogPostsJSON from "../../../data/blogPosts.json";
-import galleryPhotosJSON from "../../../data/galleryPhotos.json";
+import { allGalleryPhotoSlugs } from "../../../data/galleryPhotos";
 import {
   getMarkdownDataBySlug,
   getOtherMarkdownData,
 } from "../../../functions/data";
 import { asPageTitle } from "../../../functions/title";
-import { GalleryPhotos } from "../../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../../types/galleryPhoto";
 import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
-const galleryPhotosData = galleryPhotosJSON as GalleryPhotos;
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -30,7 +29,7 @@ interface IParams extends ParsedUrlQuery {
 interface IProps {
   blogPost: IMarkdownData;
   allBlogPosts: IMarkdownData[];
-  galleryPhotoSlugs: string[];
+  galleryPhotoSlugs: GalleryPhotoSlug[];
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
@@ -48,7 +47,6 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   try {
     // Get context data
     const allBlogPosts = getOtherMarkdownData(blogPostsData);
-    const galleryPhotoSlugs = Object.keys(galleryPhotosData);
 
     const slug = context.params?.slug;
     if (!slug) return { notFound: true };
@@ -62,7 +60,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
       props: {
         allBlogPosts,
         blogPost,
-        galleryPhotoSlugs,
+        galleryPhotoSlugs: allGalleryPhotoSlugs,
       },
     };
   } catch (error) {

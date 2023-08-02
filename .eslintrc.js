@@ -32,5 +32,6 @@ module.exports = {
     "react/jsx-props-no-spreading": "off",
     "react/no-array-index-key": "warn",
     "react/require-default-props": "off",
+    "security/detect-object-injection": "off",
   },
 };

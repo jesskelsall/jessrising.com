@@ -5,6 +5,7 @@ import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { formatLongDate } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
+import { GalleryPhotoSlug } from "../../types/galleryPhoto";
 import { IMarkdownData } from "../../types/markdownOld";
 
 interface IBlogPreviewProps {
@@ -19,7 +20,8 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
   let image: JSX.Element | null = null;
 
   if (imageSlug) {
-    const isGalleryPhoto = imageSlug && galleryPhotoSlugs.includes(imageSlug);
+    const isGalleryPhoto =
+      imageSlug && galleryPhotoSlugs.includes(imageSlug as GalleryPhotoSlug);
 
     image = (
       <Image

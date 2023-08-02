@@ -1,5 +1,5 @@
 import { DateTime } from "luxon";
-import { IMarkdownData } from "../types/markdownOld";
+import { GalleryPhoto } from "../types/galleryPhoto";
 
 // Parses the given date in the given format as a Luxon DateTime object
 // Returns undefined if an invalid date or no date value
@@ -23,8 +23,9 @@ export const dateFromEXIFString = (
 ): DateTime | undefined => dateFromString(dateString, "yyyy:MM:dd HH:mm:ss");
 
 // dateFromString wrapper for IMarkdownData optional chaining
-export const dateFromPhoto = (photo: IMarkdownData): DateTime | undefined =>
-  dateFromString(photo.meta.photo?.date);
+export const dateFromGalleryPhoto = (
+  photo: GalleryPhoto
+): DateTime | undefined => dateFromString(photo.exif.date);
 
 // Get a date prefixed to the given slug, if one is present
 export const dateFromSlug = (slug: string): DateTime | undefined => {

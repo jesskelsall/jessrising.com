@@ -1,20 +1,19 @@
-import { startCase } from "lodash/fp";
 import Image from "next/image";
 import Link from "next/link";
 import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { getImageSrcFromSlug } from "../../functions/image";
-import { IMarkdownData } from "../../types/markdownOld";
+import { GalleryPhoto } from "../../types/galleryPhoto";
 
 interface IGalleryGridProps {
-  galleryPhotos: IMarkdownData[];
+  galleryPhotos: GalleryPhoto[];
 }
 
 export const GalleryGrid = ({ galleryPhotos }: IGalleryGridProps) => (
   <div className="gallery-grid">
-    {galleryPhotos.map(({ slug, summary }) => (
+    {galleryPhotos.map(({ slug, title }) => (
       <Link href={`/gallery/p/${slug}`} key={slug}>
         <Image
-          alt={summary.heading || startCase(slug)}
+          alt={title}
           src={getImageSrcFromSlug(slug, PHOTO_SIZE_SUFFIX.SMALL)}
           height="375"
           width="500"

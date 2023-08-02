@@ -1,14 +1,13 @@
 import { GalleryPhoto, GalleryPhotoSlug } from "../types/galleryPhoto";
 import galleryPhotosJSON from "./galleryPhotos.json";
 
-export const galleryPhotosList: GalleryPhoto[] = galleryPhotosJSON.map(
+export const allGalleryPhotosList: GalleryPhoto[] = galleryPhotosJSON.map(
   (galleryPhoto) => GalleryPhoto.parse(galleryPhoto)
 );
 
-export const galleryPhotosDict = galleryPhotosList.reduce<
+export const allGalleryPhotosDict = allGalleryPhotosList.reduce<
   Record<GalleryPhotoSlug, GalleryPhoto>
 >((acc, next) => ({ ...acc, [next.slug]: next }), {});
 
-export const galleryPhotoSlugs: GalleryPhotoSlug[] = galleryPhotosList.map(
-  (galleryPhoto) => galleryPhoto.slug
-);
+export const allGalleryPhotoSlugs: GalleryPhotoSlug[] =
+  allGalleryPhotosList.map((galleryPhoto) => galleryPhoto.slug);

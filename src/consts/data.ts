@@ -1,4 +1,4 @@
-import { GalleryPhotoData } from "../types/galleryPhoto";
+import { GalleryPhoto, GalleryPhotoSlug } from "../types/galleryPhoto";
 import { Location } from "../types/location";
 import { IMarkdownData } from "../types/markdownOld";
 
@@ -9,11 +9,13 @@ export const MARKDOWN_DATA_EMPTY: IMarkdownData = {
   summary: {},
 };
 
-export const GALLERY_PHOTO_DATA_EMPTY: GalleryPhotoData = {
-  exif: {},
+export const GALLERY_PHOTO_EMPTY: GalleryPhoto = {
+  title: "",
+  slug: "" as GalleryPhotoSlug,
   meta: {
+    gps: { lat: 0, long: 0 },
     location: "" as Location,
     tags: [],
   },
-  title: "",
+  exif: {},
 };

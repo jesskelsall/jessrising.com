@@ -1,21 +1,17 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { GalleryPhoto } from "../../../components/GalleryPhoto/GalleryPhoto";
+import { GalleryPhoto as GalleryPhotoComponent } from "../../../components/GalleryPhoto/GalleryPhoto";
 import { TContentArea } from "../../../components/Header/Header";
 import { Newsletter } from "../../../components/Newsletter/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
 import { CONFIG } from "../../../consts/config";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
-import galleryPhotosJSON from "../../../data/galleryPhotos.json";
-import { getMarkdownDataBySlug } from "../../../functions/data";
+import { allGalleryPhotosDict } from "../../../data/galleryPhotos";
 import { getSlugsFromMarkdownFileNames } from "../../../functions/file";
 import { getContentFileNames } from "../../../functions/fs";
-import { asPageTitle } from "../../../functions/title";
-import { IEXIF } from "../../../types/gallery";
-import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdownOld";
-
-const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
+import { getLocationHierarchy } from "../../../functions/location";
+import { GalleryPhoto, GalleryPhotoSlug } from "../../../types/galleryPhoto";
 
 interface IParams extends ParsedUrlQuery {
   slug: string;
@@ -23,7 +19,7 @@ interface IParams extends ParsedUrlQuery {
 
 interface IProps {
   contentArea: TContentArea;
-  galleryPhoto: IMarkdownData;
+  galleryPhoto: GalleryPhoto;
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => {
@@ -44,7 +40,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
     if (!slug) return { notFound: true };
 
     // Prepare page-specific props
-    const galleryPhoto = getMarkdownDataBySlug(galleryPhotosData, slug);
+    const galleryPhoto = allGalleryPhotosDict[slug as GalleryPhotoSlug];
 
     if (!galleryPhoto) return { notFound: true };
 
@@ -61,26 +57,24 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 };
 
 const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
-  const { meta, slug, summary } = galleryPhoto;
+  const { exif, meta, slug, title } = galleryPhoto;
 
-  const photo: IEXIF = meta.photo || {};
-  const location = meta.locations ? meta.locations.join(", ") : undefined;
-  const title = asPageTitle(summary.heading);
+  const location = getLocationHierarchy(meta.location).join(", ");
 
   return (
     <>
       <Head>
         <title>{title}</title>
         <OpenGraphHeaders
-          date={photo.date}
+          date={exif.date}
           description={location}
           imageSlug={slug}
           urlPath={`gallery/p/${slug}`}
-          title={summary.heading}
+          title={title}
         />
       </Head>
       <GalleryPhotoContext.Provider value={galleryPhoto}>
-        <GalleryPhoto />
+        <GalleryPhotoComponent />
       </GalleryPhotoContext.Provider>
       {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>

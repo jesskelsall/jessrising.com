@@ -1,3 +1,4 @@
+import { GalleryPhoto } from "../types/galleryPhoto";
 import { IMarkdownData } from "../types/markdownOld";
 import { dateFromString } from "./date";
 
@@ -5,9 +6,9 @@ import { dateFromString } from "./date";
 // Any photos with no date are placed at the end of the array
 export const sortGalleryPhotosByDate =
   (oldestFirst: boolean) =>
-  (a: IMarkdownData, b: IMarkdownData): number => {
-    const aDate = dateFromString(a.meta.photo?.date);
-    const bDate = dateFromString(b.meta.photo?.date);
+  (a: GalleryPhoto, b: GalleryPhoto): number => {
+    const aDate = dateFromString(a.exif.date);
+    const bDate = dateFromString(b.exif.date);
 
     if (!aDate) return oldestFirst ? 1 : -1;
     if (!bDate) return oldestFirst ? -1 : 1;
