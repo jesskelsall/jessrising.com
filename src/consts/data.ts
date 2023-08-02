@@ -1,5 +1,6 @@
-import { GalleryPhoto } from "../types/galleryPhoto";
-import { IMarkdownData } from "../types/markdown";
+import { GalleryPhotoData } from "../types/galleryPhoto";
+import { Location } from "../types/location";
+import { IMarkdownData } from "../types/markdownOld";
 
 export const MARKDOWN_DATA_EMPTY: IMarkdownData = {
   markdown: "",
@@ -8,9 +9,11 @@ export const MARKDOWN_DATA_EMPTY: IMarkdownData = {
   summary: {},
 };
 
-export const GALLERY_PHOTO_EMPTY: GalleryPhoto = {
+export const GALLERY_PHOTO_DATA_EMPTY: GalleryPhotoData = {
   exif: {},
-  meta: {},
-  slug: "",
+  meta: {
+    location: "" as Location,
+    tags: [],
+  },
   title: "",
 };

@@ -1,4 +1,4 @@
-import { TListRenderer } from "../../types/markdown";
+import { TListRenderer } from "../../types/markdownOld";
 import { BlogRelatedPosts } from "../BlogRelatedPosts/BlogRelatedPosts";
 
 const ORDERED_LIST_RENDERERS: Record<string, TListRenderer> = {

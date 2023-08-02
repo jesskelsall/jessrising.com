@@ -18,7 +18,7 @@ import {
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
 import { IGalleryQuery, TOrder } from "../../types/gallery";
-import { IMarkdownData, TMarkdownDataFile } from "../../types/markdown";
+import { IMarkdownData, TMarkdownDataFile } from "../../types/markdownOld";
 
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 

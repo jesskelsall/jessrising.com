@@ -4,13 +4,11 @@ import { PutObjectCommand, S3Client } from "@aws-sdk/client-s3";
 import ExifReader from "exifreader";
 import fs from "fs";
 import { convert } from "imagemagick";
-import _ from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
 import { cameras } from "../src/data/cameras";
-import { parseEXIF } from "../src/functions/EXIF";
-import { EXIF } from "../src/types/galleryPhoto";
+import { parsePhoto, parsePhotoFileName } from "../src/functions/photo";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -25,7 +23,6 @@ interface ImageSize {
   suffix: string;
 }
 
-const GALLERY_PHOTO_SUFFIX_SEPARATOR = " = ";
 const GALLERY_PHOTO_OVERWRITE = true; // Allows reupload to S3 without touching MD file
 const GALLERY_IMAGE_SIZES: ImageSize[] = [
   {
@@ -38,7 +35,7 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
   },
 ];
 
-const DRY_RUN = true;
+const DRY_RUN = false;
 
 // Create a resized version of the given image
 const resizeImage = (inputPath: string, outputPath: string, maxWidth: number) =>
@@ -59,12 +56,6 @@ const fileExists = async (filePath: string): Promise<boolean> => {
   } catch {
     return false;
   }
-};
-
-// Read EXIF data from a photo file
-const readPhotoEXIF = async (fileBuffer: Buffer): Promise<EXIF> => {
-  const exif = await ExifReader.load(fileBuffer);
-  return parseEXIF(cameras, exif);
 };
 
 // Write a file to the S3 bucket. Returns whether it was successful
@@ -90,24 +81,14 @@ const addGalleryPhoto = async (
   directory: string,
   fileName: string
 ): Promise<void> => {
-  const [photoName, fileSuffix] = fileName
-    .replace(".jpeg", "")
-    .split(GALLERY_PHOTO_SUFFIX_SEPARATOR);
-  const photoSlug = [
-    _.kebabCase(photoName),
-    ...(fileSuffix ? [fileSuffix] : []),
-  ].join("-");
+  const { slug: photoSlug, title } = parsePhotoFileName(fileName);
 
   // Check if this photo name has already been used
 
-  const markdownFilePath = path.resolve(
-    DIR_CONTENT,
-    "photos",
-    `${photoSlug}.md`
-  );
+  const jsonFilePath = path.resolve(DIR_CONTENT, "photos", `${photoSlug}.json`);
 
-  const markdownAlreadyExists = await fileExists(markdownFilePath);
-  if (!DRY_RUN && markdownAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
+  const jsonAlreadyExists = await fileExists(jsonFilePath);
+  if (!DRY_RUN && jsonAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
     console.warn("Photo already exists", photoSlug);
     return;
   }
@@ -116,7 +97,7 @@ const addGalleryPhoto = async (
 
   const filePath = path.join(directory, fileName);
   const fileBuffer = await readFile(filePath);
-  const exifData = await readPhotoEXIF(fileBuffer);
+  const exif = await ExifReader.load(fileBuffer);
 
   const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
     fileName: `${photoSlug}${suffix}.jpeg`,
@@ -162,22 +143,14 @@ const addGalleryPhoto = async (
 
   // Write gallery photo data file
 
-  if (DRY_RUN || !markdownAlreadyExists) {
-    const markdownContent = [
-      `# ${photoName}`,
-      "",
-      "- GPS: ",
-      "- Location: ",
-      "- Tags: Landscape",
-      `- EXIF: \`${JSON.stringify(exifData)}\``,
-    ]
-      .join("\n")
-      .concat("\n");
+  if (DRY_RUN || !jsonAlreadyExists) {
+    const galleryPhotoData = parsePhoto({ cameras, title, exif });
+    const json = JSON.stringify(galleryPhotoData, null, 2);
 
     if (DRY_RUN) {
-      console.info(markdownContent);
+      console.info(json);
     } else {
-      await writeFile(markdownFilePath, markdownContent);
+      await writeFile(jsonFilePath, json);
     }
   }
 

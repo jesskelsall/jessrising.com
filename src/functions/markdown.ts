@@ -1,11 +1,11 @@
-import { cloneDeep, compact } from "lodash/fp";
+import { cloneDeep } from "lodash/fp";
 import { MARKDOWN_DATA_EMPTY } from "../consts/data";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import {
   IMarkdownData,
   IMarkdownMetaData,
   TMarkdownListData,
-} from "../types/markdown";
+} from "../types/markdownOld";
 import { dateFromSlug } from "./date";
 import { getLocationHierarchy } from "./location";
 

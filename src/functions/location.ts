@@ -1,10 +1,11 @@
-import { ILocationHierarchy, locationHierarchy } from "../data/locations";
+import { locationHierarchy } from "../data/locations";
+import { LocationHierarchy } from "../types/location";
 
 // Recursively builds a path from the desired location to the top most location level
 const findLocations = (
   locationToFind: string,
   locationsSoFar: string[],
-  hierarchy: ILocationHierarchy
+  hierarchy: LocationHierarchy
 ): string[] | undefined => {
   if (Object.keys(hierarchy).length === 0) return undefined;
 

@@ -13,7 +13,7 @@ import { getSlugsFromMarkdownFileNames } from "../../../functions/file";
 import { getContentFileNames } from "../../../functions/fs";
 import { asPageTitle } from "../../../functions/title";
 import { IEXIF } from "../../../types/gallery";
-import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdown";
+import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdownOld";
 
 const galleryPhotosData = galleryPhotosJSON as TMarkdownDataFile;
 

@@ -5,7 +5,7 @@ import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { formatLongDate } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
-import { IMarkdownData } from "../../types/markdown";
+import { IMarkdownData } from "../../types/markdownOld";
 
 interface IBlogPreviewProps {
   blogPost: IMarkdownData;

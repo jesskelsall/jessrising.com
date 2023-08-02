@@ -14,6 +14,8 @@ const customJestConfig = {
     "**/*.{ts,tsx}",
     "!**/*.test.{ts,tsx}",
     "!**/node_modules/**",
+    "!src/types/*",
+    "!tests/**/*",
   ],
   coverageReporters: ["text", "text-summary"],
   moduleNameMapper: {

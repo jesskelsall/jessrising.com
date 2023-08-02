@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { IGPS } from "../../types/markdown";
+import { IGPS } from "../../types/markdownOld";
 
 interface IMarkdownGPSProps {
   gps: IGPS;

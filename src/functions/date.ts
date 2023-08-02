@@ -1,5 +1,5 @@
 import { DateTime } from "luxon";
-import { IMarkdownData } from "../types/markdown";
+import { IMarkdownData } from "../types/markdownOld";
 
 // Parses the given date in the given format as a Luxon DateTime object
 // Returns undefined if an invalid date or no date value

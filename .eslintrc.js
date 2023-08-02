@@ -11,6 +11,7 @@ module.exports = {
   parser: "@typescript-eslint/parser",
   plugins: ["prettier", "security"],
   rules: {
+    "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
     "import/extensions": "off",
     "import/named": "off",
     "import/no-extraneous-dependencies": ["error", { devDependencies: true }],

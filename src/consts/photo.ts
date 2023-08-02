@@ -9,3 +9,5 @@ export const PHOTO_SIZE_SUFFIX = {
   SMALL: "-sm",
   LARGE: "-lg",
 };
+
+export const PHOTO_SUFFIX_SEPARATOR = " = ";

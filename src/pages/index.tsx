@@ -10,7 +10,7 @@ import galleryPhotosJSON from "../data/galleryPhotos.json";
 import { dateFromSlug } from "../functions/date";
 import { sortBlogPostsByDate } from "../functions/sort";
 import { GalleryPhoto, GalleryPhotos } from "../types/galleryPhoto";
-import { IMarkdownData, TMarkdownDataFile } from "../types/markdown";
+import { IMarkdownData, TMarkdownDataFile } from "../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 const galleryPhotosData = galleryPhotosJSON as GalleryPhotos;

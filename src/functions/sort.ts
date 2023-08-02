@@ -1,4 +1,4 @@
-import { IMarkdownData } from "../types/markdown";
+import { IMarkdownData } from "../types/markdownOld";
 import { dateFromString } from "./date";
 
 // Sort gallery photos chronologically

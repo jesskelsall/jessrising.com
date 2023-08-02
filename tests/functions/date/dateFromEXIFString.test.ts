@@ -1,7 +1,7 @@
 import { DateTime } from "luxon";
 import { MARKDOWN_DATA_EMPTY } from "../../../src/consts/data";
 import { dateFromEXIFString, dateFromPhoto } from "../../../src/functions/date";
-import { IMarkdownData } from "../../../src/types/markdown";
+import { IMarkdownData } from "../../../src/types/markdownOld";
 import { EXIF_DATE_STRING, ISO_DATE_STRING } from "./__fixtures__/dates";
 
 describe("dateFromEXIFString", () => {

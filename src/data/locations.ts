@@ -1,13 +1,11 @@
-export interface ILocationHierarchy {
-  [location: string]: ILocationHierarchy;
-}
+import { LocationHierarchy } from "../types/location";
 
 /**
  * Gallery photo tests will fail on locations not defined here
  * Locations tests will fail if all locations aren't unique
  * Nesting expresses hierarchy
  */
-export const locationHierarchy: ILocationHierarchy = {
+export const locationHierarchy: LocationHierarchy = {
   "United Kingdom": {
     England: {
       "County Durham": {

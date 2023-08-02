@@ -1,5 +1,5 @@
 import { useBlogPosts } from "../../context/blogPosts";
-import { IMarkdownData, TListRenderer } from "../../types/markdown";
+import { IMarkdownData, TListRenderer } from "../../types/markdownOld";
 import { BlogPreview } from "../BlogPreview/BlogPreview";
 
 export const BlogRelatedPosts: TListRenderer = ({ children }) => {

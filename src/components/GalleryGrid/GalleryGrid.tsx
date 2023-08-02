@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { getImageSrcFromSlug } from "../../functions/image";
-import { IMarkdownData } from "../../types/markdown";
+import { IMarkdownData } from "../../types/markdownOld";
 
 interface IGalleryGridProps {
   galleryPhotos: IMarkdownData[];

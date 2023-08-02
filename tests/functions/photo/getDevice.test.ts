@@ -1,5 +1,5 @@
 import { cameras } from "../../../src/data/cameras";
-import { getDevice } from "../../../src/functions/EXIF";
+import { getDevice } from "../../../src/functions/photo";
 
 describe("getDevice", () => {
   test("returns device from make and model", () => {
