@@ -61,6 +61,7 @@ export const parsePhoto = ({
     "Image Height": Height,
     "Image Width": Width,
     ISOSpeedRatings,
+    Lens,
     LensModel,
     Make,
     Model,
@@ -112,7 +113,7 @@ export const parsePhoto = ({
 
     // Lens
 
-    const lensModel = firstValue(LensModel);
+    const lensModel = Lens ? Lens.value : firstValue(LensModel);
 
     const dataLens = dataCamera?.lenses.find(
       (lens) => lens.model === lensModel

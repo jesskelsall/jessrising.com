@@ -10,13 +10,19 @@
     ]
   },
   "exif": {
-    "camera": {
-      "name": "SONY DSLR-A550"
-    },
     "date": "2023-04-21T23:31:27.000+01:00",
     "dimensions": {
       "height": 3012,
       "width": 4526
+    },
+    "camera": {
+      "name": "Sony ɑ550",
+      "lens": "Samyang 1:28 10mm ED AS NCS CS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 10,
+        "ISO": 1600
+      }
     }
   }
 }

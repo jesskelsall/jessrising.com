@@ -14,7 +14,7 @@ export const generic = {
   "Image Height": { value: 0, description: "4000px" },
   "Image Width": { value: 0, description: "3000px" },
   ISOSpeedRatings: { id: 0, value: 100, description: 100 },
-  LensModel: { id: 0, value: ["Lens"], description: "Lens" },
+  Lens: { id: 0, value: "Lens", description: "Lens" },
   Make: { id: 0, value: ["Make"], description: "Make" },
   Model: { id: 0, value: ["Model"], description: "Model" },
 } as unknown as EXIFLoaded;

@@ -159,13 +159,11 @@ const addGalleryPhoto = async (
   if (!DRY_RUN) {
     try {
       await unlink(filePath);
+      console.info("Success (gallery)", photoSlug);
     } catch {
       console.warn("Failed to delete photo file", photoSlug);
-      return;
     }
   }
-
-  console.info("Success (gallery)", photoSlug);
 };
 
 const addBlogPhoto = async (

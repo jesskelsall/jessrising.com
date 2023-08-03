@@ -4,20 +4,24 @@
     "location": "Shap",
     "tags": [
       "Rail"
-    ],
-    "gps": {
-      "lat": 54.462448,
-      "long": -2.622213
-    }
+    ]
   },
   "exif": {
-    "camera": {
-      "name": "SONY DSLR-A550"
-    },
-    "date": "2023-01-28T11:42:38.000+00:00",
+    "date": "2023-01-28T11:42:39.000+00:00",
     "dimensions": {
       "height": 3056,
       "width": 4592
+    },
+    "camera": {
+      "name": "Sony ɑ550",
+      "lens": "Sony DT 18-55mm F3.5-5.6 SAM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.001,
+        "focalLength": 28,
+        "fStop": 5.6,
+        "ISO": 400
+      }
     }
   }
 }

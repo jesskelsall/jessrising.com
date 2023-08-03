@@ -43,7 +43,16 @@ export const cameras: Camera[] = [
     displaySettings: true,
     make: "SONY",
     model: "DSLR-A550",
-    lenses: [],
+    lenses: [
+      {
+        displayName: "Sony DT 18-55mm F3.5-5.6 SAM II",
+        model: "Sony DT 18-55mm F3.5-5.6 SAM [II] (SAL1855)",
+      },
+      {
+        displayName: "Samyang 1:28 10mm ED AS NCS CS",
+        model: "Sony 0mm F0.0",
+      },
+    ],
   },
   {
     displayName: "Sony ɑ7R V",
@@ -53,7 +62,7 @@ export const cameras: Camera[] = [
     lenses: [
       {
         displayName: "Sony FE 24-70mm F2.8 GM II",
-        model: "FE 24-70mm F2.8 GM II",
+        model: "Sony FE 24-70mm F2.8 II",
       },
     ],
   },

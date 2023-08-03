@@ -9,13 +9,21 @@
     ]
   },
   "exif": {
-    "camera": {
-      "name": "SONY DSLR-A550"
-    },
     "date": "2010-01-04T09:10:50.000+00:00",
     "dimensions": {
       "height": 3056,
       "width": 4592
+    },
+    "camera": {
+      "name": "Sony ɑ550",
+      "lens": "Sony DT 18-55mm F3.5-5.6 SAM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 18,
+        "fStop": 16,
+        "ISO": 200
+      }
     }
   }
 }

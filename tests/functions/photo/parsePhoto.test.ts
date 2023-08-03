@@ -2,6 +2,7 @@ import { Camera, cameras as allCameras } from "../../../src/data/cameras";
 import { parsePhoto } from "../../../src/functions/photo";
 import { EXIFLoaded } from "../../../src/types/EXIF";
 import { a550Wide } from "./__fixtures__/a550Wide";
+import { a550Zoom } from "./__fixtures__/a550Zoom";
 import { a7rvZoom } from "./__fixtures__/a7rvZoom";
 import { generic, genericCameras } from "./__fixtures__/generic";
 import { iPhone14Main } from "./__fixtures__/iPhone14Main";
@@ -179,7 +180,7 @@ describe("parsePhoto", () => {
       expect(result).toHaveProperty("exif");
       expect(result.exif).toEqual({
         camera: {
-          lens: undefined,
+          lens: "Samyang 1:28 10mm ED AS NCS CS",
           name: "Sony ɑ550",
           settings: {
             ISO: 1600,
@@ -193,6 +194,34 @@ describe("parsePhoto", () => {
         dimensions: {
           height: 3012,
           width: 4526,
+        },
+      });
+    });
+
+    test("Sony ɑ550 ∙ Sony DT 18-55mm F3.5-5.6 SAM II", () => {
+      const result = parsePhoto({
+        cameras: allCameras,
+        exif: a550Zoom,
+        title,
+      });
+
+      expect(result).toHaveProperty("exif");
+      expect(result.exif).toEqual({
+        camera: {
+          lens: "Sony DT 18-55mm F3.5-5.6 SAM II",
+          name: "Sony ɑ550",
+          settings: {
+            ISO: 400,
+            exposureBias: 0.3,
+            exposureTime: 0.001,
+            fStop: 5.6,
+            focalLength: 28,
+          },
+        },
+        date: "2023-01-28T11:42:39.000+00:00",
+        dimensions: {
+          height: 3056,
+          width: 4592,
         },
       });
     });
