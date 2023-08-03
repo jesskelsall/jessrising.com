@@ -1,0 +1,25 @@
+{
+  "title": "The Cairngorm Reindeer Herd 1",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "Landscape",
+      "Reindeer",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.145125,
+      "long": -3.684216666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-07T11:34:53.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "St Conan's Kirk",
+  "meta": {
+    "location": "St Conan's Kirk",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "gps": {
+      "lat": 56.39490555555555,
+      "long": -5.054172222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-20T10:08:54.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

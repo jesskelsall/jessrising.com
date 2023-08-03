@@ -1,0 +1,23 @@
+{
+  "title": "Brackenburn",
+  "meta": {
+    "location": "Derwent Water",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.562686111111105,
+      "long": -3.1630305555555553
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-06T13:09:04.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

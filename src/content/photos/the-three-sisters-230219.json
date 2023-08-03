@@ -1,0 +1,24 @@
+{
+  "title": "The Three Sisters",
+  "meta": {
+    "location": "The Three Sisters",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "gps": {
+      "lat": 56.667652777777775,
+      "long": -4.986552777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-19T16:43:23.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

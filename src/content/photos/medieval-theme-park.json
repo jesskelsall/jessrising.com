@@ -1,0 +1,24 @@
+{
+  "title": "Medieval Theme Park",
+  "meta": {
+    "location": "Gwrych Castle",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.28332777777778,
+      "long": -3.6093083333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T13:44:46.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

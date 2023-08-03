@@ -1,0 +1,24 @@
+{
+  "title": "Iona Abbey Choir",
+  "meta": {
+    "location": "Iona Abbey",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "gps": {
+      "lat": 56.33488055555556,
+      "long": -6.391469444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T14:43:38.000+01:00",
+    "dimensions": {
+      "height": 2952,
+      "width": 3936
+    }
+  }
+}

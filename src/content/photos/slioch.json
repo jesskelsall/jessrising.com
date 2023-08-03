@@ -1,0 +1,24 @@
+{
+  "title": "Slioch",
+  "meta": {
+    "location": "Loch Maree",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.66384444444444,
+      "long": -5.434388888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-18T07:27:26.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Miller Row",
+  "meta": {
+    "location": "Water of Leith",
+    "tags": [
+      "Landscape",
+      "Street",
+      "Viaduct"
+    ],
+    "gps": {
+      "lat": 55.95286111111111,
+      "long": -3.214927777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-10T12:27:08.000+00:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Ben Starav",
+  "meta": {
+    "location": "Lochan Urr",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 56.59957777777778,
+      "long": -5.0173
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-22T08:49:04.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

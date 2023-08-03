@@ -1,0 +1,23 @@
+{
+  "title": "Return to Wasdale Head",
+  "meta": {
+    "location": "Wasdale Head",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.474044444444445,
+      "long": -3.208355555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-02T16:31:01.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

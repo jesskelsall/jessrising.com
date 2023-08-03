@@ -1,0 +1,25 @@
+{
+  "title": "Yew Tree Farm",
+  "meta": {
+    "location": "Yew Tree Farm",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "White House"
+    ],
+    "gps": {
+      "lat": 54.389605555555555,
+      "long": -3.0489166666666665
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-29T12:16:09.000+01:00",
+    "dimensions": {
+      "height": 2936,
+      "width": 3915
+    }
+  }
+}

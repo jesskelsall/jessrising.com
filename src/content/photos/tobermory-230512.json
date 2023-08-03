@@ -1,0 +1,23 @@
+{
+  "title": "Tobermory",
+  "meta": {
+    "location": "Tobermory",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.620777777777775,
+      "long": -6.067772222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T15:05:46.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

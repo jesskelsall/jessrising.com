@@ -1,0 +1,24 @@
+{
+  "title": "Penrhyn Castle Chapel",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Interior",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.23305,
+      "long": -4.084358333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-05T11:13:02.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

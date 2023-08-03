@@ -1,0 +1,24 @@
+{
+  "title": "Loch Kinord",
+  "meta": {
+    "location": "Muir of Dinnet",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.085225,
+      "long": -2.924822222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-19T10:53:02.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

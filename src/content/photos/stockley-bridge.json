@@ -1,0 +1,25 @@
+{
+  "title": "Stockley Bridge",
+  "meta": {
+    "location": "Seathwaite",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Waterfall"
+    ],
+    "gps": {
+      "lat": 54.48793333333334,
+      "long": -3.182947222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-01T15:31:08.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

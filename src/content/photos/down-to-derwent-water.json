@@ -1,0 +1,24 @@
+{
+  "title": "Down to Derwent Water",
+  "meta": {
+    "location": "Derwent Water",
+    "tags": [
+      "Landscape",
+      "Gorse"
+    ],
+    "gps": {
+      "lat": 54.564227777777774,
+      "long": -3.1622194444444442
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-06T13:15:20.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

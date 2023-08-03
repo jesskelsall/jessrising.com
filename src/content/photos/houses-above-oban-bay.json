@@ -1,0 +1,24 @@
+{
+  "title": "Houses Above Oban Bay",
+  "meta": {
+    "location": "Oban",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 56.41297222222222,
+      "long": -5.4788194444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T10:01:15.000+01:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    }
+  }
+}

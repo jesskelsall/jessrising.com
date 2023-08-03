@@ -1,0 +1,24 @@
+{
+  "title": "Gwrych Castle",
+  "meta": {
+    "location": "Gwrych Castle",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.28415277777778,
+      "long": -3.6091527777777777
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T13:51:28.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

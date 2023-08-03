@@ -1,0 +1,24 @@
+{
+  "title": "Dunrobin Castle Staircase",
+  "meta": {
+    "location": "Dunrobin Castle",
+    "tags": [
+      "Interior",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 57.98208888888889,
+      "long": -3.945180555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T13:47:02.000+01:00",
+    "dimensions": {
+      "height": 2962,
+      "width": 3950
+    }
+  }
+}

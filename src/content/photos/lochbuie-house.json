@@ -1,0 +1,23 @@
+{
+  "title": "Lochbuie House",
+  "meta": {
+    "location": "Lochbuie",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.35505,
+      "long": -5.860144444444444
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T13:37:24.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Gwrych Castle Towers 1",
+  "meta": {
+    "location": "Gwrych Castle",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.28358333333333,
+      "long": -3.608616666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T12:51:02.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

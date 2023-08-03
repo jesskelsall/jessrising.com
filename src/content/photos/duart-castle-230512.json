@@ -1,0 +1,24 @@
+{
+  "title": "Duart Castle",
+  "meta": {
+    "location": "Sound of Mull",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 56.46148055555556,
+      "long": -5.644547222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T10:30:39.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

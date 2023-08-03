@@ -1,0 +1,23 @@
+{
+  "title": "Lunga",
+  "meta": {
+    "location": "Isle of Lunga",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.496161111111114,
+      "long": -6.420138888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T13:02:02.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

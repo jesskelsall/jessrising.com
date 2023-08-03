@@ -1,0 +1,24 @@
+{
+  "title": "Penshaw Monument",
+  "meta": {
+    "location": "Penshaw Monument",
+    "tags": [
+      "Landscape",
+      "National Trust"
+    ],
+    "gps": {
+      "lat": 54.877655555555556,
+      "long": -1.4715666666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-14T13:03:46.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

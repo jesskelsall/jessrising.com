@@ -1,0 +1,24 @@
+{
+  "title": "Iona Swell",
+  "meta": {
+    "location": "Isle of Iona",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 56.34781388888889,
+      "long": -6.3933638888888895
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T12:28:59.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3997
+    }
+  }
+}

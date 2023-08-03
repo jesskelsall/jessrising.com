@@ -1,0 +1,24 @@
+{
+  "title": "Kylesku Bridge",
+  "meta": {
+    "location": "Kylesku",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "gps": {
+      "lat": 58.2575,
+      "long": -5.026583333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T11:24:07.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

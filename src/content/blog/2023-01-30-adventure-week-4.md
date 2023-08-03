@@ -60,7 +60,7 @@ My best photo was a stunning success - exactly what I envisioned on the drive ov
 
 With my work done at the strike of midday, I was keen to get home and rest up. Still, the drive back would take me near the Settle-Carlisle line, and I wanted to scope out my next photography viewpoint. This took me back along the road to Sedbergh from just outside Kirkby Stephen. Today clouds took the place of snowy hills but were no less a joy to see.
 
-<img src="../../public/photos/the-road-to-sedbergh-2.jpeg" alt="A rough road stretches into the distance before turning sharply out of sight. It lines the undulating hills with little confidence. Beyond it, green and brown-orange hills rise into the low drifting clouds, obscuring the summits. Above, thick grey cloud lingers." />
+<img src="../../public/photos/the-road-to-sedbergh-230128.jpeg" alt="A rough road stretches into the distance before turning sharply out of sight. It lines the undulating hills with little confidence. Beyond it, green and brown-orange hills rise into the low drifting clouds, obscuring the summits. Above, thick grey cloud lingers." />
 
 My drive took me across to Southwaite via Wharton Fell. Here I resisted the urge to stop constantly in the single-track road's passing places for shots of sunlit hillsides. After a left turn, I soon arrived back to Kirkby Stephen, though on a parallel street I've never driven down. It is fun to rediscover somewhere you thought you knew, from a new angle. After that, the journey home was uneventful.
 

@@ -1,0 +1,23 @@
+{
+  "title": "A Lake District Gate",
+  "meta": {
+    "location": "Loweswater",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.567508333333336,
+      "long": -3.3202
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-07T11:59:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

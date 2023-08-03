@@ -7,9 +7,10 @@ import { Newsletter } from "../../../components/Newsletter/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
 import { CONFIG } from "../../../consts/config";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
-import { allGalleryPhotosDict } from "../../../data/galleryPhotos";
-import { getSlugsFromMarkdownFileNames } from "../../../functions/file";
-import { getContentFileNames } from "../../../functions/fs";
+import {
+  allGalleryPhotoSlugs,
+  allGalleryPhotosDict,
+} from "../../../data/galleryPhotos";
 import { getLocationHierarchy } from "../../../functions/location";
 import { GalleryPhoto, GalleryPhotoSlug } from "../../../types/galleryPhoto";
 
@@ -22,15 +23,10 @@ interface IProps {
   galleryPhoto: GalleryPhoto;
 }
 
-export const getStaticPaths: GetStaticPaths<IParams> = async () => {
-  const photoFiles = await getContentFileNames("photos");
-  const photoSlugs = getSlugsFromMarkdownFileNames(photoFiles);
-
-  return {
-    paths: photoSlugs.map((slug) => ({ params: { slug } })),
-    fallback: false,
-  };
-};
+export const getStaticPaths: GetStaticPaths<IParams> = async () => ({
+  paths: allGalleryPhotoSlugs.map((slug) => ({ params: { slug } })),
+  fallback: false,
+});
 
 export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   context

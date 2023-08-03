@@ -1,0 +1,24 @@
+{
+  "title": "Ennerdale Water",
+  "meta": {
+    "location": "Ennerdale Water",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "gps": {
+      "lat": 54.51746111111111,
+      "long": -3.3526194444444446
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-25T15:59:24.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

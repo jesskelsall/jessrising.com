@@ -1,0 +1,23 @@
+{
+  "title": "Great Gable's Southern Views",
+  "meta": {
+    "location": "Great Gable",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.48178611111111,
+      "long": -3.2195055555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-02T14:35:23.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

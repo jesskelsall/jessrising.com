@@ -1,0 +1,24 @@
+{
+  "title": "Castle Sinclair Girnigoe Beach",
+  "meta": {
+    "location": "Noss Head",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 58.47816944444445,
+      "long": -3.0674555555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T10:22:12.000+01:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3982
+    }
+  }
+}

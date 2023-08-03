@@ -1,0 +1,23 @@
+{
+  "title": "Penrhyn Castle Exterior 1",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.22538055555556,
+      "long": -4.094155555555555
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-05T10:49:14.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

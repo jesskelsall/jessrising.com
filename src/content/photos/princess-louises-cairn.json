@@ -1,0 +1,24 @@
+{
+  "title": "Princess Louise's Cairn",
+  "meta": {
+    "location": "Balmoral",
+    "tags": [
+      "Landscape",
+      "Cairn"
+    ],
+    "gps": {
+      "lat": 57.03243333333333,
+      "long": -3.2277444444444447
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-19T14:56:33.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

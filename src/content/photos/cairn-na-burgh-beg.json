@@ -1,0 +1,23 @@
+{
+  "title": "Cairn na Burgh Beg",
+  "meta": {
+    "location": "Treshnish Isles",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.51906666666667,
+      "long": -6.379483333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T10:55:36.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

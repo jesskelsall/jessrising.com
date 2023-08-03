@@ -1,0 +1,24 @@
+{
+  "title": "Loch Vaa",
+  "meta": {
+    "location": "Loch Vaa",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.235794444444444,
+      "long": -3.8035249999999996
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-08T08:49:49.000+00:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

@@ -1,26 +1,18 @@
 import { DateTime } from "luxon";
 import { useGalleryPhoto } from "../../context/galleryPhoto";
 import { dateFromString } from "../../functions/date";
-import { getCameraDisplayName } from "../../functions/photo";
+import { getLocationHierarchy } from "../../functions/location";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";
 import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
 
-interface IGalleryHeadingProps {
-  children: React.ReactNode[];
-  id?: string;
-}
-
-export const GalleryHeading = ({
-  children,
-  ...props
-}: IGalleryHeadingProps) => {
-  const { meta } = useGalleryPhoto();
-  const date = dateFromString(meta.photo?.date) || null;
+export const GalleryHeading = () => {
+  const { exif, meta, title } = useGalleryPhoto();
+  const date = dateFromString(exif.date) || null;
 
   return (
     <>
-      <h1 {...props}>{children}</h1>
+      <h1>{title}</h1>
       <ul>
         {date && (
           <li>
@@ -31,11 +23,11 @@ export const GalleryHeading = ({
             })}
           </li>
         )}
-        {meta.locations && <MarkdownLocations locations={meta.locations} />}
-        {meta.gps && <MarkdownGPS gps={meta.gps} />}
-        {meta.photo?.camera && (
-          <li>Camera: {getCameraDisplayName(meta.photo.camera)}</li>
+        {meta.location && (
+          <MarkdownLocations locations={getLocationHierarchy(meta.location)} />
         )}
+        {meta.gps && <MarkdownGPS gps={meta.gps} />}
+        {exif.camera && <li>Camera: {exif.camera.name}</li>}
         {meta.tags && <MarkdownTags tags={meta.tags} />}
       </ul>
     </>

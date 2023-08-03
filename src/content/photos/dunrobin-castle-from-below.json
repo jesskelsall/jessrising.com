@@ -1,0 +1,23 @@
+{
+  "title": "Dunrobin Castle from Below",
+  "meta": {
+    "location": "Dunrobin Castle",
+    "tags": [
+      "Castle"
+    ],
+    "gps": {
+      "lat": 57.981094444444444,
+      "long": -3.944919444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T15:41:54.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Scoat Fell",
+  "meta": {
+    "location": "Pillar",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.49460277777778,
+      "long": -3.2854
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-07T11:59:26.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

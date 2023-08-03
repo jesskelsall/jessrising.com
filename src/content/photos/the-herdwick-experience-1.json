@@ -1,0 +1,25 @@
+{
+  "title": "The Herdwick Experience 1",
+  "meta": {
+    "location": "Yew Tree Farm",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Sheep"
+    ],
+    "gps": {
+      "lat": 54.39096388888889,
+      "long": -3.0525777777777776
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-29T12:31:09.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

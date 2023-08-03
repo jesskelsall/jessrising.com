@@ -1,0 +1,25 @@
+{
+  "title": "Torridon Ruins",
+  "meta": {
+    "location": "Torridon",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Ruin"
+    ],
+    "gps": {
+      "lat": 57.54723333333333,
+      "long": -5.518988888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-17T09:12:56.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    }
+  }
+}

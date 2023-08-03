@@ -1,0 +1,23 @@
+{
+  "title": "Holme Wood",
+  "meta": {
+    "location": "Holme Wood",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.578361111111114,
+      "long": -3.359122222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-11T09:17:14.000+00:00",
+    "dimensions": {
+      "height": 3008,
+      "width": 4011
+    }
+  }
+}

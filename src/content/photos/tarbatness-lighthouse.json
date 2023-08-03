@@ -1,0 +1,25 @@
+{
+  "title": "Tarbatness Lighthouse",
+  "meta": {
+    "location": "Tarbat Ness",
+    "tags": [
+      "Landscape",
+      "Gorse",
+      "Lighthouse"
+    ],
+    "gps": {
+      "lat": 57.86272777777778,
+      "long": -3.7796944444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-23T10:23:00.000+01:00",
+    "dimensions": {
+      "height": 2888,
+      "width": 3851
+    }
+  }
+}

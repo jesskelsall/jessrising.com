@@ -1,0 +1,26 @@
+{
+  "title": "Beinn Eighe from Loch a'Chroisg",
+  "meta": {
+    "location": "Loch a'Chroisg",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Clouds",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.578922222222225,
+      "long": -5.106208333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-15T07:50:42.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

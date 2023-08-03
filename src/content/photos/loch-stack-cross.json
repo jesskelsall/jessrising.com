@@ -1,0 +1,25 @@
+{
+  "title": "Loch Stack Cross",
+  "meta": {
+    "location": "Loch Stack",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "White House"
+    ],
+    "gps": {
+      "lat": 58.34560833333334,
+      "long": -4.958866666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T14:22:30.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

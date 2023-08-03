@@ -1,0 +1,24 @@
+{
+  "title": "The Rocks of Durness Beach 1",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 58.568822222222224,
+      "long": -4.739066666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-21T11:12:55.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

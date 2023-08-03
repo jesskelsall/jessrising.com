@@ -1,0 +1,24 @@
+{
+  "title": "Iona Houses",
+  "meta": {
+    "location": "Isle of Iona",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 56.33050555555556,
+      "long": -6.390363888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T11:09:29.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

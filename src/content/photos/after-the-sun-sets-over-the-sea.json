@@ -1,0 +1,25 @@
+{
+  "title": "After the Sun Sets Over the Sea",
+  "meta": {
+    "location": "Strathy Point",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 58.59815555555556,
+      "long": -4.019147222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-21T20:50:40.000+01:00",
+    "dimensions": {
+      "height": 3022,
+      "width": 4030
+    }
+  }
+}

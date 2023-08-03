@@ -1,0 +1,25 @@
+{
+  "title": "Strathy Point Dusk",
+  "meta": {
+    "location": "Strathy Point",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 58.59807222222222,
+      "long": -4.0191333333333334
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T21:30:53.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

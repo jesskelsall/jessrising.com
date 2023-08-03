@@ -1,0 +1,23 @@
+{
+  "title": "Staffa Swell",
+  "meta": {
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.431308333333334,
+      "long": -6.341283333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T12:01:18.000+01:00",
+    "dimensions": {
+      "height": 3000,
+      "width": 4000
+    }
+  }
+}

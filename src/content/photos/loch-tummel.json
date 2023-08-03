@@ -1,0 +1,25 @@
+{
+  "title": "Loch Tummel",
+  "meta": {
+    "location": "Loch Tummel",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 56.71588611111111,
+      "long": -3.8586055555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-08T12:23:52.000+00:00",
+    "dimensions": {
+      "height": 2945,
+      "width": 3995
+    }
+  }
+}

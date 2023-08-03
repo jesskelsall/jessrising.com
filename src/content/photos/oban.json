@@ -1,0 +1,24 @@
+{
+  "title": "Oban",
+  "meta": {
+    "location": "McCaig's Tower",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 56.41605277777778,
+      "long": -5.468852777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-20T12:08:32.000+00:00",
+    "dimensions": {
+      "height": 2968,
+      "width": 3958
+    }
+  }
+}

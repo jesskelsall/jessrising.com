@@ -1,0 +1,24 @@
+{
+  "title": "MV Coruisk",
+  "meta": {
+    "location": "Firth of Lorn",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 56.44240555555555,
+      "long": -5.582855555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T10:20:21.000+01:00",
+    "dimensions": {
+      "height": 2972,
+      "width": 3963
+    }
+  }
+}

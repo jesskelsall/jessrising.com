@@ -1,0 +1,25 @@
+{
+  "title": "Sunset Over Loch Assynt",
+  "meta": {
+    "location": "Loch Assynt",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Sunrise/Sunset"
+    ],
+    "gps": {
+      "lat": 58.16323055555556,
+      "long": -4.987347222222223
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-19T20:39:41.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

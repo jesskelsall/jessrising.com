@@ -1,0 +1,25 @@
+{
+  "title": "A Land of Gorse",
+  "meta": {
+    "location": "Kylesku",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Gorse"
+    ],
+    "gps": {
+      "lat": 58.26748611111111,
+      "long": -5.051111111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T11:29:59.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

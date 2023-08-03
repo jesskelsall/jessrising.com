@@ -1,0 +1,23 @@
+{
+  "title": "Greendale 1",
+  "meta": {
+    "location": "Wast Water",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.44029166666666,
+      "long": -3.3231749999999995
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-05T15:13:31.000+00:00",
+    "dimensions": {
+      "height": 2900,
+      "width": 3868
+    }
+  }
+}

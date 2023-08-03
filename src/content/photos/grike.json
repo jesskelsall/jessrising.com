@@ -1,0 +1,24 @@
+{
+  "title": "Grike",
+  "meta": {
+    "location": "Ennerdale Fell",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset"
+    ],
+    "gps": {
+      "lat": 54.51372777777778,
+      "long": -3.415113888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-08T07:24:21.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

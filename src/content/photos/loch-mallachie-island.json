@@ -1,0 +1,24 @@
+{
+  "title": "Loch Mallachie Island",
+  "meta": {
+    "location": "Loch Mallachie",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.235169444444445,
+      "long": -3.7148111111111115
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-07T14:52:28.000+00:00",
+    "dimensions": {
+      "height": 3004,
+      "width": 4006
+    }
+  }
+}

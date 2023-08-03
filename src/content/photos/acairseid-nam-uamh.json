@@ -1,0 +1,25 @@
+{
+  "title": "Acairseid nam Uamh",
+  "meta": {
+    "location": "Loch Ewe",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 57.85405,
+      "long": -5.692786111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-18T08:35:18.000+01:00",
+    "dimensions": {
+      "height": 3008,
+      "width": 4011
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Penrhyn Castle Halls",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Interior",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.23035,
+      "long": -4.084688888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-05T11:15:39.000+00:00",
+    "dimensions": {
+      "height": 3012,
+      "width": 4017
+    }
+  }
+}

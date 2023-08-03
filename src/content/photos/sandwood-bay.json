@@ -1,0 +1,24 @@
+{
+  "title": "Sandwood Bay",
+  "meta": {
+    "location": "Sandwood Bay",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 58.537052777777774,
+      "long": -5.061097222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T17:24:28.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

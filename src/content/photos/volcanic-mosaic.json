@@ -1,0 +1,23 @@
+{
+  "title": "Volcanic Mosaic",
+  "meta": {
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.432316666666665,
+      "long": -6.339761111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T12:16:55.000+01:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    }
+  }
+}

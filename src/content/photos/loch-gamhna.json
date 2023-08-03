@@ -1,0 +1,25 @@
+{
+  "title": "Loch Gamhna",
+  "meta": {
+    "location": "Rothiemurchus",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Forest"
+    ],
+    "gps": {
+      "lat": 57.1414,
+      "long": -3.830519444444444
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-18T17:29:34.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

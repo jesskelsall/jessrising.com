@@ -1,0 +1,24 @@
+{
+  "title": "The Old Man of Storr",
+  "meta": {
+    "location": "The Storr",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.511208333333336,
+      "long": -6.1741472222222225
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max"
+    },
+    "date": "2022-06-05T11:26:39.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Newlands Valley",
+  "meta": {
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.574286111111114,
+      "long": -3.1698416666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-06T11:00:01.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

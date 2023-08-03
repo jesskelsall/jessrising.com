@@ -1,0 +1,24 @@
+{
+  "title": "Night at the Cathedral",
+  "meta": {
+    "location": "Durham Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "gps": {
+      "lat": 54.773808333333335,
+      "long": -1.5766777777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-18T19:13:45.000+00:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3982
+    }
+  }
+}

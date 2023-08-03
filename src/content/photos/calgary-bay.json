@@ -1,0 +1,23 @@
+{
+  "title": "Calgary Bay",
+  "meta": {
+    "location": "Calgary Bay",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.58121944444445,
+      "long": -6.286866666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T17:44:48.000+01:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3981
+    }
+  }
+}

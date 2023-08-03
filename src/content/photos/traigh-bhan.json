@@ -1,0 +1,24 @@
+{
+  "title": "Tràigh Bhàn",
+  "meta": {
+    "location": "Isle of Iona",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 56.34778888888889,
+      "long": -6.382958333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T12:06:20.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

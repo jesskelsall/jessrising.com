@@ -1,0 +1,25 @@
+{
+  "title": "Loch Mallachie",
+  "meta": {
+    "location": "Loch Mallachie",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.236336111111115,
+      "long": -3.717802777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-07T14:42:10.000+00:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Loch Shiel",
+  "meta": {
+    "location": "Loch Shiel",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 56.76343611111111,
+      "long": -5.634183333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-24T11:10:54.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Ravenstonedale Common",
+  "meta": {
+    "location": "Howgill Fells",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 54.43748055555555,
+      "long": -2.40855
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-22T12:49:43.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

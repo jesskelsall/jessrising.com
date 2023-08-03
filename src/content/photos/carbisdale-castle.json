@@ -1,0 +1,23 @@
+{
+  "title": "Carbisdale Castle",
+  "meta": {
+    "location": "Lairg",
+    "tags": [
+      "Castle"
+    ],
+    "gps": {
+      "lat": 57.925288888888886,
+      "long": -4.410208333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-23T09:19:13.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Balnakeil Bay",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 58.576275,
+      "long": -4.768177777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-21T10:52:06.000+01:00",
+    "dimensions": {
+      "height": 2915,
+      "width": 3886
+    }
+  }
+}

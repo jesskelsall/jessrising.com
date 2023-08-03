@@ -1,0 +1,26 @@
+{
+  "title": "Deer at Torridon",
+  "meta": {
+    "location": "Ben-damph Forest",
+    "tags": [
+      "Landscape",
+      "Deer",
+      "Clouds",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.529075,
+      "long": -5.5017805555555555
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-16T08:01:44.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

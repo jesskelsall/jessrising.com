@@ -1,0 +1,25 @@
+{
+  "title": "Loch Garten",
+  "meta": {
+    "location": "Loch Garten",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.24379444444445,
+      "long": -3.7071833333333335
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-07T15:19:04.000+00:00",
+    "dimensions": {
+      "height": 2912,
+      "width": 3883
+    }
+  }
+}

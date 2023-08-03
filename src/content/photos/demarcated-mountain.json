@@ -1,0 +1,24 @@
+{
+  "title": "Demarcated Mountain",
+  "meta": {
+    "location": "Suilven",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 58.11403611111111,
+      "long": -5.1301
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-19T12:41:30.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

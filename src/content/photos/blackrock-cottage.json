@@ -1,0 +1,26 @@
+{
+  "title": "Blackrock Cottage",
+  "meta": {
+    "location": "Glen Coe",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow",
+      "White House"
+    ],
+    "gps": {
+      "lat": 56.637255555555555,
+      "long": -4.825711111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-23T10:55:59.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

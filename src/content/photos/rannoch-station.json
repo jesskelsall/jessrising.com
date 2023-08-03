@@ -1,0 +1,24 @@
+{
+  "title": "Rannoch Station",
+  "meta": {
+    "location": "Rannoch Station",
+    "tags": [
+      "Landscape",
+      "Rail"
+    ],
+    "gps": {
+      "lat": 56.68543611111111,
+      "long": -4.577061111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-08T14:19:53.000+00:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

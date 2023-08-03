@@ -1,0 +1,24 @@
+{
+  "title": "Boating by Motor and Sail",
+  "meta": {
+    "location": "Oban",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 56.42155555555555,
+      "long": -5.4860444444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T10:05:21.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Pen-trwyn",
+  "meta": {
+    "location": "Llandudno",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 53.32983055555556,
+      "long": -3.8274111111111107
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T15:36:53.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

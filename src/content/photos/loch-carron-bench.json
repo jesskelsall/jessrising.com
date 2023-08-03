@@ -1,0 +1,24 @@
+{
+  "title": "Loch Carron Bench",
+  "meta": {
+    "location": "Loch Carron",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.41343611111111,
+      "long": -5.472933333333334
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-15T11:18:41.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

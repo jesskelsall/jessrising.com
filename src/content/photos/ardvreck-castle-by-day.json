@@ -1,0 +1,26 @@
+{
+  "title": "Ardvreck Castle by Day",
+  "meta": {
+    "location": "Ardvreck Castle",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Castle",
+      "Ruin"
+    ],
+    "gps": {
+      "lat": 58.163941666666666,
+      "long": -4.987127777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T08:04:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

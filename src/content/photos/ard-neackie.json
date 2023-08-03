@@ -1,0 +1,24 @@
+{
+  "title": "Àrd Neackie",
+  "meta": {
+    "location": "Loch Eriboll",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 58.49986388888889,
+      "long": -4.657941666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-21T09:09:20.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

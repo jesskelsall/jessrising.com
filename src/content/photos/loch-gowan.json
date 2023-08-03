@@ -1,0 +1,25 @@
+{
+  "title": "Loch Gowan",
+  "meta": {
+    "location": "Loch Gowan",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.55715555555555,
+      "long": -5.098502777777777
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-15T08:46:45.000+01:00",
+    "dimensions": {
+      "height": 2976,
+      "width": 3968
+    }
+  }
+}

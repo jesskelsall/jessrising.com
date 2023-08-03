@@ -1,0 +1,25 @@
+{
+  "title": "The Great Hall",
+  "meta": {
+    "location": "National Railway Museum",
+    "tags": [
+      "Interior",
+      "Rail",
+      "Steam"
+    ],
+    "gps": {
+      "lat": 53.96053055555556,
+      "long": -1.0964777777777777
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-01T13:46:56.000+01:00",
+    "dimensions": {
+      "height": 3014,
+      "width": 4019
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Goleudy Ynys Lawd",
+  "meta": {
+    "location": "South Stack",
+    "tags": [
+      "Landscape",
+      "Lighthouse",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 53.30483888888889,
+      "long": -4.693072222222223
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-05T13:35:18.000+00:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

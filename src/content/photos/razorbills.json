@@ -1,0 +1,24 @@
+{
+  "title": "Razorbills",
+  "meta": {
+    "location": "Isle of Lunga",
+    "tags": [
+      "Landscape",
+      "Bird"
+    ],
+    "gps": {
+      "lat": 56.49197777777778,
+      "long": -6.425622222222223
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T14:15:30.000+01:00",
+    "dimensions": {
+      "height": 2972,
+      "width": 3963
+    }
+  }
+}

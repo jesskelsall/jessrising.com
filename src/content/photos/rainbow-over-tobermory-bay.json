@@ -1,0 +1,24 @@
+{
+  "title": "Rainbow Over Tobermory Bay",
+  "meta": {
+    "location": "Tobermory",
+    "tags": [
+      "Landscape",
+      "Rainbow"
+    ],
+    "gps": {
+      "lat": 56.62356666666667,
+      "long": -6.064263888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T19:07:08.000+01:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3982
+    }
+  }
+}

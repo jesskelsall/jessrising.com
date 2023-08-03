@@ -1,0 +1,25 @@
+{
+  "title": "Glen Etive Forest",
+  "meta": {
+    "location": "Glen Etive Forest",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Sunrise/Sunset"
+    ],
+    "gps": {
+      "lat": 56.60466666666667,
+      "long": -5.012291666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-24T17:38:18.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

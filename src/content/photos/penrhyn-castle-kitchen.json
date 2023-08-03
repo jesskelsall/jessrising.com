@@ -1,0 +1,24 @@
+{
+  "title": "Penrhyn Castle Kitchen",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Interior",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 53.225975000000005,
+      "long": -4.0949
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-05T12:07:02.000+00:00",
+    "dimensions": {
+      "height": 3008,
+      "width": 4011
+    }
+  }
+}

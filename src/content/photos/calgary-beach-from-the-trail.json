@@ -1,0 +1,24 @@
+{
+  "title": "Calgary Beach From the Trail",
+  "meta": {
+    "location": "Calgary Bay",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 56.58090555555556,
+      "long": -6.284355555555555
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-12T17:39:34.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

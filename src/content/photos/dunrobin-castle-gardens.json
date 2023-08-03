@@ -1,0 +1,24 @@
+{
+  "title": "Dunrobin Castle Gardens",
+  "meta": {
+    "location": "Dunrobin Castle",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "gps": {
+      "lat": 57.980675000000005,
+      "long": -3.9435305555555558
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T15:39:02.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

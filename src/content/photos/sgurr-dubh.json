@@ -1,0 +1,23 @@
+{
+  "title": "Sgurr Dubh",
+  "meta": {
+    "location": "Ben-damph Forest",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 57.51895555555556,
+      "long": -5.485347222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-16T09:04:09.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

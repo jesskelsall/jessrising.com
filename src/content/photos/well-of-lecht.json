@@ -1,0 +1,25 @@
+{
+  "title": "Well of Lecht",
+  "meta": {
+    "location": "Tomintoul",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "gps": {
+      "lat": 57.22635555555556,
+      "long": -3.2653305555555554
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-19T07:49:24.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "High Crag",
+  "meta": {
+    "location": "High Crag",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 54.51467777777778,
+      "long": -3.2674083333333335
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-11T10:37:00.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

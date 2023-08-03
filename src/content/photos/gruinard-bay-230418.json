@@ -1,0 +1,24 @@
+{
+  "title": "Gruinard Bay",
+  "meta": {
+    "location": "Gruinard Bay",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 57.853211111111115,
+      "long": -5.472975
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-18T11:25:36.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

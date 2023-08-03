@@ -1,0 +1,23 @@
+{
+  "title": "Dore Head",
+  "meta": {
+    "location": "Dore Head",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.475300000000004,
+      "long": -3.275863888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-07T09:07:27.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "The Mermaid of the North 2",
+  "meta": {
+    "location": "Balintore",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 57.75747777777778,
+      "long": -3.9060416666666664
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-23T11:36:14.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    }
+  }
+}

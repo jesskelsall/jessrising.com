@@ -1,0 +1,24 @@
+{
+  "title": "Loch Glencoul",
+  "meta": {
+    "location": "Kylesku",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 58.24174166666667,
+      "long": -5.0078861111111115
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T11:12:19.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

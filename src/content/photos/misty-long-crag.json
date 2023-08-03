@@ -1,0 +1,24 @@
+{
+  "title": "Misty Long Crag",
+  "meta": {
+    "location": "Steeple",
+    "tags": [
+      "Landscape",
+      "Mist"
+    ],
+    "gps": {
+      "lat": 54.49466666666667,
+      "long": -3.303461111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-25T10:52:29.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

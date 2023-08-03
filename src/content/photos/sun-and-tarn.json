@@ -1,0 +1,25 @@
+{
+  "title": "Sun and Tarn",
+  "meta": {
+    "location": "Whernside",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 54.23771666666667,
+      "long": -2.396575
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-15T11:12:05.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Fingal's Cave",
+  "meta": {
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape",
+      "Cave"
+    ],
+    "gps": {
+      "lat": 56.43076666666666,
+      "long": -6.341997222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T11:21:20.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

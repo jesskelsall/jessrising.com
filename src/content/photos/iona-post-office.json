@@ -1,0 +1,23 @@
+{
+  "title": "Iona Post Office",
+  "meta": {
+    "location": "Isle of Iona",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.33081111111112,
+      "long": -6.392783333333334
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T16:06:54.000+01:00",
+    "dimensions": {
+      "height": 2938,
+      "width": 3918
+    }
+  }
+}

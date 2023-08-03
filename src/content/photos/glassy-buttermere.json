@@ -1,0 +1,24 @@
+{
+  "title": "Glassy Buttermere",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 54.532925,
+      "long": -3.2753277777777776
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-11T07:24:11.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

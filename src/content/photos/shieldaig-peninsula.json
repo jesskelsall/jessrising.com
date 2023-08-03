@@ -1,0 +1,24 @@
+{
+  "title": "Shieldaig Peninsula",
+  "meta": {
+    "location": "Shieldaig",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.54063055555555,
+      "long": -5.659350000000001
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-15T17:49:43.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

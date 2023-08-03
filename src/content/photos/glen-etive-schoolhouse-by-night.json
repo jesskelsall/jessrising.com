@@ -1,0 +1,23 @@
+{
+  "title": "Glen Etive Schoolhouse by Night",
+  "meta": {
+    "location": "Glen Etive",
+    "tags": [
+      "Astro"
+    ],
+    "gps": {
+      "lat": 56.58185833333334,
+      "long": -5.0254666666666665
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "SONY DSLR-A550"
+    },
+    "date": "2023-02-18T23:01:56.000+00:00",
+    "dimensions": {
+      "height": 3056,
+      "width": 4592
+    }
+  }
+}

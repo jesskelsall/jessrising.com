@@ -1,0 +1,25 @@
+{
+  "title": "Skye Bridge",
+  "meta": {
+    "location": "Loch Alsh",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Clouds"
+    ],
+    "gps": {
+      "lat": 57.281016666666666,
+      "long": -5.698041666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-16T14:32:59.000+01:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "House at Annat",
+  "meta": {
+    "location": "Annat",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "gps": {
+      "lat": 57.530875,
+      "long": -5.519613888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-16T07:29:09.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

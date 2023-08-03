@@ -1,0 +1,24 @@
+{
+  "title": "Sango Sands Viewpoint",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 58.570525,
+      "long": -4.741302777777777
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-21T11:42:23.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

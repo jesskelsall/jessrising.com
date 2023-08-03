@@ -1,0 +1,24 @@
+{
+  "title": "Sheep Near Balmore",
+  "meta": {
+    "location": "Dunalasdair Estate",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "gps": {
+      "lat": 56.70572222222223,
+      "long": -4.106941666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-08T13:14:52.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

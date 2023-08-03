@@ -1,0 +1,24 @@
+{
+  "title": "Inshriach",
+  "meta": {
+    "location": "Rothiemurchus",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "gps": {
+      "lat": 57.14380277777778,
+      "long": -3.824897222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-18T17:37:12.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Tobermory From Back Brae",
+  "meta": {
+    "location": "Tobermory",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 56.62306111111111,
+      "long": -6.067172222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-14T18:57:49.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Dunrobin Castle Clocktower",
+  "meta": {
+    "location": "Dunrobin Castle",
+    "tags": [
+      "Castle"
+    ],
+    "gps": {
+      "lat": 57.982175000000005,
+      "long": -3.945875
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T13:07:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Puffins of Lunga",
+  "meta": {
+    "location": "Isle of Lunga",
+    "tags": [
+      "Bird"
+    ],
+    "gps": {
+      "lat": 56.49475,
+      "long": -6.421036111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T14:51:39.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

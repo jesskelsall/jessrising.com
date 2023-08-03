@@ -1,0 +1,24 @@
+{
+  "title": "Catching the Boat",
+  "meta": {
+    "location": "Derwent Water",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 54.56806111111111,
+      "long": -3.158488888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-06T13:32:00.000+01:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3982
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Driving Above the Snow Line",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Road"
+    ],
+    "gps": {
+      "lat": 57.146233333333335,
+      "long": -3.6662555555555554
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-07T12:45:57.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

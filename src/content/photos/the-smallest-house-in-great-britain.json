@@ -1,0 +1,23 @@
+{
+  "title": "The Smallest House in Great Britain",
+  "meta": {
+    "location": "Conwy",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 53.28240833333333,
+      "long": -3.828486111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T11:20:44.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Attadale Gardens",
+  "meta": {
+    "location": "Attadale",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.39460277777778,
+      "long": -5.451894444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-15T13:36:37.000+01:00",
+    "dimensions": {
+      "height": 2995,
+      "width": 3993
+    }
+  }
+}

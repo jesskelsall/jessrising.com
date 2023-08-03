@@ -1,0 +1,24 @@
+{
+  "title": "Inchina",
+  "meta": {
+    "location": "Gruinard Bay",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "gps": {
+      "lat": 57.86313333333334,
+      "long": -5.438236111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-18T11:32:51.000+01:00",
+    "dimensions": {
+      "height": 2972,
+      "width": 3963
+    }
+  }
+}

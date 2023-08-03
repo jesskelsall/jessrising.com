@@ -1,0 +1,25 @@
+{
+  "title": "The Sleepy Reindeer",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "Landscape",
+      "Reindeer",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.14508055555555,
+      "long": -3.6465194444444444
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-18T12:47:40.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

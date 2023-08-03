@@ -1,0 +1,24 @@
+{
+  "title": "Loch Moidart",
+  "meta": {
+    "location": "Loch Moidart",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 56.79486111111111,
+      "long": -5.795991666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-24T15:40:01.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Shieldaig",
+  "meta": {
+    "location": "Shieldaig",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "gps": {
+      "lat": 57.51524722222222,
+      "long": -5.666069444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-17T11:06:26.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

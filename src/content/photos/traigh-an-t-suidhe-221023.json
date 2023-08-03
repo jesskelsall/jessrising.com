@@ -1,0 +1,24 @@
+{
+  "title": "Tràigh an t-Suidhe",
+  "meta": {
+    "location": "Isle of Iona",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 56.34770277777778,
+      "long": -6.392555555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2022-10-23T11:37:16.000+01:00",
+    "dimensions": {
+      "height": 2994,
+      "width": 3992
+    }
+  }
+}

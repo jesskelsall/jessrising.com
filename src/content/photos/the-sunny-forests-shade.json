@@ -1,0 +1,24 @@
+{
+  "title": "The Sunny Forest's Shade",
+  "meta": {
+    "location": "Loweswater",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "gps": {
+      "lat": 54.56898055555556,
+      "long": -3.3229888888888888
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-07T12:03:20.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

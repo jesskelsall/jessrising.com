@@ -1,0 +1,25 @@
+{
+  "title": "Seathwaite",
+  "meta": {
+    "location": "Seathwaite",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "White House"
+    ],
+    "gps": {
+      "lat": 54.49901666666667,
+      "long": -3.1822916666666665
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-01T08:06:03.000+01:00",
+    "dimensions": {
+      "height": 2972,
+      "width": 3963
+    }
+  }
+}

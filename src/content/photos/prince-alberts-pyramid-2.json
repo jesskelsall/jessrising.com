@@ -1,0 +1,24 @@
+{
+  "title": "Prince Albert's Pyramid 2",
+  "meta": {
+    "location": "Balmoral",
+    "tags": [
+      "Landscape",
+      "Cairn"
+    ],
+    "gps": {
+      "lat": 57.02618888888889,
+      "long": -3.221625
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-19T14:19:39.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

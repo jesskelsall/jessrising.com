@@ -1,0 +1,24 @@
+{
+  "title": "An Àird Bhàn 1",
+  "meta": {
+    "location": "An Àird Bhàn",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 57.38847777777778,
+      "long": -5.827961111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-17T16:11:08.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

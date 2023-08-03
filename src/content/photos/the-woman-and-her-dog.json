@@ -1,0 +1,25 @@
+{
+  "title": "The Woman and Her Dog",
+  "meta": {
+    "location": "Lochaline",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 56.53283333333333,
+      "long": -5.783158333333334
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-21T12:00:16.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

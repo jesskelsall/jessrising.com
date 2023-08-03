@@ -1,0 +1,26 @@
+{
+  "title": "Walter Elliot's House",
+  "meta": {
+    "location": "Loch Achtriochtan",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Waterfall",
+      "White House"
+    ],
+    "gps": {
+      "lat": 56.66458611111111,
+      "long": -5.037111111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-20T15:05:19.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

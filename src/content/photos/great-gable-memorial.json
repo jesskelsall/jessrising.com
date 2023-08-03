@@ -1,0 +1,23 @@
+{
+  "title": "Great Gable Memorial",
+  "meta": {
+    "location": "Great Gable",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 54.48213611111111,
+      "long": -3.2192194444444446
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-02T14:51:44.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

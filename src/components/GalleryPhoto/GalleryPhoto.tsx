@@ -10,18 +10,13 @@ export const GalleryPhoto = () => {
 
   const imagePath = getImageSrcFromSlug(slug, PHOTO_SIZE_SUFFIX.LARGE);
 
-  const options = {
-    overrides: {
-      h1: GalleryHeading,
-    },
-  };
-
   return (
     <main className="content-area photo">
       <div className="photo">
         <img alt={startCase(slug)} src={imagePath} />
       </div>
-      <Markdown options={options}>{markdown}</Markdown>
+      <GalleryHeading />
+      {markdown && <Markdown>{markdown}</Markdown>}
     </main>
   );
 };

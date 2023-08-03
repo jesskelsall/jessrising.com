@@ -1,0 +1,25 @@
+{
+  "title": "Force Gill",
+  "meta": {
+    "location": "Whernside",
+    "tags": [
+      "Landscape",
+      "Waterfall",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 54.23222777777778,
+      "long": -2.3690861111111112
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-15T10:08:43.000+00:00",
+    "dimensions": {
+      "height": 2992,
+      "width": 3990
+    }
+  }
+}

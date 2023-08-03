@@ -1,0 +1,24 @@
+{
+  "title": "Ribblehead Viaduct",
+  "meta": {
+    "location": "Ribblehead Viaduct",
+    "tags": [
+      "Landscape",
+      "Viaduct"
+    ],
+    "gps": {
+      "lat": 54.21084166666667,
+      "long": -2.373222222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-15T14:25:48.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

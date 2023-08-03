@@ -1,0 +1,23 @@
+{
+  "title": "Assynt Gorse",
+  "meta": {
+    "location": "Assynt-Coigach",
+    "tags": [
+      "Gorse"
+    ],
+    "gps": {
+      "lat": 58.05705277777778,
+      "long": -5.3101972222222225
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-18T15:26:27.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

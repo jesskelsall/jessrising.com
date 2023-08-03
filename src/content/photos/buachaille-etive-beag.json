@@ -1,0 +1,24 @@
+{
+  "title": "Buachaille Etive Beag",
+  "meta": {
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 56.66272222222222,
+      "long": -4.904638888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-22T11:52:25.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

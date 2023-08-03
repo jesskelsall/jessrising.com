@@ -1,0 +1,23 @@
+{
+  "title": "Meall Meadhonach",
+  "meta": {
+    "location": "Suilven",
+    "tags": [
+      "Landscape"
+    ],
+    "gps": {
+      "lat": 58.11475277777778,
+      "long": -5.133080555555555
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-19T11:34:30.000+01:00",
+    "dimensions": {
+      "height": 2979,
+      "width": 3973
+    }
+  }
+}

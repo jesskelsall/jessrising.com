@@ -1,0 +1,24 @@
+{
+  "title": "Llandudno Pier",
+  "meta": {
+    "location": "Llandudno",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 53.33003888888889,
+      "long": -3.829711111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T15:10:21.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

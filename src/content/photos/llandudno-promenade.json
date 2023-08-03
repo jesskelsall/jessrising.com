@@ -1,0 +1,24 @@
+{
+  "title": "Llandudno Promenade",
+  "meta": {
+    "location": "Llandudno",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 53.33145555555556,
+      "long": -3.825011111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-04T15:43:59.000+00:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

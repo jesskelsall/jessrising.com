@@ -1,0 +1,25 @@
+{
+  "title": "Strathy Point Lighthouse",
+  "meta": {
+    "location": "Strathy Point",
+    "tags": [
+      "Landscape",
+      "Lighthouse",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 58.59650833333333,
+      "long": -4.016183333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-21T19:00:35.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

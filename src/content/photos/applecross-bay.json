@@ -1,0 +1,24 @@
+{
+  "title": "Applecross Bay",
+  "meta": {
+    "location": "Applecross",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 57.466797222222226,
+      "long": -5.867633333333334
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-17T12:59:52.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Stac Pollaidh",
+  "meta": {
+    "location": "Assynt-Coigach",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Gorse"
+    ],
+    "gps": {
+      "lat": 58.02243333333333,
+      "long": -5.169647222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-18T15:07:23.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

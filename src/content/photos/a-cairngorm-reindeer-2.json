@@ -1,0 +1,25 @@
+{
+  "title": "A Cairngorm Reindeer 2",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "Landscape",
+      "Reindeer",
+      "Snow"
+    ],
+    "gps": {
+      "lat": 57.144930555555554,
+      "long": -3.646341666666667
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-03-18T12:10:19.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

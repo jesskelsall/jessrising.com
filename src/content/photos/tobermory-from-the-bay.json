@@ -1,0 +1,24 @@
+{
+  "title": "Tobermory From the Bay",
+  "meta": {
+    "location": "Tobermory",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "gps": {
+      "lat": 56.620422222222224,
+      "long": -6.064327777777778
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-05-13T09:42:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

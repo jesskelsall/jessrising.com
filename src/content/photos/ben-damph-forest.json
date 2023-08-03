@@ -1,0 +1,24 @@
+{
+  "title": "Ben-damph Forest",
+  "meta": {
+    "location": "Ben-damph Forest",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "gps": {
+      "lat": 57.515883333333335,
+      "long": -5.475033333333333
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-16T09:55:00.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "First Light Hits Great Gable",
+  "meta": {
+    "location": "Wasdale Head",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "gps": {
+      "lat": 54.45586666666667,
+      "long": -3.2682805555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-07T07:00:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

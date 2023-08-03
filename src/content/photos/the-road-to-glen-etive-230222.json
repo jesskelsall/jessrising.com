@@ -1,0 +1,26 @@
+{
+  "title": "The Road to Glen Etive",
+  "meta": {
+    "location": "Glen Etive",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Sunrise/Sunset",
+      "Road"
+    ],
+    "gps": {
+      "lat": 56.65320833333333,
+      "long": -4.862497222222222
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-22T17:34:08.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

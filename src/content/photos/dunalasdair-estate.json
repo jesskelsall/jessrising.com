@@ -1,0 +1,23 @@
+{
+  "title": "Dunalasdair Estate",
+  "meta": {
+    "location": "Dunalasdair Estate",
+    "tags": [
+      "Ruin"
+    ],
+    "gps": {
+      "lat": 56.703250000000004,
+      "long": -4.107911111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-01-08T13:09:40.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

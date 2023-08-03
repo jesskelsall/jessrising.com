@@ -1,0 +1,25 @@
+{
+  "title": "Sheep Above Sandwood Bay",
+  "meta": {
+    "location": "Sandwood Bay",
+    "tags": [
+      "Landscape",
+      "Sheep",
+      "Beach"
+    ],
+    "gps": {
+      "lat": 58.531055555555554,
+      "long": -5.0609416666666664
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-20T16:32:10.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

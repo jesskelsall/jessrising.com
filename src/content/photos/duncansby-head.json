@@ -1,0 +1,24 @@
+{
+  "title": "Duncansby Head",
+  "meta": {
+    "location": "Duncansby Head",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 58.635875,
+      "long": -3.033511111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T08:56:56.000+01:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    }
+  }
+}

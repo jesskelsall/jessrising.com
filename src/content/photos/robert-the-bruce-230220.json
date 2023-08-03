@@ -1,0 +1,24 @@
+{
+  "title": "Robert the Bruce",
+  "meta": {
+    "location": "St Conan's Kirk",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "gps": {
+      "lat": 56.39571111111111,
+      "long": -5.053830555555555
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-02-20T10:05:50.000+00:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

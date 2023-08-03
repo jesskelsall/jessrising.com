@@ -1,0 +1,24 @@
+{
+  "title": "Duncansby Stacks",
+  "meta": {
+    "location": "Duncansby Head",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "gps": {
+      "lat": 58.63401666666667,
+      "long": -3.034525
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T09:01:23.000+01:00",
+    "dimensions": {
+      "height": 3022,
+      "width": 4030
+    }
+  }
+}

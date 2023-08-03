@@ -1,0 +1,24 @@
+{
+  "title": "Carn Liath Broch",
+  "meta": {
+    "location": "Golspie",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "gps": {
+      "lat": 57.987227777777775,
+      "long": -3.9121194444444445
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-22T12:50:02.000+01:00",
+    "dimensions": {
+      "height": 2948,
+      "width": 3931
+    }
+  }
+}
