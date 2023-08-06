@@ -1,6 +1,7 @@
 import { last } from "lodash/fp";
 import { allGalleryPhotosList } from "../../src/data/galleryPhotos";
 import { locationHierarchy } from "../../src/data/locations";
+import { allTags } from "../../src/data/tags";
 import { getLocationHierarchy } from "../../src/functions/location";
 import { GalleryPhoto, GalleryPhotoSlug } from "../../src/types/galleryPhoto";
 
@@ -21,6 +22,16 @@ describe("Gallery Photos", () => {
 
       expect(locations.length).toBeGreaterThan(0);
       expect(topLevelLocations).toContain(last(locations));
+    });
+
+    test("Tags are in tags list", () => {
+      const tagIds = galleryPhoto.meta.tags;
+
+      expect.assertions(tagIds.length);
+      tagIds.forEach((tagId) => {
+        const matchingTag = allTags.find((tag) => tag.id === tagId);
+        expect(matchingTag).not.toBeUndefined();
+      });
     });
   });
 });
