@@ -44,7 +44,8 @@ export const GalleryPhotoData = z.object({
   }),
   settings: z
     .object({
-      showPhoto: z.boolean().optional(),
+      downloadOriginal: z.boolean().optional(), // Show download button on gallery photo page
+      showPhoto: z.boolean().optional(), // Override hidePhotos from tags
     })
     .optional(),
 });

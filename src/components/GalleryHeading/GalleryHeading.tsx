@@ -1,11 +1,14 @@
 import { DateTime } from "luxon";
+import Link from "next/link";
+import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
+import { SEPARATOR } from "../../consts/text";
 import { useGalleryPhoto } from "../../context/galleryPhoto";
 import { dateFromString } from "../../functions/date";
+import { getImageSrcFromSlug } from "../../functions/image";
 import { getLocationHierarchy } from "../../functions/location";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";
 import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
-import { SEPARATOR } from "../../consts/text";
 
 const renderSetting = (
   setting: number | undefined,
@@ -16,10 +19,14 @@ const renderSetting = (
 };
 
 export const GalleryHeading = () => {
-  const { exif, meta, title } = useGalleryPhoto();
+  const { exif, meta, settings, slug, title } = useGalleryPhoto();
   const { camera } = exif;
 
   const date = dateFromString(exif.date) || null;
+  const originalImagePath = getImageSrcFromSlug(
+    slug,
+    PHOTO_SIZE_SUFFIX.ORIGINAL
+  );
 
   return (
     <>
@@ -64,6 +71,11 @@ export const GalleryHeading = () => {
           </li>
         )}
       </ul>
+      {settings?.downloadOriginal && (
+        <Link className="button" href={originalImagePath}>
+          Download high resolution photo
+        </Link>
+      )}
     </>
   );
 };

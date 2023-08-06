@@ -8,6 +8,7 @@ export const CAMERA_DISPLAY_NAME: Record<string, string> = {
 export const PHOTO_SIZE_SUFFIX = {
   SMALL: "-sm",
   LARGE: "-lg",
+  ORIGINAL: "-og",
 };
 
 export const PHOTO_SUFFIX_SEPARATOR = " = ";

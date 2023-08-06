@@ -17,7 +17,7 @@ import { allTags } from "../src/data/tags";
 import { parsePhoto, parsePhotoFileName } from "../src/functions/photo";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
 import { Location } from "../src/types/location";
-import { TagId } from "../src/types/tag";
+import { Tag, TagId } from "../src/types/tag";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -28,7 +28,7 @@ const writeFile = util.promisify(fs.writeFile);
 const s3Client = new S3Client({ region: "eu-west-2" });
 
 interface ImageSize {
-  maxDimension: number;
+  maxDimension?: number;
   suffix: string;
 }
 
@@ -42,14 +42,28 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
     maxDimension: 1200,
     suffix: "-lg",
   },
+  {
+    suffix: "-og",
+  },
 ];
 
 const DRY_RUN = false;
 
+const fileFromPath = (filePath: string): string =>
+  filePath.split("/").slice(-1)[0];
+
 // Create a resized version of the given image
-const resizeImage = (inputPath: string, outputPath: string, maxWidth: number) =>
+const resizeImage = (
+  inputPath: string,
+  outputPath: string,
+  maxWidth?: number
+) =>
   new Promise((resolve, reject) => {
-    const args = [inputPath, "-resize", maxWidth, outputPath];
+    const args = [
+      inputPath,
+      ...(maxWidth ? ["-resize", maxWidth] : []),
+      outputPath,
+    ];
 
     convert(args, (error, result) => {
       if (error) return reject(error);
@@ -130,13 +144,28 @@ const enrichGalleryPhoto = async (
     ? previousData.meta.tags
     : [TagId.parse("Landscape")];
   const selectedTags = await inquirerCheckbox({
-    message: `Tags [${tagDefaults.join(", ")}]`,
-    choices: allTags.map((tag) => ({
-      value: tag.id,
-      checked: tagDefaults.includes(tag.id),
-    })),
+    message: "Tags",
+    choices: allTags
+      .sort((a, b) => {
+        const priority = ["Landscape", "New"];
+        const prefixPriority = (tag: Tag) =>
+          (priority.includes(tag.id) ? priority.indexOf(tag.id) : "") + tag.id;
+        const aString = prefixPriority(a);
+        const bString = prefixPriority(b);
+
+        if (aString < bString) return -1;
+        if (aString > bString) return 1;
+        return 0;
+      })
+      .map((tag) => ({
+        value: tag.id,
+        checked: tagDefaults.includes(tag.id),
+      })),
   });
   updatedData.meta.tags = selectedTags;
+  if (selectedTags.includes(TagId.parse("New"))) {
+    updatedData.settings = { downloadOriginal: true };
+  }
 
   return updatedData;
 };
@@ -147,6 +176,8 @@ const addGalleryPhoto = async (
   fileName: string,
   previousGalleryPhoto?: GalleryPhotoData
 ): Promise<GalleryPhotoData | undefined> => {
+  console.info(`\n\x1b[33m${fileName}\x1b[0m`);
+
   const { slug: photoSlug, title } = parsePhotoFileName(fileName);
 
   // Check if this photo name has already been used
@@ -155,7 +186,7 @@ const addGalleryPhoto = async (
 
   const jsonAlreadyExists = await fileExists(jsonFilePath);
   if (!DRY_RUN && jsonAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
-    console.warn("Photo already exists", photoSlug);
+    console.warn("[Gallery]", "Photo already exists", photoSlug);
     return undefined;
   }
 
@@ -164,48 +195,6 @@ const addGalleryPhoto = async (
   const filePath = path.join(directory, fileName);
   const fileBuffer = await readFile(filePath);
   const exif = await ExifReader.load(fileBuffer);
-
-  const images = GALLERY_IMAGE_SIZES.map(({ maxDimension, suffix }) => ({
-    fileName: `${photoSlug}${suffix}.jpeg`,
-    maxDimension,
-  }));
-
-  for (const image of images) {
-    // Render photo at different size
-
-    if (!DRY_RUN) {
-      const resizedFilePath = path.resolve(directory, image.fileName);
-
-      try {
-        await resizeImage(
-          path.resolve(directory, fileName),
-          resizedFilePath,
-          image.maxDimension
-        );
-      } catch {
-        console.warn("Failed to render a resized image", photoSlug);
-        return undefined;
-      }
-
-      // Write photo to AWS S3 bucket
-
-      const imageBuffer = await readFile(resizedFilePath);
-      const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
-      if (!writeSuccess) {
-        console.warn("Failed to write file to S3 bucket", image.fileName);
-        return undefined;
-      }
-
-      // Delete the rendered image
-
-      try {
-        await unlink(resizedFilePath);
-      } catch {
-        console.warn("Failed to delete resized image", image.fileName);
-        return undefined;
-      }
-    }
-  }
 
   // Write gallery photo data file
 
@@ -223,6 +212,66 @@ const addGalleryPhoto = async (
       console.info(json);
     } else {
       await writeFile(jsonFilePath, json);
+      console.info("[Gallery]", "Wrote", fileFromPath(jsonFilePath));
+    }
+  }
+
+  // Render photo at different sizes
+
+  if (!DRY_RUN) {
+    const images = GALLERY_IMAGE_SIZES.slice(
+      0,
+      galleryPhotoData?.meta.tags.includes(TagId.parse("New")) ? undefined : -1
+    ).map(({ maxDimension, suffix }) => ({
+      fileName: `${photoSlug}${suffix}.jpeg`,
+      maxDimension,
+    }));
+
+    for (const image of images) {
+      const resizedFilePath = path.resolve(directory, image.fileName);
+
+      try {
+        await resizeImage(
+          path.resolve(directory, fileName),
+          resizedFilePath,
+          image.maxDimension
+        );
+      } catch {
+        console.warn(
+          "[Gallery]",
+          "Failed to render a resized image",
+          photoSlug
+        );
+        return undefined;
+      }
+
+      // Write photo to AWS S3 bucket
+
+      const imageBuffer = await readFile(resizedFilePath);
+      const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
+      if (writeSuccess) {
+        console.info("[Gallery]", "Uploaded", fileFromPath(image.fileName));
+      } else {
+        console.warn(
+          "[Gallery]",
+          "Failed to write file to S3 bucket",
+          image.fileName
+        );
+        return undefined;
+      }
+
+      // Delete the rendered image
+
+      try {
+        await unlink(resizedFilePath);
+      } catch {
+        console.warn(
+          "[Gallery]",
+          "Failed to delete resized image",
+          image.fileName
+        );
+        return undefined;
+      }
     }
   }
 
@@ -231,9 +280,13 @@ const addGalleryPhoto = async (
   if (!DRY_RUN) {
     try {
       await unlink(filePath);
-      console.info("Success (gallery)", photoSlug);
+      console.info("[Gallery]", "Deleted", fileFromPath(filePath));
     } catch {
-      console.warn("Failed to delete photo file", photoSlug);
+      console.warn(
+        "[Gallery]",
+        "Failed to delete photo file",
+        fileFromPath(filePath)
+      );
     }
   }
 

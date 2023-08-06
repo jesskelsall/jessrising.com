@@ -23,5 +23,8 @@
         "ISO": 100
       }
     }
+  },
+  "settings": {
+    "downloadOriginal": true
   }
 }
