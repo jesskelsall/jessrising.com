@@ -14,4 +14,11 @@ describe("parsePhotoFileName", () => {
       title: "File Name With Prefix",
     });
   });
+
+  test("returns slug and title from photo with the original file name", () => {
+    expect(parsePhotoFileName("DSC05050.jpeg")).toEqual({
+      slug: "DSC05050",
+      title: "DSC05050",
+    });
+  });
 });

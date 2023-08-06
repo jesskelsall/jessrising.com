@@ -9,6 +9,7 @@ import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
 import { cameras } from "../src/data/cameras";
 import { parsePhoto, parsePhotoFileName } from "../src/functions/photo";
+import { TagId } from "../src/types/tag";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -36,6 +37,7 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
 ];
 
 const DRY_RUN = false;
+const NEW_PHOTOS = true;
 
 // Create a resized version of the given image
 const resizeImage = (inputPath: string, outputPath: string, maxWidth: number) =>
@@ -145,6 +147,7 @@ const addGalleryPhoto = async (
 
   if (DRY_RUN || !jsonAlreadyExists) {
     const galleryPhotoData = parsePhoto({ cameras, title, exif });
+    if (NEW_PHOTOS) galleryPhotoData.meta.tags.push(TagId.parse("New"));
     const json = JSON.stringify(galleryPhotoData, null, 2);
 
     if (DRY_RUN) {

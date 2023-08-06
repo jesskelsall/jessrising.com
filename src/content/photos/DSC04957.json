@@ -1,0 +1,27 @@
+{
+  "title": "DSC04957",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "New"
+    ]
+  },
+  "exif": {
+    "date": "2023-08-04T12:27:59.000+01:00",
+    "dimensions": {
+      "height": 5939,
+      "width": 8908
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 62,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -29,7 +29,10 @@ export const parsePhotoFileName = (
   const [title, suffix] = fileName
     .replace(".jpeg", "")
     .split(PHOTO_SUFFIX_SEPARATOR);
-  const slug = [kebabCase(title), ...(suffix ? [suffix] : [])].join("-");
+  const isOriginalFileName =
+    fileName.startsWith("IMG") || fileName.startsWith("DSC");
+  const titleSlug = isOriginalFileName ? title : kebabCase(title);
+  const slug = [titleSlug, ...(suffix ? [suffix] : [])].join("-");
 
   return { slug: GalleryPhotoSlug.parse(slug), title };
 };

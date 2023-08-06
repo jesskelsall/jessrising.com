@@ -15,11 +15,11 @@ module.exports = {
   staticPageGenerationTimeout: 60,
   async redirects() {
     return [
-      // {
-      //   source: "/",
-      //   destination: "/blog",
-      //   permanent: false,
-      // },
+      {
+        source: "/new",
+        destination: "/gallery?tag=new",
+        permanent: true,
+      },
     ];
   },
 };
