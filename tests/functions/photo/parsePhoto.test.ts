@@ -22,7 +22,6 @@ describe("parsePhoto", () => {
         expect.objectContaining({
           title,
           meta: {
-            gps: { lat: 0, long: 0 },
             location: "",
             tags: [],
           },

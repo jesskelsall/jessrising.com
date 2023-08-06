@@ -1,14 +1,22 @@
 /* eslint-disable security/detect-non-literal-fs-filename,no-restricted-syntax,no-await-in-loop */
 
 import { PutObjectCommand, S3Client } from "@aws-sdk/client-s3";
+import {
+  checkbox as inquirerCheckbox,
+  input as inquirerInput,
+} from "@inquirer/prompts";
 import ExifReader from "exifreader";
 import fs from "fs";
 import { convert } from "imagemagick";
+import { cloneDeep } from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
 import { cameras } from "../src/data/cameras";
+import { allTags } from "../src/data/tags";
 import { parsePhoto, parsePhotoFileName } from "../src/functions/photo";
+import { GalleryPhotoData } from "../src/types/galleryPhoto";
+import { Location } from "../src/types/location";
 import { TagId } from "../src/types/tag";
 
 const readdir = util.promisify(fs.readdir);
@@ -37,7 +45,6 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
 ];
 
 const DRY_RUN = false;
-const NEW_PHOTOS = true;
 
 // Create a resized version of the given image
 const resizeImage = (inputPath: string, outputPath: string, maxWidth: number) =>
@@ -78,11 +85,68 @@ const writeFileToBucket = async (
   }
 };
 
+// Ask CLI questions about the photo and modify the gallery photo data
+const enrichGalleryPhoto = async (
+  data: GalleryPhotoData,
+  previousData?: GalleryPhotoData
+) => {
+  const updatedData: GalleryPhotoData = cloneDeep(data);
+
+  // GPS coordinates
+
+  const coordsFromString = (coords: string): number[] =>
+    coords.split(",").map((part) => parseFloat(part));
+  const coordsString = await inquirerInput({
+    message: "GPS Coordinates",
+    validate: (input: string) => {
+      if (!input) return true;
+      const coords = coordsFromString(input);
+      return (
+        (coords.length === 2 &&
+          coords.every((coord) => !Number.isNaN(coord))) ||
+        "Invalid coordinate string."
+      );
+    },
+  });
+  if (coordsString) {
+    const coords = coordsFromString(coordsString);
+    updatedData.meta.gps = { lat: coords[0], long: coords[1] };
+  }
+
+  // Location
+
+  const locationString = await inquirerInput({
+    message: "Location",
+    default: previousData?.meta.location || undefined,
+    validate: (input: string) => Boolean(input) || "Location is required.",
+  });
+  updatedData.meta.location = Location.parse(locationString);
+
+  // Tags
+
+  const tagDefaults: TagId[] = previousData?.meta.tags.includes(
+    TagId.parse("New")
+  )
+    ? previousData.meta.tags
+    : [TagId.parse("Landscape")];
+  const selectedTags = await inquirerCheckbox({
+    message: `Tags [${tagDefaults.join(", ")}]`,
+    choices: allTags.map((tag) => ({
+      value: tag.id,
+      checked: tagDefaults.includes(tag.id),
+    })),
+  });
+  updatedData.meta.tags = selectedTags;
+
+  return updatedData;
+};
+
 // Add the given photo to the gallery
 const addGalleryPhoto = async (
   directory: string,
-  fileName: string
-): Promise<void> => {
+  fileName: string,
+  previousGalleryPhoto?: GalleryPhotoData
+): Promise<GalleryPhotoData | undefined> => {
   const { slug: photoSlug, title } = parsePhotoFileName(fileName);
 
   // Check if this photo name has already been used
@@ -92,7 +156,7 @@ const addGalleryPhoto = async (
   const jsonAlreadyExists = await fileExists(jsonFilePath);
   if (!DRY_RUN && jsonAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
     console.warn("Photo already exists", photoSlug);
-    return;
+    return undefined;
   }
 
   // Extract EXIF data from file
@@ -120,7 +184,7 @@ const addGalleryPhoto = async (
         );
       } catch {
         console.warn("Failed to render a resized image", photoSlug);
-        return;
+        return undefined;
       }
 
       // Write photo to AWS S3 bucket
@@ -129,7 +193,7 @@ const addGalleryPhoto = async (
       const writeSuccess = await writeFileToBucket(imageBuffer, image.fileName);
       if (!writeSuccess) {
         console.warn("Failed to write file to S3 bucket", image.fileName);
-        return;
+        return undefined;
       }
 
       // Delete the rendered image
@@ -138,16 +202,21 @@ const addGalleryPhoto = async (
         await unlink(resizedFilePath);
       } catch {
         console.warn("Failed to delete resized image", image.fileName);
-        return;
+        return undefined;
       }
     }
   }
 
   // Write gallery photo data file
 
+  let galleryPhotoData: GalleryPhotoData | undefined;
+
   if (DRY_RUN || !jsonAlreadyExists) {
-    const galleryPhotoData = parsePhoto({ cameras, title, exif });
-    if (NEW_PHOTOS) galleryPhotoData.meta.tags.push(TagId.parse("New"));
+    const parsedData = parsePhoto({ cameras, title, exif });
+    galleryPhotoData = await enrichGalleryPhoto(
+      parsedData,
+      previousGalleryPhoto
+    );
     const json = JSON.stringify(galleryPhotoData, null, 2);
 
     if (DRY_RUN) {
@@ -167,6 +236,8 @@ const addGalleryPhoto = async (
       console.warn("Failed to delete photo file", photoSlug);
     }
   }
+
+  return galleryPhotoData;
 };
 
 const addBlogPhoto = async (
@@ -203,23 +274,28 @@ const addAllPhotos = async (): Promise<void> => {
 
   const newPhotosDirectory = path.resolve(__dirname, "newPhotos");
 
-  const addPhotos = async (
-    directory: string,
-    method: (dir: string, pn: string) => Promise<unknown>
-  ) => {
-    // Get all new photos
+  const getFiles = async (directory: string): Promise<[string, string[]]> => {
     const directoryPath = path.join(newPhotosDirectory, directory);
     const directoryFiles = await readdir(directoryPath);
     const photoFiles = directoryFiles.filter((file) => file.endsWith(".jpeg"));
 
-    // Add each photo
-    for (const photoFile of photoFiles) {
-      await method(directoryPath, photoFile);
-    }
+    return [directoryPath, photoFiles];
   };
 
-  await addPhotos("blog", addBlogPhoto);
-  await addPhotos("gallery", addGalleryPhoto);
+  // Blog
+
+  const [blogDir, blogFiles] = await getFiles("blog");
+  for (const blogFile of blogFiles) {
+    await addBlogPhoto(blogDir, blogFile);
+  }
+
+  // Gallery
+
+  const [photoDir, photoFiles] = await getFiles("gallery");
+  let lastData: GalleryPhotoData | undefined;
+  for (const photoFile of photoFiles) {
+    lastData = await addGalleryPhoto(photoDir, photoFile, lastData);
+  }
 };
 
 addAllPhotos();

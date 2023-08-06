@@ -80,7 +80,6 @@ export const parsePhoto = ({
   const data: GalleryPhotoData = {
     title,
     meta: {
-      gps: { lat: 0, long: 0 },
       location: Location.parse(""),
       tags: [],
     },
