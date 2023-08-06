@@ -2,8 +2,13 @@ import { kebabCase } from "lodash/fp";
 import { PHOTO_SUFFIX_SEPARATOR } from "../consts/photo";
 import { Camera, Device } from "../data/cameras";
 import { EXIFLoaded } from "../types/EXIF";
-import { GalleryPhotoData, GalleryPhotoSlug } from "../types/galleryPhoto";
+import {
+  GalleryPhoto,
+  GalleryPhotoData,
+  GalleryPhotoSlug,
+} from "../types/galleryPhoto";
 import { Location } from "../types/location";
+import { Tag, TagId } from "../types/tag";
 import { dateFromEXIFString } from "./date";
 
 // Gets a device that matches the given make and model
@@ -26,7 +31,7 @@ export const parsePhotoFileName = (
     .split(PHOTO_SUFFIX_SEPARATOR);
   const slug = [kebabCase(title), ...(suffix ? [suffix] : [])].join("-");
 
-  return { slug: slug as GalleryPhotoSlug, title };
+  return { slug: GalleryPhotoSlug.parse(slug), title };
 };
 
 const firstValue = (
@@ -73,7 +78,7 @@ export const parsePhoto = ({
     title,
     meta: {
       gps: { lat: 0, long: 0 },
-      location: "" as Location,
+      location: Location.parse(""),
       tags: [],
     },
     exif: {},
@@ -145,4 +150,33 @@ export const parsePhoto = ({
   }
 
   return data;
+};
+
+/**
+ * Determine if a photo should be shown based on its show/hide settings
+ * Shown by default
+ * hidePhotos: true can hide photos, but can be overriden by showPhoto: true setting
+ */
+export const isPhotoShown = (
+  tags: Tag[],
+  appliedTagIds: TagId[],
+  photo: GalleryPhoto
+): boolean => {
+  if (photo.settings?.showPhoto) return true;
+
+  const hideTagIdsOnPhoto = photo.meta.tags.reduce<TagId[]>((acc, next) => {
+    const tagData = tags.find((tag) => tag.id === next);
+    return tagData?.hidePhotos
+      ? [...acc, TagId.parse(kebabCase(tagData.id))]
+      : acc;
+  }, []);
+
+  if (hideTagIdsOnPhoto.length === 0) return true;
+
+  // Show if all of the hidden tags have been applied, hide otherwise
+  const hideTagsAreApplied = hideTagIdsOnPhoto.every((tagId) =>
+    appliedTagIds.includes(tagId)
+  );
+
+  return hideTagsAreApplied;
 };

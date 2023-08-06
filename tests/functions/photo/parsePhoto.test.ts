@@ -1,11 +1,11 @@
 import { Camera, cameras as allCameras } from "../../../src/data/cameras";
 import { parsePhoto } from "../../../src/functions/photo";
 import { EXIFLoaded } from "../../../src/types/EXIF";
-import { a550Wide } from "./__fixtures__/a550Wide";
-import { a550Zoom } from "./__fixtures__/a550Zoom";
-import { a7rvZoom } from "./__fixtures__/a7rvZoom";
-import { generic, genericCameras } from "./__fixtures__/generic";
-import { iPhone14Main } from "./__fixtures__/iPhone14Main";
+import { a550Wide } from "./__fixtures__/EXIF/a550Wide";
+import { a550Zoom } from "./__fixtures__/EXIF/a550Zoom";
+import { a7rvZoom } from "./__fixtures__/EXIF/a7rvZoom";
+import { generic, genericCameras } from "./__fixtures__/EXIF/generic";
+import { iPhone14Main } from "./__fixtures__/EXIF/iPhone14Main";
 
 const title = "Title";
 

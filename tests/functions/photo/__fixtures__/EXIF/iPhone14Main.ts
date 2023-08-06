@@ -1,4 +1,4 @@
-import { EXIFLoaded } from "../../../../src/types/EXIF";
+import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
 export const iPhone14Main = {
   "Bits Per Sample": { value: 8, description: "8" },

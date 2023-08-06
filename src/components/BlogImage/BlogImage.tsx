@@ -21,7 +21,7 @@ export const BlogImage = ({
   src,
 }: IBlogImageProps) => {
   const galleryPhotoSlugs = useGalleryPhotoSlugs();
-  const photoSlug = parsePhotoSlugFromSrc(src) as GalleryPhotoSlug;
+  const photoSlug = GalleryPhotoSlug.parse(parsePhotoSlugFromSrc(src));
 
   const isGalleryPhoto = forceGallery || galleryPhotoSlugs.includes(photoSlug);
   const imageSrcSuffix = isGalleryPhoto ? PHOTO_SIZE_SUFFIX.LARGE : "";

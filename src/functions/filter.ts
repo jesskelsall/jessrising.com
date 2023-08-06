@@ -1,5 +1,3 @@
-import { kebabCase } from "lodash/fp";
-
 // Formats a URL query parameter as a guaranteed array
 export const formatFilterQuery = (
   queryParam: string | string[] | undefined
@@ -8,9 +6,9 @@ export const formatFilterQuery = (
   return typeof queryParam === "string" ? [queryParam] : queryParam;
 };
 
-export type TModelFilter<Model> = [
-  string[], // Active filter values
-  (model: Model) => string[] // Function to retrieve values to filter by from the object
+export type TModelFilter<Model, Value = string | number | boolean> = [
+  Value[], // Active filter values
+  (model: Model) => Value[] // Function to retrieve values to filter by from the object
 ];
 
 /**
@@ -29,7 +27,7 @@ export const applyFilterQueries = <Model>(
       // If the filter has no required values, all objects are valid
       if (!requiredValues.length) return true;
 
-      const objectValues = valueAccessor(object).map(kebabCase);
+      const objectValues = valueAccessor(object);
 
       // All required values must be present on the object
       return requiredValues.every((requiredValue) =>

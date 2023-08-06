@@ -21,7 +21,8 @@ export const BlogPreview = ({ blogPost }: IBlogPreviewProps) => {
 
   if (imageSlug) {
     const isGalleryPhoto =
-      imageSlug && galleryPhotoSlugs.includes(imageSlug as GalleryPhotoSlug);
+      imageSlug &&
+      galleryPhotoSlugs.includes(GalleryPhotoSlug.parse(imageSlug));
 
     image = (
       <Image

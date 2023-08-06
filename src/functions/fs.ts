@@ -81,15 +81,15 @@ export const getAllGalleryPhotos = async (): Promise<GalleryPhoto[]> => {
     const galleryPhotoData = GalleryPhotoData.parse(
       JSON.parse(jsonBuffer.toString())
     ) as GalleryPhoto;
-    galleryPhotoData.slug = slug as GalleryPhotoSlug;
+    galleryPhotoData.slug = GalleryPhotoSlug.parse(slug);
 
     if (hasMarkdown) {
       const markdownBuffer = await readFile(
         path.join(photosDirectory, `${slug}.md`)
       );
-      galleryPhotoData.markdown = markdownBuffer
-        .toString()
-        .trim() as MarkdownString;
+      galleryPhotoData.markdown = MarkdownString.parse(
+        markdownBuffer.toString().trim()
+      );
     }
 
     return galleryPhotoData;

@@ -1,7 +1,7 @@
 import { z } from "zod";
 import { Location } from "./location";
 import { MarkdownString } from "./markdown";
-import { Tag } from "./tag";
+import { TagId } from "./tag";
 
 export const GalleryPhotoSlug = z.string().brand<"GalleryPhoto">();
 export type GalleryPhotoSlug = z.infer<typeof GalleryPhotoSlug>;
@@ -16,7 +16,7 @@ export const GalleryPhotoData = z.object({
       })
       .optional(),
     location: Location,
-    tags: z.array(Tag),
+    tags: z.array(TagId),
   }),
   exif: z.object({
     camera: z
@@ -42,6 +42,11 @@ export const GalleryPhotoData = z.object({
       })
       .optional(),
   }),
+  settings: z
+    .object({
+      showPhoto: z.boolean().optional(),
+    })
+    .optional(),
 });
 export type GalleryPhotoData = z.infer<typeof GalleryPhotoData>;
 

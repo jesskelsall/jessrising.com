@@ -1,5 +1,5 @@
-import { Camera } from "../../../../src/data/cameras";
-import { EXIFLoaded } from "../../../../src/types/EXIF";
+import { Camera } from "../../../../../src/data/cameras";
+import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
 export const generic = {
   DateTime: {

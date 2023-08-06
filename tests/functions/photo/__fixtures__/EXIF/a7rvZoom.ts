@@ -1,4 +1,4 @@
-import { EXIFLoaded } from "../../../../src/types/EXIF";
+import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
 export const a7rvZoom = {
   "Bits Per Sample": { value: 8, description: "8" },

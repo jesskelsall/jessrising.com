@@ -11,10 +11,10 @@ export const MARKDOWN_DATA_EMPTY: IMarkdownData = {
 
 export const GALLERY_PHOTO_EMPTY: GalleryPhoto = {
   title: "",
-  slug: "" as GalleryPhotoSlug,
+  slug: GalleryPhotoSlug.parse(""),
   meta: {
     gps: { lat: 0, long: 0 },
-    location: "" as Location,
+    location: Location.parse(""),
     tags: [],
   },
   exif: {},

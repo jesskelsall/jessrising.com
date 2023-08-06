@@ -36,7 +36,7 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
     if (!slug) return { notFound: true };
 
     // Prepare page-specific props
-    const galleryPhoto = allGalleryPhotosDict[slug as GalleryPhotoSlug];
+    const galleryPhoto = allGalleryPhotosDict[GalleryPhotoSlug.parse(slug)];
 
     if (!galleryPhoto) return { notFound: true };
 

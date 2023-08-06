@@ -1,4 +1,4 @@
-import _ from "lodash/fp";
+import _, { kebabCase } from "lodash/fp";
 import { DateTime } from "luxon";
 import { GetServerSideProps, NextPage } from "next";
 import { GalleryGrid } from "../../components/GalleryGrid/GalleryGrid";
@@ -19,6 +19,9 @@ import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
 import { IGalleryQuery, TOrder } from "../../types/gallery";
 import { GalleryPhoto } from "../../types/galleryPhoto";
+import { isPhotoShown } from "../../functions/photo";
+import { allTags } from "../../data/tags";
+import { TagId } from "../../types/tag";
 
 interface IPagination {
   page: number;
@@ -48,7 +51,7 @@ export const getServerSideProps: GetServerSideProps<
 
   let page = queryParamToIntegers(query.page)[0] || 1;
   const locations = queryParamToStrings(query.location);
-  const tags = queryParamToStrings(query.tag);
+  const tags = queryParamToStrings(query.tag).map((tag) => TagId.parse(tag));
   const order: TOrder =
     queryParamToStrings<TOrder>(query.order)[0] === "oldest"
       ? "oldest"
@@ -71,30 +74,32 @@ export const getServerSideProps: GetServerSideProps<
   if (locations.length) {
     filters.push([
       locations,
-      (photo) => getLocationHierarchy(photo.meta.location),
+      (photo) => getLocationHierarchy(photo.meta.location).map(kebabCase),
     ]);
   }
   if (tags.length) {
-    filters.push([tags, (photo) => photo.meta.tags]);
+    filters.push([tags, (photo) => photo.meta.tags.map(kebabCase)]);
   }
   if (month) {
     filters.push([
-      [month.toString()],
+      [month],
       (photo) => {
         const date = dateFromGalleryPhoto(photo);
-        return date ? [date.month.toString()] : [];
+        return date ? [date.month] : [];
       },
     ]);
   }
   if (year) {
     filters.push([
-      [year.toString()],
+      [year],
       (photo) => {
         const date = dateFromGalleryPhoto(photo);
-        return date ? [date.year.toString()] : [];
+        return date ? [date.year] : [];
       },
     ]);
   }
+
+  filters.push([[true], (photo) => [isPhotoShown(allTags, tags || [], photo)]]);
 
   const filteredPhotos = applyFilterQueries<GalleryPhoto>(
     sortedPhotos,
