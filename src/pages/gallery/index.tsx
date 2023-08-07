@@ -8,19 +8,19 @@ import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import { allGalleryPhotosList } from "../../data/galleryPhotos";
-import { dateFromGalleryPhoto } from "../../functions/date";
+import { allTags } from "../../data/tags";
+import { dateFromString } from "../../functions/date";
 import { TModelFilter, applyFilterQueries } from "../../functions/filter";
 import { getLocationHierarchy } from "../../functions/location";
 import {
   queryParamToIntegers,
   queryParamToStrings,
 } from "../../functions/params";
+import { isPhotoShown } from "../../functions/photo";
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
 import { IGalleryQuery, TOrder } from "../../types/gallery";
 import { GalleryPhoto } from "../../types/galleryPhoto";
-import { isPhotoShown } from "../../functions/photo";
-import { allTags } from "../../data/tags";
 import { TagId } from "../../types/tag";
 
 interface IPagination {
@@ -84,7 +84,7 @@ export const getServerSideProps: GetServerSideProps<
     filters.push([
       [month],
       (photo) => {
-        const date = dateFromGalleryPhoto(photo);
+        const date = dateFromString(photo.exif.date);
         return date ? [date.month] : [];
       },
     ]);
@@ -93,7 +93,7 @@ export const getServerSideProps: GetServerSideProps<
     filters.push([
       [year],
       (photo) => {
-        const date = dateFromGalleryPhoto(photo);
+        const date = dateFromString(photo.exif.date);
         return date ? [date.year] : [];
       },
     ]);

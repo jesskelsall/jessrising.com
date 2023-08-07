@@ -5,9 +5,14 @@ import { keyBy } from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_DATA } from "../src/consts/app";
-import { getAllBlogPosts, getAllGalleryPhotos } from "../src/functions/fs";
-import { GalleryPhoto } from "../src/types/galleryPhoto";
+import { getAllBlogPosts, getAllContent } from "../src/functions/fs";
+import {
+  GalleryPhoto,
+  GalleryPhotoData,
+  GalleryPhotoSlug,
+} from "../src/types/galleryPhoto";
 import { IMarkdownData } from "../src/types/markdownOld";
+import { Trip, TripData, TripSlug } from "../src/types/trip";
 
 const writeFile = util.promisify(fs.writeFile);
 
@@ -30,14 +35,25 @@ const preBuildBlogPosts = async (): Promise<void> => {
 
 // Read and collate all photo JSON/markdown file pairs
 const preBuildGalleryPhotos = async (): Promise<void> => {
-  const galleryPhotos = await getAllGalleryPhotos();
+  const galleryPhotos = await getAllContent<GalleryPhoto>(
+    "photos",
+    GalleryPhotoData,
+    GalleryPhotoSlug
+  );
 
   writeData<GalleryPhoto[]>(galleryPhotos, "galleryPhotos.json");
+};
+
+const preBuildTrips = async (): Promise<void> => {
+  const trips = await getAllContent<Trip>("trips", TripData, TripSlug);
+
+  writeData<Trip[]>(trips, "trips.json");
 };
 
 const prebuild = async (): Promise<void> => {
   await preBuildBlogPosts();
   await preBuildGalleryPhotos();
+  await preBuildTrips();
 };
 
 prebuild();

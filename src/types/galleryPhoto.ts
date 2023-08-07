@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { ISODateString } from "./date";
 import { Location } from "./location";
 import { MarkdownString } from "./markdown";
 import { TagId } from "./tag";
@@ -34,7 +35,7 @@ export const GalleryPhotoData = z.object({
           .optional(),
       })
       .optional(),
-    date: z.string().datetime({ offset: true }).optional(),
+    date: ISODateString.optional(),
     dimensions: z
       .object({
         height: z.number(),

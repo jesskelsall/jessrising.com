@@ -3,8 +3,9 @@
 import fs from "fs";
 import path from "path";
 import util from "util";
+import { z } from "zod";
 import { DIR_CONTENT } from "../consts/app";
-import { ContentType } from "../types/content";
+import { Content as ContentSchema, ContentType } from "../types/content";
 import {
   GalleryPhoto,
   GalleryPhotoData,
@@ -97,5 +98,44 @@ export const getAllGalleryPhotos = async (): Promise<GalleryPhoto[]> => {
 
   return Promise.all<GalleryPhoto>(
     slugs.map(([slug, hasMarkdown]) => getGalleryPhotoData(slug, hasMarkdown))
+  );
+};
+
+export const getAllContent = async <Content extends ContentSchema>(
+  contentType: ContentType,
+  dataSchema: z.AnyZodObject,
+  slugSchema: z.ZodBranded<z.ZodTypeAny, string>
+): Promise<Content[]> => {
+  const fileNames = await getContentFileNames(contentType);
+  const slugGroups = groupFileNamesBySlug(fileNames);
+  const slugs: [string, boolean][] = Object.entries(slugGroups)
+    .filter(([_slug, fileTypes]) => fileTypes.includes("json"))
+    .map(([slug, fileTypes]) => [slug, fileTypes.includes("md")]);
+
+  const getContent = async (slug: string, hasMarkdown: boolean) => {
+    const contentDirectory = getContentDirectory(contentType);
+    const jsonBuffer = await readFile(
+      path.join(contentDirectory, `${slug}.json`)
+    );
+
+    const contentData = dataSchema.parse(
+      JSON.parse(jsonBuffer.toString())
+    ) as Content;
+    contentData.slug = slugSchema.parse(slug);
+
+    if (hasMarkdown) {
+      const markdownBuffer = await readFile(
+        path.join(contentDirectory, `${slug}.md`)
+      );
+      contentData.markdown = MarkdownString.parse(
+        markdownBuffer.toString().trim()
+      );
+    }
+
+    return contentData;
+  };
+
+  return Promise.all<Content>(
+    slugs.map(([slug, hasMarkdown]) => getContent(slug, hasMarkdown))
   );
 };
