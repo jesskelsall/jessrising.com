@@ -3,7 +3,7 @@ import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { parsePhotoSlugFromSrc } from "../../functions/markdown";
-import { GalleryPhotoSlug } from "../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../types/brand";
 
 interface IBlogImageProps {
   alt: string;

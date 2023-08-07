@@ -1,9 +1,6 @@
 import { z } from "zod";
+import { GalleryPhotoSlug, TripSlug } from "./brand";
 import { ISODateString } from "./date";
-import { GalleryPhotoSlug } from "./galleryPhoto";
-
-export const TripSlug = z.string().brand<"Trip">();
-export type TripSlug = z.infer<typeof TripSlug>;
 
 export const TripData = z.object({
   title: z.string(),

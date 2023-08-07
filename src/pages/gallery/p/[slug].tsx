@@ -12,7 +12,8 @@ import {
   allGalleryPhotosDict,
 } from "../../../data/galleryPhotos";
 import { getLocationHierarchy } from "../../../functions/location";
-import { GalleryPhoto, GalleryPhotoSlug } from "../../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../../types/brand";
+import { GalleryPhoto } from "../../../types/galleryPhoto";
 
 interface IParams extends ParsedUrlQuery {
   slug: string;

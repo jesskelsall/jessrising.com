@@ -2,11 +2,8 @@ import { kebabCase } from "lodash/fp";
 import { PHOTO_SUFFIX_SEPARATOR } from "../consts/photo";
 import { Camera, Device } from "../data/cameras";
 import { EXIFLoaded } from "../types/EXIF";
-import {
-  GalleryPhoto,
-  GalleryPhotoData,
-  GalleryPhotoSlug,
-} from "../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../types/brand";
+import { GalleryPhoto, GalleryPhotoData } from "../types/galleryPhoto";
 import { Location } from "../types/location";
 import { Tag, TagId } from "../types/tag";
 import { dateFromEXIFString } from "./date";

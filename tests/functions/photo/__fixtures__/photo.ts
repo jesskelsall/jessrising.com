@@ -1,7 +1,5 @@
-import {
-  GalleryPhoto,
-  GalleryPhotoSlug,
-} from "../../../../src/types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../../../src/types/brand";
+import { GalleryPhoto } from "../../../../src/types/galleryPhoto";
 import { Location } from "../../../../src/types/location";
 
 export const genericPhoto: GalleryPhoto = {

@@ -3,7 +3,8 @@ import { allGalleryPhotosList } from "../../src/data/galleryPhotos";
 import { locationHierarchy } from "../../src/data/locations";
 import { allTags } from "../../src/data/tags";
 import { getLocationHierarchy } from "../../src/functions/location";
-import { GalleryPhoto, GalleryPhotoSlug } from "../../src/types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../src/types/brand";
+import { GalleryPhoto } from "../../src/types/galleryPhoto";
 
 const topLevelLocations = Object.keys(locationHierarchy);
 

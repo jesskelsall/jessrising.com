@@ -1,4 +1,5 @@
-import { Trip, TripSlug } from "../types/trip";
+import { TripSlug } from "../types/brand";
+import { Trip } from "../types/trip";
 import tripsJSON from "./trips.json";
 
 export const allTripsList: Trip[] = tripsJSON.map((trip) => Trip.parse(trip));

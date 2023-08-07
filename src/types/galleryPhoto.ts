@@ -1,11 +1,9 @@
 import { z } from "zod";
+import { GalleryPhotoSlug, TripSlug } from "./brand";
 import { ISODateString } from "./date";
 import { Location } from "./location";
 import { MarkdownString } from "./markdown";
 import { TagId } from "./tag";
-
-export const GalleryPhotoSlug = z.string().brand<"GalleryPhoto">();
-export type GalleryPhotoSlug = z.infer<typeof GalleryPhotoSlug>;
 
 export const GalleryPhotoData = z.object({
   title: z.string(),
@@ -18,7 +16,7 @@ export const GalleryPhotoData = z.object({
       .optional(),
     location: Location,
     tags: z.array(TagId),
-    trip: z.string().nullable(),
+    trip: TripSlug.nullable(),
   }),
   exif: z.object({
     camera: z

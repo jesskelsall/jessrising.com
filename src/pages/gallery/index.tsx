@@ -9,6 +9,7 @@ import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import { allGalleryPhotosList } from "../../data/galleryPhotos";
 import { allTags } from "../../data/tags";
+import { allTripsDict } from "../../data/trips";
 import { dateFromString } from "../../functions/date";
 import { TModelFilter, applyFilterQueries } from "../../functions/filter";
 import { getLocationHierarchy } from "../../functions/location";
@@ -19,6 +20,7 @@ import {
 import { isPhotoShown } from "../../functions/photo";
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
+import { TripSlug } from "../../types/brand";
 import { IGalleryQuery, TOrder } from "../../types/gallery";
 import { GalleryPhoto } from "../../types/galleryPhoto";
 import { TagId } from "../../types/tag";
@@ -37,7 +39,8 @@ interface IProps {
   order: TOrder;
   pagination: IPagination;
   query: IGalleryQuery;
-  tags: string[];
+  tags: TagId[];
+  trips: TripSlug[];
   year: number | null;
 }
 
@@ -52,6 +55,9 @@ export const getServerSideProps: GetServerSideProps<
   let page = queryParamToIntegers(query.page)[0] || 1;
   const locations = queryParamToStrings(query.location);
   const tags = queryParamToStrings(query.tag).map((tag) => TagId.parse(tag));
+  const trips = queryParamToStrings(query.trip).map((trip) =>
+    TripSlug.parse(trip)
+  );
   const order: TOrder =
     queryParamToStrings<TOrder>(query.order)[0] === "oldest"
       ? "oldest"
@@ -79,6 +85,12 @@ export const getServerSideProps: GetServerSideProps<
   }
   if (tags.length) {
     filters.push([tags, (photo) => photo.meta.tags.map(kebabCase)]);
+  }
+  if (trips.length) {
+    filters.push([
+      trips,
+      (photo) => (photo.meta.trip ? [photo.meta.trip] : []),
+    ]);
   }
   if (month) {
     filters.push([
@@ -127,6 +139,7 @@ export const getServerSideProps: GetServerSideProps<
       },
       query,
       tags,
+      trips,
       year,
     },
   };
@@ -140,6 +153,7 @@ const GalleryPage: NextPage<IProps> = ({
   pagination,
   query,
   tags,
+  trips,
   year,
 }) => {
   const { page, pages, total } = pagination;
@@ -159,6 +173,7 @@ const GalleryPage: NextPage<IProps> = ({
   const displayMonth = month
     ? DateTime.fromObject({ month }).toFormat("LLLL")
     : "";
+  const displayTrips = trips.map((trip) => allTripsDict[trip]?.title || trip);
 
   return (
     <>
@@ -168,6 +183,7 @@ const GalleryPage: NextPage<IProps> = ({
             <h1>Gallery</h1>
             {showFilter(locations, "Location", "Locations")}
             {showFilter(tags, "Tag", "Tags")}
+            {showFilter(displayTrips, "Trip", "Trips")}
             {(month || year) && (
               <h2>
                 Date: {displayMonth} {year}

@@ -17,7 +17,7 @@ import {
   getOtherMarkdownData,
 } from "../../../functions/data";
 import { asPageTitle } from "../../../functions/title";
-import { GalleryPhotoSlug } from "../../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../../types/brand";
 import { IMarkdownData, TMarkdownDataFile } from "../../../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;

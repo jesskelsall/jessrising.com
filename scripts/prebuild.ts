@@ -6,13 +6,10 @@ import path from "path";
 import util from "util";
 import { DIR_DATA } from "../src/consts/app";
 import { getAllBlogPosts, getAllContent } from "../src/functions/fs";
-import {
-  GalleryPhoto,
-  GalleryPhotoData,
-  GalleryPhotoSlug,
-} from "../src/types/galleryPhoto";
+import { GalleryPhotoSlug, TripSlug } from "../src/types/brand";
+import { GalleryPhoto, GalleryPhotoData } from "../src/types/galleryPhoto";
 import { IMarkdownData } from "../src/types/markdownOld";
-import { Trip, TripData, TripSlug } from "../src/types/trip";
+import { Trip, TripData } from "../src/types/trip";
 
 const writeFile = util.promisify(fs.writeFile);
 

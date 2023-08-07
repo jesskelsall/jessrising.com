@@ -5,12 +5,9 @@ import path from "path";
 import util from "util";
 import { z } from "zod";
 import { DIR_CONTENT } from "../consts/app";
+import { GalleryPhotoSlug } from "../types/brand";
 import { Content as ContentSchema, ContentType } from "../types/content";
-import {
-  GalleryPhoto,
-  GalleryPhotoData,
-  GalleryPhotoSlug,
-} from "../types/galleryPhoto";
+import { GalleryPhoto, GalleryPhotoData } from "../types/galleryPhoto";
 import { MarkdownString } from "../types/markdown";
 import { IMarkdownData } from "../types/markdownOld";
 import { getSlugsFromMarkdownFileNames } from "./file";

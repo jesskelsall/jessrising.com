@@ -12,7 +12,8 @@ import {
 } from "../data/galleryPhotos";
 import { dateFromSlug } from "../functions/date";
 import { sortBlogPostsByDate } from "../functions/sort";
-import { GalleryPhoto, GalleryPhotoSlug } from "../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../types/brand";
+import { GalleryPhoto } from "../types/galleryPhoto";
 import { IMarkdownData, TMarkdownDataFile } from "../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;

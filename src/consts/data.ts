@@ -1,4 +1,5 @@
-import { GalleryPhoto, GalleryPhotoSlug } from "../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../types/brand";
+import { GalleryPhoto } from "../types/galleryPhoto";
 import { Location } from "../types/location";
 import { IMarkdownData } from "../types/markdownOld";
 

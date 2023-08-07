@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-import { GalleryPhotoSlug } from "../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../types/brand";
 
 export const GalleryPhotoSlugsContext = createContext<GalleryPhotoSlug[]>([]);
 

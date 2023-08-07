@@ -1,6 +1,7 @@
 import { allGalleryPhotoSlugs } from "../../src/data/galleryPhotos";
 import { allTripsList } from "../../src/data/trips";
-import { Trip, TripSlug } from "../../src/types/trip";
+import { TripSlug } from "../../src/types/brand";
+import { Trip } from "../../src/types/trip";
 
 describe("Trips", () => {
   const tripTests = allTripsList.map<[TripSlug, Trip]>((trip) => [

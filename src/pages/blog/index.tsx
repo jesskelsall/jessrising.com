@@ -8,7 +8,7 @@ import blogPostsJSON from "../../data/blogPosts.json";
 import { allGalleryPhotoSlugs } from "../../data/galleryPhotos";
 import { dateFromSlug } from "../../functions/date";
 import { sortBlogPostsByDate } from "../../functions/sort";
-import { GalleryPhotoSlug } from "../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../types/brand";
 import { IMarkdownData, TMarkdownDataFile } from "../../types/markdownOld";
 
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;

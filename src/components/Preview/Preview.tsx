@@ -5,7 +5,7 @@ import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
 import { formatLongDate } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
-import { GalleryPhotoSlug } from "../../types/galleryPhoto";
+import { GalleryPhotoSlug } from "../../types/brand";
 import { IMarkdownData } from "../../types/markdownOld";
 import { Trip } from "../../types/trip";
 
