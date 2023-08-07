@@ -16,6 +16,7 @@ export const GALLERY_PHOTO_EMPTY: GalleryPhoto = {
     gps: { lat: 0, long: 0 },
     location: Location.parse(""),
     tags: [],
+    trip: null,
   },
   exif: {},
 };

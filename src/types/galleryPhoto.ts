@@ -18,6 +18,7 @@ export const GalleryPhotoData = z.object({
       .optional(),
     location: Location,
     tags: z.array(TagId),
+    trip: z.string().nullable(),
   }),
   exif: z.object({
     camera: z

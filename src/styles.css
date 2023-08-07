@@ -115,6 +115,10 @@ header .website img {
   gap: 1rem;
 }
 
+.blog-list li > div {
+  flex: 1;
+}
+
 .blog-list li h2 {
   margin: 0;
 }
@@ -126,6 +130,7 @@ header .website img {
 
 .blog-list li .date {
   margin: 1em 0;
+  font-style: italic;
 }
 
 .blog-list li .summary {

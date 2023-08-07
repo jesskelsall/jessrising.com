@@ -10,6 +10,7 @@ export const genericPhoto: GalleryPhoto = {
   meta: {
     location: Location.parse(""),
     tags: [],
+    trip: null,
   },
   exif: {},
   settings: {},

@@ -7,6 +7,7 @@ import { formatLongDate } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { GalleryPhotoSlug } from "../../types/galleryPhoto";
 import { IMarkdownData } from "../../types/markdownOld";
+import { Trip } from "../../types/trip";
 
 export const Preview = ({
   date,
@@ -30,7 +31,7 @@ export const Preview = ({
       </h2>
       {date && (
         <p className="date">
-          <em>{formatLongDate(DateTime.fromISO(date))}</em>
+          {formatLongDate(DateTime.fromISO(date))}
           {dateEnd && (
             <>
               {" to "}
@@ -70,6 +71,23 @@ export const BlogPreview = ({ blogPost }: { blogPost: IMarkdownData }) => {
       href={`/blog/p/${slug}`}
       imageSlug={imageSlug}
       title={summary.heading || "Blog Post"}
+    />
+  );
+};
+
+export const TripPreview = ({ trip }: { trip: Trip }) => {
+  const { dates, description, slug, thumbnail, title } = trip;
+
+  const imageSlug = getImageSrcFromSlug(thumbnail, PHOTO_SIZE_SUFFIX.SMALL);
+
+  return (
+    <Preview
+      date={dates.from}
+      dateEnd={dates.to}
+      description={description || undefined}
+      href={`/gallery?trip=${slug}`}
+      imageSlug={imageSlug}
+      title={title}
     />
   );
 };

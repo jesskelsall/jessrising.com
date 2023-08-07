@@ -24,6 +24,7 @@ describe("parsePhoto", () => {
           meta: {
             location: "",
             tags: [],
+            trip: null,
           },
         })
       );

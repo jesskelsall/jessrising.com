@@ -82,6 +82,7 @@ export const parsePhoto = ({
     meta: {
       location: Location.parse(""),
       tags: [],
+      trip: null,
     },
     exif: {},
   };

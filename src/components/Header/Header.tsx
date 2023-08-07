@@ -14,12 +14,16 @@ interface HeaderLink {
 
 const HEADER_LINKS: HeaderLink[] = [
   {
-    title: "Blog",
-    url: "/blog",
-  },
-  {
     title: "Gallery",
     url: "/gallery",
+  },
+  {
+    title: "Trips",
+    url: "/trips",
+  },
+  {
+    title: "Blog",
+    url: "/blog",
   },
 ];
 

@@ -10,7 +10,8 @@
     "gps": {
       "lat": 57.16565,
       "long": -3.70075
-    }
+    },
+    "trip": null
   },
   "exif": {
     "camera": {
