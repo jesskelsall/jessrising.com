@@ -8,7 +8,7 @@ import {
 import ExifReader from "exifreader";
 import fs from "fs";
 import { convert } from "imagemagick";
-import { cloneDeep } from "lodash/fp";
+import { cloneDeep, orderBy } from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
@@ -32,7 +32,10 @@ interface ImageSize {
   suffix: string;
 }
 
-const GALLERY_PHOTO_OVERWRITE = true; // Allows reupload to S3 without touching MD file
+/* CONFIG */
+
+const DRY_RUN = false;
+const GALLERY_PHOTO_OVERWRITE = false; // Allows reupload to S3 without touching MD file
 const GALLERY_IMAGE_SIZES: ImageSize[] = [
   {
     maxDimension: 500,
@@ -47,7 +50,12 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
   },
 ];
 
-const DRY_RUN = false;
+/* HELPERS */
+
+const stop = (...warn: string[]) => {
+  console.warn(...warn);
+  process.exit(1);
+};
 
 const fileFromPath = (filePath: string): string =>
   filePath.split("/").slice(-1)[0];
@@ -99,6 +107,58 @@ const writeFileToBucket = async (
   }
 };
 
+const getFiles = async (directory: string): Promise<[string, string[]]> => {
+  const newPhotosDirectory = path.resolve(__dirname, "newPhotos");
+  const directoryPath = path.join(newPhotosDirectory, directory);
+  const directoryFiles = await readdir(directoryPath);
+  const photoFiles = directoryFiles.filter((file) => file.endsWith(".jpeg"));
+
+  return [directoryPath, photoFiles];
+};
+
+/* GALLERY */
+
+// Get all new gallery photos, ordered by date taken
+const getGalleryPhotos = async (
+  photoDir: string,
+  photoFiles: string[]
+): Promise<[string, GalleryPhotoData][]> => {
+  const getGalleryPhotoTuple = async (
+    photoFile: string
+  ): Promise<[string, GalleryPhotoData]> => {
+    const { slug: photoSlug, title } = parsePhotoFileName(photoFile);
+
+    // Check if this photo name has already been used
+
+    const jsonFilePath = path.resolve(
+      DIR_CONTENT,
+      "photos",
+      `${photoSlug}.json`
+    );
+    const jsonAlreadyExists = await fileExists(jsonFilePath);
+
+    if (!DRY_RUN && jsonAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
+      return stop("[Gallery]", "Photo already exists", photoSlug);
+    }
+
+    // Extract EXIF data from file
+
+    const filePath = path.join(photoDir, photoFile);
+    const fileBuffer = await readFile(filePath);
+    const exif = await ExifReader.load(fileBuffer);
+
+    // Create gallery photo data
+
+    return [photoFile, parsePhoto({ cameras, title, exif })];
+  };
+
+  const galleryPhotoTuples = await Promise.all(
+    photoFiles.map(getGalleryPhotoTuple)
+  );
+
+  return orderBy(["1.exif.date"], ["asc"], galleryPhotoTuples);
+};
+
 // Ask CLI questions about the photo and modify the gallery photo data
 const enrichGalleryPhoto = async (
   data: GalleryPhotoData,
@@ -138,13 +198,11 @@ const enrichGalleryPhoto = async (
 
   // Tags
 
-  const tagDefaults: TagId[] = previousData?.meta.tags.includes(
-    TagId.parse("New")
-  )
+  const tagDefaults: TagId[] = previousData
     ? previousData.meta.tags
     : [TagId.parse("Landscape")];
   const selectedTags = await inquirerCheckbox({
-    message: "Tags",
+    message: `Tags [${tagDefaults.join(", ")}]`,
     choices: allTags
       .sort((a, b) => {
         const priority = ["Landscape", "New"];
@@ -170,47 +228,38 @@ const enrichGalleryPhoto = async (
   return updatedData;
 };
 
-// Add the given photo to the gallery
-const addGalleryPhoto = async (
-  directory: string,
-  fileName: string,
-  previousGalleryPhoto?: GalleryPhotoData
+// Write the gallery photo's data, upload files to S3, delete original
+const writeGalleryPhoto = async (
+  photoDir: string,
+  photoFile: string,
+  photoData: GalleryPhotoData,
+  lastData?: GalleryPhotoData
 ): Promise<GalleryPhotoData | undefined> => {
-  console.info(`\n\x1b[33m${fileName}\x1b[0m`);
+  console.info(`\n\x1b[33m${photoFile}\x1b[0m`);
 
-  const { slug: photoSlug, title } = parsePhotoFileName(fileName);
-
-  // Check if this photo name has already been used
-
-  const jsonFilePath = path.resolve(DIR_CONTENT, "photos", `${photoSlug}.json`);
-
-  const jsonAlreadyExists = await fileExists(jsonFilePath);
-  if (!DRY_RUN && jsonAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
-    console.warn("[Gallery]", "Photo already exists", photoSlug);
-    return undefined;
-  }
-
-  // Extract EXIF data from file
-
-  const filePath = path.join(directory, fileName);
-  const fileBuffer = await readFile(filePath);
-  const exif = await ExifReader.load(fileBuffer);
+  const { slug: photoSlug } = parsePhotoFileName(photoFile);
 
   // Write gallery photo data file
 
   let galleryPhotoData: GalleryPhotoData | undefined;
 
-  if (DRY_RUN || !jsonAlreadyExists) {
-    const parsedData = parsePhoto({ cameras, title, exif });
-    galleryPhotoData = await enrichGalleryPhoto(
-      parsedData,
-      previousGalleryPhoto
-    );
+  if (!GALLERY_PHOTO_OVERWRITE) {
+    if (DRY_RUN) {
+      galleryPhotoData = photoData;
+    } else {
+      galleryPhotoData = await enrichGalleryPhoto(photoData, lastData);
+    }
+
     const json = JSON.stringify(galleryPhotoData, null, 2);
 
     if (DRY_RUN) {
       console.info(json);
     } else {
+      const jsonFilePath = path.resolve(
+        DIR_CONTENT,
+        "photos",
+        `${photoSlug}.json`
+      );
       await writeFile(jsonFilePath, json);
       console.info("[Gallery]", "Wrote", fileFromPath(jsonFilePath));
     }
@@ -228,21 +277,16 @@ const addGalleryPhoto = async (
     }));
 
     for (const image of images) {
-      const resizedFilePath = path.resolve(directory, image.fileName);
+      const resizedFilePath = path.resolve(photoDir, image.fileName);
 
       try {
         await resizeImage(
-          path.resolve(directory, fileName),
+          path.resolve(photoDir, photoFile),
           resizedFilePath,
           image.maxDimension
         );
       } catch {
-        console.warn(
-          "[Gallery]",
-          "Failed to render a resized image",
-          photoSlug
-        );
-        return undefined;
+        stop("[Gallery]", "Failed to render a resized image", photoSlug);
       }
 
       // Write photo to AWS S3 bucket
@@ -252,12 +296,7 @@ const addGalleryPhoto = async (
       if (writeSuccess) {
         console.info("[Gallery]", "Uploaded", fileFromPath(image.fileName));
       } else {
-        console.warn(
-          "[Gallery]",
-          "Failed to write file to S3 bucket",
-          image.fileName
-        );
-        return undefined;
+        stop("[Gallery]", "Failed to write file to S3 bucket", image.fileName);
       }
 
       // Delete the rendered image
@@ -265,12 +304,7 @@ const addGalleryPhoto = async (
       try {
         await unlink(resizedFilePath);
       } catch {
-        console.warn(
-          "[Gallery]",
-          "Failed to delete resized image",
-          image.fileName
-        );
-        return undefined;
+        stop("[Gallery]", "Failed to delete resized image", image.fileName);
       }
     }
   }
@@ -278,21 +312,37 @@ const addGalleryPhoto = async (
   // Delete the original photo
 
   if (!DRY_RUN) {
+    const filePath = path.join(photoDir, photoFile);
+
     try {
       await unlink(filePath);
       console.info("[Gallery]", "Deleted", fileFromPath(filePath));
     } catch {
-      console.warn(
-        "[Gallery]",
-        "Failed to delete photo file",
-        fileFromPath(filePath)
-      );
+      stop("[Gallery]", "Failed to delete photo file", fileFromPath(filePath));
     }
   }
 
   return galleryPhotoData;
 };
 
+const addGalleryPhotos = async (): Promise<void> => {
+  const [photoDir, photoFiles] = await getFiles("gallery");
+  const galleryPhotoDataTuples = await getGalleryPhotos(photoDir, photoFiles);
+
+  let lastData: GalleryPhotoData | undefined;
+  for (const [photoFile, photoData] of galleryPhotoDataTuples) {
+    lastData = await writeGalleryPhoto(
+      photoDir,
+      photoFile,
+      photoData,
+      lastData
+    );
+  }
+};
+
+/* BLOG */
+
+// Add an individual blog photo
 const addBlogPhoto = async (
   directory: string,
   photoName: string
@@ -321,34 +371,21 @@ const addBlogPhoto = async (
   console.info("Success (blog)", photoSlug);
 };
 
-// Add all new photos, whether they are for the gallery or not
-const addAllPhotos = async (): Promise<void> => {
-  console.info("DRY_RUN", DRY_RUN);
-
-  const newPhotosDirectory = path.resolve(__dirname, "newPhotos");
-
-  const getFiles = async (directory: string): Promise<[string, string[]]> => {
-    const directoryPath = path.join(newPhotosDirectory, directory);
-    const directoryFiles = await readdir(directoryPath);
-    const photoFiles = directoryFiles.filter((file) => file.endsWith(".jpeg"));
-
-    return [directoryPath, photoFiles];
-  };
-
-  // Blog
-
+// Add all new blog photos
+const addBlogPhotos = async (): Promise<void> => {
   const [blogDir, blogFiles] = await getFiles("blog");
+
   for (const blogFile of blogFiles) {
     await addBlogPhoto(blogDir, blogFile);
   }
+};
 
-  // Gallery
+// Add all new gallery and blog photos
+const addAllPhotos = async (): Promise<void> => {
+  console.info("DRY_RUN", DRY_RUN);
 
-  const [photoDir, photoFiles] = await getFiles("gallery");
-  let lastData: GalleryPhotoData | undefined;
-  for (const photoFile of photoFiles) {
-    lastData = await addGalleryPhoto(photoDir, photoFile, lastData);
-  }
+  await addGalleryPhotos();
+  await addBlogPhotos();
 };
 
 addAllPhotos();

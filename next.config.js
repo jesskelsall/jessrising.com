@@ -20,6 +20,11 @@ module.exports = {
         destination: "/gallery?tag=new",
         permanent: true,
       },
+      {
+        source: "/reindeer",
+        destination: "/gallery?tag=reindeer",
+        permanent: false,
+      }
     ];
   },
 };

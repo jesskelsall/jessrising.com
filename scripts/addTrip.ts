@@ -9,6 +9,7 @@ import util from "util";
 import { DIR_CONTENT } from "../src/consts/app";
 import { GalleryPhotoSlug, TripSlug } from "../src/types/brand";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
+import { TagId } from "../src/types/tag";
 import { TripData } from "../src/types/trip";
 
 const readdir = util.promisify(fs.readdir);
@@ -67,15 +68,20 @@ const addTrip = async (): Promise<void> => {
 
   for (const fileName of photoFileNames) {
     // Read photo
+
     const filePath = path.join(photosDir, fileName);
     const buffer = await readFile(filePath);
     const galleryPhotoData = GalleryPhotoData.parse(
       JSON.parse(buffer.toString())
     );
 
-    if (!galleryPhotoData.exif.date) continue;
+    // Exclude photos tagged with New
+
+    if (galleryPhotoData.meta.tags.includes(TagId.parse("New"))) continue;
 
     // Determine if in range
+
+    if (!galleryPhotoData.exif.date) continue;
 
     const photoDate = DateTime.fromISO(galleryPhotoData.exif.date);
     const photoInRange = photoDate >= fromDate && photoDate <= toDate;
