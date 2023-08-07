@@ -4,7 +4,6 @@ import { useBlogPost } from "../../context/blogPost";
 import { BlogHeading } from "../BlogHeading/BlogHeading";
 import { BlogImage } from "../BlogImage/BlogImage";
 import { BlogYouTubeVideo } from "../BlogYouTubeVideo/BlogYouTubeVideo";
-import { MarkdownOrderedList } from "../MarkdownOrderedList/MarkdownOrderedList";
 
 export const BlogPost = () => {
   const blogPost = useBlogPost();
@@ -14,7 +13,6 @@ export const BlogPost = () => {
       a: Link,
       h1: BlogHeading,
       img: BlogImage,
-      ol: MarkdownOrderedList,
       youtube: BlogYouTubeVideo,
     },
   };

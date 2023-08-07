@@ -1,7 +1,7 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import { BlogImage } from "../components/BlogImage/BlogImage";
-import { BlogPreview } from "../components/BlogPreview/BlogPreview";
+import { BlogPreview } from "../components/Preview/Preview";
 import { CONFIG } from "../consts/config";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { GalleryPhotoSlugsContext } from "../context/galleryPhotoSlugs";
