@@ -1,11 +1,12 @@
 {
-  "title": "DSC05005",
+  "title": "Welcome to the Reindeer Herd",
   "meta": {
     "location": "Cairngorm Mountains",
     "tags": [
-      "New"
+      "People",
+      "Reindeer"
     ],
-    "trip": null
+    "trip": "2023-08-04-cairngorm-reindeer-herd"
   },
   "exif": {
     "camera": {
@@ -13,19 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.008,
+        "exposureTime": 0.004,
         "focalLength": 70,
         "fStop": 5.6,
         "ISO": 100
       }
     },
-    "date": "2023-08-04T12:31:26.000+01:00",
+    "date": "2023-08-04T11:25:22.000+01:00",
     "dimensions": {
-      "height": 5303,
-      "width": 7955
+      "height": 6336,
+      "width": 9504
     }
-  },
-  "settings": {
-    "downloadOriginal": true
   }
 }

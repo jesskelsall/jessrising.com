@@ -1,11 +1,11 @@
 {
-  "title": "DSC05005",
+  "title": "Reindeer Closeup",
   "meta": {
     "location": "Cairngorm Mountains",
     "tags": [
-      "New"
+      "Reindeer"
     ],
-    "trip": null
+    "trip": "2023-08-04-cairngorm-reindeer-herd"
   },
   "exif": {
     "camera": {
@@ -24,8 +24,5 @@
       "height": 5303,
       "width": 7955
     }
-  },
-  "settings": {
-    "downloadOriginal": true
   }
 }

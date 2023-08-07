@@ -8,11 +8,6 @@
     "trip": null
   },
   "exif": {
-    "date": "2023-08-04T11:59:33.000+01:00",
-    "dimensions": {
-      "height": 5337,
-      "width": 8006
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 4.5,
         "ISO": 100
       }
+    },
+    "date": "2023-08-04T11:59:33.000+01:00",
+    "dimensions": {
+      "height": 5337,
+      "width": 8006
     }
   },
   "settings": {

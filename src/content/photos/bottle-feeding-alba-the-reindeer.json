@@ -1,11 +1,12 @@
 {
-  "title": "DSC04925",
+  "title": "Bottle Feeding Alba the Reindeer",
   "meta": {
     "location": "Cairngorm Mountains",
     "tags": [
-      "New"
+      "People",
+      "Reindeer"
     ],
-    "trip": null
+    "trip": "2023-08-04-cairngorm-reindeer-herd"
   },
   "exif": {
     "camera": {
@@ -13,19 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.004,
-        "focalLength": 70,
-        "fStop": 2.8,
+        "exposureTime": 0.005,
+        "focalLength": 24,
+        "fStop": 8,
         "ISO": 100
       }
     },
-    "date": "2023-08-04T12:19:17.000+01:00",
+    "date": "2023-08-04T11:40:51.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504
     }
-  },
-  "settings": {
-    "downloadOriginal": true
   }
 }
