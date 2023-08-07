@@ -1,15 +1,15 @@
 {
   "title": "Iona Post Office",
   "meta": {
-    "location": "Isle of Iona",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.33081111111112,
       "long": -6.392783333333334
     },
-    "trip": null
+    "location": "Isle of Iona",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

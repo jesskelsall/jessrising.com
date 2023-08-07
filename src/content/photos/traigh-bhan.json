@@ -1,16 +1,16 @@
 {
   "title": "Tràigh Bhàn",
   "meta": {
+    "gps": {
+      "lat": 56.34778888888889,
+      "long": -6.382958333333333
+    },
     "location": "Isle of Iona",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 56.34778888888889,
-      "long": -6.382958333333333
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

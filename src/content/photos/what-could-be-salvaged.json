@@ -1,16 +1,16 @@
 {
   "title": "What Could Be Salvaged",
   "meta": {
+    "gps": {
+      "lat": 53.284863888888886,
+      "long": -3.6028166666666666
+    },
     "location": "Gwrych Castle",
     "tags": [
       "Interior",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.284863888888886,
-      "long": -3.6028166666666666
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

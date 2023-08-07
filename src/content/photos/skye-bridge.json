@@ -1,17 +1,17 @@
 {
   "title": "Skye Bridge",
   "meta": {
+    "gps": {
+      "lat": 57.281016666666666,
+      "long": -5.698041666666667
+    },
     "location": "Loch Alsh",
     "tags": [
       "Landscape",
       "Loch",
       "Clouds"
     ],
-    "gps": {
-      "lat": 57.281016666666666,
-      "long": -5.698041666666667
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

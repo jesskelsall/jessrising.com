@@ -1,15 +1,15 @@
 {
   "title": "Brackenburn",
   "meta": {
-    "location": "Derwent Water",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.562686111111105,
       "long": -3.1630305555555553
     },
-    "trip": null
+    "location": "Derwent Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

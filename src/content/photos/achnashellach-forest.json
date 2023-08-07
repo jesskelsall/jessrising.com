@@ -1,17 +1,17 @@
 {
   "title": "Achnashellach Forest",
   "meta": {
+    "gps": {
+      "lat": 57.489758333333334,
+      "long": -5.2451027777777774
+    },
     "location": "Achnashellach Forest",
     "tags": [
       "Landscape",
       "Forest",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.489758333333334,
-      "long": -5.2451027777777774
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

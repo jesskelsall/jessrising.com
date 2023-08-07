@@ -1,17 +1,17 @@
 {
   "title": "Telford Suspension Bridge",
   "meta": {
+    "gps": {
+      "lat": 53.280680555555556,
+      "long": -3.823036111111111
+    },
     "location": "Conwy",
     "tags": [
       "Landscape",
       "Castle",
       "Bridge"
     ],
-    "gps": {
-      "lat": 53.280680555555556,
-      "long": -3.823036111111111
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

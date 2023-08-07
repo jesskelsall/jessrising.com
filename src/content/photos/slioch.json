@@ -1,16 +1,16 @@
 {
   "title": "Slioch",
   "meta": {
+    "gps": {
+      "lat": 57.66384444444444,
+      "long": -5.434388888888889
+    },
     "location": "Loch Maree",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.66384444444444,
-      "long": -5.434388888888889
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

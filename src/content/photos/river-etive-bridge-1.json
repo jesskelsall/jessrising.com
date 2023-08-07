@@ -1,17 +1,17 @@
 {
   "title": "River Etive Bridge",
   "meta": {
+    "gps": {
+      "lat": 56.652427777777774,
+      "long": -4.849733333333333
+    },
     "location": "Kingshouse Hotel",
     "tags": [
       "Landscape",
       "Clouds",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.652427777777774,
-      "long": -4.849733333333333
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

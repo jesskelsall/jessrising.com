@@ -1,6 +1,10 @@
 {
   "title": "Moy Castle",
   "meta": {
+    "gps": {
+      "lat": 56.35454166666667,
+      "long": -5.859219444444444
+    },
     "location": "Lochbuie",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Castle",
       "Ruin"
     ],
-    "gps": {
-      "lat": 56.35454166666667,
-      "long": -5.859219444444444
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

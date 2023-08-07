@@ -1,16 +1,16 @@
 {
   "title": "Fingal's Cave",
   "meta": {
+    "gps": {
+      "lat": 56.43076666666666,
+      "long": -6.341997222222222
+    },
     "location": "Isle of Staffa",
     "tags": [
       "Landscape",
       "Cave"
     ],
-    "gps": {
-      "lat": 56.43076666666666,
-      "long": -6.341997222222222
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "The Road to Poolewe",
   "meta": {
+    "gps": {
+      "lat": 57.78053333333333,
+      "long": -5.64556111111111
+    },
     "location": "Loch Ewe",
     "tags": [
       "Landscape",
       "Loch",
       "Road"
     ],
-    "gps": {
-      "lat": 57.78053333333333,
-      "long": -5.64556111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

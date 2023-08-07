@@ -1,16 +1,16 @@
 {
   "title": "Walking Amongst the Lichen Forest",
   "meta": {
+    "gps": {
+      "lat": 57.144394444444444,
+      "long": -3.8211111111111107
+    },
     "location": "Rothiemurchus",
     "tags": [
       "Landscape",
       "Forest"
     ],
-    "gps": {
-      "lat": 57.144394444444444,
-      "long": -3.8211111111111107
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Ennerdale Water",
   "meta": {
+    "gps": {
+      "lat": 54.51746111111111,
+      "long": -3.3526194444444446
+    },
     "location": "Ennerdale Water",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.51746111111111,
-      "long": -3.3526194444444446
-    },
-    "trip": null
+    "trip": "2023-03-25-steeple-scoat-fell-haycock-caw-fell"
   },
   "exif": {
     "camera": {

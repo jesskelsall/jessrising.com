@@ -1,16 +1,16 @@
 {
   "title": "Shin Railway Viaduct",
   "meta": {
+    "gps": {
+      "lat": 57.92444722222222,
+      "long": -4.400586111111111
+    },
     "location": "Lairg",
     "tags": [
       "Landscape",
       "Bridge"
     ],
-    "gps": {
-      "lat": 57.92444722222222,
-      "long": -4.400586111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

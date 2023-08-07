@@ -1,15 +1,15 @@
 {
   "title": "Great Gable's Southern Views",
   "meta": {
-    "location": "Great Gable",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.48178611111111,
       "long": -3.2195055555555556
     },
-    "trip": null
+    "location": "Great Gable",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-02-kirk-fell-great-gable"
   },
   "exif": {
     "camera": {

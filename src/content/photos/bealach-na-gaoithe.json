@@ -1,16 +1,16 @@
 {
   "title": "Bealach na Gaoithe",
   "meta": {
+    "gps": {
+      "lat": 57.559036111111105,
+      "long": -5.615369444444444
+    },
     "location": "Upper Loch Torridon",
     "tags": [
       "Landscape",
       "Road"
     ],
-    "gps": {
-      "lat": 57.559036111111105,
-      "long": -5.615369444444444
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

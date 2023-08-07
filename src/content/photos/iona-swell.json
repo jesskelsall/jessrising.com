@@ -1,16 +1,16 @@
 {
   "title": "Iona Swell",
   "meta": {
+    "gps": {
+      "lat": 56.34781388888889,
+      "long": -6.3933638888888895
+    },
     "location": "Isle of Iona",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 56.34781388888889,
-      "long": -6.3933638888888895
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

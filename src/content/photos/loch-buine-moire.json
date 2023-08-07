@@ -1,17 +1,17 @@
 {
   "title": "Loch Buine Mòire",
   "meta": {
+    "gps": {
+      "lat": 58.08838333333333,
+      "long": -5.232261111111111
+    },
     "location": "Lochinver",
     "tags": [
       "Landscape",
       "Loch",
       "Gorse"
     ],
-    "gps": {
-      "lat": 58.08838333333333,
-      "long": -5.232261111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "Honister Tramway",
   "meta": {
-    "location": "Fleetwith",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.510447222222226,
       "long": -3.2123833333333334
     },
-    "trip": null
+    "location": "Fleetwith",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-26-grey-knotts-brandreth"
   },
   "exif": {
     "camera": {

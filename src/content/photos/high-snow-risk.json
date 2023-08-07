@@ -1,13 +1,13 @@
 {
   "title": "High Snow Risk",
   "meta": {
-    "location": "Bealach na Bà",
-    "tags": [],
     "gps": {
       "lat": 57.41835277777778,
       "long": -5.603047222222222
     },
-    "trip": null
+    "location": "Bealach na Bà",
+    "tags": [],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

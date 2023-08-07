@@ -1,15 +1,15 @@
 {
   "title": "Hassness Crag Wood",
   "meta": {
-    "location": "Buttermere",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.53292222222222,
       "long": -3.2751416666666664
     },
-    "trip": null
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

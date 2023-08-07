@@ -1,16 +1,16 @@
 {
   "title": "Arkle from Loch Stack",
   "meta": {
+    "gps": {
+      "lat": 58.3453,
+      "long": -4.958222222222222
+    },
     "location": "Loch Stack",
     "tags": [
       "Landscape",
       "White House"
     ],
-    "gps": {
-      "lat": 58.3453,
-      "long": -4.958222222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

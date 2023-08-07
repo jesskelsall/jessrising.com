@@ -8,14 +8,9 @@
       "Lighthouse",
       "Coast"
     ],
-    "trip": "2023-04-15-north-coast-500"
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
-    "date": "2023-04-21T23:31:27.000+01:00",
-    "dimensions": {
-      "height": 3012,
-      "width": 4526
-    },
     "camera": {
       "name": "Sony ɑ550",
       "lens": "Samyang 1:28 10mm ED AS NCS CS",
@@ -24,6 +19,11 @@
         "exposureTime": 10,
         "ISO": 1600
       }
+    },
+    "date": "2023-04-21T23:31:27.000+01:00",
+    "dimensions": {
+      "height": 3012,
+      "width": 4526
     }
   }
 }

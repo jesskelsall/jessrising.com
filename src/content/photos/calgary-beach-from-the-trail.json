@@ -1,16 +1,16 @@
 {
   "title": "Calgary Beach From the Trail",
   "meta": {
+    "gps": {
+      "lat": 56.58090555555556,
+      "long": -6.284355555555555
+    },
     "location": "Calgary Bay",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 56.58090555555556,
-      "long": -6.284355555555555
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

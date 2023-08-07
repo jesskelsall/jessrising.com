@@ -1,17 +1,17 @@
 {
   "title": "Remains of Balnakeil Church",
   "meta": {
+    "gps": {
+      "lat": 58.576080555555556,
+      "long": -4.768519444444444
+    },
     "location": "Durness",
     "tags": [
       "Landscape",
       "Church/Cathedral",
       "Ruin"
     ],
-    "gps": {
-      "lat": 58.576080555555556,
-      "long": -4.768519444444444
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "Staffa Swell",
   "meta": {
-    "location": "Isle of Staffa",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.431308333333334,
       "long": -6.341283333333333
     },
-    "trip": null
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

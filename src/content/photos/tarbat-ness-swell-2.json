@@ -1,17 +1,17 @@
 {
   "title": "Tarbat Ness Swell",
   "meta": {
+    "gps": {
+      "lat": 57.86622222222223,
+      "long": -3.7762194444444446
+    },
     "location": "Tarbat Ness",
     "tags": [
       "Landscape",
       "Gorse",
       "Coast"
     ],
-    "gps": {
-      "lat": 57.86622222222223,
-      "long": -3.7762194444444446
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

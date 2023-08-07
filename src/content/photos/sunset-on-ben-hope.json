@@ -1,16 +1,16 @@
 {
   "title": "Sunset on Ben Hope",
   "meta": {
+    "gps": {
+      "lat": 58.502005555555556,
+      "long": -4.591352777777778
+    },
     "location": "Kyle of Tongue",
     "tags": [
       "Landscape",
       "Sunrise/Sunset"
     ],
-    "gps": {
-      "lat": 58.502005555555556,
-      "long": -4.591352777777778
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

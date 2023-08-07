@@ -1,6 +1,10 @@
 {
   "title": "Window to the Cullin",
   "meta": {
+    "gps": {
+      "lat": 57.35906111111111,
+      "long": -5.555955555555555
+    },
     "location": "Strome Castle",
     "tags": [
       "Landscape",
@@ -9,11 +13,7 @@
       "Loch",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.35906111111111,
-      "long": -5.555955555555555
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

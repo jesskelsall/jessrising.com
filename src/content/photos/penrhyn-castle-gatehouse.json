@@ -1,16 +1,16 @@
 {
   "title": "Penrhyn Castle Gatehouse",
   "meta": {
+    "gps": {
+      "lat": 53.22605,
+      "long": -4.094233333333333
+    },
     "location": "Penrhyn Castle",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.22605,
-      "long": -4.094233333333333
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

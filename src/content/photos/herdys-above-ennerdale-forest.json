@@ -1,17 +1,17 @@
 {
   "title": "Herdys Above Ennerdale Forest",
   "meta": {
+    "gps": {
+      "lat": 54.50959722222222,
+      "long": -3.2596805555555557
+    },
     "location": "High Crag",
     "tags": [
       "Landscape",
       "Snow",
       "Sheep"
     ],
-    "gps": {
-      "lat": 54.50959722222222,
-      "long": -3.2596805555555557
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

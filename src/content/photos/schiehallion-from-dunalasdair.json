@@ -1,16 +1,16 @@
 {
   "title": "Schiehallion from Dunalasdair",
   "meta": {
+    "gps": {
+      "lat": 56.70606666666667,
+      "long": -4.106447222222222
+    },
     "location": "Dunalasdair Estate",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.70606666666667,
-      "long": -4.106447222222222
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

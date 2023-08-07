@@ -1,6 +1,10 @@
 {
   "title": "The Road to Glen Etive",
   "meta": {
+    "gps": {
+      "lat": 56.6535,
+      "long": -4.861894444444444
+    },
     "location": "Glen Etive",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Snow",
       "Road"
     ],
-    "gps": {
-      "lat": 56.6535,
-      "long": -4.861894444444444
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

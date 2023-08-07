@@ -1,17 +1,17 @@
 {
   "title": "Mingary Castle",
   "meta": {
+    "gps": {
+      "lat": 56.68951666666666,
+      "long": -6.096097222222222
+    },
     "location": "Kilchoan",
     "tags": [
       "Landscape",
       "Castle",
       "Coast"
     ],
-    "gps": {
-      "lat": 56.68951666666666,
-      "long": -6.096097222222222
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

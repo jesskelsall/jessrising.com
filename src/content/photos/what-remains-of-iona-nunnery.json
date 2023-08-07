@@ -1,15 +1,15 @@
 {
   "title": "What Remains of Iona Nunnery",
   "meta": {
-    "location": "Iona Abbey",
-    "tags": [
-      "Ruin"
-    ],
     "gps": {
       "lat": 56.331252777777785,
       "long": -6.394047222222222
     },
-    "trip": null
+    "location": "Iona Abbey",
+    "tags": [
+      "Ruin"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

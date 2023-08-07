@@ -1,17 +1,17 @@
 {
   "title": "Tarbatness Lighthouse",
   "meta": {
+    "gps": {
+      "lat": 57.86272777777778,
+      "long": -3.7796944444444445
+    },
     "location": "Tarbat Ness",
     "tags": [
       "Landscape",
       "Gorse",
       "Lighthouse"
     ],
-    "gps": {
-      "lat": 57.86272777777778,
-      "long": -3.7796944444444445
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

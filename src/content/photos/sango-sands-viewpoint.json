@@ -1,16 +1,16 @@
 {
   "title": "Sango Sands Viewpoint",
   "meta": {
+    "gps": {
+      "lat": 58.570525,
+      "long": -4.741302777777777
+    },
     "location": "Durness",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.570525,
-      "long": -4.741302777777777
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Camusterrach",
   "meta": {
+    "gps": {
+      "lat": 57.40671111111111,
+      "long": -5.8116916666666665
+    },
     "location": "Applecross Peninsula",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 57.40671111111111,
-      "long": -5.8116916666666665
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

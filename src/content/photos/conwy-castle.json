@@ -1,16 +1,16 @@
 {
   "title": "Conwy Castle",
   "meta": {
+    "gps": {
+      "lat": 53.280675,
+      "long": -3.822858333333333
+    },
     "location": "Conwy",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.280675,
-      "long": -3.822858333333333
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

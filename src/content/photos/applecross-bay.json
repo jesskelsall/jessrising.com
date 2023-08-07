@@ -1,16 +1,16 @@
 {
   "title": "Applecross Bay",
   "meta": {
+    "gps": {
+      "lat": 57.466797222222226,
+      "long": -5.867633333333334
+    },
     "location": "Applecross",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 57.466797222222226,
-      "long": -5.867633333333334
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "The Cairn and the Clouds",
   "meta": {
+    "gps": {
+      "lat": 54.580308333333335,
+      "long": -3.3726833333333333
+    },
     "location": "Burnbank Fell",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.580308333333335,
-      "long": -3.3726833333333333
-    },
-    "trip": null
+    "trip": "2023-02-11-burnbank-fell-blake-fell-gavel-fell-hen-comb"
   },
   "exif": {
     "camera": {

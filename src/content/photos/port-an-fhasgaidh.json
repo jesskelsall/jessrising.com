@@ -1,15 +1,15 @@
 {
   "title": "Port an Fhasgaidh",
   "meta": {
-    "location": "Isle of Staffa",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.43422222222222,
       "long": -6.340733333333333
     },
-    "trip": null
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

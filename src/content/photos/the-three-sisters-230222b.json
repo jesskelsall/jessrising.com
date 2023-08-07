@@ -1,17 +1,17 @@
 {
   "title": "The Three Sisters",
   "meta": {
+    "gps": {
+      "lat": 56.66766388888889,
+      "long": -4.986855555555556
+    },
     "location": "The Three Sisters",
     "tags": [
       "Landscape",
       "Snow",
       "Sunrise/Sunset"
     ],
-    "gps": {
-      "lat": 56.66766388888889,
-      "long": -4.986855555555556
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

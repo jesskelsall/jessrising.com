@@ -1,16 +1,16 @@
 {
   "title": "Robert the Bruce",
   "meta": {
+    "gps": {
+      "lat": 56.39571111111111,
+      "long": -5.053830555555555
+    },
     "location": "St Conan's Kirk",
     "tags": [
       "Interior",
       "Church/Cathedral"
     ],
-    "gps": {
-      "lat": 56.39571111111111,
-      "long": -5.053830555555555
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

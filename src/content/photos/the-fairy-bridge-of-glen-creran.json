@@ -1,17 +1,17 @@
 {
   "title": "The Fairy Bridge of Glen Creran",
   "meta": {
+    "gps": {
+      "lat": 56.58646388888889,
+      "long": -5.213869444444445
+    },
     "location": "Glen Creran",
     "tags": [
       "Landscape",
       "Waterfall",
       "Bridge"
     ],
-    "gps": {
-      "lat": 56.58646388888889,
-      "long": -5.213869444444445
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

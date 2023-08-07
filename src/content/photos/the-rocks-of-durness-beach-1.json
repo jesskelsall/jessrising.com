@@ -1,16 +1,16 @@
 {
   "title": "The Rocks of Durness Beach",
   "meta": {
+    "gps": {
+      "lat": 58.568822222222224,
+      "long": -4.739066666666667
+    },
     "location": "Durness",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.568822222222224,
-      "long": -4.739066666666667
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

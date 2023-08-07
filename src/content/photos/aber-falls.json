@@ -1,16 +1,16 @@
 {
   "title": "Aber Falls",
   "meta": {
+    "gps": {
+      "lat": 53.210997222222225,
+      "long": -3.9956916666666666
+    },
     "location": "Aber Falls",
     "tags": [
       "Landscape",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 53.210997222222225,
-      "long": -3.9956916666666666
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

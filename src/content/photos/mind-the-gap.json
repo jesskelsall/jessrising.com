@@ -1,17 +1,17 @@
 {
   "title": "Mind the Gap",
   "meta": {
+    "gps": {
+      "lat": 57.39444722222222,
+      "long": -5.455297222222223
+    },
     "location": "Attadale",
     "tags": [
       "Landscape",
       "Rail",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.39444722222222,
-      "long": -5.455297222222223
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

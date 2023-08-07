@@ -1,16 +1,16 @@
 {
   "title": "Stob Dubh from Loch Etive",
   "meta": {
+    "gps": {
+      "lat": 56.56154722222222,
+      "long": -5.0747
+    },
     "location": "Loch Etive",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 56.56154722222222,
-      "long": -5.0747
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

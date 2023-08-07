@@ -1,17 +1,17 @@
 {
   "title": "A Land of Gorse",
   "meta": {
+    "gps": {
+      "lat": 58.26748611111111,
+      "long": -5.051111111111111
+    },
     "location": "Kylesku",
     "tags": [
       "Landscape",
       "Loch",
       "Gorse"
     ],
-    "gps": {
-      "lat": 58.26748611111111,
-      "long": -5.051111111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Loch Kinord",
   "meta": {
+    "gps": {
+      "lat": 57.085225,
+      "long": -2.924822222222222
+    },
     "location": "Muir of Dinnet",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.085225,
-      "long": -2.924822222222222
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

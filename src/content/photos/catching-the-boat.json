@@ -1,16 +1,16 @@
 {
   "title": "Catching the Boat",
   "meta": {
+    "gps": {
+      "lat": 54.56806111111111,
+      "long": -3.158488888888889
+    },
     "location": "Derwent Water",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 54.56806111111111,
-      "long": -3.158488888888889
-    },
-    "trip": null
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

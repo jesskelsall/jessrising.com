@@ -1,17 +1,17 @@
 {
   "title": "The Woman and Her Dog",
   "meta": {
+    "gps": {
+      "lat": 56.53283333333333,
+      "long": -5.783158333333334
+    },
     "location": "Lochaline",
     "tags": [
       "Landscape",
       "Clouds",
       "Coast"
     ],
-    "gps": {
-      "lat": 56.53283333333333,
-      "long": -5.783158333333334
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

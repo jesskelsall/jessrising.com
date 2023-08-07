@@ -1,17 +1,17 @@
 {
   "title": "Lochcarron and Bealach na Bà",
   "meta": {
+    "gps": {
+      "lat": 57.40190555555555,
+      "long": -5.450197222222222
+    },
     "location": "Loch Carron",
     "tags": [
       "Landscape",
       "Loch",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.40190555555555,
-      "long": -5.450197222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

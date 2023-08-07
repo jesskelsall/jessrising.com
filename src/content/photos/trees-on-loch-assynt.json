@@ -1,16 +1,16 @@
 {
   "title": "Trees on Loch Assynt",
   "meta": {
+    "gps": {
+      "lat": 58.186474999999994,
+      "long": -5.061277777777778
+    },
     "location": "Loch Assynt",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 58.186474999999994,
-      "long": -5.061277777777778
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

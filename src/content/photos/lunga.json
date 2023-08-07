@@ -1,15 +1,15 @@
 {
   "title": "Lunga",
   "meta": {
-    "location": "Isle of Lunga",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.496161111111114,
       "long": -6.420138888888889
     },
-    "trip": null
+    "location": "Isle of Lunga",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

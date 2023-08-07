@@ -1,16 +1,16 @@
 {
   "title": "The Bunny and the Puffin",
   "meta": {
+    "gps": {
+      "lat": 56.49386111111111,
+      "long": -6.421580555555556
+    },
     "location": "Isle of Lunga",
     "tags": [
       "Landscape",
       "Bird"
     ],
-    "gps": {
-      "lat": 56.49386111111111,
-      "long": -6.421580555555556
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

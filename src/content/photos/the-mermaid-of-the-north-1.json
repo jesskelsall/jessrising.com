@@ -1,16 +1,16 @@
 {
   "title": "The Mermaid of the North",
   "meta": {
+    "gps": {
+      "lat": 57.75766111111111,
+      "long": -3.9058527777777776
+    },
     "location": "Balintore",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 57.75766111111111,
-      "long": -3.9058527777777776
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

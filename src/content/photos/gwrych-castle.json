@@ -1,16 +1,16 @@
 {
   "title": "Gwrych Castle",
   "meta": {
+    "gps": {
+      "lat": 53.28415277777778,
+      "long": -3.6091527777777777
+    },
     "location": "Gwrych Castle",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.28415277777778,
-      "long": -3.6091527777777777
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

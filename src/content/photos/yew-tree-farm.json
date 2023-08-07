@@ -1,17 +1,17 @@
 {
   "title": "Yew Tree Farm",
   "meta": {
+    "gps": {
+      "lat": 54.389605555555555,
+      "long": -3.0489166666666665
+    },
     "location": "Yew Tree Farm",
     "tags": [
       "Landscape",
       "Clouds",
       "White House"
     ],
-    "gps": {
-      "lat": 54.389605555555555,
-      "long": -3.0489166666666665
-    },
-    "trip": null
+    "trip": "2023-04-29-herdwick-experience"
   },
   "exif": {
     "camera": {

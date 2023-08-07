@@ -1,16 +1,16 @@
 {
   "title": "What Once Stood Proud",
   "meta": {
+    "gps": {
+      "lat": 56.760083333333334,
+      "long": -5.625397222222222
+    },
     "location": "Loch Shiel",
     "tags": [
       "Landscape",
       "Forest"
     ],
-    "gps": {
-      "lat": 56.760083333333334,
-      "long": -5.625397222222222
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

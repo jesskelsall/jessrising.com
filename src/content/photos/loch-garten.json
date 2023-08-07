@@ -1,17 +1,17 @@
 {
   "title": "Loch Garten",
   "meta": {
+    "gps": {
+      "lat": 57.24379444444445,
+      "long": -3.7071833333333335
+    },
     "location": "Loch Garten",
     "tags": [
       "Landscape",
       "Loch",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.24379444444445,
-      "long": -3.7071833333333335
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

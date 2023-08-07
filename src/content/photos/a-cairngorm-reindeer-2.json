@@ -1,17 +1,17 @@
 {
   "title": "A Cairngorm Reindeer",
   "meta": {
+    "gps": {
+      "lat": 57.144930555555554,
+      "long": -3.646341666666667
+    },
     "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
       "Reindeer",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.144930555555554,
-      "long": -3.646341666666667
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

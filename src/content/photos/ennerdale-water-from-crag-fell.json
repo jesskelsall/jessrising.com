@@ -1,16 +1,16 @@
 {
   "title": "Ennerdale Water from Crag Fell",
   "meta": {
+    "gps": {
+      "lat": 54.516777777777776,
+      "long": -3.3957972222222224
+    },
     "location": "Ennerdale Fell",
     "tags": [
       "Landscape",
       "Sunrise/Sunset"
     ],
-    "gps": {
-      "lat": 54.516777777777776,
-      "long": -3.3957972222222224
-    },
-    "trip": null
+    "trip": "2023-04-08-grike-crag-fell-lank-rigg"
   },
   "exif": {
     "camera": {

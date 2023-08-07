@@ -1,16 +1,16 @@
 {
   "title": "Balnakeil Bay",
   "meta": {
+    "gps": {
+      "lat": 58.576275,
+      "long": -4.768177777777778
+    },
     "location": "Durness",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.576275,
-      "long": -4.768177777777778
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

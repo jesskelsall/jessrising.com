@@ -1,16 +1,16 @@
 {
   "title": "Sandwood Bay",
   "meta": {
+    "gps": {
+      "lat": 58.537052777777774,
+      "long": -5.061097222222222
+    },
     "location": "Sandwood Bay",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.537052777777774,
-      "long": -5.061097222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Kylesku Bridge",
   "meta": {
+    "gps": {
+      "lat": 58.2575,
+      "long": -5.026583333333333
+    },
     "location": "Kylesku",
     "tags": [
       "Landscape",
       "Bridge"
     ],
-    "gps": {
-      "lat": 58.2575,
-      "long": -5.026583333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "The Ferry to Iona",
   "meta": {
+    "gps": {
+      "lat": 56.32582777777778,
+      "long": -6.370161111111111
+    },
     "location": "Fionnphort",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 56.32582777777778,
-      "long": -6.370161111111111
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

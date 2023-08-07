@@ -1,15 +1,15 @@
 {
   "title": "The Bone Caves",
   "meta": {
-    "location": "Inchnadamph",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 58.10716111111111,
       "long": -4.941
     },
-    "trip": null
+    "location": "Inchnadamph",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

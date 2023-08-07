@@ -1,16 +1,16 @@
 {
   "title": "Canisp and Suilven Above the Gorse",
   "meta": {
+    "gps": {
+      "lat": 58.14566388888889,
+      "long": -5.189222222222223
+    },
     "location": "Glencanisp Forest",
     "tags": [
       "Landscape",
       "Gorse"
     ],
-    "gps": {
-      "lat": 58.14566388888889,
-      "long": -5.189222222222223
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

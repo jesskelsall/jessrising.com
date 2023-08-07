@@ -1,16 +1,16 @@
 {
   "title": "Pen-trwyn",
   "meta": {
+    "gps": {
+      "lat": 53.32983055555556,
+      "long": -3.8274111111111107
+    },
     "location": "Llandudno",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 53.32983055555556,
-      "long": -3.8274111111111107
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

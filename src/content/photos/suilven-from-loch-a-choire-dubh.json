@@ -1,16 +1,16 @@
 {
   "title": "Suilven from Loch a' Choire Dubh",
   "meta": {
+    "gps": {
+      "lat": 58.119658333333334,
+      "long": -5.125947222222222
+    },
     "location": "Suilven",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 58.119658333333334,
-      "long": -5.125947222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

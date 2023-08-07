@@ -1,16 +1,16 @@
 {
   "title": "Penrhyn Castle Halls",
   "meta": {
+    "gps": {
+      "lat": 53.23035,
+      "long": -4.084688888888889
+    },
     "location": "Penrhyn Castle",
     "tags": [
       "Interior",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.23035,
-      "long": -4.084688888888889
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

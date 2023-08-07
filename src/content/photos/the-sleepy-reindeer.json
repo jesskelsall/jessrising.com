@@ -1,17 +1,17 @@
 {
   "title": "The Sleepy Reindeer",
   "meta": {
+    "gps": {
+      "lat": 57.14508055555555,
+      "long": -3.6465194444444444
+    },
     "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
       "Reindeer",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.14508055555555,
-      "long": -3.6465194444444444
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

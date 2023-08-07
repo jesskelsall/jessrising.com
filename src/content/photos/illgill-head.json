@@ -1,16 +1,16 @@
 {
   "title": "Illgill Head",
   "meta": {
+    "gps": {
+      "lat": 54.45545277777778,
+      "long": -3.2690777777777775
+    },
     "location": "Wast Water",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.45545277777778,
-      "long": -3.2690777777777775
-    },
-    "trip": null
+    "trip": "2023-01-22-wast-water"
   },
   "exif": {
     "camera": {

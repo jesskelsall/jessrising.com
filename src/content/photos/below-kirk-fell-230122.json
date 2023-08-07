@@ -1,16 +1,16 @@
 {
   "title": "Below Kirk Fell",
   "meta": {
+    "gps": {
+      "lat": 54.46295277777778,
+      "long": -3.260425
+    },
     "location": "Wasdale Head",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.46295277777778,
-      "long": -3.260425
-    },
-    "trip": null
+    "trip": "2023-01-22-wast-water"
   },
   "exif": {
     "camera": {

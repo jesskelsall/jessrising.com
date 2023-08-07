@@ -1,16 +1,16 @@
 {
   "title": "Llandudno Promenade",
   "meta": {
+    "gps": {
+      "lat": 53.33145555555556,
+      "long": -3.825011111111111
+    },
     "location": "Llandudno",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 53.33145555555556,
-      "long": -3.825011111111111
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

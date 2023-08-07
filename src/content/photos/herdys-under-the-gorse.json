@@ -1,16 +1,16 @@
 {
   "title": "Herdys Under the Gorse",
   "meta": {
+    "gps": {
+      "lat": 54.466369444444446,
+      "long": -3.259158333333333
+    },
     "location": "Wasdale Head",
     "tags": [
       "Sheep",
       "Gorse"
     ],
-    "gps": {
-      "lat": 54.466369444444446,
-      "long": -3.259158333333333
-    },
-    "trip": null
+    "trip": "2023-04-02-kirk-fell-great-gable"
   },
   "exif": {
     "camera": {

@@ -1,6 +1,10 @@
 {
   "title": "Maol Chean-dearg from Loch an Eoin",
   "meta": {
+    "gps": {
+      "lat": 57.50465,
+      "long": -5.469633333333333
+    },
     "location": "Ben-damph Forest",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Clouds",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.50465,
-      "long": -5.469633333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

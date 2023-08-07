@@ -1,17 +1,17 @@
 {
   "title": "Bealach na Bà",
   "meta": {
+    "gps": {
+      "lat": 57.41168888888889,
+      "long": -5.701608333333334
+    },
     "location": "Bealach na Bà",
     "tags": [
       "Landscape",
       "Loch",
       "Road"
     ],
-    "gps": {
-      "lat": 57.41168888888889,
-      "long": -5.701608333333334
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Acairseid nam Uamh",
   "meta": {
+    "gps": {
+      "lat": 57.85405,
+      "long": -5.692786111111111
+    },
     "location": "Loch Ewe",
     "tags": [
       "Landscape",
       "Coast",
       "Boat"
     ],
-    "gps": {
-      "lat": 57.85405,
-      "long": -5.692786111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

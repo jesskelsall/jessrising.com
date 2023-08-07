@@ -1,16 +1,16 @@
 {
   "title": "Iona Nunnery",
   "meta": {
+    "gps": {
+      "lat": 56.331208333333336,
+      "long": -6.394355555555556
+    },
     "location": "Iona Abbey",
     "tags": [
       "Landscape",
       "Ruin"
     ],
-    "gps": {
-      "lat": 56.331208333333336,
-      "long": -6.394355555555556
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Rhue Lighthouse",
   "meta": {
+    "gps": {
+      "lat": 57.925530555555554,
+      "long": -5.222827777777778
+    },
     "location": "Ullapool",
     "tags": [
       "Landscape",
       "Loch",
       "Lighthouse"
     ],
-    "gps": {
-      "lat": 57.925530555555554,
-      "long": -5.222827777777778
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

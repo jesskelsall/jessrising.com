@@ -1,15 +1,15 @@
 {
   "title": "Puffins of Lunga",
   "meta": {
-    "location": "Isle of Lunga",
-    "tags": [
-      "Bird"
-    ],
     "gps": {
       "lat": 56.49475,
       "long": -6.421036111111111
     },
-    "trip": null
+    "location": "Isle of Lunga",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

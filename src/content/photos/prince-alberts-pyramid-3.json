@@ -1,16 +1,16 @@
 {
   "title": "Prince Albert's Pyramid",
   "meta": {
+    "gps": {
+      "lat": 57.02578333333333,
+      "long": -3.2213527777777777
+    },
     "location": "Balmoral",
     "tags": [
       "Landscape",
       "Cairn"
     ],
-    "gps": {
-      "lat": 57.02578333333333,
-      "long": -3.2213527777777777
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

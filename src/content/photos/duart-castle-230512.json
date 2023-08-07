@@ -1,16 +1,16 @@
 {
   "title": "Duart Castle",
   "meta": {
+    "gps": {
+      "lat": 56.46148055555556,
+      "long": -5.644547222222222
+    },
     "location": "Sound of Mull",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 56.46148055555556,
-      "long": -5.644547222222222
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

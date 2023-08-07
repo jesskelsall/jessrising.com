@@ -1,15 +1,15 @@
 {
   "title": "Newlands Valley",
   "meta": {
-    "location": "Cat Bells",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.574286111111114,
       "long": -3.1698416666666667
     },
-    "trip": null
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "Crag Fell",
   "meta": {
-    "location": "Ennerdale Fell",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.516644444444445,
       "long": -3.3960583333333334
     },
-    "trip": null
+    "location": "Ennerdale Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-08-grike-crag-fell-lank-rigg"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Loch Spelve",
   "meta": {
+    "gps": {
+      "lat": 56.382891666666666,
+      "long": -5.711375
+    },
     "location": "Loch Spelve",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 56.382891666666666,
-      "long": -5.711375
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Loch an Eilein Gate",
   "meta": {
+    "gps": {
+      "lat": 57.15258333333333,
+      "long": -3.8220555555555555
+    },
     "location": "Rothiemurchus",
     "tags": [
       "Landscape",
       "Loch",
       "Forest"
     ],
-    "gps": {
-      "lat": 57.15258333333333,
-      "long": -3.8220555555555555
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

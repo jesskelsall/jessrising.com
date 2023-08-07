@@ -1,15 +1,15 @@
 {
   "title": "Brandelhow Point",
   "meta": {
-    "location": "Derwent Water",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.56608333333333,
       "long": -3.1589027777777776
     },
-    "trip": null
+    "location": "Derwent Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "The Cullin from Bealach na Bà",
   "meta": {
-    "location": "Bealach na Bà",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 57.41858611111111,
       "long": -5.708547222222222
     },
-    "trip": null
+    "location": "Bealach na Bà",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

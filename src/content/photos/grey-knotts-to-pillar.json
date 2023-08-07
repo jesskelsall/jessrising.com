@@ -1,15 +1,15 @@
 {
   "title": "Grey Knotts to Pillar",
   "meta": {
-    "location": "Grey Knotts",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.50405833333333,
       "long": -3.209216666666667
     },
-    "trip": null
+    "location": "Grey Knotts",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-26-grey-knotts-brandreth"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "River Etive Waterfall",
   "meta": {
+    "gps": {
+      "lat": 56.619122222222224,
+      "long": -4.9374
+    },
     "location": "Glen Etive",
     "tags": [
       "Landscape",
       "Clouds",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 56.619122222222224,
-      "long": -4.9374
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

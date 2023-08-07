@@ -1,15 +1,15 @@
 {
   "title": "Cairn na Burgh Beg",
   "meta": {
-    "location": "Treshnish Isles",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.51906666666667,
       "long": -6.379483333333333
     },
-    "trip": null
+    "location": "Treshnish Isles",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

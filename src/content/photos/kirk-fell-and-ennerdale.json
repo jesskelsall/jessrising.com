@@ -1,16 +1,16 @@
 {
   "title": "Kirk Fell and Ennerdale",
   "meta": {
+    "gps": {
+      "lat": 54.48529166666667,
+      "long": -3.2251250000000002
+    },
     "location": "Great Gable",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.48529166666667,
-      "long": -3.2251250000000002
-    },
-    "trip": null
+    "trip": "2023-04-02-kirk-fell-great-gable"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "After the Sun Sets Over the Sea",
   "meta": {
+    "gps": {
+      "lat": 58.59815555555556,
+      "long": -4.019147222222222
+    },
     "location": "Strathy Point",
     "tags": [
       "Landscape",
       "Sunrise/Sunset",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.59815555555556,
-      "long": -4.019147222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

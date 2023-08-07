@@ -1,16 +1,16 @@
 {
   "title": "Ralston Cairn",
   "meta": {
+    "gps": {
+      "lat": 56.66414722222222,
+      "long": -4.967622222222222
+    },
     "location": "The Three Sisters",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.66414722222222,
-      "long": -4.967622222222222
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

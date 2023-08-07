@@ -1,16 +1,16 @@
 {
   "title": "Loweswater from the Bench",
   "meta": {
+    "gps": {
+      "lat": 54.580872222222226,
+      "long": -3.367225
+    },
     "location": "Loweswater Fell",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.580872222222226,
-      "long": -3.367225
-    },
-    "trip": null
+    "trip": "2023-02-11-burnbank-fell-blake-fell-gavel-fell-hen-comb"
   },
   "exif": {
     "camera": {

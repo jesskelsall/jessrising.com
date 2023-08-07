@@ -1,6 +1,10 @@
 {
   "title": "Strathy Point Dawn",
   "meta": {
+    "gps": {
+      "lat": 58.598675,
+      "long": -4.018533333333333
+    },
     "location": "Strathy Point",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Clouds",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.598675,
-      "long": -4.018533333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

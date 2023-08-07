@@ -1,16 +1,16 @@
 {
   "title": "Boating by Motor and Sail",
   "meta": {
+    "gps": {
+      "lat": 56.42155555555555,
+      "long": -5.4860444444444445
+    },
     "location": "Oban",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 56.42155555555555,
-      "long": -5.4860444444444445
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

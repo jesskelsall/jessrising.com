@@ -1,16 +1,16 @@
 {
   "title": "Iona Houses",
   "meta": {
+    "gps": {
+      "lat": 56.33050555555556,
+      "long": -6.390363888888889
+    },
     "location": "Isle of Iona",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 56.33050555555556,
-      "long": -6.390363888888889
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

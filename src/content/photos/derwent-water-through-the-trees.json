@@ -1,15 +1,15 @@
 {
   "title": "Derwent Water Through the Trees",
   "meta": {
-    "location": "Derwent Water",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.569583333333334,
       "long": -3.158086111111111
     },
-    "trip": null
+    "location": "Derwent Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

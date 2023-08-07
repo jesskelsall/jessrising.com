@@ -1,6 +1,10 @@
 {
   "title": "Whites of Water and Snow",
   "meta": {
+    "gps": {
+      "lat": 57.51733333333333,
+      "long": -5.477822222222223
+    },
     "location": "Ben-damph Forest",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Snow",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 57.51733333333333,
-      "long": -5.477822222222223
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

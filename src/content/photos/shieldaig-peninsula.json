@@ -1,16 +1,16 @@
 {
   "title": "Shieldaig Peninsula",
   "meta": {
+    "gps": {
+      "lat": 57.54063055555555,
+      "long": -5.659350000000001
+    },
     "location": "Shieldaig",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.54063055555555,
-      "long": -5.659350000000001
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

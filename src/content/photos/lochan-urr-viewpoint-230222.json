@@ -1,15 +1,15 @@
 {
   "title": "Lochan Urr Viewpoint",
   "meta": {
-    "location": "Lochan Urr",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.600975,
       "long": -5.018761111111111
     },
-    "trip": null
+    "location": "Lochan Urr",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

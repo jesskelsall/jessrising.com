@@ -1,17 +1,17 @@
 {
   "title": "Edge of the Land, End of the Day",
   "meta": {
+    "gps": {
+      "lat": 58.55244166666667,
+      "long": -4.059352777777778
+    },
     "location": "Strathy Point",
     "tags": [
       "Landscape",
       "Sunrise/Sunset",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.55244166666667,
-      "long": -4.059352777777778
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

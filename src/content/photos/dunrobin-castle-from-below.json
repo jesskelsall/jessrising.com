@@ -1,15 +1,15 @@
 {
   "title": "Dunrobin Castle from Below",
   "meta": {
-    "location": "Dunrobin Castle",
-    "tags": [
-      "Castle"
-    ],
     "gps": {
       "lat": 57.981094444444444,
       "long": -3.944919444444445
     },
-    "trip": null
+    "location": "Dunrobin Castle",
+    "tags": [
+      "Castle"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

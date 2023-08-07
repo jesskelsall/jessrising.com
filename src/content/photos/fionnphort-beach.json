@@ -1,16 +1,16 @@
 {
   "title": "Fionnphort Beach",
   "meta": {
+    "gps": {
+      "lat": 56.32570277777778,
+      "long": -6.367844444444444
+    },
     "location": "Fionnphort",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 56.32570277777778,
-      "long": -6.367844444444444
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

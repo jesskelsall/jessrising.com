@@ -1,16 +1,16 @@
 {
   "title": "Herdys at Glade How",
   "meta": {
+    "gps": {
+      "lat": 54.44490833333333,
+      "long": -3.3353472222222225
+    },
     "location": "Copeland Forest",
     "tags": [
       "Landscape",
       "Sheep"
     ],
-    "gps": {
-      "lat": 54.44490833333333,
-      "long": -3.3353472222222225
-    },
-    "trip": null
+    "trip": "2023-02-05-middle-fell-seatallan-buckbarrow"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Bidean Nam Bian",
   "meta": {
+    "gps": {
+      "lat": 56.66361111111111,
+      "long": -4.968461111111111
+    },
     "location": "The Three Sisters",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.66361111111111,
-      "long": -4.968461111111111
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "Cat Bells",
   "meta": {
-    "location": "Cat Bells",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.56837777777778,
       "long": -3.1707027777777776
     },
-    "trip": null
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

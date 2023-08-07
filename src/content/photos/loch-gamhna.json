@@ -1,17 +1,17 @@
 {
   "title": "Loch Gamhna",
   "meta": {
+    "gps": {
+      "lat": 57.1414,
+      "long": -3.830519444444444
+    },
     "location": "Rothiemurchus",
     "tags": [
       "Landscape",
       "Loch",
       "Forest"
     ],
-    "gps": {
-      "lat": 57.1414,
-      "long": -3.830519444444444
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Buttermere Dubs",
   "meta": {
+    "gps": {
+      "lat": 54.535244444444444,
+      "long": -3.2798305555555554
+    },
     "location": "Buttermere",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.535244444444444,
-      "long": -3.2798305555555554
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

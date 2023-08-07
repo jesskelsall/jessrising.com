@@ -1,6 +1,10 @@
 {
   "title": "Strome Castle",
   "meta": {
+    "gps": {
+      "lat": 57.35919166666667,
+      "long": -5.555625
+    },
     "location": "Strome Castle",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Ruin",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.35919166666667,
-      "long": -5.555625
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

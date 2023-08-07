@@ -1,16 +1,16 @@
 {
   "title": "The Wee Hoose",
   "meta": {
+    "gps": {
+      "lat": 58.02331111111111,
+      "long": -4.402908333333333
+    },
     "location": "Lairg",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 58.02331111111111,
-      "long": -4.402908333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

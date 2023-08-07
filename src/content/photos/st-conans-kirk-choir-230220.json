@@ -1,16 +1,16 @@
 {
   "title": "St Conan's Kirk Choir",
   "meta": {
+    "gps": {
+      "lat": 56.395580555555554,
+      "long": -5.0546
+    },
     "location": "St Conan's Kirk",
     "tags": [
       "Interior",
       "Church/Cathedral"
     ],
-    "gps": {
-      "lat": 56.395580555555554,
-      "long": -5.0546
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

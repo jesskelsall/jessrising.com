@@ -1,15 +1,15 @@
 {
   "title": "Mosedale Black Comb",
   "meta": {
-    "location": "Mosedale",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.490944444444445,
       "long": -3.2955555555555556
     },
-    "trip": null
+    "location": "Mosedale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-07-mosedale-horseshoe"
   },
   "exif": {
     "camera": {

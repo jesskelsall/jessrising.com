@@ -1,15 +1,15 @@
 {
   "title": "Meall Meadhonach",
   "meta": {
-    "location": "Suilven",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 58.11475277777778,
       "long": -5.133080555555555
     },
-    "trip": null
+    "location": "Suilven",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

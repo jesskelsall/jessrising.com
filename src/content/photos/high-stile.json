@@ -1,16 +1,16 @@
 {
   "title": "High Stile",
   "meta": {
+    "gps": {
+      "lat": 54.521819444444446,
+      "long": -3.2837805555555555
+    },
     "location": "High Stile",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.521819444444446,
-      "long": -3.2837805555555555
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

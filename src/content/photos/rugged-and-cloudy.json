@@ -1,16 +1,16 @@
 {
   "title": "Rugged and Cloudy",
   "meta": {
+    "gps": {
+      "lat": 54.496411111111115,
+      "long": -3.192672222222222
+    },
     "location": "Base Brown",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.496411111111115,
-      "long": -3.192672222222222
-    },
-    "trip": null
+    "trip": "2023-05-01-base-brown-green-gable"
   },
   "exif": {
     "camera": {

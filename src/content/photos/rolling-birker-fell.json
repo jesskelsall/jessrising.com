@@ -1,16 +1,16 @@
 {
   "title": "Rolling Birker Fell",
   "meta": {
+    "gps": {
+      "lat": 54.37049444444445,
+      "long": -3.278825
+    },
     "location": "Birker Fell",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.37049444444445,
-      "long": -3.278825
-    },
-    "trip": null
+    "trip": "2023-01-22-wast-water"
   },
   "exif": {
     "camera": {

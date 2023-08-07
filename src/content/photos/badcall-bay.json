@@ -1,16 +1,16 @@
 {
   "title": "Badcall Bay",
   "meta": {
+    "gps": {
+      "lat": 58.32990277777778,
+      "long": -5.146000000000001
+    },
     "location": "Assynt-Coigach",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.32990277777778,
-      "long": -5.146000000000001
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

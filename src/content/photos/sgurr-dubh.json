@@ -1,15 +1,15 @@
 {
   "title": "Sgurr Dubh",
   "meta": {
-    "location": "Ben-damph Forest",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 57.51895555555556,
       "long": -5.485347222222222
     },
-    "trip": null
+    "location": "Ben-damph Forest",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

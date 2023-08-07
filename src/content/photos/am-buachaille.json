@@ -1,16 +1,16 @@
 {
   "title": "Am Buachaille",
   "meta": {
+    "gps": {
+      "lat": 58.53871111111111,
+      "long": -5.062319444444444
+    },
     "location": "Sandwood Bay",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.53871111111111,
-      "long": -5.062319444444444
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

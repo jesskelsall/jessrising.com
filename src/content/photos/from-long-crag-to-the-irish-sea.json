@@ -1,16 +1,16 @@
 {
   "title": "From Long Crag to the Irish Sea",
   "meta": {
+    "gps": {
+      "lat": 54.44175,
+      "long": -3.333194444444444
+    },
     "location": "Buckbarrow",
     "tags": [
       "Landscape",
       "Sunrise/Sunset"
     ],
-    "gps": {
-      "lat": 54.44175,
-      "long": -3.333194444444444
-    },
-    "trip": null
+    "trip": "2023-02-05-middle-fell-seatallan-buckbarrow"
   },
   "exif": {
     "camera": {

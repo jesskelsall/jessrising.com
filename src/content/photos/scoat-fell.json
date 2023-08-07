@@ -1,15 +1,15 @@
 {
   "title": "Scoat Fell",
   "meta": {
-    "location": "Pillar",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.49460277777778,
       "long": -3.2854
     },
-    "trip": null
+    "location": "Pillar",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-07-mosedale-horseshoe"
   },
   "exif": {
     "camera": {

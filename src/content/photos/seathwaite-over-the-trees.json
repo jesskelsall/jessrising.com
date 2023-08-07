@@ -1,15 +1,15 @@
 {
   "title": "Seathwaite Over the Trees",
   "meta": {
-    "location": "Seathwaite",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.48751111111111,
       "long": -3.1899861111111107
     },
-    "trip": null
+    "location": "Seathwaite",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-01-base-brown-green-gable"
   },
   "exif": {
     "camera": {

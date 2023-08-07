@@ -1,15 +1,15 @@
 {
   "title": "Mellbreak to Fleetwith Pike",
   "meta": {
-    "location": "Mellbreak",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.54785833333333,
       "long": -3.314502777777778
     },
-    "trip": null
+    "location": "Mellbreak",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-07-mellbreak"
   },
   "exif": {
     "camera": {

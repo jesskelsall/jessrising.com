@@ -1,16 +1,16 @@
 {
   "title": "Wast Water Mists",
   "meta": {
+    "gps": {
+      "lat": 54.43621944444444,
+      "long": -3.3097638888888885
+    },
     "location": "Wast Water",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.43621944444444,
-      "long": -3.3097638888888885
-    },
-    "trip": null
+    "trip": "2023-01-22-wast-water"
   },
   "exif": {
     "camera": {

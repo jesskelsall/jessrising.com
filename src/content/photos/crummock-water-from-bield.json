@@ -1,15 +1,15 @@
 {
   "title": "Crummock Water from Bield",
   "meta": {
-    "location": "Low Fell",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.587361111111115,
       "long": -3.3374833333333336
     },
-    "trip": null
+    "location": "Low Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-02-12-fellbarrow-low-fell"
   },
   "exif": {
     "camera": {

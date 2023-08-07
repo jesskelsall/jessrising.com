@@ -1,16 +1,16 @@
 {
   "title": "Sunset on Ben Loyal",
   "meta": {
+    "gps": {
+      "lat": 58.49731388888889,
+      "long": -4.483472222222222
+    },
     "location": "Kyle of Tongue",
     "tags": [
       "Landscape",
       "Sunrise/Sunset"
     ],
-    "gps": {
-      "lat": 58.49731388888889,
-      "long": -4.483472222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

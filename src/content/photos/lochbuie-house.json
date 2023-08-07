@@ -1,15 +1,15 @@
 {
   "title": "Lochbuie House",
   "meta": {
-    "location": "Lochbuie",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.35505,
       "long": -5.860144444444444
     },
-    "trip": null
+    "location": "Lochbuie",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

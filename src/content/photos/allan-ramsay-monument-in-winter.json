@@ -1,16 +1,16 @@
 {
   "title": "Allan Ramsay Monument in Winter",
   "meta": {
+    "gps": {
+      "lat": 55.95169166666667,
+      "long": -3.1972444444444443
+    },
     "location": "Princes Street Gardens",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 55.95169166666667,
-      "long": -3.1972444444444443
-    },
-    "trip": null
+    "trip": "2023-01-10-edinburgh"
   },
   "exif": {
     "camera": {

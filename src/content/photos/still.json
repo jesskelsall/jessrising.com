@@ -1,15 +1,15 @@
 {
   "title": "Still",
   "meta": {
-    "location": "Tomintoul",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 57.25713611111111,
       "long": -3.4018555555555556
     },
-    "trip": null
+    "location": "Tomintoul",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "Return to Wasdale Head",
   "meta": {
-    "location": "Wasdale Head",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.474044444444445,
       "long": -3.208355555555556
     },
-    "trip": null
+    "location": "Wasdale Head",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-02-kirk-fell-great-gable"
   },
   "exif": {
     "camera": {

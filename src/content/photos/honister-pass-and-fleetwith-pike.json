@@ -1,16 +1,16 @@
 {
   "title": "Honister Pass and Fleetwith Pike",
   "meta": {
+    "gps": {
+      "lat": 54.522505555555554,
+      "long": -3.2821
+    },
     "location": "High Stile",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.522505555555554,
-      "long": -3.2821
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

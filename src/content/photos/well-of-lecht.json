@@ -1,17 +1,17 @@
 {
   "title": "Well of Lecht",
   "meta": {
+    "gps": {
+      "lat": 57.22635555555556,
+      "long": -3.2653305555555554
+    },
     "location": "Tomintoul",
     "tags": [
       "Landscape",
       "Snow",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 57.22635555555556,
-      "long": -3.2653305555555554
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

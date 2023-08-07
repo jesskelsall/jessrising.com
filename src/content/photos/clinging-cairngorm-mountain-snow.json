@@ -1,16 +1,16 @@
 {
   "title": "Clinging Cairngorm Mountain Snow",
   "meta": {
+    "gps": {
+      "lat": 57.133775,
+      "long": -3.671883333333333
+    },
     "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.133775,
-      "long": -3.671883333333333
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Spans of Ribblehead",
   "meta": {
+    "gps": {
+      "lat": 54.21075833333334,
+      "long": -2.373002777777778
+    },
     "location": "Ribblehead Viaduct",
     "tags": [
       "Landscape",
       "Viaduct",
       "Rail"
     ],
-    "gps": {
-      "lat": 54.21075833333334,
-      "long": -2.373002777777778
-    },
-    "trip": null
+    "trip": "2023-01-15-ribblehead-viaduct-whernside"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Driving Above the Snow Line",
   "meta": {
+    "gps": {
+      "lat": 57.146233333333335,
+      "long": -3.6662555555555554
+    },
     "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
       "Snow",
       "Road"
     ],
-    "gps": {
-      "lat": 57.146233333333335,
-      "long": -3.6662555555555554
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

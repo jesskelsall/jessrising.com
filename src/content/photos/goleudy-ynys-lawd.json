@@ -1,17 +1,17 @@
 {
   "title": "Goleudy Ynys Lawd",
   "meta": {
+    "gps": {
+      "lat": 53.30483888888889,
+      "long": -4.693072222222223
+    },
     "location": "South Stack",
     "tags": [
       "Landscape",
       "Lighthouse",
       "Coast"
     ],
-    "gps": {
-      "lat": 53.30483888888889,
-      "long": -4.693072222222223
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

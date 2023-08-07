@@ -1,15 +1,15 @@
 {
   "title": "River Coupall",
   "meta": {
-    "location": "Lagangarbh",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.6629,
       "long": -4.903222222222222
     },
-    "trip": null
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

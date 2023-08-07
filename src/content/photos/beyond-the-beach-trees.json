@@ -1,6 +1,10 @@
 {
   "title": "Beyond the Beach Trees",
   "meta": {
+    "gps": {
+      "lat": 57.16616944444444,
+      "long": -3.7007333333333334
+    },
     "location": "Loch Morlich",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Snow",
       "Beach"
     ],
-    "gps": {
-      "lat": 57.16616944444444,
-      "long": -3.7007333333333334
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

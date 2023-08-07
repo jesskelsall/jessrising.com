@@ -1,16 +1,16 @@
 {
   "title": "Coral Beach to Cullin",
   "meta": {
+    "gps": {
+      "lat": 57.388419444444445,
+      "long": -5.828147222222222
+    },
     "location": "An Àird Bhàn",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 57.388419444444445,
-      "long": -5.828147222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

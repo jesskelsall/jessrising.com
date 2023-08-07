@@ -1,15 +1,15 @@
 {
   "title": "Carbisdale Castle",
   "meta": {
-    "location": "Lairg",
-    "tags": [
-      "Castle"
-    ],
     "gps": {
       "lat": 57.925288888888886,
       "long": -4.410208333333333
     },
-    "trip": null
+    "location": "Lairg",
+    "tags": [
+      "Castle"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

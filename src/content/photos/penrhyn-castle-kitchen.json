@@ -1,16 +1,16 @@
 {
   "title": "Penrhyn Castle Kitchen",
   "meta": {
+    "gps": {
+      "lat": 53.225975000000005,
+      "long": -4.0949
+    },
     "location": "Penrhyn Castle",
     "tags": [
       "Interior",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.225975000000005,
-      "long": -4.0949
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Loch Aline Boathouse",
   "meta": {
+    "gps": {
+      "lat": 56.56327777777778,
+      "long": -5.744355555555556
+    },
     "location": "Loch Aline",
     "tags": [
       "Landscape",
       "Clouds",
       "Loch"
     ],
-    "gps": {
-      "lat": 56.56327777777778,
-      "long": -5.744355555555556
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

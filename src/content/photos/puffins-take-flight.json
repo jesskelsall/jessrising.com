@@ -1,16 +1,16 @@
 {
   "title": "Puffins Take Flight",
   "meta": {
+    "gps": {
+      "lat": 56.49400277777778,
+      "long": -6.4216500000000005
+    },
     "location": "Isle of Lunga",
     "tags": [
       "Landscape",
       "Bird"
     ],
-    "gps": {
-      "lat": 56.49400277777778,
-      "long": -6.4216500000000005
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

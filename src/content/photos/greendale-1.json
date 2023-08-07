@@ -1,15 +1,15 @@
 {
   "title": "Greendale",
   "meta": {
-    "location": "Wast Water",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.44029166666666,
       "long": -3.3231749999999995
     },
-    "trip": null
+    "location": "Wast Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-02-05-middle-fell-seatallan-buckbarrow"
   },
   "exif": {
     "camera": {

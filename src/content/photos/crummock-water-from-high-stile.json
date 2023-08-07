@@ -1,16 +1,16 @@
 {
   "title": "Crummock Water from High Stile",
   "meta": {
+    "gps": {
+      "lat": 54.52743888888889,
+      "long": -3.298513888888889
+    },
     "location": "High Stile",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.52743888888889,
-      "long": -3.298513888888889
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

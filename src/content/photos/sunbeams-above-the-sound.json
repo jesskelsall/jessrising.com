@@ -1,16 +1,16 @@
 {
   "title": "Sunbeams Above the Sound",
   "meta": {
+    "gps": {
+      "lat": 56.55650277777777,
+      "long": -5.7664888888888886
+    },
     "location": "Lochaline",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 56.55650277777777,
-      "long": -5.7664888888888886
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

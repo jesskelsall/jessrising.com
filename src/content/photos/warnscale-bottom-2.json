@@ -1,16 +1,16 @@
 {
   "title": "Warnscale Bottom",
   "meta": {
+    "gps": {
+      "lat": 54.514319444444446,
+      "long": -3.255847222222222
+    },
     "location": "Scarth Gap Pass",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.514319444444446,
-      "long": -3.255847222222222
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

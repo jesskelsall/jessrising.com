@@ -1,17 +1,17 @@
 {
   "title": "River Etive",
   "meta": {
+    "gps": {
+      "lat": 56.581700000000005,
+      "long": -5.023288888888889
+    },
     "location": "Glen Etive",
     "tags": [
       "Landscape",
       "Clouds",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 56.581700000000005,
-      "long": -5.023288888888889
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

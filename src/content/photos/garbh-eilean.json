@@ -1,17 +1,17 @@
 {
   "title": "Garbh Eilean",
   "meta": {
+    "gps": {
+      "lat": 56.69716666666666,
+      "long": -5.689933333333333
+    },
     "location": "Loch Sunart",
     "tags": [
       "Landscape",
       "Clouds",
       "Loch"
     ],
-    "gps": {
-      "lat": 56.69716666666666,
-      "long": -5.689933333333333
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

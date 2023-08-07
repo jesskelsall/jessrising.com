@@ -1,17 +1,17 @@
 {
   "title": "Loch Gowan",
   "meta": {
+    "gps": {
+      "lat": 57.55715555555555,
+      "long": -5.098502777777777
+    },
     "location": "Loch Gowan",
     "tags": [
       "Landscape",
       "Snow",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.55715555555555,
-      "long": -5.098502777777777
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

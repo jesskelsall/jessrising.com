@@ -1,16 +1,16 @@
 {
   "title": "Oban",
   "meta": {
+    "gps": {
+      "lat": 56.41605277777778,
+      "long": -5.468852777777778
+    },
     "location": "McCaig's Tower",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 56.41605277777778,
-      "long": -5.468852777777778
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

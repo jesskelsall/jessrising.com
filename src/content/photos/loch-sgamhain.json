@@ -1,16 +1,16 @@
 {
   "title": "Loch Sgamhain",
   "meta": {
+    "gps": {
+      "lat": 57.52824722222222,
+      "long": -5.173672222222223
+    },
     "location": "Loch Sgamhain",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.52824722222222,
-      "long": -5.173672222222223
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

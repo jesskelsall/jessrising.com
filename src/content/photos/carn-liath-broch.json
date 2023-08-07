@@ -1,16 +1,16 @@
 {
   "title": "Carn Liath Broch",
   "meta": {
+    "gps": {
+      "lat": 57.987227777777775,
+      "long": -3.9121194444444445
+    },
     "location": "Golspie",
     "tags": [
       "Landscape",
       "Ruin"
     ],
-    "gps": {
-      "lat": 57.987227777777775,
-      "long": -3.9121194444444445
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

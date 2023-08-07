@@ -1,16 +1,16 @@
 {
   "title": "Winter Lit Forest",
   "meta": {
+    "gps": {
+      "lat": 57.236222222222224,
+      "long": -3.714961111111111
+    },
     "location": "Abernethy Forest",
     "tags": [
       "Landscape",
       "Forest"
     ],
-    "gps": {
-      "lat": 57.236222222222224,
-      "long": -3.714961111111111
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

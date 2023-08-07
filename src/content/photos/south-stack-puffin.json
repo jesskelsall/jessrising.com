@@ -1,17 +1,17 @@
 {
   "title": "South Stack Puffin",
   "meta": {
+    "gps": {
+      "lat": 53.30475277777777,
+      "long": -4.691041666666667
+    },
     "location": "South Stack",
     "tags": [
       "Landscape",
       "Coast",
       "Bird"
     ],
-    "gps": {
-      "lat": 53.30475277777777,
-      "long": -4.691041666666667
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

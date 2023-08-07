@@ -1,16 +1,16 @@
 {
   "title": "Balmoral Castle from Prince Leopold's Cairn",
   "meta": {
+    "gps": {
+      "lat": 57.03583611111111,
+      "long": -3.22865
+    },
     "location": "Balmoral",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 57.03583611111111,
-      "long": -3.22865
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

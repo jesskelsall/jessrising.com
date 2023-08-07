@@ -1,16 +1,16 @@
 {
   "title": "A Glimpse of Brandreth",
   "meta": {
+    "gps": {
+      "lat": 54.49273055555555,
+      "long": -3.198058333333333
+    },
     "location": "Base Brown",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.49273055555555,
-      "long": -3.198058333333333
-    },
-    "trip": null
+    "trip": "2023-05-01-base-brown-green-gable"
   },
   "exif": {
     "camera": {

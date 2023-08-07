@@ -1,15 +1,15 @@
 {
   "title": "The Smallest House in Great Britain",
   "meta": {
-    "location": "Conwy",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 53.28240833333333,
       "long": -3.828486111111111
     },
-    "trip": null
+    "location": "Conwy",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

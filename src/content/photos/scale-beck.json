@@ -1,16 +1,16 @@
 {
   "title": "Scale Beck",
   "meta": {
+    "gps": {
+      "lat": 54.54521111111111,
+      "long": -3.3020777777777774
+    },
     "location": "Scale Beck",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.54521111111111,
-      "long": -3.3020777777777774
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

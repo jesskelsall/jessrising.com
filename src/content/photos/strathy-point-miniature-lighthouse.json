@@ -1,16 +1,16 @@
 {
   "title": "Strathy Point Miniature Lighthouse",
   "meta": {
+    "gps": {
+      "lat": 58.59836111111111,
+      "long": -4.017972222222222
+    },
     "location": "Strathy Point",
     "tags": [
       "Landscape",
       "Lighthouse"
     ],
-    "gps": {
-      "lat": 58.59836111111111,
-      "long": -4.017972222222222
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

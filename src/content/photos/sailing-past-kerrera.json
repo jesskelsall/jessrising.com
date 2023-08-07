@@ -1,16 +1,16 @@
 {
   "title": "Sailing Past Kerrera",
   "meta": {
+    "gps": {
+      "lat": 56.42954722222222,
+      "long": -5.502380555555556
+    },
     "location": "Firth of Lorn",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 56.42954722222222,
-      "long": -5.502380555555556
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

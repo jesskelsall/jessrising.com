@@ -1,17 +1,17 @@
 {
   "title": "Service Across Ribblehead Viaduct",
   "meta": {
+    "gps": {
+      "lat": 54.218425,
+      "long": -2.4072916666666666
+    },
     "location": "Ribblehead Viaduct",
     "tags": [
       "Landscape",
       "Viaduct",
       "Rail"
     ],
-    "gps": {
-      "lat": 54.218425,
-      "long": -2.4072916666666666
-    },
-    "trip": null
+    "trip": "2023-01-15-ribblehead-viaduct-whernside"
   },
   "exif": {
     "camera": {

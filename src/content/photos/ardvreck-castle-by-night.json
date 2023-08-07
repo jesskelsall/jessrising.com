@@ -5,14 +5,9 @@
     "tags": [
       "Astro"
     ],
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
-    "date": "2023-04-20T00:16:34.000+01:00",
-    "dimensions": {
-      "height": 2829,
-      "width": 4251
-    },
     "camera": {
       "name": "Sony ɑ550",
       "lens": "Samyang 1:28 10mm ED AS NCS CS",
@@ -21,6 +16,11 @@
         "exposureTime": 30,
         "ISO": 800
       }
+    },
+    "date": "2023-04-20T00:16:34.000+01:00",
+    "dimensions": {
+      "height": 2829,
+      "width": 4251
     }
   }
 }

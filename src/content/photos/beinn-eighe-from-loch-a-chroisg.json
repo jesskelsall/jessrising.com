@@ -1,6 +1,10 @@
 {
   "title": "Beinn Eighe from Loch a'Chroisg",
   "meta": {
+    "gps": {
+      "lat": 57.578922222222225,
+      "long": -5.106208333333333
+    },
     "location": "Loch a'Chroisg",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Clouds",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.578922222222225,
-      "long": -5.106208333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

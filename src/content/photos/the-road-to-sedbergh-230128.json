@@ -1,16 +1,16 @@
 {
   "title": "The Road to Sedbergh",
   "meta": {
+    "gps": {
+      "lat": 54.42805,
+      "long": -2.3783527777777778
+    },
     "location": "Howgill Fells",
     "tags": [
       "Landscape",
       "Road"
     ],
-    "gps": {
-      "lat": 54.42805,
-      "long": -2.3783527777777778
-    },
-    "trip": null
+    "trip": "2023-01-28-the-winter-cumbrian-mountain-express"
   },
   "exif": {
     "camera": {

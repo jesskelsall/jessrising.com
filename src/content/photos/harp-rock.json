@@ -1,16 +1,16 @@
 {
   "title": "Harp Rock",
   "meta": {
+    "gps": {
+      "lat": 56.491797222222225,
+      "long": -6.426175000000001
+    },
     "location": "Isle of Lunga",
     "tags": [
       "Landscape",
       "Bird"
     ],
-    "gps": {
-      "lat": 56.491797222222225,
-      "long": -6.426175000000001
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

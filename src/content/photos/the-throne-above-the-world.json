@@ -1,16 +1,16 @@
 {
   "title": "The Throne Above the World",
   "meta": {
+    "gps": {
+      "lat": 58.11354166666667,
+      "long": -5.128394444444444
+    },
     "location": "Suilven",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 58.11354166666667,
-      "long": -5.128394444444444
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

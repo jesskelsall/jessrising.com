@@ -1,16 +1,16 @@
 {
   "title": "Tràigh an t-Suidhe",
   "meta": {
+    "gps": {
+      "lat": 56.34769444444445,
+      "long": -6.392522222222222
+    },
     "location": "Isle of Iona",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 56.34769444444445,
-      "long": -6.392522222222222
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

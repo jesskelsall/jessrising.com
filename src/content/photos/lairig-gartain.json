@@ -1,16 +1,16 @@
 {
   "title": "Lairig Gartain",
   "meta": {
+    "gps": {
+      "lat": 56.663977777777774,
+      "long": -4.904691666666667
+    },
     "location": "Lagangarbh",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.663977777777774,
-      "long": -4.904691666666667
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

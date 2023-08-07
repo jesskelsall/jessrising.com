@@ -1,16 +1,16 @@
 {
   "title": "River Etive Mouth",
   "meta": {
+    "gps": {
+      "lat": 56.56169444444444,
+      "long": -5.074427777777777
+    },
     "location": "Loch Etive",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 56.56169444444444,
-      "long": -5.074427777777777
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

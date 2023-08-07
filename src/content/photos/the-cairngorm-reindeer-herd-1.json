@@ -1,17 +1,17 @@
 {
   "title": "The Cairngorm Reindeer Herd",
   "meta": {
+    "gps": {
+      "lat": 57.145125,
+      "long": -3.684216666666667
+    },
     "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
       "Reindeer",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.145125,
-      "long": -3.684216666666667
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

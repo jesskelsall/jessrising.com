@@ -1,16 +1,16 @@
 {
   "title": "Stob Dearg",
   "meta": {
+    "gps": {
+      "lat": 56.65320833333333,
+      "long": -4.8625
+    },
     "location": "Kingshouse Hotel",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.65320833333333,
-      "long": -4.8625
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

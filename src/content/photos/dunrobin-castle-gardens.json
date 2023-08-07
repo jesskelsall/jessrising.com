@@ -1,16 +1,16 @@
 {
   "title": "Dunrobin Castle Gardens",
   "meta": {
+    "gps": {
+      "lat": 57.980675000000005,
+      "long": -3.9435305555555558
+    },
     "location": "Dunrobin Castle",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 57.980675000000005,
-      "long": -3.9435305555555558
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Ascending the Wintry Dales",
   "meta": {
+    "gps": {
+      "lat": 54.23815555555556,
+      "long": -2.3772194444444446
+    },
     "location": "Whernside",
     "tags": [
       "Landscape",
       "Clouds",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.23815555555556,
-      "long": -2.3772194444444446
-    },
-    "trip": null
+    "trip": "2023-01-15-ribblehead-viaduct-whernside"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Inchina",
   "meta": {
+    "gps": {
+      "lat": 57.86313333333334,
+      "long": -5.438236111111111
+    },
     "location": "Gruinard Bay",
     "tags": [
       "Landscape",
       "White House"
     ],
-    "gps": {
-      "lat": 57.86313333333334,
-      "long": -5.438236111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

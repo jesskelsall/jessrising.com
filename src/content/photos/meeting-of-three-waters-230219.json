@@ -1,17 +1,17 @@
 {
   "title": "Meeting of Three Waters",
   "meta": {
+    "gps": {
+      "lat": 56.662413888888885,
+      "long": -4.966355555555555
+    },
     "location": "Meeting of Three Waters",
     "tags": [
       "Landscape",
       "Waterfall",
       "Clouds"
     ],
-    "gps": {
-      "lat": 56.662413888888885,
-      "long": -4.966355555555555
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

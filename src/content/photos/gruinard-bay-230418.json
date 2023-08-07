@@ -1,16 +1,16 @@
 {
   "title": "Gruinard Bay",
   "meta": {
+    "gps": {
+      "lat": 57.853211111111115,
+      "long": -5.472975
+    },
     "location": "Gruinard Bay",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 57.853211111111115,
-      "long": -5.472975
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

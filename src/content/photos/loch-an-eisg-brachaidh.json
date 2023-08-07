@@ -1,17 +1,17 @@
 {
   "title": "Loch an Èisg Brachaidh",
   "meta": {
+    "gps": {
+      "lat": 58.102986111111115,
+      "long": -5.268041666666667
+    },
     "location": "Lochinver",
     "tags": [
       "Landscape",
       "Loch",
       "Gorse"
     ],
-    "gps": {
-      "lat": 58.102986111111115,
-      "long": -5.268041666666667
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

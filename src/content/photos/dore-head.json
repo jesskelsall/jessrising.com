@@ -1,15 +1,15 @@
 {
   "title": "Dore Head",
   "meta": {
-    "location": "Dore Head",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.475300000000004,
       "long": -3.275863888888889
     },
-    "trip": null
+    "location": "Dore Head",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-07-mosedale-horseshoe"
   },
   "exif": {
     "camera": {

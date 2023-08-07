@@ -1,16 +1,16 @@
 {
   "title": "The Herdwick Experience",
   "meta": {
+    "gps": {
+      "lat": 54.390975,
+      "long": -3.052561111111111
+    },
     "location": "Yew Tree Farm",
     "tags": [
       "Landscape",
       "Sheep"
     ],
-    "gps": {
-      "lat": 54.390975,
-      "long": -3.052561111111111
-    },
-    "trip": null
+    "trip": "2023-04-29-herdwick-experience"
   },
   "exif": {
     "camera": {

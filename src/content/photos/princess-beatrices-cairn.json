@@ -1,16 +1,16 @@
 {
   "title": "Princess Beatrice's Cairn",
   "meta": {
+    "gps": {
+      "lat": 57.02968611111111,
+      "long": -3.216086111111111
+    },
     "location": "Balmoral",
     "tags": [
       "Landscape",
       "Cairn"
     ],
-    "gps": {
-      "lat": 57.02968611111111,
-      "long": -3.216086111111111
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

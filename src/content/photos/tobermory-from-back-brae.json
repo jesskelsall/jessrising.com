@@ -1,15 +1,15 @@
 {
   "title": "Tobermory From Back Brae",
   "meta": {
-    "location": "Tobermory",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.62306111111111,
       "long": -6.067172222222222
     },
-    "trip": null
+    "location": "Tobermory",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

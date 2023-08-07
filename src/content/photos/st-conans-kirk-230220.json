@@ -1,16 +1,16 @@
 {
   "title": "St Conan's Kirk",
   "meta": {
+    "gps": {
+      "lat": 56.39490555555555,
+      "long": -5.054172222222222
+    },
     "location": "St Conan's Kirk",
     "tags": [
       "Interior",
       "Church/Cathedral"
     ],
-    "gps": {
-      "lat": 56.39490555555555,
-      "long": -5.054172222222222
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

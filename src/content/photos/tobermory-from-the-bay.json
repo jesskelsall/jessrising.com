@@ -1,16 +1,16 @@
 {
   "title": "Tobermory From the Bay",
   "meta": {
+    "gps": {
+      "lat": 56.620422222222224,
+      "long": -6.064327777777778
+    },
     "location": "Tobermory",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "gps": {
-      "lat": 56.620422222222224,
-      "long": -6.064327777777778
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

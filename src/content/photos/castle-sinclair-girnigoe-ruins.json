@@ -1,6 +1,10 @@
 {
   "title": "Castle Sinclair Girnigoe Ruins",
   "meta": {
+    "gps": {
+      "lat": 58.47767777777778,
+      "long": -3.068080555555556
+    },
     "location": "Noss Head",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Ruin",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.47767777777778,
-      "long": -3.068080555555556
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

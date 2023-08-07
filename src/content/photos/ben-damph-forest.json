@@ -1,16 +1,16 @@
 {
   "title": "Ben-damph Forest",
   "meta": {
+    "gps": {
+      "lat": 57.515883333333335,
+      "long": -5.475033333333333
+    },
     "location": "Ben-damph Forest",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 57.515883333333335,
-      "long": -5.475033333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

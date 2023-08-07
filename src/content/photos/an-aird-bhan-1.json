@@ -1,16 +1,16 @@
 {
   "title": "An Àird Bhàn",
   "meta": {
+    "gps": {
+      "lat": 57.38847777777778,
+      "long": -5.827961111111111
+    },
     "location": "An Àird Bhàn",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 57.38847777777778,
-      "long": -5.827961111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

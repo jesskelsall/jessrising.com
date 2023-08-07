@@ -1,16 +1,16 @@
 {
   "title": "Razorbills",
   "meta": {
+    "gps": {
+      "lat": 56.49197777777778,
+      "long": -6.425622222222223
+    },
     "location": "Isle of Lunga",
     "tags": [
       "Landscape",
       "Bird"
     ],
-    "gps": {
-      "lat": 56.49197777777778,
-      "long": -6.425622222222223
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

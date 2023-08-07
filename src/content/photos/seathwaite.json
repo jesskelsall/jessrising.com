@@ -1,17 +1,17 @@
 {
   "title": "Seathwaite",
   "meta": {
+    "gps": {
+      "lat": 54.49901666666667,
+      "long": -3.1822916666666665
+    },
     "location": "Seathwaite",
     "tags": [
       "Landscape",
       "Clouds",
       "White House"
     ],
-    "gps": {
-      "lat": 54.49901666666667,
-      "long": -3.1822916666666665
-    },
-    "trip": null
+    "trip": "2023-05-01-base-brown-green-gable"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "As Still Skies or Storms Unfold",
   "meta": {
+    "gps": {
+      "lat": 57.17279166666666,
+      "long": -3.2354694444444445
+    },
     "location": "Tomintoul",
     "tags": [
       "Landscape",
       "Snow",
       "Castle"
     ],
-    "gps": {
-      "lat": 57.17279166666666,
-      "long": -3.2354694444444445
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

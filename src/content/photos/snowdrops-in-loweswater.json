@@ -1,15 +1,15 @@
 {
   "title": "Snowdrops in Loweswater",
   "meta": {
-    "location": "Loweswater",
-    "tags": [
-      "Flowers"
-    ],
     "gps": {
       "lat": 54.57591666666667,
       "long": -3.3302888888888886
     },
-    "trip": null
+    "location": "Loweswater",
+    "tags": [
+      "Flowers"
+    ],
+    "trip": "2023-02-11-burnbank-fell-blake-fell-gavel-fell-hen-comb"
   },
   "exif": {
     "camera": {

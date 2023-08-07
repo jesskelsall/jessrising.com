@@ -1,16 +1,16 @@
 {
   "title": "Ravenstonedale Common",
   "meta": {
+    "gps": {
+      "lat": 54.43748055555555,
+      "long": -2.40855
+    },
     "location": "Howgill Fells",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.43748055555555,
-      "long": -2.40855
-    },
-    "trip": null
+    "trip": "2023-01-22-wast-water"
   },
   "exif": {
     "camera": {

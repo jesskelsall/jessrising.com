@@ -1,17 +1,17 @@
 {
   "title": "Poolewe from Inverewe Garden",
   "meta": {
+    "gps": {
+      "lat": 57.77546666666667,
+      "long": -5.607419444444444
+    },
     "location": "Inverewe Garden",
     "tags": [
       "Landscape",
       "Loch",
       "Gorse"
     ],
-    "gps": {
-      "lat": 57.77546666666667,
-      "long": -5.607419444444444
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

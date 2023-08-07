@@ -1,16 +1,16 @@
 {
   "title": "Coastline to Coll",
   "meta": {
+    "gps": {
+      "lat": 56.72506388888889,
+      "long": -6.225433333333333
+    },
     "location": "Point of Ardnamurchan",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 56.72506388888889,
-      "long": -6.225433333333333
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

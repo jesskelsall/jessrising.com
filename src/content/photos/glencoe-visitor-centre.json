@@ -1,16 +1,16 @@
 {
   "title": "Glencoe Visitor Centre",
   "meta": {
+    "gps": {
+      "lat": 56.67095277777778,
+      "long": -5.081488888888889
+    },
     "location": "Glen Coe",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 56.67095277777778,
-      "long": -5.081488888888889
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

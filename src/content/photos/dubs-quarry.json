@@ -1,16 +1,16 @@
 {
   "title": "Dubs Quarry",
   "meta": {
+    "gps": {
+      "lat": 54.509772222222225,
+      "long": -3.2220694444444447
+    },
     "location": "Fleetwith",
     "tags": [
       "Landscape",
       "Ruin"
     ],
-    "gps": {
-      "lat": 54.509772222222225,
-      "long": -3.2220694444444447
-    },
-    "trip": null
+    "trip": "2023-03-26-grey-knotts-brandreth"
   },
   "exif": {
     "camera": {

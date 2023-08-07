@@ -1,16 +1,16 @@
 {
   "title": "Down Into the Forest",
   "meta": {
+    "gps": {
+      "lat": 56.74287777777778,
+      "long": -5.557683333333333
+    },
     "location": "Sunart",
     "tags": [
       "Landscape",
       "Forest"
     ],
-    "gps": {
-      "lat": 56.74287777777778,
-      "long": -5.557683333333333
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

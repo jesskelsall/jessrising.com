@@ -1,15 +1,15 @@
 {
   "title": "The View Around White Crag",
   "meta": {
-    "location": "Mellbreak",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.56673055555556,
       "long": -3.326569444444444
     },
-    "trip": null
+    "location": "Mellbreak",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-07-mellbreak"
   },
   "exif": {
     "camera": {

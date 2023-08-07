@@ -1,16 +1,16 @@
 {
   "title": "Loch Mallachie Island",
   "meta": {
+    "gps": {
+      "lat": 57.235169444444445,
+      "long": -3.7148111111111115
+    },
     "location": "Loch Mallachie",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.235169444444445,
-      "long": -3.7148111111111115
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

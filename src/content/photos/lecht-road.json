@@ -1,17 +1,17 @@
 {
   "title": "Lecht Road",
   "meta": {
+    "gps": {
+      "lat": 57.19016944444444,
+      "long": -3.2388694444444446
+    },
     "location": "Tomintoul",
     "tags": [
       "Landscape",
       "Snow",
       "Road"
     ],
-    "gps": {
-      "lat": 57.19016944444444,
-      "long": -3.2388694444444446
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

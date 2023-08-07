@@ -1,17 +1,17 @@
 {
   "title": "Loweswater Church",
   "meta": {
+    "gps": {
+      "lat": 54.57663055555556,
+      "long": -3.330172222222222
+    },
     "location": "Loweswater",
     "tags": [
       "Landscape",
       "Church/Cathedral",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.57663055555556,
-      "long": -3.330172222222222
-    },
-    "trip": null
+    "trip": "2023-05-07-mellbreak"
   },
   "exif": {
     "camera": {

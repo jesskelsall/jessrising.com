@@ -1,16 +1,16 @@
 {
   "title": "Penrhyn Castle Grand Staircase Ground Floor",
   "meta": {
+    "gps": {
+      "lat": 53.225341666666665,
+      "long": -4.094844444444444
+    },
     "location": "Penrhyn Castle",
     "tags": [
       "Interior",
       "Castle"
     ],
-    "gps": {
-      "lat": 53.225341666666665,
-      "long": -4.094844444444444
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

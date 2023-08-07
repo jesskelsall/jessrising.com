@@ -1,16 +1,16 @@
 {
   "title": "Burn O'Vat",
   "meta": {
+    "gps": {
+      "lat": 57.08388611111111,
+      "long": -2.9503055555555555
+    },
     "location": "Muir of Dinnet",
     "tags": [
       "Landscape",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 57.08388611111111,
-      "long": -2.9503055555555555
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

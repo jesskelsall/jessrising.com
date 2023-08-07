@@ -1,15 +1,15 @@
 {
   "title": "Greendale Junction",
   "meta": {
-    "location": "Wast Water",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.43685833333333,
       "long": -3.310344444444444
     },
-    "trip": null
+    "location": "Wast Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-01-22-wast-water"
   },
   "exif": {
     "camera": {

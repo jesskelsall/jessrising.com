@@ -1,15 +1,15 @@
 {
   "title": "Dunrobin Castle Clocktower",
   "meta": {
-    "location": "Dunrobin Castle",
-    "tags": [
-      "Castle"
-    ],
     "gps": {
       "lat": 57.982175000000005,
       "long": -3.945875
     },
-    "trip": null
+    "location": "Dunrobin Castle",
+    "tags": [
+      "Castle"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

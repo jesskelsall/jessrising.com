@@ -1,16 +1,16 @@
 {
   "title": "Lagangarbh",
   "meta": {
+    "gps": {
+      "lat": 56.6627,
+      "long": -4.902761111111111
+    },
     "location": "Lagangarbh",
     "tags": [
       "Landscape",
       "White House"
     ],
-    "gps": {
-      "lat": 56.6627,
-      "long": -4.902761111111111
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

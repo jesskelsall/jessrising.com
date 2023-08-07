@@ -1,16 +1,16 @@
 {
   "title": "Boundary Post Above the Snow",
   "meta": {
+    "gps": {
+      "lat": 54.515725,
+      "long": -3.2731777777777777
+    },
     "location": "High Crag",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.515725,
-      "long": -3.2731777777777777
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

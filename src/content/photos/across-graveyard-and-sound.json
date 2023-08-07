@@ -1,15 +1,15 @@
 {
   "title": "Across Graveyard and Sound",
   "meta": {
-    "location": "Iona Abbey",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.33421388888889,
       "long": -6.3934500000000005
     },
-    "trip": null
+    "location": "Iona Abbey",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

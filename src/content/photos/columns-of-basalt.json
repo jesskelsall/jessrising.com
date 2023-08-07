@@ -1,15 +1,15 @@
 {
   "title": "Columns of Basalt",
   "meta": {
-    "location": "Isle of Staffa",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.431327777777774,
       "long": -6.341397222222222
     },
-    "trip": null
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

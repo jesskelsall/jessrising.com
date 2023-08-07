@@ -1,15 +1,15 @@
 {
   "title": "Tobermory",
   "meta": {
-    "location": "Tobermory",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.620777777777775,
       "long": -6.067772222222222
     },
-    "trip": null
+    "location": "Tobermory",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

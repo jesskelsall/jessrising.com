@@ -1,16 +1,16 @@
 {
   "title": "Hawthornbank Lane",
   "meta": {
+    "gps": {
+      "lat": 55.952075,
+      "long": -3.217227777777778
+    },
     "location": "Water of Leith",
     "tags": [
       "Landscape",
       "Street"
     ],
-    "gps": {
-      "lat": 55.952075,
-      "long": -3.217227777777778
-    },
-    "trip": null
+    "trip": "2023-01-10-edinburgh"
   },
   "exif": {
     "camera": {

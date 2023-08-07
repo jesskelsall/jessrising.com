@@ -1,16 +1,16 @@
 {
   "title": "Loch Carron Bench",
   "meta": {
+    "gps": {
+      "lat": 57.41343611111111,
+      "long": -5.472933333333334
+    },
     "location": "Loch Carron",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 57.41343611111111,
-      "long": -5.472933333333334
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

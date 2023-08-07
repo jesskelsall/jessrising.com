@@ -1,16 +1,16 @@
 {
   "title": "Remains of Ruthven Barracks",
   "meta": {
+    "gps": {
+      "lat": 57.072247222222224,
+      "long": -4.039894444444444
+    },
     "location": "Ruthven Barracks",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.072247222222224,
-      "long": -4.039894444444444
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

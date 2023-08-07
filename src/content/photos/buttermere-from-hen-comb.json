@@ -1,16 +1,16 @@
 {
   "title": "Buttermere from Hen Comb",
   "meta": {
+    "gps": {
+      "lat": 54.550974999999994,
+      "long": -3.3426833333333335
+    },
     "location": "Hen Comb",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.550974999999994,
-      "long": -3.3426833333333335
-    },
-    "trip": null
+    "trip": "2023-02-11-burnbank-fell-blake-fell-gavel-fell-hen-comb"
   },
   "exif": {
     "camera": {

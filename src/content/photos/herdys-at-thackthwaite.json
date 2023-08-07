@@ -1,16 +1,16 @@
 {
   "title": "Herdys at Thackthwaite",
   "meta": {
+    "gps": {
+      "lat": 54.60148888888889,
+      "long": -3.328433333333333
+    },
     "location": "Low Fell",
     "tags": [
       "Landscape",
       "Sheep"
     ],
-    "gps": {
-      "lat": 54.60148888888889,
-      "long": -3.328433333333333
-    },
-    "trip": null
+    "trip": "2023-02-12-fellbarrow-low-fell"
   },
   "exif": {
     "camera": {

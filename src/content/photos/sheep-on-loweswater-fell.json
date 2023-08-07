@@ -1,16 +1,16 @@
 {
   "title": "Sheep on Loweswater Fell",
   "meta": {
+    "gps": {
+      "lat": 54.566538888888886,
+      "long": -3.341775
+    },
     "location": "Hen Comb",
     "tags": [
       "Landscape",
       "Sheep"
     ],
-    "gps": {
-      "lat": 54.566538888888886,
-      "long": -3.341775
-    },
-    "trip": null
+    "trip": "2023-02-11-burnbank-fell-blake-fell-gavel-fell-hen-comb"
   },
   "exif": {
     "camera": {

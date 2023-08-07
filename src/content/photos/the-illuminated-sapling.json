@@ -1,16 +1,16 @@
 {
   "title": "The Illuminated Sapling",
   "meta": {
+    "gps": {
+      "lat": 57.24319722222222,
+      "long": -3.729702777777778
+    },
     "location": "Abernethy Forest",
     "tags": [
       "Landscape",
       "Forest"
     ],
-    "gps": {
-      "lat": 57.24319722222222,
-      "long": -3.729702777777778
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

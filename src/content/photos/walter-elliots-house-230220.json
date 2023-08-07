@@ -1,6 +1,10 @@
 {
   "title": "Walter Elliot's House",
   "meta": {
+    "gps": {
+      "lat": 56.66458611111111,
+      "long": -5.037111111111111
+    },
     "location": "Loch Achtriochtan",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Waterfall",
       "White House"
     ],
-    "gps": {
-      "lat": 56.66458611111111,
-      "long": -5.037111111111111
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

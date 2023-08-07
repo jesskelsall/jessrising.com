@@ -1,16 +1,16 @@
 {
   "title": "Llandudno Pier",
   "meta": {
+    "gps": {
+      "lat": 53.33003888888889,
+      "long": -3.829711111111111
+    },
     "location": "Llandudno",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 53.33003888888889,
-      "long": -3.829711111111111
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

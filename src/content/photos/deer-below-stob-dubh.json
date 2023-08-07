@@ -1,6 +1,10 @@
 {
   "title": "Deer Below Stob Dubh",
   "meta": {
+    "gps": {
+      "lat": 56.599586111111115,
+      "long": -5.017275
+    },
     "location": "Lochan Urr",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Waterfall",
       "Deer"
     ],
-    "gps": {
-      "lat": 56.599586111111115,
-      "long": -5.017275
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

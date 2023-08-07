@@ -1,16 +1,16 @@
 {
   "title": "Dunrobin Castle",
   "meta": {
+    "gps": {
+      "lat": 57.98181944444445,
+      "long": -3.9426750000000004
+    },
     "location": "Dunrobin Castle",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "gps": {
-      "lat": 57.98181944444445,
-      "long": -3.9426750000000004
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

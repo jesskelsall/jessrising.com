@@ -1,16 +1,16 @@
 {
   "title": "Badentarbat Bay",
   "meta": {
+    "gps": {
+      "lat": 58.03116111111111,
+      "long": -5.369361111111111
+    },
     "location": "Assynt-Coigach",
     "tags": [
       "Landscape",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.03116111111111,
-      "long": -5.369361111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Glen Etive Forest",
   "meta": {
+    "gps": {
+      "lat": 56.60466666666667,
+      "long": -5.012291666666667
+    },
     "location": "Glen Etive Forest",
     "tags": [
       "Landscape",
       "Snow",
       "Sunrise/Sunset"
     ],
-    "gps": {
-      "lat": 56.60466666666667,
-      "long": -5.012291666666667
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

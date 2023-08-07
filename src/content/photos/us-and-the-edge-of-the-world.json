@@ -1,16 +1,16 @@
 {
   "title": "Us and the Edge of the World",
   "meta": {
+    "gps": {
+      "lat": 53.307761111111105,
+      "long": -4.693627777777778
+    },
     "location": "South Stack",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 53.307761111111105,
-      "long": -4.693627777777778
-    },
-    "trip": null
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

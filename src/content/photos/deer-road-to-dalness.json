@@ -1,6 +1,10 @@
 {
   "title": "Deer Road to Dalness",
   "meta": {
+    "gps": {
+      "lat": 56.60763055555556,
+      "long": -5.008461111111111
+    },
     "location": "Glen Etive",
     "tags": [
       "Landscape",
@@ -9,11 +13,7 @@
       "Deer",
       "Road"
     ],
-    "gps": {
-      "lat": 56.60763055555556,
-      "long": -5.008461111111111
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

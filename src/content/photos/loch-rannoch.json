@@ -1,16 +1,16 @@
 {
   "title": "Loch Rannoch",
   "meta": {
+    "gps": {
+      "lat": 56.70384166666667,
+      "long": -4.230655555555556
+    },
     "location": "Loch Rannoch",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 56.70384166666667,
-      "long": -4.230655555555556
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Kishorn Dry Dock",
   "meta": {
+    "gps": {
+      "lat": 57.400555555555556,
+      "long": -5.650102777777778
+    },
     "location": "Bealach na Bà",
     "tags": [
       "Landscape",
       "Loch",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.400555555555556,
-      "long": -5.650102777777778
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

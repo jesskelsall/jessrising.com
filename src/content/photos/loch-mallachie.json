@@ -1,17 +1,17 @@
 {
   "title": "Loch Mallachie",
   "meta": {
+    "gps": {
+      "lat": 57.236336111111115,
+      "long": -3.717802777777778
+    },
     "location": "Loch Mallachie",
     "tags": [
       "Landscape",
       "Loch",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.236336111111115,
-      "long": -3.717802777777778
-    },
-    "trip": null
+    "trip": "2023-01-06-cairngorms-loch-rannoch"
   },
   "exif": {
     "camera": {

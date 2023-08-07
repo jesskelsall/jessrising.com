@@ -1,16 +1,16 @@
 {
   "title": "Ribblehead Viaduct",
   "meta": {
+    "gps": {
+      "lat": 54.21084166666667,
+      "long": -2.373222222222222
+    },
     "location": "Ribblehead Viaduct",
     "tags": [
       "Landscape",
       "Viaduct"
     ],
-    "gps": {
-      "lat": 54.21084166666667,
-      "long": -2.373222222222222
-    },
-    "trip": null
+    "trip": "2023-01-15-ribblehead-viaduct-whernside"
   },
   "exif": {
     "camera": {

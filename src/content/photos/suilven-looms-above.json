@@ -1,15 +1,15 @@
 {
   "title": "Suilven Looms Above",
   "meta": {
-    "location": "Suilven",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 58.13045555555556,
       "long": -5.113655555555555
     },
-    "trip": null
+    "location": "Suilven",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

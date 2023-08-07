@@ -1,17 +1,17 @@
 {
   "title": "Crow and Castle",
   "meta": {
+    "gps": {
+      "lat": 56.42299166666666,
+      "long": -5.4840583333333335
+    },
     "location": "Oban",
     "tags": [
       "Landscape",
       "Castle",
       "Coast"
     ],
-    "gps": {
-      "lat": 56.42299166666666,
-      "long": -5.4840583333333335
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

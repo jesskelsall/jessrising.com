@@ -1,15 +1,15 @@
 {
   "title": "Penrhyn Castle Exterior",
   "meta": {
-    "location": "Penrhyn Castle",
-    "tags": [
-      "Castle"
-    ],
     "gps": {
       "lat": 53.22536111111111,
       "long": -4.094158333333333
     },
-    "trip": null
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Castle"
+    ],
+    "trip": "2023-03-03-north-wales"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Duncansby Head",
   "meta": {
+    "gps": {
+      "lat": 58.635875,
+      "long": -3.033511111111111
+    },
     "location": "Duncansby Head",
     "tags": [
       "Landscape",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.635875,
-      "long": -3.033511111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

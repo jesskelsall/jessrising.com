@@ -1,17 +1,17 @@
 {
   "title": "Stockley Bridge",
   "meta": {
+    "gps": {
+      "lat": 54.48793333333334,
+      "long": -3.182947222222222
+    },
     "location": "Seathwaite",
     "tags": [
       "Landscape",
       "Bridge",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 54.48793333333334,
-      "long": -3.182947222222222
-    },
-    "trip": null
+    "trip": "2023-05-01-base-brown-green-gable"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Demarcated Mountain",
   "meta": {
+    "gps": {
+      "lat": 58.11403611111111,
+      "long": -5.1301
+    },
     "location": "Suilven",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "gps": {
-      "lat": 58.11403611111111,
-      "long": -5.1301
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

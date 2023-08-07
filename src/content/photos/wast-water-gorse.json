@@ -1,16 +1,16 @@
 {
   "title": "Wast Water Gorse",
   "meta": {
+    "gps": {
+      "lat": 54.45047777777778,
+      "long": -3.2832416666666666
+    },
     "location": "Wast Water",
     "tags": [
       "Landscape",
       "Gorse"
     ],
-    "gps": {
-      "lat": 54.45047777777778,
-      "long": -3.2832416666666666
-    },
-    "trip": null
+    "trip": "2023-04-07-mosedale-horseshoe"
   },
   "exif": {
     "camera": {

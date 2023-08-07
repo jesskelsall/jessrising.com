@@ -1,16 +1,16 @@
 {
   "title": "Glassy Buttermere",
   "meta": {
+    "gps": {
+      "lat": 54.532925,
+      "long": -3.2753277777777776
+    },
     "location": "Buttermere",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.532925,
-      "long": -3.2753277777777776
-    },
-    "trip": null
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

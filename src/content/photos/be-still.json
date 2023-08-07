@@ -1,16 +1,16 @@
 {
   "title": "Be Still",
   "meta": {
+    "gps": {
+      "lat": 56.33511388888889,
+      "long": -6.391652777777778
+    },
     "location": "Iona Abbey",
     "tags": [
       "Interior",
       "Church/Cathedral"
     ],
-    "gps": {
-      "lat": 56.33511388888889,
-      "long": -6.391652777777778
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

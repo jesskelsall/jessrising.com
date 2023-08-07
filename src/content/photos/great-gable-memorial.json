@@ -1,15 +1,15 @@
 {
   "title": "Great Gable Memorial",
   "meta": {
-    "location": "Great Gable",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.48213611111111,
       "long": -3.2192194444444446
     },
-    "trip": null
+    "location": "Great Gable",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-02-kirk-fell-great-gable"
   },
   "exif": {
     "camera": {

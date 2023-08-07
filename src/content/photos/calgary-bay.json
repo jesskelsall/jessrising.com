@@ -1,15 +1,15 @@
 {
   "title": "Calgary Bay",
   "meta": {
-    "location": "Calgary Bay",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.58121944444445,
       "long": -6.286866666666667
     },
-    "trip": null
+    "location": "Calgary Bay",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

@@ -1,16 +1,16 @@
 {
   "title": "Inverewe Garden Trees",
   "meta": {
+    "gps": {
+      "lat": 57.775330555555556,
+      "long": -5.602916666666666
+    },
     "location": "Inverewe Garden",
     "tags": [
       "Landscape",
       "Forest"
     ],
-    "gps": {
-      "lat": 57.775330555555556,
-      "long": -5.602916666666666
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

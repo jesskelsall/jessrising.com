@@ -1,6 +1,10 @@
 {
   "title": "Snowy Slopes and Ribblehead Viaduct",
   "meta": {
+    "gps": {
+      "lat": 54.23396388888889,
+      "long": -2.400863888888889
+    },
     "location": "Whernside",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Snow",
       "Clouds"
     ],
-    "gps": {
-      "lat": 54.23396388888889,
-      "long": -2.400863888888889
-    },
-    "trip": null
+    "trip": "2023-01-15-ribblehead-viaduct-whernside"
   },
   "exif": {
     "camera": {

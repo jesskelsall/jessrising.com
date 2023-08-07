@@ -1,16 +1,16 @@
 {
   "title": "Dunrobin Castle Staircase",
   "meta": {
+    "gps": {
+      "lat": 57.98208888888889,
+      "long": -3.945180555555556
+    },
     "location": "Dunrobin Castle",
     "tags": [
       "Interior",
       "Castle"
     ],
-    "gps": {
-      "lat": 57.98208888888889,
-      "long": -3.945180555555556
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

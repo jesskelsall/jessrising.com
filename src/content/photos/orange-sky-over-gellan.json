@@ -1,15 +1,15 @@
 {
   "title": "Orange Sky Over Gellan",
   "meta": {
-    "location": "Cromar",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 57.119369444444445,
       "long": -2.849530555555556
     },
-    "trip": null
+    "location": "Cromar",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

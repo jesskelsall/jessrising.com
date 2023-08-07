@@ -1,16 +1,16 @@
 {
   "title": "Moine House and Ben Loyal",
   "meta": {
+    "gps": {
+      "lat": 58.50365,
+      "long": -4.5448916666666666
+    },
     "location": "Sutherland",
     "tags": [
       "Landscape",
       "Ruin"
     ],
-    "gps": {
-      "lat": 58.50365,
-      "long": -4.5448916666666666
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

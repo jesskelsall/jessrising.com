@@ -1,17 +1,17 @@
 {
   "title": "Ardvreck Castle by Sunset",
   "meta": {
+    "gps": {
+      "lat": 58.16952777777777,
+      "long": -4.997875
+    },
     "location": "Ardvreck Castle",
     "tags": [
       "Landscape",
       "Sunrise/Sunset",
       "Loch"
     ],
-    "gps": {
-      "lat": 58.16952777777777,
-      "long": -4.997875
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,15 +1,15 @@
 {
   "title": "A Lake District Gate",
   "meta": {
-    "location": "Loweswater",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.567508333333336,
       "long": -3.3202
     },
-    "trip": null
+    "location": "Loweswater",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-07-mellbreak"
   },
   "exif": {
     "camera": {

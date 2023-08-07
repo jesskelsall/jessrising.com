@@ -1,16 +1,16 @@
 {
   "title": "Inverewe Garden Petals",
   "meta": {
+    "gps": {
+      "lat": 57.776580555555554,
+      "long": -5.601236111111111
+    },
     "location": "Inverewe Garden",
     "tags": [
       "Landscape",
       "Flowers"
     ],
-    "gps": {
-      "lat": 57.776580555555554,
-      "long": -5.601236111111111
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

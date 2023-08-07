@@ -1,17 +1,17 @@
 {
   "title": "Strathy Point Lighthouse",
   "meta": {
+    "gps": {
+      "lat": 58.59650833333333,
+      "long": -4.016183333333333
+    },
     "location": "Strathy Point",
     "tags": [
       "Landscape",
       "Lighthouse",
       "Coast"
     ],
-    "gps": {
-      "lat": 58.59650833333333,
-      "long": -4.016183333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

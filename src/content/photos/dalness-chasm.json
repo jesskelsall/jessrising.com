@@ -1,17 +1,17 @@
 {
   "title": "Dalness Chasm",
   "meta": {
+    "gps": {
+      "lat": 56.61688888888889,
+      "long": -4.947452777777778
+    },
     "location": "Glen Etive",
     "tags": [
       "Landscape",
       "Clouds",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 56.61688888888889,
-      "long": -4.947452777777778
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

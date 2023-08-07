@@ -1,16 +1,16 @@
 {
   "title": "Circus Lane under Rain",
   "meta": {
+    "gps": {
+      "lat": 55.95792777777778,
+      "long": -3.205416666666667
+    },
     "location": "Stockbridge",
     "tags": [
       "Landscape",
       "Street"
     ],
-    "gps": {
-      "lat": 55.95792777777778,
-      "long": -3.205416666666667
-    },
-    "trip": null
+    "trip": "2023-01-10-edinburgh"
   },
   "exif": {
     "camera": {

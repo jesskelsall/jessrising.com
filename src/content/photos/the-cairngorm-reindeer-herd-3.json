@@ -1,17 +1,17 @@
 {
   "title": "The Cairngorm Reindeer Herd",
   "meta": {
+    "gps": {
+      "lat": 57.144980555555556,
+      "long": -3.646338888888889
+    },
     "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
       "Reindeer",
       "Snow"
     ],
-    "gps": {
-      "lat": 57.144980555555556,
-      "long": -3.646338888888889
-    },
-    "trip": null
+    "trip": "2023-03-17-cairngorms-braemar"
   },
   "exif": {
     "camera": {

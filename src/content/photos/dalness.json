@@ -1,16 +1,16 @@
 {
   "title": "Dalness",
   "meta": {
+    "gps": {
+      "lat": 56.61401388888889,
+      "long": -4.9935527777777775
+    },
     "location": "Dalness",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "gps": {
-      "lat": 56.61401388888889,
-      "long": -4.9935527777777775
-    },
-    "trip": null
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {

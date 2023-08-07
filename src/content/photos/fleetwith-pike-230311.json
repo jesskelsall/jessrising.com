@@ -1,15 +1,15 @@
 {
   "title": "Fleetwith Pike",
   "meta": {
-    "location": "Buttermere",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.52525,
       "long": -3.2598861111111113
     },
-    "trip": null
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-03-11-buttermere-edge"
   },
   "exif": {
     "camera": {

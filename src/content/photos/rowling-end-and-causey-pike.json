@@ -1,15 +1,15 @@
 {
   "title": "Rowling End and Causey Pike",
   "meta": {
-    "location": "Cat Bells",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.580172222222224,
       "long": -3.166297222222222
     },
-    "trip": null
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-06-cat-bells"
   },
   "exif": {
     "camera": {

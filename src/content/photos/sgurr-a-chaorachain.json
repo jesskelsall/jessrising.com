@@ -1,16 +1,16 @@
 {
   "title": "Sgurr a' Chaorachain",
   "meta": {
+    "gps": {
+      "lat": 57.40898055555555,
+      "long": -5.640458333333333
+    },
     "location": "Bealach na Bà",
     "tags": [
       "Landscape",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 57.40898055555555,
-      "long": -5.640458333333333
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

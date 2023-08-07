@@ -1,15 +1,15 @@
 {
   "title": "Volcanic Mosaic",
   "meta": {
-    "location": "Isle of Staffa",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 56.432316666666665,
       "long": -6.339761111111111
     },
-    "trip": null
+    "location": "Isle of Staffa",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

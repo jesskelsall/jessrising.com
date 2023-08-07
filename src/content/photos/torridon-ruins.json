@@ -1,17 +1,17 @@
 {
   "title": "Torridon Ruins",
   "meta": {
+    "gps": {
+      "lat": 57.54723333333333,
+      "long": -5.518988888888889
+    },
     "location": "Torridon",
     "tags": [
       "Landscape",
       "Loch",
       "Ruin"
     ],
-    "gps": {
-      "lat": 57.54723333333333,
-      "long": -5.518988888888889
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

@@ -1,17 +1,17 @@
 {
   "title": "Sheep Above Sandwood Bay",
   "meta": {
+    "gps": {
+      "lat": 58.531055555555554,
+      "long": -5.0609416666666664
+    },
     "location": "Sandwood Bay",
     "tags": [
       "Landscape",
       "Sheep",
       "Beach"
     ],
-    "gps": {
-      "lat": 58.531055555555554,
-      "long": -5.0609416666666664
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

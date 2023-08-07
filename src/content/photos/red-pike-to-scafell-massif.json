@@ -1,15 +1,15 @@
 {
   "title": "Red Pike to Scafell Massif",
   "meta": {
-    "location": "Mosedale",
-    "tags": [
-      "Landscape"
-    ],
     "gps": {
       "lat": 54.48928055555556,
       "long": -3.29645
     },
-    "trip": null
+    "location": "Mosedale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-07-mosedale-horseshoe"
   },
   "exif": {
     "camera": {

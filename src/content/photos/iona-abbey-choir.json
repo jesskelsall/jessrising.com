@@ -1,16 +1,16 @@
 {
   "title": "Iona Abbey Choir",
   "meta": {
+    "gps": {
+      "lat": 56.33488055555556,
+      "long": -6.391469444444445
+    },
     "location": "Iona Abbey",
     "tags": [
       "Interior",
       "Church/Cathedral"
     ],
-    "gps": {
-      "lat": 56.33488055555556,
-      "long": -6.391469444444445
-    },
-    "trip": null
+    "trip": "2023-05-11-isle-of-mull"
   },
   "exif": {
     "camera": {

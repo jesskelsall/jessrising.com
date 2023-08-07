@@ -1,17 +1,17 @@
 {
   "title": "Blea Moor Signal Box",
   "meta": {
+    "gps": {
+      "lat": 54.22016111111111,
+      "long": -2.373136111111111
+    },
     "location": "Blea Moor",
     "tags": [
       "Landscape",
       "Rail",
       "Snow"
     ],
-    "gps": {
-      "lat": 54.22016111111111,
-      "long": -2.373136111111111
-    },
-    "trip": null
+    "trip": "2023-01-15-ribblehead-viaduct-whernside"
   },
   "exif": {
     "camera": {

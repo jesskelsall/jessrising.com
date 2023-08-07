@@ -1,15 +1,15 @@
 {
   "title": "Assynt Gorse",
   "meta": {
-    "location": "Assynt-Coigach",
-    "tags": [
-      "Gorse"
-    ],
     "gps": {
       "lat": 58.05705277777778,
       "long": -5.3101972222222225
     },
-    "trip": null
+    "location": "Assynt-Coigach",
+    "tags": [
+      "Gorse"
+    ],
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {

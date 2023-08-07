@@ -1,17 +1,17 @@
 {
   "title": "Herdys on Grike",
   "meta": {
+    "gps": {
+      "lat": 54.51372222222222,
+      "long": -3.408166666666667
+    },
     "location": "Ennerdale Fell",
     "tags": [
       "Landscape",
       "Sunrise/Sunset",
       "Sheep"
     ],
-    "gps": {
-      "lat": 54.51372222222222,
-      "long": -3.408166666666667
-    },
-    "trip": null
+    "trip": "2023-04-08-grike-crag-fell-lank-rigg"
   },
   "exif": {
     "camera": {

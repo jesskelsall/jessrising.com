@@ -1,6 +1,10 @@
 {
   "title": "Stepping Stones Below Maol Chean-dearg",
   "meta": {
+    "gps": {
+      "lat": 57.511525,
+      "long": -5.475466666666667
+    },
     "location": "Ben-damph Forest",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Snow",
       "Waterfall"
     ],
-    "gps": {
-      "lat": 57.511525,
-      "long": -5.475466666666667
-    },
-    "trip": null
+    "trip": "2023-04-14-north-coast-500"
   },
   "exif": {
     "camera": {
