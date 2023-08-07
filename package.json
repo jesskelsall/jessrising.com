@@ -10,6 +10,7 @@
   },
   "scripts": {
     "addphotos": "ts-node -P ./scripts/tsconfig.json ./scripts/addGalleryPhotos.ts",
+    "addtrip": "ts-node -P ./scripts/tsconfig.json ./scripts/addTrip.ts",
     "build": "next build",
     "dev": "npm run prebuild && next dev",
     "lint": "next lint --fix",

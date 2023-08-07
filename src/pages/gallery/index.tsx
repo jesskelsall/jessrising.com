@@ -59,10 +59,9 @@ export const getServerSideProps: GetServerSideProps<
     TripSlug.parse(trip)
   );
   const order: TOrder =
-    queryParamToStrings<TOrder>(query.order)[0] === "oldest"
+    queryParamToStrings<TOrder>(query.order)[0] || trips.length > 0
       ? "oldest"
       : "newest";
-
   const year: number | null = queryParamToIntegers(query.year)[0] || null;
   let month: number | null = queryParamToIntegers(query.month)[0] || null;
   if (month && (month < 1 || month > 12)) month = null;
@@ -161,7 +160,7 @@ const GalleryPage: NextPage<IProps> = ({
   const showFilter = (values: string[], singular: string, plural: string) => {
     if (!values.length) return undefined;
     const name = pluralise(singular, plural, values.length);
-    const valueList = values.sort().map(titleCase).join(", ");
+    const valueList = values.sort().join(", ");
 
     return (
       <h2>
@@ -181,8 +180,8 @@ const GalleryPage: NextPage<IProps> = ({
         <div className="gallery-heading">
           <div>
             <h1>Gallery</h1>
-            {showFilter(locations, "Location", "Locations")}
-            {showFilter(tags, "Tag", "Tags")}
+            {showFilter(locations.map(titleCase), "Location", "Locations")}
+            {showFilter(tags.map(titleCase), "Tag", "Tags")}
             {showFilter(displayTrips, "Trip", "Trips")}
             {(month || year) && (
               <h2>

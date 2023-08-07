@@ -1,3 +1,4 @@
+import { orderBy } from "lodash/fp";
 import { GetStaticProps, NextPage } from "next";
 import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { TripPreview } from "../../components/Preview/Preview";
@@ -9,11 +10,15 @@ type PageProps = {
   trips: Trip[];
 };
 
-export const getStaticProps: GetStaticProps<PageProps> = async () => ({
-  props: {
-    trips: allTripsList,
-  },
-});
+export const getStaticProps: GetStaticProps<PageProps> = async () => {
+  const sortedTrips = orderBy(["dates.from"], ["desc"], allTripsList);
+
+  return {
+    props: {
+      trips: sortedTrips,
+    },
+  };
+};
 
 const TripsPage: NextPage<PageProps> = ({ trips }) => (
   <>
