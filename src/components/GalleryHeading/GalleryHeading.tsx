@@ -1,5 +1,6 @@
 import { DateTime } from "luxon";
 import Link from "next/link";
+import { APP_AUTHOR } from "../../consts/app";
 import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { SEPARATOR } from "../../consts/text";
 import { useGalleryPhoto } from "../../context/galleryPhoto";
@@ -7,6 +8,7 @@ import { allTripsDict } from "../../data/trips";
 import { dateFromString } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { getLocationHierarchy } from "../../functions/location";
+import { TagId } from "../../types/tag";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";
 import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
@@ -24,11 +26,19 @@ export const GalleryHeading = () => {
   const { exif, meta, settings, slug, title } = useGalleryPhoto();
   const { camera } = exif;
 
-  const date = dateFromString(exif.date) || null;
+  const date = dateFromString(exif.date);
   const originalImagePath = getImageSrcFromSlug(
     slug,
     PHOTO_SIZE_SUFFIX.ORIGINAL
   );
+
+  const hasNewTag = meta.tags.includes(TagId.parse("New"));
+  const copyrightTo = DateTime.now().year.toString();
+  const copyrightFrom = (
+    dateFromString(exif.date)?.year || copyrightTo
+  ).toString();
+  const copyrightRange =
+    copyrightFrom + (copyrightTo !== copyrightFrom ? `-${copyrightTo}` : "");
 
   return (
     <>
@@ -78,6 +88,11 @@ export const GalleryHeading = () => {
         <Link className="button" href={originalImagePath}>
           Download high resolution photo
         </Link>
+      )}
+      {!hasNewTag && (
+        <p className="copyright">
+          &copy; {copyrightRange} {APP_AUTHOR}. All rights reserved.
+        </p>
       )}
     </>
   );

@@ -318,6 +318,10 @@ a:visited {
   }
 }
 
+.copyright {
+  font-style: italic;
+}
+
 /* Button */
 
 button,
