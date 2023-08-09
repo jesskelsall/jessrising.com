@@ -63,6 +63,10 @@ export const parsePhoto = ({
     ExposureTime,
     FNumber,
     FocalLength,
+    GPSLatitude,
+    GPSLatitudeRef,
+    GPSLongitude,
+    GPSLongitudeRef,
     "Image Height": Height,
     "Image Width": Width,
     ISOSpeedRatings,
@@ -98,6 +102,21 @@ export const parsePhoto = ({
       height: parseInt(Height.value, 10),
       width: parseInt(Width.value, 10),
     };
+  }
+
+  // GPS
+
+  if (GPSLatitude && GPSLatitudeRef && GPSLongitude && GPSLongitudeRef) {
+    const lat =
+      parseFloat(GPSLatitude.description) *
+      (firstValue(GPSLatitudeRef) === "N" ? 1 : -1);
+    const long =
+      parseFloat(GPSLongitude.description) *
+      (firstValue(GPSLongitudeRef) === "E" ? 1 : -1);
+
+    if (!Number.isNaN(lat) && !Number.isNaN(long)) {
+      data.meta.gps = { lat, long };
+    }
   }
 
   // Camera

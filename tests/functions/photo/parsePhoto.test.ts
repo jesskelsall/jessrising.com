@@ -9,6 +9,7 @@ import { iPhone14Main } from "./__fixtures__/EXIF/iPhone14Main";
 
 const title = "Title";
 
+// TODO test GPS properties
 describe("parsePhoto", () => {
   describe("Defaults", () => {
     test("title and meta initialised", () => {
