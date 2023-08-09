@@ -1,0 +1,27 @@
+{
+  "title": "Portree",
+  "meta": {
+    "location": "Portree",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.41293611111111,
+      "long": -6.1910083333333334
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T16:08:49.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -205,6 +205,8 @@ export const locationHierarchy: LocationHierarchy = {
           Teangue: {},
         },
         Trotternish: {
+          Portree: {},
+          "The Quiraing": {},
           "The Storr": {},
         },
         Waternish: {},

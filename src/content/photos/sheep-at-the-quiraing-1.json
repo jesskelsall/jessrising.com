@@ -1,0 +1,27 @@
+{
+  "title": "Sheep at the Quiraing (1)",
+  "meta": {
+    "location": "The Quiraing",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Sheep"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.62730833333333,
+      "long": -6.2886
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T10:40:29.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

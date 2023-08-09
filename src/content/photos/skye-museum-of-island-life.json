@@ -1,0 +1,25 @@
+{
+  "title": "Skye Museum of Island Life",
+  "meta": {
+    "location": "Trotternish",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.66010277777777,
+      "long": -6.3690388888888885
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T11:30:10.000+01:00",
+    "dimensions": {
+      "height": 2930,
+      "width": 3895
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "The Sound of Raasay",
+  "meta": {
+    "location": "Trotternish",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.56605277777778,
+      "long": -6.150402777777778
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T09:38:21.000+01:00",
+    "dimensions": {
+      "height": 2973,
+      "width": 3965
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

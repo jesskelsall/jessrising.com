@@ -1,0 +1,27 @@
+{
+  "title": "Portree From the Pier",
+  "meta": {
+    "location": "Portree",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.41083888888889,
+      "long": -6.190080555555555
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T13:54:28.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

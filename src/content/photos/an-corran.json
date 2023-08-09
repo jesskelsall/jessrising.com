@@ -1,0 +1,27 @@
+{
+  "title": "An Corran",
+  "meta": {
+    "location": "Trotternish",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.637211111111114,
+      "long": -6.206261111111111
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T10:07:46.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
