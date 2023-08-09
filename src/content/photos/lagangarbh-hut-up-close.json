@@ -1,0 +1,26 @@
+{
+  "title": "Lagangarbh Hut Up Close",
+  "meta": {
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 56.66201111111111,
+      "long": -4.9044944444444445
+    }
+  },
+  "exif": {
+    "date": "2023-05-19T14:31:24.000+01:00",
+    "dimensions": {
+      "height": 2832,
+      "width": 3775
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

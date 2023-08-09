@@ -1,0 +1,26 @@
+{
+  "title": "Lagangarbh Hut Far Away",
+  "meta": {
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 56.66286111111111,
+      "long": -4.9047833333333335
+    }
+  },
+  "exif": {
+    "date": "2023-05-19T14:39:28.000+01:00",
+    "dimensions": {
+      "height": 2948,
+      "width": 3931
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

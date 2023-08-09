@@ -1,0 +1,27 @@
+{
+  "title": "Eilean Donan Castle From the Shore",
+  "meta": {
+    "location": "Eilean Donan Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Loch"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.27477777777778,
+      "long": -5.514652777777778
+    }
+  },
+  "exif": {
+    "date": "2023-05-19T18:35:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

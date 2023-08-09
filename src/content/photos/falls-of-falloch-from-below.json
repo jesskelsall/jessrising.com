@@ -1,0 +1,26 @@
+{
+  "title": "Falls of Falloch From Below",
+  "meta": {
+    "location": "Falls of Falloch",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 56.35010277777778,
+      "long": -4.6931
+    }
+  },
+  "exif": {
+    "date": "2023-05-19T12:02:24.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

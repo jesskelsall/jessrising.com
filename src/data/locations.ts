@@ -196,10 +196,21 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "Isle of Skye": {
-        "Loch na Cuilce": {},
-        "The Storr": {},
+        Duirinish: {},
+        "The Cullins": {
+          "Fairy Pools": {},
+          "Loch Coruisk": {},
+        },
+        Sleat: {
+          Teangue: {},
+        },
+        Trotternish: {
+          "The Storr": {},
+        },
+        Waternish: {},
       },
       Kintail: {
+        "Eilean Donan Castle": {},
         "Loch Alsh": {},
       },
       "Loch Awe": {
@@ -210,6 +221,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Strome Castle": {},
       },
       "Loch Lomond & The Trossachs": {
+        "Falls of Falloch": {},
         "Loch Lomond": {
           Inveruglas: {},
         },

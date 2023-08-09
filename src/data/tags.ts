@@ -26,6 +26,7 @@ export const allTags: Tag[] = [
   { id: TagId.parse("National Trust") },
   { id: TagId.parse("New"), hidePhotos: true },
   { id: TagId.parse("People") },
+  { id: TagId.parse("Pets") },
   { id: TagId.parse("Rail") },
   { id: TagId.parse("Rainbow") },
   { id: TagId.parse("Reindeer") },

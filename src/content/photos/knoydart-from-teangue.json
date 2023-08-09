@@ -1,0 +1,27 @@
+{
+  "title": "Knoydart From Teangue",
+  "meta": {
+    "location": "Teangue",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.09954166666667,
+      "long": -5.867602777777778
+    }
+  },
+  "exif": {
+    "date": "2023-05-20T08:05:07.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
