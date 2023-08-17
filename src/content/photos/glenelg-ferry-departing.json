@@ -1,0 +1,26 @@
+{
+  "title": "Glenelg Ferry Departing",
+  "meta": {
+    "location": "Glenelg",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.22967222222223,
+      "long": -5.654619444444445
+    }
+  },
+  "exif": {
+    "date": "2023-05-22T10:48:14.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

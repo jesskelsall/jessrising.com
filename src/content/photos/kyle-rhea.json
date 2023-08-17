@@ -1,0 +1,26 @@
+{
+  "title": "Kyle Rhea",
+  "meta": {
+    "location": "Glenelg",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.229800000000004,
+      "long": -5.654577777777778
+    }
+  },
+  "exif": {
+    "date": "2023-05-22T10:45:42.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

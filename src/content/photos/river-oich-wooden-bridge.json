@@ -1,0 +1,27 @@
+{
+  "title": "River Oich Wooden Bridge",
+  "meta": {
+    "location": "Fort Augustus",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Forest"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.14555277777778,
+      "long": -4.680786111111112
+    }
+  },
+  "exif": {
+    "date": "2023-05-22T12:26:52.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

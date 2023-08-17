@@ -173,6 +173,7 @@ export const locationHierarchy: LocationHierarchy = {
         Balintore: {},
         "Tarbat Ness": {},
       },
+      Dalwhinnie: {},
       Edinburgh: {
         "Princes Street Gardens": {},
         Stockbridge: {},
@@ -221,7 +222,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       Kintail: {
         "Eilean Donan Castle": {},
+        Glenelg: {},
         "Loch Alsh": {},
+        "Ratagan Pass": {},
       },
       "Loch Awe": {
         "St Conan's Kirk": {},
@@ -235,6 +238,9 @@ export const locationHierarchy: LocationHierarchy = {
         "Loch Lomond": {
           Inveruglas: {},
         },
+      },
+      "Loch Ness": {
+        "Fort Augustus": {},
       },
       "Loch Rannoch & Glen Lyon": {
         "Dunalasdair Estate": {},

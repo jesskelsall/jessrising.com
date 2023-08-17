@@ -1,0 +1,27 @@
+{
+  "title": "The Caledonian Canal at Fort Augustus",
+  "meta": {
+    "location": "Fort Augustus",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Loch"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.14606388888889,
+      "long": -4.67763888888889
+    }
+  },
+  "exif": {
+    "date": "2023-05-22T13:29:21.000+01:00",
+    "dimensions": {
+      "height": 2972,
+      "width": 3963
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
