@@ -1,0 +1,26 @@
+{
+  "title": "Nearly There",
+  "meta": {
+    "location": "Armadale",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.06466388888889,
+      "long": -5.893677777777778
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T09:58:11.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

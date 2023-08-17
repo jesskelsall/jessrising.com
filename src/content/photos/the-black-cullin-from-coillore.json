@@ -1,0 +1,27 @@
+{
+  "title": "The Black Cullin From Coillore",
+  "meta": {
+    "location": "Dunvegan",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Sheep"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.34556111111112,
+      "long": -6.402741666666667
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T15:53:26.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

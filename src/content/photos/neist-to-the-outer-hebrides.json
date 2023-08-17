@@ -1,0 +1,26 @@
+{
+  "title": "Neist to the Outer Hebrides",
+  "meta": {
+    "location": "Neist Point",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.43033611111111,
+      "long": -6.783622222222222
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T17:24:40.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

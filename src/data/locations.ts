@@ -196,13 +196,21 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "Isle of Skye": {
-        Duirinish: {},
+        Duirinish: {
+          "Neist Point": {},
+        },
+        Dunvegan: {},
         "The Cullins": {
           "Fairy Pools": {},
           "Loch Coruisk": {},
         },
         Sleat: {
+          Armadale: {},
+          Isleornsay: {},
           Teangue: {},
+        },
+        Strathaird: {
+          Elgol: {},
         },
         Trotternish: {
           Portree: {},

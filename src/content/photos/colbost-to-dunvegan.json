@@ -1,0 +1,28 @@
+{
+  "title": "Colbost to Dunvegan",
+  "meta": {
+    "location": "Duirinish",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Sheep",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.45131666666667,
+      "long": -6.656186111111111
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T16:29:31.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

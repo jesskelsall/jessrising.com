@@ -1,0 +1,27 @@
+{
+  "title": "White House on Isleornsay Harbour",
+  "meta": {
+    "location": "Isleornsay",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.14545555555556,
+      "long": -5.798730555555555
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T11:49:14.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

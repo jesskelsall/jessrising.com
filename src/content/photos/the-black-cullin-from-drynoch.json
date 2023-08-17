@@ -1,0 +1,26 @@
+{
+  "title": "The Black Cullin From Drynoch",
+  "meta": {
+    "location": "Dunvegan",
+    "tags": [
+      "Landscape",
+      "Gorse"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.30551666666666,
+      "long": -6.313808333333333
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T15:42:51.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

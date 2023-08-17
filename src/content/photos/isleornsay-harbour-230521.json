@@ -1,0 +1,26 @@
+{
+  "title": "Isleornsay Harbour",
+  "meta": {
+    "location": "Isleornsay",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.14568333333333,
+      "long": -5.798838888888889
+    }
+  },
+  "exif": {
+    "date": "2023-05-21T11:50:50.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
