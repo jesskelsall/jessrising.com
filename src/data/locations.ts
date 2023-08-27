@@ -88,16 +88,19 @@ export const locationHierarchy: LocationHierarchy = {
       Washington: {
         "Penshaw Monument": {},
       },
-      York: {
-        "Clifford's Tower": {},
-        "National Railway Museum": {},
-      },
-      "Yorkshire Dales": {
-        "Blea Moor": {},
-        "Howgill Fells": {},
-        Ingleborough: {},
-        "Ribblehead Viaduct": {},
-        Whernside: {},
+      Yorkshire: {
+        Knaresborough: {},
+        York: {
+          "Clifford's Tower": {},
+          "National Railway Museum": {},
+        },
+        "Yorkshire Dales": {
+          "Blea Moor": {},
+          "Howgill Fells": {},
+          Ingleborough: {},
+          "Ribblehead Viaduct": {},
+          Whernside: {},
+        },
       },
     },
     Scotland: {

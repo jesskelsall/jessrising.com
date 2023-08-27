@@ -1,27 +1,27 @@
 {
   "title": "Archie at Lagangarbh",
   "meta": {
+    "gps": {
+      "lat": 56.66367777777778,
+      "long": -4.904088888888889
+    },
     "location": "Lagangarbh",
     "tags": [
       "Landscape",
       "Pets",
       "White House"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 56.66367777777778,
-      "long": -4.904088888888889
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-19T14:24:09.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

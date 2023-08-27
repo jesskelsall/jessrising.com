@@ -1,27 +1,27 @@
 {
   "title": "Blà Bheinn",
   "meta": {
+    "gps": {
+      "lat": 57.217980555555556,
+      "long": -6.024811111111111
+    },
     "location": "Strathaird",
     "tags": [
       "Landscape",
       "Loch",
       "White House"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.217980555555556,
-      "long": -6.024811111111111
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2023-05-21T12:41:08.000+01:00",
     "dimensions": {
       "height": 2972,
       "width": 3963
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

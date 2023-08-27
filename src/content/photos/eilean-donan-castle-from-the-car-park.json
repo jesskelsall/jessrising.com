@@ -1,27 +1,27 @@
 {
   "title": "Eilean Donan Castle From the Car Park",
   "meta": {
+    "gps": {
+      "lat": 57.27372222222222,
+      "long": -5.5134083333333335
+    },
     "location": "Eilean Donan Castle",
     "tags": [
       "Landscape",
       "Castle",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.27372222222222,
-      "long": -5.5134083333333335
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-19T18:23:38.000+01:00",
     "dimensions": {
       "height": 3006,
       "width": 4008
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

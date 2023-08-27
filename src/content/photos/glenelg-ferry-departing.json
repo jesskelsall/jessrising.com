@@ -1,26 +1,26 @@
 {
   "title": "Glenelg Ferry Departing",
   "meta": {
+    "gps": {
+      "lat": 57.22967222222223,
+      "long": -5.654619444444445
+    },
     "location": "Glenelg",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.22967222222223,
-      "long": -5.654619444444445
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-22T10:48:14.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

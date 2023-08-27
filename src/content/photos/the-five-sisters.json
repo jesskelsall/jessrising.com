@@ -1,26 +1,26 @@
 {
   "title": "The Five Sisters",
   "meta": {
+    "gps": {
+      "lat": 57.22170555555556,
+      "long": -5.472997222222222
+    },
     "location": "Ratagan Pass",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.22170555555556,
-      "long": -5.472997222222222
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-22T11:16:56.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

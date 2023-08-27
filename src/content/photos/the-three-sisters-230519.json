@@ -1,25 +1,25 @@
 {
   "title": "The Three Sisters",
   "meta": {
+    "gps": {
+      "lat": 56.66773611111111,
+      "long": -4.987002777777778
+    },
     "location": "The Three Sisters",
     "tags": [
       "Landscape"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 56.66773611111111,
-      "long": -4.987002777777778
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-19T15:08:16.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

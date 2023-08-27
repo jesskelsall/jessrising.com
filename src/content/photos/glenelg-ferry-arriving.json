@@ -1,26 +1,26 @@
 {
   "title": "Glenelg Ferry Arriving",
   "meta": {
+    "gps": {
+      "lat": 57.2276,
+      "long": -5.664994444444445
+    },
     "location": "Glenelg",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.2276,
-      "long": -5.664994444444445
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-22T09:56:03.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

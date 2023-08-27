@@ -1,26 +1,26 @@
 {
   "title": "The Storr From Loch Fada",
   "meta": {
+    "gps": {
+      "lat": 57.45785555555556,
+      "long": -6.182883333333334
+    },
     "location": "Trotternish",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.45785555555556,
-      "long": -6.182883333333334
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2023-05-21T19:38:47.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

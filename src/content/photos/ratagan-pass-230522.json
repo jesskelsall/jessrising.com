@@ -1,26 +1,26 @@
 {
   "title": "Ratagan Pass",
   "meta": {
+    "gps": {
+      "lat": 57.22170555555556,
+      "long": -5.473005555555556
+    },
     "location": "Ratagan Pass",
     "tags": [
       "Landscape",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.22170555555556,
-      "long": -5.473005555555556
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2023-05-22T11:16:52.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

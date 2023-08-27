@@ -1,27 +1,27 @@
 {
   "title": "Rha Waterfalls",
   "meta": {
+    "gps": {
+      "lat": 57.59334444444445,
+      "long": -6.360430555555555
+    },
     "location": "Trotternish",
     "tags": [
       "Landscape",
       "Forest",
       "Waterfall"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.59334444444445,
-      "long": -6.360430555555555
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-20T12:48:51.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

@@ -1,27 +1,27 @@
 {
   "title": "Eilean Donan Castle From Ardelve Point",
   "meta": {
+    "gps": {
+      "lat": 57.278,
+      "long": -5.5196555555555555
+    },
     "location": "Eilean Donan Castle",
     "tags": [
       "Landscape",
       "Castle",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.278,
-      "long": -5.5196555555555555
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2023-05-19T18:44:09.000+01:00",
     "dimensions": {
       "height": 2613,
       "width": 3484
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

@@ -1,27 +1,27 @@
 {
   "title": "Glenelg Ferry Turntable",
   "meta": {
+    "gps": {
+      "lat": 57.22770277777778,
+      "long": -5.665086111111111
+    },
     "location": "Glenelg",
     "tags": [
       "Landscape",
       "Boat",
       "People"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.22770277777778,
-      "long": -5.665086111111111
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-22T09:58:50.000+01:00",
     "dimensions": {
       "height": 3022,
       "width": 4030
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

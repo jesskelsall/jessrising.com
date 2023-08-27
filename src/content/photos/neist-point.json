@@ -1,27 +1,27 @@
 {
   "title": "Neist Point",
   "meta": {
+    "gps": {
+      "lat": 57.43031388888889,
+      "long": -6.783505555555555
+    },
     "location": "Neist Point",
     "tags": [
       "Landscape",
       "Coast",
       "Lighthouse"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.43031388888889,
-      "long": -6.783505555555555
-    }
+    "trip": "2023-05-19-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-05-21T17:23:44.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }
