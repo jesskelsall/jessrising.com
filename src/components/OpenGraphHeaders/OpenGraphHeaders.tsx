@@ -1,4 +1,6 @@
 import { APP_NAME, URL } from "../../consts/app";
+import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
+import { getImageSrcFromSlug } from "../../functions/image";
 
 interface IOpenGraphHeadersProps {
   date?: string;
@@ -24,7 +26,10 @@ export const OpenGraphHeaders = ({
     <meta property="og:type" content="article" />
     <meta property="og:url" content={`${URL}/${urlPath}`} />
     {imageSlug && (
-      <meta property="og:image" content={`${URL}/photos/${imageSlug}.jpeg`} />
+      <meta
+        property="og:image"
+        content={getImageSrcFromSlug(imageSlug, PHOTO_SIZE_SUFFIX.SMALL)}
+      />
     )}
 
     {description && (
