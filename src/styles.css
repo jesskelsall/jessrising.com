@@ -225,13 +225,20 @@ a:visited {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
   max-height: 375px;
 }
 
-.gallery-grid img {
+.gallery-grid img.landscape {
   width: 500px;
   max-width: 100%;
   height: auto;
+}
+
+.gallery-grid img.portrait {
+  width: auto;
+  max-width: 500px;
+  height: 375px;
 }
 
 @media (min-width: calc(500px + 1rem)) {
@@ -292,6 +299,7 @@ a:visited {
 
 .content-area.photo .photo > img {
   max-width: 100%;
+  max-height: 90vh;
 }
 
 @media (max-width: 699px) {
