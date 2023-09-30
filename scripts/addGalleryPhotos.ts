@@ -196,9 +196,10 @@ const enrichGalleryPhoto = async (
   const locationString = await inquirerInput({
     message: "Location",
     default: previousData?.meta.location || undefined,
-    validate: (input: string) => Boolean(input) || "Location is required.",
   });
-  updatedData.meta.location = Location.parse(locationString);
+  updatedData.meta.location = locationString
+    ? Location.parse(locationString)
+    : null;
 
   // Tags
 

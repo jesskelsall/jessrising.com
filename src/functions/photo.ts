@@ -4,7 +4,6 @@ import { Camera, Device } from "../data/cameras";
 import { EXIFLoaded } from "../types/EXIF";
 import { GalleryPhotoSlug } from "../types/brand";
 import { GalleryPhoto, GalleryPhotoData } from "../types/galleryPhoto";
-import { Location } from "../types/location";
 import { Tag, TagId } from "../types/tag";
 import { dateFromEXIFString } from "./date";
 
@@ -81,7 +80,7 @@ export const parsePhoto = ({
   const data: GalleryPhotoData = {
     title,
     meta: {
-      location: Location.parse(""),
+      location: null,
       tags: [],
       trip: null,
     },

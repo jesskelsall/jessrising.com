@@ -23,7 +23,7 @@ describe("parsePhoto", () => {
         expect.objectContaining({
           title,
           meta: {
-            location: "",
+            location: null,
             tags: [],
             trip: null,
           },

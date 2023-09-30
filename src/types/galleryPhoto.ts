@@ -14,7 +14,7 @@ export const GalleryPhotoData = z.object({
         long: z.number(),
       })
       .optional(),
-    location: Location,
+    location: Location.nullable(),
     tags: z.array(TagId),
     trip: TripSlug.nullable(),
   }),

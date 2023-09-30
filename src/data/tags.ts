@@ -14,7 +14,7 @@ export const allTags: Tag[] = [
   { id: TagId.parse("Clouds") },
   { id: TagId.parse("Coast") },
   { id: TagId.parse("Deer") },
-  { id: TagId.parse("Flowers") },
+  { id: TagId.parse("Flowers & Insects") },
   { id: TagId.parse("Forest") },
   { id: TagId.parse("Frost") },
   { id: TagId.parse("Gorse") },

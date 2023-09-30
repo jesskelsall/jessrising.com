@@ -18,7 +18,10 @@ describe("Gallery Photos", () => {
       expect(() => GalleryPhoto.parse(galleryPhoto)).not.toThrow();
     });
 
-    test("Location is in location hierarchy", () => {
+    test("Location is null or in location hierarchy", () => {
+      const { location } = galleryPhoto.meta;
+      if (location === null) return;
+
       const locations = getLocationHierarchy(galleryPhoto.meta.location);
 
       expect(locations.length).toBeGreaterThan(0);

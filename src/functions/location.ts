@@ -25,7 +25,7 @@ const findLocations = (
 };
 
 // Returns an array of locations, from the location specified, to least specific parent
-export const getLocationHierarchy = (location: string): string[] => {
+export const getLocationHierarchy = (location: string | null): string[] => {
   if (!location) return [];
 
   const locations = findLocations(location, [], locationHierarchy);
