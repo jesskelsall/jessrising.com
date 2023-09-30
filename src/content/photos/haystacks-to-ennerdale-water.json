@@ -1,0 +1,25 @@
+{
+  "title": "Haystacks to Ennerdale Water",
+  "meta": {
+    "gps": {
+      "lat": 54.50721388888889,
+      "long": -3.247386111111111
+    },
+    "location": "Haystacks",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T09:03:56.000+01:00",
+    "dimensions": {
+      "height": 2908,
+      "width": 3879
+    }
+  }
+}

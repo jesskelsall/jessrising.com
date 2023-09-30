@@ -1,0 +1,25 @@
+{
+  "title": "Buttermere Fell",
+  "meta": {
+    "gps": {
+      "lat": 54.51866944444444,
+      "long": -3.255925
+    },
+    "location": "Buttermere Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T06:59:26.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

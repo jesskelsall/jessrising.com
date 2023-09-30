@@ -1,0 +1,25 @@
+{
+  "title": "Innominate Tarn",
+  "meta": {
+    "gps": {
+      "lat": 54.50643055555555,
+      "long": -3.2432
+    },
+    "location": "Haystacks",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T09:55:02.000+01:00",
+    "dimensions": {
+      "height": 2948,
+      "width": 3931
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Warnscale Bothy",
+  "meta": {
+    "gps": {
+      "lat": 54.50864444444444,
+      "long": -3.2296750000000003
+    },
+    "location": "Fleetwith",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T13:20:53.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Fleetwith Pike to Buttermere",
+  "meta": {
+    "gps": {
+      "lat": 54.51658888888889,
+      "long": -3.228311111111111
+    },
+    "location": "Fleetwith Pike",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T11:52:45.000+01:00",
+    "dimensions": {
+      "height": 2952,
+      "width": 3937
+    }
+  }
+}

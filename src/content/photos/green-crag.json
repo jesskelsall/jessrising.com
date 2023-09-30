@@ -1,0 +1,25 @@
+{
+  "title": "Green Crag",
+  "meta": {
+    "gps": {
+      "lat": 54.50561944444444,
+      "long": -3.2379861111111112
+    },
+    "location": "Haystacks",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T10:06:59.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

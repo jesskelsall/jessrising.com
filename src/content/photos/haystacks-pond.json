@@ -1,0 +1,25 @@
+{
+  "title": "Haystacks Pond",
+  "meta": {
+    "gps": {
+      "lat": 54.50768333333333,
+      "long": -3.2477416666666667
+    },
+    "location": "Haystacks",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T08:53:44.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

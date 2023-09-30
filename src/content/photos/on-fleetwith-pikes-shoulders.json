@@ -1,0 +1,25 @@
+{
+  "title": "On Fleetwith Pike's Shoulders",
+  "meta": {
+    "gps": {
+      "lat": 54.51633888888889,
+      "long": -3.2252305555555556
+    },
+    "location": "Fleetwith Pike",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T11:44:52.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

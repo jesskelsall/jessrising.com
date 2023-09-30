@@ -1,0 +1,25 @@
+{
+  "title": "Buttermere from Peggy's Bridge",
+  "meta": {
+    "gps": {
+      "lat": 54.52186944444444,
+      "long": -3.253452777777778
+    },
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2023-05-28T06:38:13.000+01:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3982
+    }
+  }
+}

@@ -23,6 +23,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
         Buttermere: {
           "Buttermere Fell": {
+            Haystacks: {},
             "High Crag": {},
             "High Stile": {},
             "Scarth Gap Pass": {},
@@ -55,6 +56,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
         Fleetwith: {
           Brandreth: {},
+          "Fleetwith Pike": {},
           "Grey Knotts": {},
         },
         Loweswater: {

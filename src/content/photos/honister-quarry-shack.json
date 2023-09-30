@@ -1,0 +1,26 @@
+{
+  "title": "Honister Quarry Shack",
+  "meta": {
+    "gps": {
+      "lat": 54.51241388888889,
+      "long": -3.215827777777778
+    },
+    "location": "Fleetwith Pike",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-05-28T11:23:15.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Herdy on Haystacks",
+  "meta": {
+    "gps": {
+      "lat": 54.512572222222225,
+      "long": -3.2562444444444445
+    },
+    "location": "Haystacks",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2023-05-28-haystacks-fleetwith-pike"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2023-05-28T07:27:03.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
