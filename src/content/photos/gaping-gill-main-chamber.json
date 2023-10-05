@@ -1,0 +1,26 @@
+{
+  "title": "Gaping Gill Main Chamber",
+  "meta": {
+    "gps": {
+      "lat": 54.14977777777778,
+      "long": -2.3823222222222222
+    },
+    "location": "Gaping Gill",
+    "tags": [
+      "Cave",
+      "Waterfall"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-06-01T10:18:54.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

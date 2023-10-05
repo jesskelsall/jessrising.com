@@ -1,0 +1,25 @@
+{
+  "title": "Limestone Pavement",
+  "meta": {
+    "gps": {
+      "lat": 54.14633888888889,
+      "long": -2.3815666666666666
+    },
+    "location": "Ingleborough",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-06-01T11:47:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

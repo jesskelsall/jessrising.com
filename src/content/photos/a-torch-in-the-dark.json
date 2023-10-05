@@ -1,0 +1,26 @@
+{
+  "title": "A Torch in the Dark",
+  "meta": {
+    "gps": {
+      "lat": 54.14977777777778,
+      "long": -2.3823222222222222
+    },
+    "location": "Gaping Gill",
+    "tags": [
+      "Cave",
+      "People"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-06-01T09:53:10.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

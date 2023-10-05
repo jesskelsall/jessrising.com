@@ -1,0 +1,25 @@
+{
+  "title": "A Pennine Journey",
+  "meta": {
+    "gps": {
+      "lat": 54.140541666666664,
+      "long": -2.3776722222222224
+    },
+    "location": "Ingleborough",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-06-01T12:12:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

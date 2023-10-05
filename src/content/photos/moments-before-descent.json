@@ -1,0 +1,26 @@
+{
+  "title": "Moments Before Descent",
+  "meta": {
+    "gps": {
+      "lat": 54.149525,
+      "long": -2.382238888888889
+    },
+    "location": "Gaping Gill",
+    "tags": [
+      "Cave",
+      "People"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2023-06-01T08:49:04.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

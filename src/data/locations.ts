@@ -99,8 +99,11 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "Yorkshire Dales": {
           "Blea Moor": {},
+          Clapham: {},
           "Howgill Fells": {},
-          Ingleborough: {},
+          Ingleborough: {
+            "Gaping Gill": {},
+          },
           "Ribblehead Viaduct": {},
           Whernside: {},
         },

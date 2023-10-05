@@ -1,0 +1,26 @@
+{
+  "title": "Broadford Pothole Club Camp",
+  "meta": {
+    "gps": {
+      "lat": 54.1493,
+      "long": -2.382538888888889
+    },
+    "location": "Gaping Gill",
+    "tags": [
+      "Landscape",
+      "Cave"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-06-01T11:38:28.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

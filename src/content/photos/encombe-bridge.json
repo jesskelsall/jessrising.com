@@ -1,0 +1,27 @@
+{
+  "title": "Encombe Bridge",
+  "meta": {
+    "gps": {
+      "lat": 54.120669444444445,
+      "long": -2.390736111111111
+    },
+    "location": "Clapham",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Waterfall"
+    ],
+    "trip": "2023-06-01-gaping-gill-winch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-06-01T06:45:40.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
