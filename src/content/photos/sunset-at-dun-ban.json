@@ -1,0 +1,31 @@
+{
+  "title": "Sunset at Dùn Bàn",
+  "meta": {
+    "location": "Dùn Bàn",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-03T22:05:22.000+01:00",
+    "dimensions": {
+      "height": 5507,
+      "width": 8261
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 1250
+      }
+    }
+  }
+}

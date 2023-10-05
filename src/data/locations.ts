@@ -236,6 +236,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Ratagan Pass": {},
       },
       "Loch Awe": {
+        "Kilchurn Castle": {},
         "St Conan's Kirk": {},
       },
       "Loch Carron": {
@@ -274,6 +275,13 @@ export const locationHierarchy: LocationHierarchy = {
       Oban: {
         "Firth of Lorn": {},
         "McCaig's Tower": {},
+      },
+      "Outer Hebrides": {
+        Barra: {
+          Borve: {},
+          Castlebay: {},
+          "Dùn Bàn": {},
+        },
       },
       "Rannoch Moor": {
         "Rannoch Station": {},

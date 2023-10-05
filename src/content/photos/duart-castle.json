@@ -1,0 +1,30 @@
+{
+  "title": "Duart Castle",
+  "meta": {
+    "location": "Sound of Mull",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-03T14:04:16.000+01:00",
+    "dimensions": {
+      "height": 5830,
+      "width": 8745
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 160
+      }
+    }
+  }
+}

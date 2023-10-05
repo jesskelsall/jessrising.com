@@ -1,0 +1,28 @@
+{
+  "title": "Lambs at Lochawe",
+  "meta": {
+    "location": "Kilchurn Castle",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-03T11:14:09.000+01:00",
+    "dimensions": {
+      "height": 5191,
+      "width": 7787
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

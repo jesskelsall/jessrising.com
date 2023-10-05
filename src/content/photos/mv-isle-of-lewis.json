@@ -1,0 +1,29 @@
+{
+  "title": "MV Isle of Lewis",
+  "meta": {
+    "location": "Barra",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-03T18:00:10.000+01:00",
+    "dimensions": {
+      "height": 6248,
+      "width": 9372
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}
