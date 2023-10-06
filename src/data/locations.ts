@@ -278,9 +278,15 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "Outer Hebrides": {
         Barra: {
+          Ardmhor: {},
           Borve: {},
-          Castlebay: {},
+          Castlebay: {
+            Heabhal: {},
+          },
           "Dùn Bàn": {},
+          Earsary: {},
+          Eoligarry: {},
+          Vatersay: {},
         },
       },
       "Rannoch Moor": {

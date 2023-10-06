@@ -1,0 +1,30 @@
+{
+  "title": "Kisimul Castle",
+  "meta": {
+    "location": "Castlebay",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-04T11:09:22.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0003124999930150742,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

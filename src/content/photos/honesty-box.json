@@ -1,0 +1,28 @@
+{
+  "title": "Honesty Box",
+  "meta": {
+    "location": "Ardmhor",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-04T16:36:20.000+01:00",
+    "dimensions": {
+      "height": 6230,
+      "width": 9346
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 30,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Àird Mhòr Machair",
+  "meta": {
+    "location": "Ardmhor",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-04T16:45:09.000+01:00",
+    "dimensions": {
+      "height": 6186,
+      "width": 9279
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 46,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}
