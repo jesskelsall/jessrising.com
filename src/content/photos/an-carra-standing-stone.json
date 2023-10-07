@@ -1,0 +1,29 @@
+{
+  "title": "An Carra Standing Stone",
+  "meta": {
+    "location": "South Uist",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-05T17:07:30.000+01:00",
+    "dimensions": {
+      "height": 6089,
+      "width": 9133
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 26,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "South Uist Bee",
+  "meta": {
+    "location": "Rubha Àird a' Mhuile",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-05T15:20:25.000+01:00",
+    "dimensions": {
+      "height": 6054,
+      "width": 9081
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

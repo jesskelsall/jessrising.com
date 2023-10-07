@@ -288,6 +288,18 @@ export const locationHierarchy: LocationHierarchy = {
           Eoligarry: {},
           Vatersay: {},
         },
+        "Uist & Benbecula": {
+          Benbecula: {},
+          Eriskay: {
+            Acairseid: {},
+            "Rubha Ban": {},
+          },
+          "North Uist": {},
+          "South Uist": {
+            "Loch Druidibeag": {},
+            "Rubha Àird a' Mhuile": {},
+          },
+        },
       },
       "Rannoch Moor": {
         "Rannoch Station": {},

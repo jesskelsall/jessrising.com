@@ -1,0 +1,28 @@
+{
+  "title": "Entering a Different World",
+  "meta": {
+    "location": "South Uist",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-05T19:31:04.000+01:00",
+    "dimensions": {
+      "height": 6216,
+      "width": 9324
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00039999998989452437,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}
