@@ -1,0 +1,26 @@
+{
+  "title": "Beinn Mhòr",
+  "meta": {
+    "location": "Beinn Mhòr",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.25870555555556,
+      "long": -7.294930555555555
+    }
+  },
+  "exif": {
+    "date": "2023-06-06T12:24:29.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "A Dog Having Its Day",
+  "meta": {
+    "location": "Kildonan",
+    "tags": [
+      "Pets"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-06T21:43:32.000+01:00",
+    "dimensions": {
+      "height": 5871,
+      "width": 8806
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 41,
+        "fStop": 4,
+        "ISO": 160
+      }
+    }
+  }
+}

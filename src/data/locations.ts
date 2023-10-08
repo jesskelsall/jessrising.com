@@ -296,6 +296,8 @@ export const locationHierarchy: LocationHierarchy = {
           },
           "North Uist": {},
           "South Uist": {
+            "Beinn Mhòr": {},
+            Kildonan: {},
             "Loch Druidibeag": {},
             "Rubha Àird a' Mhuile": {},
           },

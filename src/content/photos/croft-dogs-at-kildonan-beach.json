@@ -1,0 +1,32 @@
+{
+  "title": "Croft Dogs at Kildonan Beach",
+  "meta": {
+    "location": "Kildonan",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast",
+      "Pets",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-06T21:40:18.000+01:00",
+    "dimensions": {
+      "height": 6280,
+      "width": 9420
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 160
+      }
+    }
+  }
+}

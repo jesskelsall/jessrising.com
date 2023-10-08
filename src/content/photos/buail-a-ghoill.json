@@ -1,0 +1,26 @@
+{
+  "title": "Buail' a' Ghoill",
+  "meta": {
+    "location": "Beinn Mhòr",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.26025,
+      "long": -7.297630555555555
+    }
+  },
+  "exif": {
+    "date": "2023-06-06T11:28:53.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

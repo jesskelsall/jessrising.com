@@ -1,0 +1,26 @@
+{
+  "title": "Beinn Mhòr Marker Cairn",
+  "meta": {
+    "location": "Beinn Mhòr",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.26956666666666,
+      "long": -7.3057944444444445
+    }
+  },
+  "exif": {
+    "date": "2023-06-06T13:16:06.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

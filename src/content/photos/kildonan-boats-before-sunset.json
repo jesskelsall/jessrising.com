@@ -1,0 +1,31 @@
+{
+  "title": "Kildonan Boats Before Sunset",
+  "meta": {
+    "location": "Kildonan",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Loch",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-06T21:14:32.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 30,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}
