@@ -152,6 +152,10 @@ const getGalleryPhotos = async (
     return [photoFile, parsePhoto({ cameras, title, exif })];
   };
 
+  if (photoFiles.some((photoFile) => photoFile.includes("("))) {
+    stop("One or more file names have brackets.");
+  }
+
   const galleryPhotoTuples = await Promise.all(
     photoFiles.map(getGalleryPhotoTuple)
   );
