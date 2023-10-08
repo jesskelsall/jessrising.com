@@ -1,3 +1,31 @@
+/* Theme */
+
+html {
+  --darker-red: #620000;
+  --dark-red: #B60106;
+  --red: #D72F3C;
+  --light-red: #F5555F;
+  --lightest-red: #FCC4C7;
+  --white: #FFFFFF;
+  --dark-grey: #111111;
+
+  --color-bg: var(--white);
+  --color-text: var(--dark-grey);
+  --color-heading: var(--dark-red);
+  --color-link: var(--red);
+  --color-link-visited: var(--darker-red);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --color-text: var(--white);
+    --color-bg: var(--dark-grey);
+    --color-heading: var(--red);
+    --color-link: var(--light-red);
+    --color-link-visited: var(--lightest-red);
+  }
+}
+
 /* Global */
 
 @font-face {
@@ -26,14 +54,8 @@ body {
   font-family: "San Francisco", Helvetica, sans-serif;
   font-size: 16px;
   font-weight: normal;
-  color: black;
-
-  --darker-red: #620000;
-  --dark-red: #B60106;
-  --red: #D72F3C;
-  --light-red: #F5555F;
-  --lightest-red: #FCC4C7;
-  --white: #FFFFFF;
+  color: var(--color-text);
+  background-color: var(--color-bg);
 }
 
 /* Width */
@@ -157,14 +179,14 @@ h1 {
   margin: 0.5em 0;
   font-size: 2.5em;
   font-weight: bold;
-  color: var(--dark-red);
+  color: var(--color-heading);
 }
 
 h2 {
   margin: 1.5em 0 0.5em;
   font-size: 1.5em;
   font-weight: bold;
-  color: var(--dark-red);
+  color: var(--color-heading);
 }
 
 p {
@@ -182,15 +204,15 @@ ol, ul {
 
 li::marker {
   padding-right: 1em;
-  color: var(--red);
+  color: var(--color-heading);
 }
 
 a {
-  color: var(--red);
+  color: var(--color-link);
 }
 
 a:visited {
-  color: var(--darker-red);
+  color: var(--color-link-visited);
 }
 
 @media (min-width: 600px) {
