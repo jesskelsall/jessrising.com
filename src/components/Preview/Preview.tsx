@@ -43,7 +43,9 @@ export const Preview = ({
       {description && <p className="summary">{description}</p>}
     </div>
     {imageSlug && (
-      <Image src={imageSlug} alt={title} width={200} height={150} />
+      <Link href={href}>
+        <Image src={imageSlug} alt={title} width={200} height={150} />
+      </Link>
     )}
   </li>
 );

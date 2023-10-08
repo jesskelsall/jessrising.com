@@ -1,5 +1,6 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
+import Link from "next/link";
 import { BlogImage } from "../components/BlogImage/BlogImage";
 import { BlogPreview } from "../components/Preview/Preview";
 import { CONFIG } from "../consts/config";
@@ -66,7 +67,9 @@ const HomePage: NextPage<IProps> = ({ blogPost, galleryPhotoSlugs, photo }) => (
       {CONFIG.SHOW_FEATURED_PHOTO && photo && (
         <>
           <h1>Featured Photo</h1>
-          <h2>{photo.title}</h2>
+          <h2>
+            <Link href={`/gallery/p/${FEATURED_PHOTO}`}>{photo.title}</Link>
+          </h2>
           <BlogImage
             alt={photo.title}
             src={`${photo.slug}${PHOTO_SIZE_SUFFIX.LARGE}`}
