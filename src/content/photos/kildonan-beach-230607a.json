@@ -1,0 +1,31 @@
+{
+  "title": "Kildonan Beach",
+  "meta": {
+    "location": "Kildonan",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-07T22:35:20.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 40,
+        "fStop": 20,
+        "ISO": 2500
+      }
+    }
+  }
+}

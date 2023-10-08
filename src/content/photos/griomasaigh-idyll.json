@@ -1,0 +1,30 @@
+{
+  "title": "Griomasaigh Idyll",
+  "meta": {
+    "location": "Grimsay",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "White House"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-07T13:10:24.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}

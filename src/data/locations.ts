@@ -294,7 +294,11 @@ export const locationHierarchy: LocationHierarchy = {
             Acairseid: {},
             "Rubha Ban": {},
           },
-          "North Uist": {},
+          Grimsay: {},
+          "North Uist": {
+            Baleloch: {},
+            "Trinity Temple": {},
+          },
           "South Uist": {
             "Beinn Mhòr": {},
             Kildonan: {},

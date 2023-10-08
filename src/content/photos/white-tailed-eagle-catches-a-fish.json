@@ -1,0 +1,28 @@
+{
+  "title": "White Tailed Eagle Catches a Fish",
+  "meta": {
+    "location": "Grimsay",
+    "tags": [
+      "Bird"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-07T12:30:02.000+01:00",
+    "dimensions": {
+      "height": 1350,
+      "width": 2025
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}

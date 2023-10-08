@@ -1,0 +1,29 @@
+{
+  "title": "Tràigh-stir Waves",
+  "meta": {
+    "location": "Baleloch",
+    "tags": [
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-07T18:39:21.000+01:00",
+    "dimensions": {
+      "height": 6158,
+      "width": 9237
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.000125,
+        "focalLength": 32,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Loch Scolpaig Tower",
+  "meta": {
+    "location": "North Uist",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-07T17:48:22.000+01:00",
+    "dimensions": {
+      "height": 4333,
+      "width": 6498
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0003124999930150742,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}
