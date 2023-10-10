@@ -1,0 +1,29 @@
+{
+  "title": "At the Beach",
+  "meta": {
+    "location": "Luskentyre",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-08T15:10:11.000+01:00",
+    "dimensions": {
+      "height": 6014,
+      "width": 9021
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00025,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

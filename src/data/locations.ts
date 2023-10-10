@@ -288,8 +288,22 @@ export const locationHierarchy: LocationHierarchy = {
           Eoligarry: {},
           Vatersay: {},
         },
+        "Lewis & Harris": {
+          Harris: {
+            "North Harris": {},
+            "South Harris": {
+              Hushinish: {},
+              Luskentyre: {},
+              Seilebost: {},
+            },
+            "Sound of Harris": {},
+            Tarbert: {},
+          },
+          Lewis: {},
+        },
         "Uist & Benbecula": {
           Benbecula: {},
+          Berneray: {},
           Eriskay: {
             Acairseid: {},
             "Rubha Ban": {},

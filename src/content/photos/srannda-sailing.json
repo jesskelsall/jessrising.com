@@ -1,0 +1,30 @@
+{
+  "title": "Srannda Sailing",
+  "meta": {
+    "location": "Sound of Harris",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-08T10:16:11.000+01:00",
+    "dimensions": {
+      "height": 5760,
+      "width": 8640
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0005,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

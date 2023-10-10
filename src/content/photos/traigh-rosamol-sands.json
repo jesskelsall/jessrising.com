@@ -1,0 +1,30 @@
+{
+  "title": "Tràigh Rosamol Sands",
+  "meta": {
+    "location": "Luskentyre",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-08T15:38:27.000+01:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 25,
+        "fStop": 22,
+        "ISO": 100
+      }
+    }
+  }
+}

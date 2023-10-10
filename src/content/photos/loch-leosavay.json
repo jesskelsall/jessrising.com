@@ -1,0 +1,31 @@
+{
+  "title": "Loch Leosavay",
+  "meta": {
+    "location": "Hushinish",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-08T17:26:46.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}
