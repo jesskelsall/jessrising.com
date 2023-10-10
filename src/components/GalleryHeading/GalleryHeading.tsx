@@ -70,7 +70,7 @@ export const GalleryHeading = () => {
                 (value) => `${value} mm`
               ),
               renderSetting(camera.settings.exposureTime, (value) =>
-                value < 1 ? `1/${1 / value} s` : `${value} s`
+                value < 1 ? `1/${Math.round(1 / value)} s` : `${value} s`
               ),
               renderSetting(camera.settings.fStop, (value) => `ƒ${value}`),
               renderSetting(
