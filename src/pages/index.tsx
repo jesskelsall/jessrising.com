@@ -21,7 +21,9 @@ const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
 const FEATURED_BLOG_POST = "2022-12-31-favourite-photos-2022";
-const FEATURED_PHOTO = GalleryPhotoSlug.parse("croft-dogs-at-kildonan-beach");
+const FEATURED_PHOTO = GalleryPhotoSlug.parse(
+  "callanish-standing-stones-at-sunrise-1"
+);
 
 interface IProps {
   blogPost: IMarkdownData;
