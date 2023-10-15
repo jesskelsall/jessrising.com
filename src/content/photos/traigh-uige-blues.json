@@ -1,0 +1,30 @@
+{
+  "title": "Tràigh Ùige Blues",
+  "meta": {
+    "location": "Crowlista",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-09T13:38:42.000+01:00",
+    "dimensions": {
+      "height": 6328,
+      "width": 9492
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 20,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -299,7 +299,12 @@ export const locationHierarchy: LocationHierarchy = {
             "Sound of Harris": {},
             Tarbert: {},
           },
-          Lewis: {},
+          Lewis: {
+            Callanish: {},
+            Carloway: {},
+            Crowlista: {},
+            "Great Bernera": {},
+          },
         },
         "Uist & Benbecula": {
           Benbecula: {},

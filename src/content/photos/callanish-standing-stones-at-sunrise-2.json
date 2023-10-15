@@ -1,0 +1,30 @@
+{
+  "title": "Callanish Standing Stones at Sunrise",
+  "meta": {
+    "location": "Callanish",
+    "tags": [
+      "Landscape",
+      "Ruin",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-06-09T04:56:19.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.05,
+        "focalLength": 44,
+        "fStop": 22,
+        "ISO": 50
+      }
+    }
+  }
+}
