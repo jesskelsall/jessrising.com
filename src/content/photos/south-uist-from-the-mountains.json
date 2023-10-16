@@ -1,25 +1,25 @@
 {
   "title": "South Uist from the Mountains",
   "meta": {
+    "gps": {
+      "lat": 57.27033888888889,
+      "long": -7.308097222222222
+    },
     "location": "Beinn Mhòr",
     "tags": [
       "Landscape"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.27033888888889,
-      "long": -7.308097222222222
-    }
+    "trip": "2023-06-03-outer-hebrides"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-06-06T09:57:31.000+01:00",
     "dimensions": {
       "height": 2936,
       "width": 3916
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

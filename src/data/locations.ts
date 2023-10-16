@@ -300,10 +300,13 @@ export const locationHierarchy: LocationHierarchy = {
             Tarbert: {},
           },
           Lewis: {
+            "Butt of Lewis": {},
             Callanish: {},
             Carloway: {},
             Crowlista: {},
+            "Eye Peninsula": {},
             "Great Bernera": {},
+            Stornoway: {},
           },
         },
         "Uist & Benbecula": {

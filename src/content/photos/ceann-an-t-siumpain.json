@@ -1,0 +1,30 @@
+{
+  "title": "Ceann an t-Siumpain",
+  "meta": {
+    "location": "Eye Peninsula",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Lighthouse"
+    ],
+    "trip": "2023-06-03-outer-hebrides"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 34,
+        "fStop": 22,
+        "ISO": 100
+      }
+    },
+    "date": "2023-06-10T14:58:56.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

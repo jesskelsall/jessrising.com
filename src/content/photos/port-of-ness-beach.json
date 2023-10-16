@@ -1,0 +1,30 @@
+{
+  "title": "Port of Ness Beach",
+  "meta": {
+    "location": "Butt of Lewis",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2023-06-03-outer-hebrides"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.002,
+        "focalLength": 64,
+        "fStop": 11,
+        "ISO": 100
+      }
+    },
+    "date": "2023-06-10T11:51:21.000+01:00",
+    "dimensions": {
+      "height": 6270,
+      "width": 9406
+    }
+  }
+}

@@ -5,14 +5,9 @@
     "tags": [
       "Landscape"
     ],
-    "trip": null
+    "trip": "2023-06-03-outer-hebrides"
   },
   "exif": {
-    "date": "2023-06-05T19:31:04.000+01:00",
-    "dimensions": {
-      "height": 6216,
-      "width": 9324
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 4,
         "ISO": 100
       }
+    },
+    "date": "2023-06-05T19:31:04.000+01:00",
+    "dimensions": {
+      "height": 6216,
+      "width": 9324
     }
   }
 }

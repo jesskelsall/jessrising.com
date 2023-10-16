@@ -7,24 +7,24 @@
       "Ruin",
       "Sunrise/Sunset"
     ],
-    "trip": null
+    "trip": "2023-06-03-outer-hebrides"
   },
   "exif": {
-    "date": "2023-06-09T04:56:19.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
-        "exposureTime": 0.05,
-        "focalLength": 44,
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 43,
         "fStop": 22,
         "ISO": 50
       }
+    },
+    "date": "2023-06-09T04:49:29.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

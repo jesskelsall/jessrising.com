@@ -1,0 +1,30 @@
+{
+  "title": "Us and the Edge of the World",
+  "meta": {
+    "location": "Butt of Lewis",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "People"
+    ],
+    "trip": "2023-06-03-outer-hebrides"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 50,
+        "fStop": 22,
+        "ISO": 160
+      }
+    },
+    "date": "2023-06-10T10:29:45.000+01:00",
+    "dimensions": {
+      "height": 6232,
+      "width": 9351
+    }
+  }
+}

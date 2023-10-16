@@ -5,14 +5,9 @@
     "tags": [
       "Sheep"
     ],
-    "trip": null
+    "trip": "2023-06-03-outer-hebrides"
   },
   "exif": {
-    "date": "2023-06-03T11:14:09.000+01:00",
-    "dimensions": {
-      "height": 5191,
-      "width": 7787
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 2.8,
         "ISO": 100
       }
+    },
+    "date": "2023-06-03T11:14:09.000+01:00",
+    "dimensions": {
+      "height": 5191,
+      "width": 7787
     }
   }
 }

@@ -1,26 +1,26 @@
 {
   "title": "Clouds on Beinn Mhòr",
   "meta": {
+    "gps": {
+      "lat": 57.2758,
+      "long": -7.320997222222222
+    },
     "location": "Beinn Mhòr",
     "tags": [
       "Landscape",
       "Clouds"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.2758,
-      "long": -7.320997222222222
-    }
+    "trip": "2023-06-03-outer-hebrides"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-06-06T08:37:45.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }
