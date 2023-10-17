@@ -1,28 +1,28 @@
 {
-  "title": "DSC04925",
+  "title": "DSC00616",
   "meta": {
-    "location": "Cairngorm Mountains",
+    "location": "Durness",
     "tags": [
       "New"
     ],
     "trip": null
   },
   "exif": {
+    "date": "2023-10-17T12:28:13.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.004,
-        "focalLength": 70,
-        "fStop": 2.8,
-        "ISO": 100
+        "exposureTime": 0.025,
+        "focalLength": 35,
+        "fStop": 22,
+        "ISO": 250
       }
-    },
-    "date": "2023-08-04T12:19:17.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
     }
   },
   "settings": {
