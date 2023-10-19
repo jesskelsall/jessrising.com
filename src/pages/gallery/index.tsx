@@ -172,7 +172,11 @@ const GalleryPage: NextPage<IProps> = ({
   const displayMonth = month
     ? DateTime.fromObject({ month }).toFormat("LLLL")
     : "";
-  const displayTrips = trips.map((trip) => allTripsDict[trip]?.title || trip);
+  const displayTrips = trips.map((trip) => {
+    const { icon, title } = allTripsDict[trip];
+    if (!title) return trip;
+    return `${icon ? `${icon} ` : ""}${title}`;
+  });
 
   return (
     <>

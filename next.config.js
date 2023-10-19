@@ -24,7 +24,7 @@ module.exports = {
         source: "/reindeer",
         destination: "/gallery?tag=reindeer",
         permanent: false,
-      }
+      },
     ];
   },
 };

@@ -38,6 +38,10 @@ const addTrip = async (): Promise<void> => {
     validate: (input: string) => Boolean(input) || "Thumbnail is required.",
   });
 
+  const icon = await inquirerInput({
+    message: "Icon (emoji)",
+  });
+
   // Create trip
 
   const tripSlug = TripSlug.parse(`${fromString}-${kebabCase(tripName)}`);
@@ -45,6 +49,7 @@ const addTrip = async (): Promise<void> => {
     title: tripName,
     description: null,
     thumbnail: GalleryPhotoSlug.parse(thumbnail),
+    icon,
     dates: {
       from: fromString,
       to: toString || undefined,

@@ -6,6 +6,7 @@ export const TripData = z.object({
   title: z.string(),
   description: z.string().nullable(),
   thumbnail: GalleryPhotoSlug,
+  icon: z.string().emoji(),
   dates: z.object({
     from: ISODateString,
     to: ISODateString.optional(),

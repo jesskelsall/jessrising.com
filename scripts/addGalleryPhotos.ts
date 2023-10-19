@@ -175,24 +175,25 @@ const enrichGalleryPhoto = async (
   if (updatedData.meta.gps) {
     console.info("GPS Coordinates:", JSON.stringify(updatedData.meta.gps));
   } else {
-    const coordsFromString = (coords: string): number[] =>
-      coords.split(",").map((part) => parseFloat(part));
-    const coordsString = await inquirerInput({
-      message: "GPS Coordinates",
-      validate: (input: string) => {
-        if (!input) return true;
-        const coords = coordsFromString(input);
-        return (
-          (coords.length === 2 &&
-            coords.every((coord) => !Number.isNaN(coord))) ||
-          "Invalid coordinate string."
-        );
-      },
-    });
-    if (coordsString) {
-      const coords = coordsFromString(coordsString);
-      updatedData.meta.gps = { lat: coords[0], long: coords[1] };
-    }
+    // DISABLED: Prompt for coordinates
+    // const coordsFromString = (coords: string): number[] =>
+    //   coords.split(",").map((part) => parseFloat(part));
+    // const coordsString = await inquirerInput({
+    //   message: "GPS Coordinates",
+    //   validate: (input: string) => {
+    //     if (!input) return true;
+    //     const coords = coordsFromString(input);
+    //     return (
+    //       (coords.length === 2 &&
+    //         coords.every((coord) => !Number.isNaN(coord))) ||
+    //       "Invalid coordinate string."
+    //     );
+    //   },
+    // });
+    // if (coordsString) {
+    //   const coords = coordsFromString(coordsString);
+    //   updatedData.meta.gps = { lat: coords[0], long: coords[1] };
+    // }
   }
 
   // Location
