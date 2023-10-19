@@ -1,0 +1,26 @@
+{
+  "title": "Wasdale Head Hall Farm",
+  "meta": {
+    "location": "Yewbarrow",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.459094444444446,
+      "long": -3.2796805555555557
+    }
+  },
+  "exif": {
+    "date": "2023-06-17T08:27:46.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

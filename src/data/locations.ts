@@ -77,6 +77,7 @@ export const locationHierarchy: LocationHierarchy = {
               Pillar: {},
             },
           },
+          Yewbarrow: {},
         },
       },
       Newcastle: {
