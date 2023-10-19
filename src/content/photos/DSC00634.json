@@ -1,0 +1,31 @@
+{
+  "title": "DSC00634",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "New"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-17T12:36:27.000+01:00",
+    "dimensions": {
+      "height": 3931,
+      "width": 5897
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 500
+      }
+    }
+  },
+  "settings": {
+    "downloadOriginal": true
+  }
+}
