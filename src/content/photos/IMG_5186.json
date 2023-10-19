@@ -1,25 +1,25 @@
 {
   "title": "IMG_5186",
   "meta": {
+    "gps": {
+      "lat": 54.452111111111115,
+      "long": -3.2869666666666664
+    },
     "location": "Yewbarrow",
     "tags": [
       "Landscape"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 54.452111111111115,
-      "long": -3.2869666666666664
-    }
+    "trip": "2023-06-17-yewbarrow"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-06-17T06:28:01.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

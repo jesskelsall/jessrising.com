@@ -1,25 +1,25 @@
 {
   "title": "Wast Water From Yewbarrow",
   "meta": {
+    "gps": {
+      "lat": 54.45772222222222,
+      "long": -3.282275
+    },
     "location": "Yewbarrow",
     "tags": [
       "Landscape"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 54.45772222222222,
-      "long": -3.282275
-    }
+    "trip": "2023-06-17-yewbarrow"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2023-06-17T07:24:36.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }
