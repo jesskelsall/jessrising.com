@@ -129,6 +129,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Point of Ardnamurchan": {},
       },
       "Assynt-Coigach": {
+        Clashnessie: {},
         Inchnadamph: {},
         Kylesku: {},
         "Glencanisp Forest": {
