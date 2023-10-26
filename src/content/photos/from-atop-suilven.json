@@ -1,0 +1,25 @@
+{
+  "title": "From Atop Suilven",
+  "meta": {
+    "location": "Suilven",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500",
+    "gps": {
+      "lat": 58.11521666666667,
+      "long": -5.135166666666667
+    }
+  },
+  "exif": {
+    "date": "2023-04-19T12:09:27.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
