@@ -1,0 +1,29 @@
+{
+  "title": "Mount Stuart Marble Chapel",
+  "meta": {
+    "location": "Mount Stuart",
+    "tags": [
+      "Church/Cathedral",
+      "Interior"
+    ],
+    "trip": "2023-06-24-isle-of-bute"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 8000
+      }
+    },
+    "date": "2023-06-24T11:37:06.000+01:00",
+    "dimensions": {
+      "height": 6186,
+      "width": 9279
+    }
+  }
+}

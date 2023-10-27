@@ -1,0 +1,28 @@
+{
+  "title": "Mount Stuart Chandelier",
+  "meta": {
+    "location": "Mount Stuart",
+    "tags": [
+      "Interior"
+    ],
+    "trip": "2023-06-24-isle-of-bute"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 5.6,
+        "ISO": 4000
+      }
+    },
+    "date": "2023-06-24T11:45:26.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

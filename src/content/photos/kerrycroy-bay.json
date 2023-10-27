@@ -1,0 +1,30 @@
+{
+  "title": "Kerrycroy Bay",
+  "meta": {
+    "location": "Kerrycroy",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2023-06-24-isle-of-bute"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 56,
+        "fStop": 22,
+        "ISO": 200
+      }
+    },
+    "date": "2023-06-24T10:04:45.000+01:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    }
+  }
+}

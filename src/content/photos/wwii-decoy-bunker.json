@@ -1,0 +1,29 @@
+{
+  "title": "WWII Decoy Bunker",
+  "meta": {
+    "location": "Kyles of Bute",
+    "tags": [
+      "Interior",
+      "Ruin"
+    ],
+    "trip": "2023-06-24-isle-of-bute"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 45,
+        "fStop": 22,
+        "ISO": 12800
+      }
+    },
+    "date": "2023-06-25T07:34:42.000+01:00",
+    "dimensions": {
+      "height": 6256,
+      "width": 9384
+    }
+  }
+}

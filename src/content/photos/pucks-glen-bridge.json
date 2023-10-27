@@ -1,0 +1,30 @@
+{
+  "title": "Puck's Glen Bridge",
+  "meta": {
+    "location": "Puck's Glen",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Waterfall"
+    ],
+    "trip": "2023-06-24-isle-of-bute"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 12800
+      }
+    },
+    "date": "2023-06-25T09:43:25.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -179,6 +179,9 @@ export const locationHierarchy: LocationHierarchy = {
         "Duncansby Head": {},
         "Noss Head": {},
       },
+      Cowal: {
+        "Puck's Glen": {},
+      },
       Cromar: {},
       "Easter Ross": {
         Balintore: {},
@@ -192,6 +195,14 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "Glen Creran": {},
       Glenfinnan: {},
+      "Isle of Bute": {
+        Kerrycroy: {},
+        "Kyles of Bute": {},
+        "Mount Stuart": {},
+        Rothesay: {
+          "Ardencraig Gardens": {},
+        },
+      },
       "Isle of Mull": {
         "Calgary Bay": {},
         Fionnphort: {},
