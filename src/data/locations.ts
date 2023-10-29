@@ -398,3 +398,10 @@ export const locationHierarchy: LocationHierarchy = {
     },
   },
 };
+
+export const LocationFlags: Record<string, string> = {
+  England: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  Scotland: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "United Kingdom": "🇬🇧",
+  Wales: "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+};

@@ -1,5 +1,7 @@
 import { kebabCase } from "lodash/fp";
 import Link from "next/link";
+import React from "react";
+import { LocationFlags } from "../../data/locations";
 import { zipBetween } from "../../functions/jsx";
 
 interface IMarkdownLocationsProps {
@@ -7,14 +9,16 @@ interface IMarkdownLocationsProps {
 }
 
 export const MarkdownLocations = ({ locations }: IMarkdownLocationsProps) => {
+  // Apply link markup
   const locationLinks = locations.map((eachLocation) => {
-    // Apply link markup
     const locationSlug = kebabCase(eachLocation);
+    const locationFlag: string | undefined = LocationFlags[eachLocation];
 
     return (
-      <Link key={locationSlug} href={`/gallery?location=${locationSlug}`}>
-        {eachLocation}
-      </Link>
+      <React.Fragment key={locationSlug}>
+        {locationFlag && <span className="emoji">{locationFlag}&nbsp;</span>}
+        <Link href={`/gallery?location=${locationSlug}`}>{eachLocation}</Link>
+      </React.Fragment>
     );
   });
 
