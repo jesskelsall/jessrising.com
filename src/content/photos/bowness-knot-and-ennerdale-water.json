@@ -1,0 +1,25 @@
+{
+  "title": "Bowness Knot and Ennerdale Water",
+  "meta": {
+    "gps": {
+      "lat": 54.535405555555556,
+      "long": -3.37695
+    },
+    "location": "Herdus",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T10:06:49.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

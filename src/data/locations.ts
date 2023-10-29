@@ -54,6 +54,10 @@ export const locationHierarchy: LocationHierarchy = {
             Steeple: {},
           },
           "Ennerdale Forest": {},
+          "Gale Fell": {
+            "Great Borne": {},
+            Herdus: {},
+          },
         },
         Fleetwith: {
           Brandreth: {},

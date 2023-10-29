@@ -1,0 +1,25 @@
+{
+  "title": "Bowness Knot",
+  "meta": {
+    "gps": {
+      "lat": 54.53256111111111,
+      "long": -3.3761694444444443
+    },
+    "location": "Herdus",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T14:48:09.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Road to Herdus",
+  "meta": {
+    "gps": {
+      "lat": 54.52907222222222,
+      "long": -3.3783166666666666
+    },
+    "location": "Ennerdale Water",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Road"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T09:40:36.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

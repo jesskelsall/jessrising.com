@@ -1,0 +1,26 @@
+{
+  "title": "Hazy Ennerdale",
+  "meta": {
+    "gps": {
+      "lat": 54.53630555555555,
+      "long": -3.3694333333333333
+    },
+    "location": "Herdus",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T10:56:04.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

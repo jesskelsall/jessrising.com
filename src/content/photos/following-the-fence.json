@@ -1,0 +1,26 @@
+{
+  "title": "Following the Fence",
+  "meta": {
+    "gps": {
+      "lat": 54.534613888888885,
+      "long": -3.353216666666667
+    },
+    "location": "Great Borne",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T11:52:54.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

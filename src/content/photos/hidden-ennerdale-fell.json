@@ -1,0 +1,26 @@
+{
+  "title": "Hidden Ennerdale Fell",
+  "meta": {
+    "gps": {
+      "lat": 54.533905555555556,
+      "long": -3.3568972222222224
+    },
+    "location": "Great Borne",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T11:30:19.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

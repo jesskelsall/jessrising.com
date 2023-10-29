@@ -1,0 +1,26 @@
+{
+  "title": "Herdys at Routen Farm",
+  "meta": {
+    "gps": {
+      "lat": 54.53290277777778,
+      "long": -3.3775444444444447
+    },
+    "location": "Herdus",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2023-07-01-great-borne-starling-dodd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-01T14:42:15.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -33,6 +33,10 @@ const addTrip = async (): Promise<void> => {
     message: "To date (optional)",
   });
 
+  const tripDescription = await inquirerInput({
+    message: "Description",
+  });
+
   const thumbnail = await inquirerInput({
     message: "Thumbnail (gallery photo slug)",
     validate: (input: string) => Boolean(input) || "Thumbnail is required.",
@@ -47,7 +51,7 @@ const addTrip = async (): Promise<void> => {
   const tripSlug = TripSlug.parse(`${fromString}-${kebabCase(tripName)}`);
   const trip: TripData = {
     title: tripName,
-    description: null,
+    description: tripDescription || null,
     thumbnail: GalleryPhotoSlug.parse(thumbnail),
     icon,
     dates: {
