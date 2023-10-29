@@ -12,6 +12,7 @@ export const locationHierarchy: LocationHierarchy = {
         Durham: {
           "Durham Cathedral": {},
         },
+        "Raby Castle": {},
       },
       Home: {},
       "Lake District": {

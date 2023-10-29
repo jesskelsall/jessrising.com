@@ -1,0 +1,28 @@
+{
+  "title": "Raby Castle Chandelier",
+  "meta": {
+    "location": "Raby Castle",
+    "tags": [
+      "Interior"
+    ],
+    "trip": "2023-07-09-raby-castle"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 45,
+        "fStop": 6.300000190736682,
+        "ISO": 8000
+      }
+    },
+    "date": "2023-07-09T11:46:36.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

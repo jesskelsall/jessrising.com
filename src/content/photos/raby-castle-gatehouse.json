@@ -1,0 +1,29 @@
+{
+  "title": "Raby Castle Gatehouse",
+  "meta": {
+    "location": "Raby Castle",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": "2023-07-09-raby-castle"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 47,
+        "fStop": 22,
+        "ISO": 800
+      }
+    },
+    "date": "2023-07-09T11:19:26.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9416
+    }
+  }
+}
