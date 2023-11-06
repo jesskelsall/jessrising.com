@@ -16,7 +16,11 @@ export const GalleryPhoto = () => {
         <img alt={startCase(slug)} src={imagePath} />
       </div>
       <GalleryHeading />
-      {markdown && <Markdown>{markdown}</Markdown>}
+      {markdown && (
+        <div className="gallery-body">
+          <Markdown>{markdown}</Markdown>
+        </div>
+      )}
     </main>
   );
 };
