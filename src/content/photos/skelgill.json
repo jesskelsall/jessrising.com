@@ -1,0 +1,25 @@
+{
+  "title": "Skelgill",
+  "meta": {
+    "gps": {
+      "lat": 54.57720277777778,
+      "long": -3.173775
+    },
+    "location": "Newlands",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-23T09:31:41.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

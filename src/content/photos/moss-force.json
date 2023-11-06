@@ -1,0 +1,30 @@
+{
+  "title": "Moss Force",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Waterfall"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.8,
+        "focalLength": 37,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    },
+    "date": "2023-07-22T20:18:36.000+01:00",
+    "dimensions": {
+      "height": 6237,
+      "width": 9356
+    }
+  }
+}

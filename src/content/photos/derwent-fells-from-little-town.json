@@ -1,0 +1,26 @@
+{
+  "title": "Derwent Fells From Little Town",
+  "meta": {
+    "gps": {
+      "lat": 54.564730555555556,
+      "long": -3.187663888888889
+    },
+    "location": "Newlands",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-23T12:15:37.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

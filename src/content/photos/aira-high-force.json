@@ -1,0 +1,29 @@
+{
+  "title": "Aira High Force",
+  "meta": {
+    "location": "Aira Force",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 1,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 200
+      }
+    },
+    "date": "2023-07-23T16:24:34.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

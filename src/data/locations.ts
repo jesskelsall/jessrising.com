@@ -46,7 +46,10 @@ export const locationHierarchy: LocationHierarchy = {
           "Scale Beck": {},
         },
         "Derwent Water": {
-          "Cat Bells": {},
+          "Derwent Fells": {
+            "Cat Bells": {},
+          },
+          Newlands: {},
         },
         "Ennerdale Water": {
           "Ennerdale Fell": {
@@ -65,6 +68,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Fleetwith Pike": {},
           "Grey Knotts": {},
         },
+        Keswick: {},
         Loweswater: {
           Fellbarrow: {},
           "Holme Wood": {},
@@ -75,6 +79,12 @@ export const locationHierarchy: LocationHierarchy = {
           },
         },
         "River Esk": {},
+        Rydal: {
+          "Rydal Cave": {},
+        },
+        Ullswater: {
+          "Aira Force": {},
+        },
         "Wast Water": {
           "Wasdale Head": {
             "Great Gable": {},

@@ -1,0 +1,25 @@
+{
+  "title": "Swinside From Skelgill Bank",
+  "meta": {
+    "gps": {
+      "lat": 54.57841944444445,
+      "long": -3.1662166666666667
+    },
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-23T10:07:44.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

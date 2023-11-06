@@ -1,0 +1,29 @@
+{
+  "title": "Signpost and Mossy Wall",
+  "meta": {
+    "location": "Rydal",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 7.1,
+        "ISO": 2500
+      }
+    },
+    "date": "2023-07-22T15:38:03.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

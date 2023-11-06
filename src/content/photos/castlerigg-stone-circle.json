@@ -1,0 +1,30 @@
+{
+  "title": "Castlerigg Stone Circle",
+  "meta": {
+    "location": "Keswick",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Ruin"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 35,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    },
+    "date": "2023-07-22T16:30:59.000+01:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    }
+  }
+}

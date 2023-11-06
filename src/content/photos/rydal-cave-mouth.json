@@ -1,0 +1,29 @@
+{
+  "title": "Rydal Cave Mouth",
+  "meta": {
+    "location": "Rydal Cave",
+    "tags": [
+      "Landscape",
+      "Cave"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 35,
+        "fStop": 22,
+        "ISO": 10000
+      }
+    },
+    "date": "2023-07-22T14:33:55.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

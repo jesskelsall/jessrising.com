@@ -1,0 +1,28 @@
+{
+  "title": "Herdys at Seathwaite",
+  "meta": {
+    "location": "Seathwaite",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 125
+      }
+    },
+    "date": "2023-07-22T17:18:11.000+01:00",
+    "dimensions": {
+      "height": 5760,
+      "width": 8640
+    }
+  }
+}

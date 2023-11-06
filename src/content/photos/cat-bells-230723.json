@@ -1,0 +1,26 @@
+{
+  "title": "Cat Bells",
+  "meta": {
+    "gps": {
+      "lat": 54.568311111111115,
+      "long": -3.170713888888889
+    },
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-23T11:12:07.000+01:00",
+    "dimensions": {
+      "height": 2916,
+      "width": 3888
+    }
+  }
+}

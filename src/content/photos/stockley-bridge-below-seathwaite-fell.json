@@ -1,0 +1,30 @@
+{
+  "title": "Stockley Bridge Below Seathwaite Fell",
+  "meta": {
+    "location": "Seathwaite",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Waterfall"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 2.5,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 50
+      }
+    },
+    "date": "2023-07-22T18:12:00.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

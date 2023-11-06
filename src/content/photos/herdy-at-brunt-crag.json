@@ -1,0 +1,27 @@
+{
+  "title": "Herdy at Brunt Crag",
+  "meta": {
+    "gps": {
+      "lat": 54.56182777777777,
+      "long": -3.170452777777778
+    },
+    "location": "Cat Bells",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Sheep"
+    ],
+    "trip": "2023-07-22-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-07-23T11:33:28.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
