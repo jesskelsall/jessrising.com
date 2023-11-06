@@ -1,0 +1,30 @@
+{
+  "title": "Saturn and STEVE",
+  "meta": {
+    "location": "Dunstanburgh Castle",
+    "tags": [
+      "Landscape",
+      "Astro",
+      "Aurora"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-11-05T18:54:47.000+00:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 6,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 500
+      }
+    }
+  }
+}

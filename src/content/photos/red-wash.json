@@ -1,0 +1,31 @@
+{
+  "title": "Red Wash",
+  "meta": {
+    "location": "Dunstanburgh Castle",
+    "tags": [
+      "Landscape",
+      "Astro",
+      "Aurora",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-11-05T18:03:01.000+00:00",
+    "dimensions": {
+      "height": 6202,
+      "width": 9304
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 8,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1000
+      }
+    }
+  }
+}
