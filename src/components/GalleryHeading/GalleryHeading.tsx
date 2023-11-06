@@ -89,21 +89,12 @@ export const GalleryHeading = () => {
           Download high resolution photo
         </Link>
       )}
-      <p className="disclaimer">
-        {hasNewTag ? (
-          <>
-            Photo by {APP_AUTHOR}. Free to use in any way. If using this photo
-            commercially, please credit by name.
-            <br />
-            For inquiries, email{" "}
-            <a href="mailto:hi@jesskelsall.me">hi@jesskelsall.me</a>
-          </>
-        ) : (
-          <>
-            &copy; {copyrightRange} {APP_AUTHOR}. All rights reserved.
-          </>
-        )}
-      </p>
+      {hasNewTag && (
+        <p className="disclaimer">
+          Photo by {APP_AUTHOR}. Free to use in any way. If using this photo
+          commercially, please credit by name.
+        </p>
+      )}
     </>
   );
 };

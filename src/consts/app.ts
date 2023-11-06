@@ -1,5 +1,6 @@
 export const APP_NAME = "Jess Rising";
 export const APP_AUTHOR = "Jessica Kelsall";
+export const APP_AUTHOR_EMAIL = "hi@jesskelsall.me";
 export const DIR_CONTENT = "./src/content";
 export const DIR_DATA = "./src/data";
 export const DIR_PHOTOS = "./src/public/photos";
