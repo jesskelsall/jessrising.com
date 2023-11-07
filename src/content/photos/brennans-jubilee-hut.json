@@ -1,0 +1,29 @@
+{
+  "title": "Brennan's Jubilee Hut",
+  "meta": {
+    "location": "Larachmhor Gardens",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 31,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2023-07-29T10:01:30.000+01:00",
+    "dimensions": {
+      "height": 5751,
+      "width": 8626
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Plockton Coral Beach",
+  "meta": {
+    "location": "Plockton",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 51,
+        "fStop": 22,
+        "ISO": 800
+      }
+    },
+    "date": "2023-07-29T16:01:43.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Morning Wisps",
+  "meta": {
+    "location": "Fort William",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Forest"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 62,
+        "fStop": 14,
+        "ISO": 250
+      }
+    },
+    "date": "2023-07-30T08:13:29.000+01:00",
+    "dimensions": {
+      "height": 5370,
+      "width": 8055
+    }
+  }
+}

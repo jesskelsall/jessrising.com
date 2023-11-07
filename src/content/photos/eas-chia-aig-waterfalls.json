@@ -1,0 +1,29 @@
+{
+  "title": "Eas Chia-aig Waterfalls",
+  "meta": {
+    "location": "Loch Arkaig",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.625,
+        "focalLength": 34,
+        "fStop": 22,
+        "ISO": 50
+      }
+    },
+    "date": "2023-07-30T09:00:51.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

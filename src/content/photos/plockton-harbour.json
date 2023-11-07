@@ -1,0 +1,30 @@
+{
+  "title": "Plockton Harbour",
+  "meta": {
+    "location": "Plockton",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 4000
+      }
+    },
+    "date": "2023-07-29T16:36:35.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

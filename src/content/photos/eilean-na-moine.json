@@ -1,0 +1,29 @@
+{
+  "title": "Eilean na Mòine",
+  "meta": {
+    "location": "Glenfinnan",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 26,
+        "fStop": 22,
+        "ISO": 2000
+      }
+    },
+    "date": "2023-07-29T08:58:01.000+01:00",
+    "dimensions": {
+      "height": 5869,
+      "width": 8803
+    }
+  }
+}

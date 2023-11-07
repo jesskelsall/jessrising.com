@@ -1,0 +1,29 @@
+{
+  "title": "Isleornsay Green Boat",
+  "meta": {
+    "location": "Isleornsay",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 45,
+        "fStop": 22,
+        "ISO": 500
+      }
+    },
+    "date": "2023-07-29T14:27:26.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}

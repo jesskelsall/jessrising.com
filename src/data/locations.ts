@@ -159,6 +159,7 @@ export const locationHierarchy: LocationHierarchy = {
         Lochinver: {},
       },
       "Ben Nevis & Glen Coe": {
+        "Fort William": {},
         "Glen Coe": {
           "Kingshouse Hotel": {},
           Lagangarbh: {},
@@ -263,7 +264,8 @@ export const locationHierarchy: LocationHierarchy = {
       Kintail: {
         "Eilean Donan Castle": {},
         Glenelg: {},
-        "Loch Alsh": {},
+        "Kyle of Lochalsh": {},
+        Plockton: {},
         "Ratagan Pass": {},
       },
       "Loch Awe": {
@@ -293,11 +295,13 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch Sunart": {},
         },
       },
-      Lochaber: {
-        "Loch Arkaig": {},
-      },
       Moidart: {
         "Loch Moidart": {},
+      },
+      Morar: {
+        "Larachmhor Gardens": {},
+        "Loch Morar": {},
+        Mallaig: {},
       },
       Morvern: {
         "Loch Aline": {},
@@ -379,6 +383,12 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "Sandwood Bay": {},
         "Strathy Point": {},
+      },
+      "The Great Glen": {
+        Lochaber: {
+          "Loch Arkaig": {},
+        },
+        "Loch Lochy": {},
       },
       Ullapool: {},
       "Wester Ross": {
