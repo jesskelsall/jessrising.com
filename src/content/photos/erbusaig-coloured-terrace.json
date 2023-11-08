@@ -1,0 +1,29 @@
+{
+  "title": "Erbusaig Coloured Terrace",
+  "meta": {
+    "location": "Kyle of Lochalsh",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2023-07-28-fort-william"
+  },
+  "exif": {
+    "date": "2023-07-29T15:33:37.000+01:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 250
+      }
+    }
+  }
+}
