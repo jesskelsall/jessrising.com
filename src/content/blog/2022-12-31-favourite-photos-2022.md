@@ -92,7 +92,7 @@ Amongst one hundred others lining the hill in anticipation of the morning servic
 
 ## #1: The Old Man of Storr
 
-<img src="../../public/photos/the-old-man-of-storr.jpeg" />
+<img src="../../public/photos/the-old-man-of-storr-220605.jpeg" />
 
 Before I knew of the Scottish Highlands, I knew of the Old Man of Storr. A fairy-tale view across jagged rocks and alternating land & water. Before I could drive, Scotland was a foreign land, and the Isle of Skye was so impossibly far away. In 2015, two years after learning to drive, I almost travelled to the island to get the best partial view of the [total solar eclipse](https://www.timeanddate.com/eclipse/solar/2015-march-20) outside of Svalbard, but concluded a sixteen hour round trip was too much. This year, I finally made it.
 

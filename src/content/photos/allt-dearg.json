@@ -1,0 +1,31 @@
+{
+  "title": "Allt Dearg",
+  "meta": {
+    "location": "Sligachan",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Flowers & Insects",
+      "White House"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-08-10T10:11:36.000+01:00",
+    "dimensions": {
+      "height": 6194,
+      "width": 9291
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 50,
+        "fStop": 22,
+        "ISO": 800
+      }
+    }
+  }
+}

@@ -242,10 +242,6 @@ export const locationHierarchy: LocationHierarchy = {
           "Neist Point": {},
         },
         Dunvegan: {},
-        "The Cullins": {
-          "Fairy Pools": {},
-          "Loch Coruisk": {},
-        },
         Sleat: {
           Armadale: {},
           Isleornsay: {},
@@ -253,6 +249,11 @@ export const locationHierarchy: LocationHierarchy = {
         },
         Strathaird: {
           Elgol: {},
+        },
+        "The Cullins": {
+          "Fairy Pools": {},
+          "Loch Coruisk": {},
+          Sligachan: {},
         },
         Trotternish: {
           Portree: {},
@@ -267,6 +268,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Kyle of Lochalsh": {},
         Plockton: {},
         "Ratagan Pass": {},
+        "Strath Croe": {},
       },
       "Loch Awe": {
         "Kilchurn Castle": {},

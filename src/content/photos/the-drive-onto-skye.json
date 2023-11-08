@@ -1,0 +1,31 @@
+{
+  "title": "The Drive Onto Skye",
+  "meta": {
+    "location": "Kyle of Lochalsh",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Coast",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-08-10T12:55:25.000+01:00",
+    "dimensions": {
+      "height": 6125,
+      "width": 9188
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 45,
+        "fStop": 22,
+        "ISO": 320
+      }
+    }
+  }
+}
