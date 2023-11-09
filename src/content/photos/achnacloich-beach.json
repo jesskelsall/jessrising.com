@@ -1,0 +1,30 @@
+{
+  "title": "Achnacloich Beach",
+  "meta": {
+    "location": "Sleat",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-08-11T11:55:19.000+01:00",
+    "dimensions": {
+      "height": 6330,
+      "width": 9496
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 45,
+        "fStop": 22,
+        "ISO": 640
+      }
+    }
+  }
+}

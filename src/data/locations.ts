@@ -245,6 +245,7 @@ export const locationHierarchy: LocationHierarchy = {
         Sleat: {
           Armadale: {},
           Isleornsay: {},
+          "Dunscaith Castle": {},
           Teangue: {},
         },
         Strathaird: {
@@ -270,6 +271,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Ratagan Pass": {},
         "Strath Croe": {},
       },
+      Knoydart: {},
       "Loch Awe": {
         "Kilchurn Castle": {},
         "St Conan's Kirk": {},

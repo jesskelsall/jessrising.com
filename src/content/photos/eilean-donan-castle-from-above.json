@@ -1,0 +1,30 @@
+{
+  "title": "Eilean Donan Castle From Above",
+  "meta": {
+    "location": "Eilean Donan Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-08-11T16:12:16.000+01:00",
+    "dimensions": {
+      "height": 6157,
+      "width": 9235
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00025,
+        "focalLength": 60,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}
