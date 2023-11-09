@@ -100,6 +100,7 @@ export const locationHierarchy: LocationHierarchy = {
       },
       Northumberland: {
         "Dunstanburgh Castle": {},
+        Seahouses: {},
       },
       Ripon: {
         "Fountains Abbey": {},
