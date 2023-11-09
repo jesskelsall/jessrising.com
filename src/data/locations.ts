@@ -243,6 +243,9 @@ export const locationHierarchy: LocationHierarchy = {
           "Neist Point": {},
         },
         Dunvegan: {},
+        "Isle of Raasay": {
+          Brochel: {},
+        },
         Sleat: {
           Armadale: {},
           Isleornsay: {},

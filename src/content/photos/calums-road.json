@@ -1,0 +1,30 @@
+{
+  "title": "Calum's Road",
+  "meta": {
+    "location": "Isle of Raasay",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-08-12T13:12:43.000+01:00",
+    "dimensions": {
+      "height": 6216,
+      "width": 9324
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 320
+      }
+    }
+  }
+}
