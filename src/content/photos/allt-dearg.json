@@ -8,14 +8,9 @@
       "Flowers & Insects",
       "White House"
     ],
-    "trip": null
+    "trip": "2023-08-09-skye-raasay-st-kilda"
   },
   "exif": {
-    "date": "2023-08-10T10:11:36.000+01:00",
-    "dimensions": {
-      "height": 6194,
-      "width": 9291
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -26,6 +21,11 @@
         "fStop": 22,
         "ISO": 800
       }
+    },
+    "date": "2023-08-10T10:11:36.000+01:00",
+    "dimensions": {
+      "height": 6194,
+      "width": 9291
     }
   }
 }

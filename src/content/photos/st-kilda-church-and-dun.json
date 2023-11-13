@@ -1,13 +1,11 @@
 {
-  "title": "Skye Bridge",
+  "title": "St Kilda Church and Dùn",
   "meta": {
-    "location": "Kyle of Lochalsh",
+    "location": "Hirta",
     "tags": [
       "Landscape",
-      "Boat",
-      "Bridge",
-      "Clouds",
-      "Loch"
+      "Church/Cathedral",
+      "Coast"
     ],
     "trip": "2023-08-09-skye-raasay-st-kilda"
   },
@@ -17,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.0125,
-        "focalLength": 64,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 57,
         "fStop": 22,
-        "ISO": 800
+        "ISO": 400
       }
     },
-    "date": "2023-08-10T18:17:09.000+01:00",
+    "date": "2023-08-13T12:58:55.000+01:00",
     "dimensions": {
-      "height": 5737,
-      "width": 8605
+      "height": 5926,
+      "width": 8889
     }
   }
 }

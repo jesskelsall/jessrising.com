@@ -1,13 +1,11 @@
 {
-  "title": "Skye Bridge",
+  "title": "Rising From the Atlantic",
   "meta": {
-    "location": "Kyle of Lochalsh",
+    "location": "Boreray",
     "tags": [
       "Landscape",
-      "Boat",
-      "Bridge",
       "Clouds",
-      "Loch"
+      "Coast"
     ],
     "trip": "2023-08-09-skye-raasay-st-kilda"
   },
@@ -17,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.0125,
-        "focalLength": 64,
-        "fStop": 22,
-        "ISO": 800
+        "exposureTime": 0.01,
+        "focalLength": 62,
+        "fStop": 11,
+        "ISO": 100
       }
     },
-    "date": "2023-08-10T18:17:09.000+01:00",
+    "date": "2023-08-13T11:11:06.000+01:00",
     "dimensions": {
-      "height": 5737,
-      "width": 8605
+      "height": 5786,
+      "width": 8680
     }
   }
 }

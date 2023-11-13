@@ -376,6 +376,10 @@ export const locationHierarchy: LocationHierarchy = {
         "Rannoch Station": {},
       },
       Sandaig: {},
+      "St Kilda": {
+        Boreray: {},
+        Hirta: {},
+      },
       Sutherland: {
         Durness: {
           "Smoo Cave": {},
