@@ -99,6 +99,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Neville Hall": {},
       },
       Northumberland: {
+        Cragside: {},
         "Dunstanburgh Castle": {},
         Seahouses: {},
       },

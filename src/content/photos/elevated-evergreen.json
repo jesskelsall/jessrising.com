@@ -1,0 +1,28 @@
+{
+  "title": "Elevated Evergreen",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Forest"
+    ],
+    "trip": "2023-08-20-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 60,
+        "fStop": 22,
+        "ISO": 640
+      }
+    },
+    "date": "2023-08-20T12:45:23.000+01:00",
+    "dimensions": {
+      "height": 6075,
+      "width": 9112
+    }
+  }
+}

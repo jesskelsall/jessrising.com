@@ -1,0 +1,29 @@
+{
+  "title": "Sea of Heather",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2023-08-20-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 34,
+        "fStop": 16,
+        "ISO": 250
+      }
+    },
+    "date": "2023-08-20T14:45:36.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

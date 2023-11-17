@@ -1,0 +1,29 @@
+{
+  "title": "The Face in the Woods",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2023-08-20-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2023-08-20T12:50:55.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
