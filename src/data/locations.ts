@@ -209,6 +209,10 @@ export const locationHierarchy: LocationHierarchy = {
         "Tarbat Ness": {},
       },
       Dalwhinnie: {},
+      "East Lothain": {
+        "Balgone Estate": {},
+        Haddington: {},
+      },
       Edinburgh: {
         "Princes Street Gardens": {},
         Stockbridge: {},

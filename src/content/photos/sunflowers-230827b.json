@@ -1,0 +1,28 @@
+{
+  "title": "Sunflowers",
+  "meta": {
+    "location": "Balgone Estate",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2023-08-27-balgone-sunflower-trail"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 51,
+        "fStop": 22,
+        "ISO": 400
+      }
+    },
+    "date": "2023-08-27T11:50:40.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

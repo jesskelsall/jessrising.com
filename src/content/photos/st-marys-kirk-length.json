@@ -1,0 +1,29 @@
+{
+  "title": "St Mary's Kirk Length",
+  "meta": {
+    "location": "Haddington",
+    "tags": [
+      "Church/Cathedral",
+      "Interior"
+    ],
+    "trip": "2023-08-27-balgone-sunflower-trail"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.05,
+        "focalLength": 41,
+        "fStop": 22,
+        "ISO": 12800
+      }
+    },
+    "date": "2023-08-27T14:41:18.000+01:00",
+    "dimensions": {
+      "height": 6278,
+      "width": 9418
+    }
+  }
+}

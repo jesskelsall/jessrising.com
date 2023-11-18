@@ -1,0 +1,29 @@
+{
+  "title": "Forever Sleeping",
+  "meta": {
+    "location": "Haddington",
+    "tags": [
+      "Church/Cathedral",
+      "Interior"
+    ],
+    "trip": "2023-08-27-balgone-sunflower-trail"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.1,
+        "focalLength": 54,
+        "fStop": 22,
+        "ISO": 12800
+      }
+    },
+    "date": "2023-08-27T14:49:11.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}
