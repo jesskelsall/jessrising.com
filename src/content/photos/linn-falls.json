@@ -1,0 +1,30 @@
+{
+  "title": "Linn Falls",
+  "meta": {
+    "location": "Charlestown of Aberlour",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-11-18T10:29:49.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.625,
+        "focalLength": 27,
+        "fStop": 22,
+        "ISO": 1000
+      }
+    }
+  }
+}

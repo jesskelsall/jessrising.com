@@ -316,6 +316,11 @@ export const locationHierarchy: LocationHierarchy = {
         "Loch Morar": {},
         Mallaig: {},
       },
+      Moray: {
+        "Bow Fiddle Rock": {},
+        "Charlestown of Aberlour": {},
+        "Elgin Cathedral": {},
+      },
       Morvern: {
         "Loch Aline": {},
         Lochaline: {},

@@ -1,0 +1,28 @@
+{
+  "title": "Arbelour Graveyard",
+  "meta": {
+    "location": "Charlestown of Aberlour",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-11-18T11:19:34.000+00:00",
+    "dimensions": {
+      "height": 6182,
+      "width": 9273
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.05,
+        "focalLength": 56,
+        "fStop": 22,
+        "ISO": 4000
+      }
+    }
+  }
+}
