@@ -1,0 +1,31 @@
+{
+  "title": "DSC02489",
+  "meta": {
+    "location": "Crag Hill",
+    "tags": [
+      "New"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-11-11T14:19:24.000+00:00",
+    "dimensions": {
+      "height": 3664,
+      "width": 5496
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  },
+  "settings": {
+    "downloadOriginal": true
+  }
+}

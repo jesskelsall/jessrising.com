@@ -1,27 +1,27 @@
 {
-  "title": "DSC00648",
+  "title": "DSC02532",
   "meta": {
-    "location": "Durness",
+    "location": "Crag Hill",
     "tags": [
       "New"
     ],
     "trip": null
   },
   "exif": {
-    "date": "2023-10-17T12:38:57.000+01:00",
+    "date": "2023-11-11T14:20:52.000+00:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6216,
+      "width": 9324
     },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.0007999999797890487,
-        "focalLength": 66,
+        "exposureBias": -1,
+        "exposureTime": 0.003125,
+        "focalLength": 69,
         "fStop": 4,
-        "ISO": 500
+        "ISO": 100
       }
     }
   },
