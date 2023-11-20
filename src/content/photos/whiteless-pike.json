@@ -1,0 +1,28 @@
+{
+  "title": "Whiteless Pike",
+  "meta": {
+    "location": "Brackenthwaite Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-11-11-the-grasmoor-six"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 47,
+        "fStop": 22,
+        "ISO": 1600
+      }
+    },
+    "date": "2023-11-11T15:00:34.000+00:00",
+    "dimensions": {
+      "height": 6104,
+      "width": 9157
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Hopegill Head from Whiteside",
+  "meta": {
+    "location": "Whiteside",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-11-11-the-grasmoor-six"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.00625,
+        "focalLength": 57,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2023-11-11T09:50:51.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Along Coledale Beck",
+  "meta": {
+    "location": "Hopegill Head",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2023-11-11-the-grasmoor-six"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 50,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2023-11-11T11:47:23.000+00:00",
+    "dimensions": {
+      "height": 5887,
+      "width": 8831
+    }
+  }
+}

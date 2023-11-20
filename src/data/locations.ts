@@ -42,7 +42,14 @@ export const locationHierarchy: LocationHierarchy = {
           "Middle Fell": {},
         },
         "Crummock Water": {
+          "Brackenthwaite Fell": {
+            "Crag Hill": {},
+            Grasmoor: {},
+            "Hopegill Head": {},
+            Whiteside: {},
+          },
           Mellbreak: {},
+          "Rannerdale Knotts": {},
           "Scale Beck": {},
         },
         "Derwent Water": {

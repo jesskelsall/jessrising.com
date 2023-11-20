@@ -1,0 +1,28 @@
+{
+  "title": "Rannerdale Farm",
+  "meta": {
+    "location": "Grasmoor",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-11-11-the-grasmoor-six"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2023-11-11T12:31:57.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
