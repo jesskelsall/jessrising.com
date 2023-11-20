@@ -17,7 +17,7 @@ module.exports = {
     return [
       {
         source: "/new",
-        destination: "/gallery?tag=new",
+        destination: "/gallery?tag=new&order=oldest",
         permanent: true,
       },
       {
