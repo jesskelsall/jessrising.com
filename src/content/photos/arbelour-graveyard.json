@@ -5,14 +5,9 @@
     "tags": [
       "Landscape"
     ],
-    "trip": null
+    "trip": "2023-11-17-moray-firth-coast"
   },
   "exif": {
-    "date": "2023-11-18T11:19:34.000+00:00",
-    "dimensions": {
-      "height": 6182,
-      "width": 9273
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 22,
         "ISO": 4000
       }
+    },
+    "date": "2023-11-18T11:19:34.000+00:00",
+    "dimensions": {
+      "height": 6182,
+      "width": 9273
     }
   }
 }

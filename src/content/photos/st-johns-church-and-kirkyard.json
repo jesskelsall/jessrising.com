@@ -1,10 +1,11 @@
 {
-  "title": "Cornered History",
+  "title": "St John's Church and Kirkyard",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Crovie",
     "tags": [
       "Landscape",
       "Church/Cathedral",
+      "Coast",
       "Ruin"
     ],
     "trip": "2023-11-17-moray-firth-coast"
@@ -14,17 +15,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.04,
-        "focalLength": 50,
+        "exposureBias": -1,
+        "exposureTime": 0.025,
+        "focalLength": 32,
         "fStop": 22,
-        "ISO": 4000
+        "ISO": 1000
       }
     },
-    "date": "2023-11-18T14:09:48.000+00:00",
+    "date": "2023-11-19T09:30:23.000+00:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6276,
+      "width": 9414
     }
   }
 }

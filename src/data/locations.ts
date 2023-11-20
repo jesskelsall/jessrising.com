@@ -131,6 +131,10 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
     Scotland: {
+      Aberdeenshire: {
+        Crovie: {},
+        "Rattray Head": {},
+      },
       Achnasheen: {
         "Achnashellach Forest": {},
         "Loch a'Chroisg": {},

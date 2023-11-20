@@ -1,10 +1,10 @@
 {
-  "title": "Slowing the Decay",
+  "title": "Crovie From Above",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Crovie",
     "tags": [
-      "Church/Cathedral",
-      "Ruin"
+      "Landscape",
+      "Coast"
     ],
     "trip": "2023-11-17-moray-firth-coast"
   },
@@ -15,15 +15,15 @@
       "settings": {
         "exposureBias": -0.7,
         "exposureTime": 0.016666666666666666,
-        "focalLength": 53,
-        "fStop": 22,
-        "ISO": 2500
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 50
       }
     },
-    "date": "2023-11-18T13:57:47.000+00:00",
+    "date": "2023-11-19T10:00:26.000+00:00",
     "dimensions": {
-      "height": 6319,
-      "width": 9479
+      "height": 6304,
+      "width": 9457
     }
   }
 }

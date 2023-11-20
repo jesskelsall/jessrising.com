@@ -7,14 +7,9 @@
       "Church/Cathedral",
       "Ruin"
     ],
-    "trip": null
+    "trip": "2023-11-17-moray-firth-coast"
   },
   "exif": {
-    "date": "2023-11-18T14:02:30.000+00:00",
-    "dimensions": {
-      "height": 6078,
-      "width": 9140
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 8,
         "ISO": 200
       }
+    },
+    "date": "2023-11-18T14:02:30.000+00:00",
+    "dimensions": {
+      "height": 6078,
+      "width": 9140
     }
   }
 }

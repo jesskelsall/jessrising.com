@@ -1,10 +1,12 @@
 {
-  "title": "Slowing the Decay",
+  "title": "The Tidal Lighthouse",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Rattray Head",
     "tags": [
-      "Church/Cathedral",
-      "Ruin"
+      "Landscape",
+      "Beach",
+      "Coast",
+      "Lighthouse"
     ],
     "trip": "2023-11-17-moray-firth-coast"
   },
@@ -15,15 +17,15 @@
       "settings": {
         "exposureBias": 0,
         "exposureTime": 0.0125,
-        "focalLength": 70,
-        "fStop": 22,
-        "ISO": 2500
+        "focalLength": 46,
+        "fStop": 7.1,
+        "ISO": 100
       }
     },
-    "date": "2023-11-18T13:53:37.000+00:00",
+    "date": "2023-11-19T12:42:36.000+00:00",
     "dimensions": {
-      "height": 6210,
-      "width": 9316
+      "height": 5181,
+      "width": 7772
     }
   }
 }

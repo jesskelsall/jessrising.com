@@ -1,10 +1,12 @@
 {
-  "title": "Slowing the Decay",
+  "title": "Rattray Head Lighthouse",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Rattray Head",
     "tags": [
-      "Church/Cathedral",
-      "Ruin"
+      "Landscape",
+      "Beach",
+      "Coast",
+      "Lighthouse"
     ],
     "trip": "2023-11-17-moray-firth-coast"
   },
@@ -14,16 +16,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.0125,
+        "exposureTime": 0.004,
         "focalLength": 70,
-        "fStop": 22,
-        "ISO": 2500
+        "fStop": 11,
+        "ISO": 500
       }
     },
-    "date": "2023-11-18T13:53:37.000+00:00",
+    "date": "2023-11-19T12:54:23.000+00:00",
     "dimensions": {
-      "height": 6210,
-      "width": 9316
+      "height": 6229,
+      "width": 9344
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "title": "Slowing the Decay",
+  "title": "Crovie From Below",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Crovie",
     "tags": [
-      "Church/Cathedral",
-      "Ruin"
+      "Landscape",
+      "Coast"
     ],
     "trip": "2023-11-17-moray-firth-coast"
   },
@@ -13,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
+        "exposureBias": -1,
         "exposureTime": 0.016666666666666666,
-        "focalLength": 53,
-        "fStop": 22,
-        "ISO": 2500
+        "focalLength": 35,
+        "fStop": 5.6,
+        "ISO": 100
       }
     },
-    "date": "2023-11-18T13:57:47.000+00:00",
+    "date": "2023-11-19T10:19:30.000+00:00",
     "dimensions": {
-      "height": 6319,
-      "width": 9479
+      "height": 6274,
+      "width": 9412
     }
   }
 }

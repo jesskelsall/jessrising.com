@@ -1,11 +1,11 @@
 {
-  "title": "Cornered History",
+  "title": "Crovie From Above",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Crovie",
     "tags": [
       "Landscape",
-      "Church/Cathedral",
-      "Ruin"
+      "Coast",
+      "Gorse"
     ],
     "trip": "2023-11-17-moray-firth-coast"
   },
@@ -14,14 +14,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.04,
-        "focalLength": 50,
-        "fStop": 22,
-        "ISO": 4000
+        "exposureBias": -0.7,
+        "exposureTime": 0.01,
+        "focalLength": 35,
+        "fStop": 5,
+        "ISO": 100
       }
     },
-    "date": "2023-11-18T14:09:48.000+00:00",
+    "date": "2023-11-19T10:07:08.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

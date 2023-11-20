@@ -1,11 +1,11 @@
 {
-  "title": "Cornered History",
+  "title": "Rattray Head",
   "meta": {
-    "location": "Elgin Cathedral",
+    "location": "Rattray Head",
     "tags": [
       "Landscape",
-      "Church/Cathedral",
-      "Ruin"
+      "Beach",
+      "Coast"
     ],
     "trip": "2023-11-17-moray-firth-coast"
   },
@@ -15,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.04,
-        "focalLength": 50,
-        "fStop": 22,
-        "ISO": 4000
+        "exposureTime": 0.008,
+        "focalLength": 47,
+        "fStop": 14,
+        "ISO": 500
       }
     },
-    "date": "2023-11-18T14:09:48.000+00:00",
+    "date": "2023-11-19T12:57:53.000+00:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 5995,
+      "width": 8992
     }
   }
 }
