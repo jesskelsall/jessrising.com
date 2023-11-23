@@ -1,0 +1,31 @@
+{
+  "title": "Quinag",
+  "meta": {
+    "location": "Kylesku",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-14T11:41:46.000+01:00",
+    "dimensions": {
+      "height": 5648,
+      "width": 8472
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 10,
+        "ISO": 160
+      }
+    }
+  }
+}

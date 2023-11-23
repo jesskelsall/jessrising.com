@@ -1,0 +1,29 @@
+{
+  "title": "Waves at Clashnessie Bay",
+  "meta": {
+    "location": "Clashnessie",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-14T12:59:02.000+01:00",
+    "dimensions": {
+      "height": 5407,
+      "width": 8111
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 30,
+        "fStop": 8,
+        "ISO": 100
+      }
+    }
+  }
+}

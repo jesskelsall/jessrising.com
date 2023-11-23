@@ -1,0 +1,31 @@
+{
+  "title": "Quinag From Loch Drumbeg",
+  "meta": {
+    "location": "Assynt-Coigach",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-14T12:47:56.000+01:00",
+    "dimensions": {
+      "height": 5750,
+      "width": 8625
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 640
+      }
+    }
+  }
+}

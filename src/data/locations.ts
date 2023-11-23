@@ -173,6 +173,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Ardvreck Castle": {},
         },
         Lochinver: {},
+        "Stac Pollaidh": {},
       },
       "Ben Nevis & Glen Coe": {
         "Fort William": {},

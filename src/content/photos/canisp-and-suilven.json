@@ -1,0 +1,29 @@
+{
+  "title": "Canisp and Suilven",
+  "meta": {
+    "location": "Lochinver",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-14T16:08:56.000+01:00",
+    "dimensions": {
+      "height": 5713,
+      "width": 8569
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 50
+      }
+    }
+  }
+}

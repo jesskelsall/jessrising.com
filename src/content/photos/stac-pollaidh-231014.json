@@ -1,0 +1,30 @@
+{
+  "title": "Stac Pollaidh",
+  "meta": {
+    "location": "Stac Pollaidh",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-14T17:36:21.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 54,
+        "fStop": 22,
+        "ISO": 1000
+      }
+    }
+  }
+}
