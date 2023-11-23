@@ -1,0 +1,30 @@
+{
+  "title": "Robinson",
+  "meta": {
+    "location": "Robinson",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Clouds"
+    ],
+    "trip": "2023-11-04-newlands-horseshoe"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 57,
+        "fStop": 16,
+        "ISO": 320
+      }
+    },
+    "date": "2023-11-04T10:35:57.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

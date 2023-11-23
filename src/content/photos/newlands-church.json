@@ -1,0 +1,30 @@
+{
+  "title": "Newlands Church",
+  "meta": {
+    "location": "Newlands",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Forest"
+    ],
+    "trip": "2023-11-04-newlands-horseshoe"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 48,
+        "fStop": 16,
+        "ISO": 800
+      }
+    },
+    "date": "2023-11-04T07:45:16.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

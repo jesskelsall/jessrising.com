@@ -1,0 +1,29 @@
+{
+  "title": "Dale Head",
+  "meta": {
+    "location": "Dale Head",
+    "tags": [
+      "Landscape",
+      "Cairn"
+    ],
+    "trip": "2023-11-04-newlands-horseshoe"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 35,
+        "fStop": 22,
+        "ISO": 250
+      }
+    },
+    "date": "2023-11-04T12:32:40.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
