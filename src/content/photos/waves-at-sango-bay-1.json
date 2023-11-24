@@ -1,0 +1,30 @@
+{
+  "title": "Waves at Sango Bay",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-15T10:43:18.000+01:00",
+    "dimensions": {
+      "height": 6104,
+      "width": 9156
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 70,
+        "fStop": 14,
+        "ISO": 400
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Smoo Cave Pool",
+  "meta": {
+    "location": "Smoo Cave",
+    "tags": [
+      "Cave",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-15T13:32:01.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 1,
+        "focalLength": 29,
+        "fStop": 14,
+        "ISO": 4000
+      }
+    }
+  }
+}
