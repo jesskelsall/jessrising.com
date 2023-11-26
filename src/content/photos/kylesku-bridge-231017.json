@@ -1,0 +1,30 @@
+{
+  "title": "Kylesku Bridge",
+  "meta": {
+    "location": "Kylesku",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-17T17:12:30.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.1,
+        "focalLength": 34,
+        "fStop": 22,
+        "ISO": 200
+      }
+    }
+  }
+}

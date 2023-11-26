@@ -1,0 +1,31 @@
+{
+  "title": "Badcall Bay",
+  "meta": {
+    "location": "Assynt-Coigach",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-17T18:02:50.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.25,
+        "focalLength": 60,
+        "fStop": 7.1,
+        "ISO": 50
+      }
+    }
+  }
+}

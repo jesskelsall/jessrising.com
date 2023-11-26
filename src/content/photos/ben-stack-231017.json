@@ -1,0 +1,30 @@
+{
+  "title": "Ben Stack",
+  "meta": {
+    "location": "Loch Stack",
+    "tags": [
+      "Landscape",
+      "Road",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-17T18:23:05.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.125,
+        "focalLength": 66,
+        "fStop": 4.5,
+        "ISO": 320
+      }
+    }
+  }
+}

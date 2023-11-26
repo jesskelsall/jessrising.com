@@ -1,0 +1,30 @@
+{
+  "title": "Sango Bay Viewpoint",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "Astro",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-17T21:30:15.000+01:00",
+    "dimensions": {
+      "height": 6214,
+      "width": 9322
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 13,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1600
+      }
+    }
+  }
+}
