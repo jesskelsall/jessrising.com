@@ -8,14 +8,9 @@
       "Coast",
       "Sunrise/Sunset"
     ],
-    "trip": null
+    "trip": "2023-10-13-durness"
   },
   "exif": {
-    "date": "2023-10-16T17:38:54.000+01:00",
-    "dimensions": {
-      "height": 6236,
-      "width": 9354
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -26,6 +21,11 @@
         "fStop": 7.1,
         "ISO": 100
       }
+    },
+    "date": "2023-10-16T17:38:54.000+01:00",
+    "dimensions": {
+      "height": 6236,
+      "width": 9354
     }
   }
 }

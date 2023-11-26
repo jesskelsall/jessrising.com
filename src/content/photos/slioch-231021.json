@@ -1,10 +1,11 @@
 {
-  "title": "Loch na Thull",
+  "title": "Slioch",
   "meta": {
-    "location": "North-west Sutherland",
+    "location": "Loch Maree",
     "tags": [
       "Landscape",
-      "Loch"
+      "Loch",
+      "Snow"
     ],
     "trip": "2023-10-13-durness"
   },
@@ -13,17 +14,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
-        "exposureTime": 0.0125,
+        "exposureBias": 0,
+        "exposureTime": 0.008,
         "focalLength": 70,
-        "fStop": 22,
-        "ISO": 800
+        "fStop": 4,
+        "ISO": 50
       }
     },
-    "date": "2023-10-17T16:43:14.000+01:00",
+    "date": "2023-10-21T14:16:57.000+01:00",
     "dimensions": {
-      "height": 5550,
-      "width": 8325
+      "height": 6326,
+      "width": 9489
     }
   }
 }

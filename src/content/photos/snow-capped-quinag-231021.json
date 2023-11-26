@@ -1,11 +1,10 @@
 {
-  "title": "Remains of Balnakeil Church",
+  "title": "Snow-capped Quinag",
   "meta": {
-    "location": "Balnakeil",
+    "location": "Assynt-Coigach",
     "tags": [
       "Landscape",
-      "Church/Cathedral",
-      "Ruin"
+      "Snow"
     ],
     "trip": "2023-10-13-durness"
   },
@@ -14,14 +13,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
-        "exposureTime": 0.03333333333333333,
-        "focalLength": 24,
-        "fStop": 22,
-        "ISO": 320
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 33,
+        "fStop": 3.5,
+        "ISO": 50
       }
     },
-    "date": "2023-10-16T16:45:22.000+01:00",
+    "date": "2023-10-21T11:13:03.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

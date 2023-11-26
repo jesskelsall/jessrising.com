@@ -1,10 +1,10 @@
 {
-  "title": "Waves at Clashnessie Bay",
+  "title": "Wester Ross Snow Caps",
   "meta": {
-    "location": "Clashnessie",
+    "location": "Loch Ewe",
     "tags": [
       "Landscape",
-      "Coast"
+      "Snow"
     ],
     "trip": "2023-10-13-durness"
   },
@@ -13,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
+        "exposureBias": 0,
         "exposureTime": 0.004,
-        "focalLength": 30,
-        "fStop": 8,
-        "ISO": 100
+        "focalLength": 63,
+        "fStop": 3.5,
+        "ISO": 50
       }
     },
-    "date": "2023-10-14T12:59:02.000+01:00",
+    "date": "2023-10-21T13:42:31.000+01:00",
     "dimensions": {
-      "height": 5407,
-      "width": 8111
+      "height": 4525,
+      "width": 6787
     }
   }
 }

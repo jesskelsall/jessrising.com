@@ -7,14 +7,9 @@
       "Beach",
       "Coast"
     ],
-    "trip": null
+    "trip": "2023-10-13-durness"
   },
   "exif": {
-    "date": "2023-10-16T17:34:25.000+01:00",
-    "dimensions": {
-      "height": 6316,
-      "width": 9474
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 18,
         "ISO": 1000
       }
+    },
+    "date": "2023-10-16T17:34:25.000+01:00",
+    "dimensions": {
+      "height": 6316,
+      "width": 9474
     }
   }
 }

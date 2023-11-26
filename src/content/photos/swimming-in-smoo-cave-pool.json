@@ -7,14 +7,9 @@
       "People",
       "Waterfall"
     ],
-    "trip": null
+    "trip": "2023-10-13-durness"
   },
   "exif": {
-    "date": "2023-10-15T13:17:43.000+01:00",
-    "dimensions": {
-      "height": 5069,
-      "width": 7599
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 2.8,
         "ISO": 8000
       }
+    },
+    "date": "2023-10-15T13:17:43.000+01:00",
+    "dimensions": {
+      "height": 5069,
+      "width": 7599
     }
   }
 }

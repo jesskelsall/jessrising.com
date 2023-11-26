@@ -1,10 +1,13 @@
 {
-  "title": "Sunbeams on Ben Loyal",
+  "title": "Ardvreck Castle West",
   "meta": {
-    "location": "Kyle of Tongue",
+    "location": "Ardvreck Castle",
     "tags": [
       "Landscape",
-      "Clouds"
+      "Castle",
+      "Loch",
+      "Ruin",
+      "Snow"
     ],
     "trip": "2023-10-13-durness"
   },
@@ -13,17 +16,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
-        "exposureTime": 0.00039999998989452437,
+        "exposureBias": 0,
+        "exposureTime": 0.01,
         "focalLength": 70,
-        "fStop": 2.8,
+        "fStop": 3.5,
         "ISO": 50
       }
     },
-    "date": "2023-10-20T14:51:26.000+01:00",
+    "date": "2023-10-21T11:24:12.000+01:00",
     "dimensions": {
-      "height": 5741,
-      "width": 8612
+      "height": 5619,
+      "width": 8429
     }
   }
 }
