@@ -27,7 +27,6 @@ import { Tag, TagId } from "../src/types/tag";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
-const stat = util.promisify(fs.stat);
 const unlink = util.promisify(fs.unlink);
 const writeFile = util.promisify(fs.writeFile);
 
@@ -102,16 +101,6 @@ const resizeImage = (
       return resolve(result);
     });
   });
-
-// Check if a file already exists
-const fileExists = async (filePath: string): Promise<boolean> => {
-  try {
-    const fileStats = await stat(filePath);
-    return Boolean(fileStats);
-  } catch {
-    return false;
-  }
-};
 
 // Write a file to the S3 bucket. Returns whether it was successful
 const writeFileToBucket = async (
@@ -314,7 +303,7 @@ const writeGalleryPhoto = async (
   photoSlug: GalleryPhotoSlug,
   lastData?: GalleryPhotoData
 ): Promise<GalleryPhotoData | undefined> => {
-  console.info(`\n\x1b[33m${photoFile}\x1b[0m`);
+  console.info(`\n\x1b[33m${photoData.title} (${photoSlug})\x1b[0m`);
 
   // Write gallery photo data file
 
