@@ -1,0 +1,31 @@
+{
+  "title": "Sunset Over Balnakeil Bay",
+  "meta": {
+    "location": "Balnakeil",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-16T17:38:54.000+01:00",
+    "dimensions": {
+      "height": 6236,
+      "width": 9354
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    }
+  }
+}

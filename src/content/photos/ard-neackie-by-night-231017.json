@@ -1,0 +1,30 @@
+{
+  "title": "Àrd Neackie by Night",
+  "meta": {
+    "location": "Loch Eriboll",
+    "tags": [
+      "Astro",
+      "Clouds",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-17T00:12:01.000+01:00",
+    "dimensions": {
+      "height": 6132,
+      "width": 9198
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 15,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1600
+      }
+    }
+  }
+}

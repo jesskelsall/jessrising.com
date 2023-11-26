@@ -1,0 +1,30 @@
+{
+  "title": "Remains of Balnakeil Church",
+  "meta": {
+    "location": "Balnakeil",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-16T16:45:22.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 320
+      }
+    }
+  }
+}

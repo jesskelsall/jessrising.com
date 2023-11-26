@@ -1,0 +1,29 @@
+{
+  "title": "The Deer on the Beach",
+  "meta": {
+    "location": "Balnakeil",
+    "tags": [
+      "Beach",
+      "Deer"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-16T16:54:27.000+01:00",
+    "dimensions": {
+      "height": 5783,
+      "width": 8674
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0025,
+        "focalLength": 34,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}
