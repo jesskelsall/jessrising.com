@@ -1,0 +1,26 @@
+{
+  "title": "A Highland Cow",
+  "meta": {
+    "location": "North-west Sutherland",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-20T12:06:44.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 8,
+        "ISO": 250
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Sunbeams on Ben Loyal",
+  "meta": {
+    "location": "Kyle of Tongue",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-10-20T14:51:26.000+01:00",
+    "dimensions": {
+      "height": 5741,
+      "width": 8612
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00039999998989452437,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}
