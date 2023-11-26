@@ -406,6 +406,7 @@ export const locationHierarchy: LocationHierarchy = {
         Hirta: {},
       },
       Sutherland: {
+        Balnakeil: {},
         Durness: {
           "Smoo Cave": {},
         },
