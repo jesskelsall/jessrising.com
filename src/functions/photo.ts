@@ -1,11 +1,10 @@
 import { kebabCase } from "lodash/fp";
-import { PHOTO_SUFFIX_SEPARATOR } from "../consts/photo";
 import { Camera, Device } from "../data/cameras";
 import { EXIFLoaded } from "../types/EXIF";
 import { GalleryPhotoSlug } from "../types/brand";
 import { GalleryPhoto, GalleryPhotoData } from "../types/galleryPhoto";
 import { Tag, TagId } from "../types/tag";
-import { dateFromEXIFString } from "./date";
+import { dateFromEXIFString, dateFromString } from "./date";
 
 // Gets a device that matches the given make and model
 export const getDevice = (
@@ -15,22 +14,24 @@ export const getDevice = (
 ): Device | undefined =>
   devices.find((device) => device.make === make && device.model === model);
 
-// Parse a photo file name into a slug and title
-export const parsePhotoFileName = (
-  fileName: string
-): {
-  slug: GalleryPhotoSlug;
-  title: string;
-} => {
-  const [title, suffix] = fileName
-    .replace(".jpeg", "")
-    .split(PHOTO_SUFFIX_SEPARATOR);
-  const isOriginalFileName =
-    fileName.startsWith("IMG") || fileName.startsWith("DSC");
-  const titleSlug = isOriginalFileName ? title : kebabCase(title);
-  const slug = [titleSlug, ...(suffix ? [suffix] : [])].join("-");
+// Parse a photo file name into its title
+export const parsePhotoTitle = (fileName: string): string =>
+  fileName.replace(/( \(\d+\)|)\.jpeg$/i, "");
 
-  return { slug: GalleryPhotoSlug.parse(slug), title };
+// Parse a photo title into its slug, pre-suffix
+export const parsePhotoSlug = (
+  title: string,
+  date?: string
+): GalleryPhotoSlug => {
+  const isOriginalFileName = title.startsWith("IMG") || title.startsWith("DSC");
+  if (isOriginalFileName) return GalleryPhotoSlug.parse(title);
+
+  const slugParts = [kebabCase(title)];
+
+  const dateSuffix = dateFromString(date)?.toFormat("yyLLdd") || "";
+  if (dateSuffix) slugParts.push(dateSuffix);
+
+  return GalleryPhotoSlug.parse(slugParts.join("-"));
 };
 
 const firstValue = (

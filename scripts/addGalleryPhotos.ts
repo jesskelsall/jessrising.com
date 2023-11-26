@@ -8,13 +8,19 @@ import {
 import ExifReader from "exifreader";
 import fs from "fs";
 import { convert } from "imagemagick";
-import { cloneDeep, orderBy } from "lodash/fp";
+import { cloneDeep, orderBy, uniq } from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
 import { cameras } from "../src/data/cameras";
+import galleryPhotosJSON from "../src/data/galleryPhotos.json";
 import { allTags } from "../src/data/tags";
-import { parsePhoto, parsePhotoFileName } from "../src/functions/photo";
+import {
+  parsePhoto,
+  parsePhotoSlug,
+  parsePhotoTitle,
+} from "../src/functions/photo";
+import { GalleryPhotoSlug } from "../src/types/brand";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
 import { Location } from "../src/types/location";
 import { Tag, TagId } from "../src/types/tag";
@@ -31,6 +37,16 @@ interface ImageSize {
   maxDimension?: number;
   suffix: string;
 }
+
+type GalleryPhotoDetails = {
+  fileName: string;
+  slug: GalleryPhotoSlug;
+  data: GalleryPhotoData;
+};
+
+const allGalleryPhotoSlugs = galleryPhotosJSON.map((galleryPhoto) =>
+  GalleryPhotoSlug.parse(galleryPhoto.slug)
+);
 
 /* CONFIG */
 
@@ -49,6 +65,14 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
     suffix: "-og",
   },
 ];
+
+/**
+ * TODO
+ * - Read all photo slugs
+ * - Pull slug suffixes out (numbers with possible additional letter)
+ * - Build new slugs with suffix by default (6 digit, letter if multiple)
+ * - If the base slug already exists without a suffix, warn.
+ */
 
 /* HELPERS */
 
@@ -122,24 +146,11 @@ const getFiles = async (directory: string): Promise<[string, string[]]> => {
 const getGalleryPhotos = async (
   photoDir: string,
   photoFiles: string[]
-): Promise<[string, GalleryPhotoData][]> => {
-  const getGalleryPhotoTuple = async (
+): Promise<GalleryPhotoDetails[]> => {
+  const getGalleryPhotoDetails = async (
     photoFile: string
-  ): Promise<[string, GalleryPhotoData]> => {
-    const { slug: photoSlug, title } = parsePhotoFileName(photoFile);
-
-    // Check if this photo name has already been used
-
-    const jsonFilePath = path.resolve(
-      DIR_CONTENT,
-      "photos",
-      `${photoSlug}.json`
-    );
-    const jsonAlreadyExists = await fileExists(jsonFilePath);
-
-    if (!DRY_RUN && jsonAlreadyExists && !GALLERY_PHOTO_OVERWRITE) {
-      return stop("[Gallery]", "Photo already exists", photoSlug);
-    }
+  ): Promise<GalleryPhotoDetails> => {
+    const title = parsePhotoTitle(photoFile);
 
     // Extract EXIF data from file
 
@@ -149,18 +160,75 @@ const getGalleryPhotos = async (
 
     // Create gallery photo data
 
-    return [photoFile, parsePhoto({ cameras, title, exif })];
+    const data = parsePhoto({ cameras, title, exif });
+    const slug = parsePhotoSlug(data.title, data.exif.date);
+
+    return { fileName: photoFile, slug, data };
   };
 
-  if (photoFiles.some((photoFile) => photoFile.includes("("))) {
-    stop("One or more file names have brackets.");
-  }
+  // Get gallery photo data for all photos
 
-  const galleryPhotoTuples = await Promise.all(
-    photoFiles.map(getGalleryPhotoTuple)
+  const allGalleryPhotoDetails = await Promise.all(
+    photoFiles.map(getGalleryPhotoDetails)
+  );
+  const orderedDetails = orderBy(
+    ["data.exif.date"],
+    ["asc"],
+    allGalleryPhotoDetails
   );
 
-  return orderBy(["1.exif.date"], ["asc"], galleryPhotoTuples);
+  // Apply slug suffix lettering if needed
+
+  const galleryPhotoDetails: GalleryPhotoDetails[] = [];
+
+  const slugsFromDetails = (
+    allDetails: GalleryPhotoDetails[]
+  ): GalleryPhotoSlug[] => allDetails.map((details) => details.slug);
+
+  while (orderedDetails.length > 0) {
+    const details = orderedDetails.shift();
+    if (!details) break;
+
+    const matchingSlugs: number[] = [
+      [...allGalleryPhotoSlugs, ...slugsFromDetails(galleryPhotoDetails)],
+      slugsFromDetails(orderedDetails),
+    ].map(
+      (slugs) => slugs.filter((slug) => slug.startsWith(details.slug)).length
+    );
+    const matchCount = matchingSlugs.reduce((prev, cur) => prev + cur, 0);
+
+    if (matchCount > 0) {
+      const countSuffix = "abcdefghijklmnopqrstuvwxyz".charAt(matchingSlugs[0]);
+      galleryPhotoDetails.push({
+        ...details,
+        slug: GalleryPhotoSlug.parse(`${details.slug}${countSuffix}`),
+      });
+    } else {
+      galleryPhotoDetails.push(details);
+    }
+  }
+
+  // Warn if there are matching legacy slugs that need renaming
+
+  const slugsToRename = uniq(
+    galleryPhotoDetails.map((details) => details.data.title)
+  )
+    .sort()
+    .reduce((prev, title) => {
+      const photoSlug = parsePhotoSlug(title);
+      const legacySlugs = allGalleryPhotoSlugs.filter(
+        (slug) => slug.startsWith(photoSlug) && !/\d{6}[a-z]{0,1}$/.test(slug)
+      );
+
+      return [...prev, ...legacySlugs];
+    }, [] as GalleryPhotoSlug[]);
+
+  if (slugsToRename.length) {
+    console.warn("WARNING: The following photos need their slugs renaming:");
+    slugsToRename.forEach((slug) => console.warn(` - ${slug}`));
+  }
+
+  return galleryPhotoDetails;
 };
 
 // Ask CLI questions about the photo and modify the gallery photo data
@@ -243,11 +311,10 @@ const writeGalleryPhoto = async (
   photoDir: string,
   photoFile: string,
   photoData: GalleryPhotoData,
+  photoSlug: GalleryPhotoSlug,
   lastData?: GalleryPhotoData
 ): Promise<GalleryPhotoData | undefined> => {
   console.info(`\n\x1b[33m${photoFile}\x1b[0m`);
-
-  const { slug: photoSlug } = parsePhotoFileName(photoFile);
 
   // Write gallery photo data file
 
@@ -337,14 +404,15 @@ const writeGalleryPhoto = async (
 
 const addGalleryPhotos = async (): Promise<void> => {
   const [photoDir, photoFiles] = await getFiles("gallery");
-  const galleryPhotoDataTuples = await getGalleryPhotos(photoDir, photoFiles);
+  const allGalleryPhotoDetails = await getGalleryPhotos(photoDir, photoFiles);
 
   let lastData: GalleryPhotoData | undefined;
-  for (const [photoFile, photoData] of galleryPhotoDataTuples) {
+  for (const photoDetails of allGalleryPhotoDetails) {
     lastData = await writeGalleryPhoto(
       photoDir,
-      photoFile,
-      photoData,
+      photoDetails.fileName,
+      photoDetails.data,
+      photoDetails.slug,
       lastData
     );
   }
