@@ -1,0 +1,26 @@
+{
+  "title": "Barrow",
+  "meta": {
+    "gps": {
+      "lat": 54.58565277777778,
+      "long": -3.1975388888888885
+    },
+    "location": "Barrow",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2023-10-07-causey-pike-scar-crags-barrow"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-10-07T13:08:36.000+01:00",
+    "dimensions": {
+      "height": 2633,
+      "width": 3511
+    }
+  }
+}

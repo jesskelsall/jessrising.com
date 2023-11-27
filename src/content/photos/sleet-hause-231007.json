@@ -1,0 +1,26 @@
+{
+  "title": "Sleet Hause",
+  "meta": {
+    "gps": {
+      "lat": 54.57649722222222,
+      "long": -3.2089083333333335
+    },
+    "location": "Derwent Fells",
+    "tags": [
+      "Landscape",
+      "Mist"
+    ],
+    "trip": "2023-10-07-causey-pike-scar-crags-barrow"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-10-07T10:52:18.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

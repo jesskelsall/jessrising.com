@@ -1,0 +1,26 @@
+{
+  "title": "Braithwaite",
+  "meta": {
+    "gps": {
+      "lat": 54.59601666666667,
+      "long": -3.1881388888888886
+    },
+    "location": "Barrow",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": "2023-10-07-causey-pike-scar-crags-barrow"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2023-10-07T13:54:06.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}
