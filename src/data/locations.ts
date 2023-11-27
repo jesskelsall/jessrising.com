@@ -54,8 +54,10 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "Derwent Water": {
           "Derwent Fells": {
+            "Ard Crags": {},
             "Cat Bells": {},
             "Dale Head": {},
+            "Knott Rigg": {},
             "Maiden Moor": {},
             Robinson: {},
           },

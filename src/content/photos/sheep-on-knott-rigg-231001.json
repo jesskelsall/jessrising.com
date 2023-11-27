@@ -1,0 +1,30 @@
+{
+  "title": "Sheep on Knott Rigg",
+  "meta": {
+    "location": "Knott Rigg",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Sheep"
+    ],
+    "trip": "2023-10-01-knott-rigg-ard-crags"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 56,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2023-10-01T11:19:06.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

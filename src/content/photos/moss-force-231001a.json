@@ -1,0 +1,29 @@
+{
+  "title": "Moss Force",
+  "meta": {
+    "location": "Buttermere Fell",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2023-10-01-knott-rigg-ard-crags"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 46,
+        "fStop": 2.8,
+        "ISO": 640
+      }
+    },
+    "date": "2023-10-01T09:10:26.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
