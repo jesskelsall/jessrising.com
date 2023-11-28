@@ -35,8 +35,25 @@ export const getDateOrdinal = (day: number): string => {
   return ordinals[day % 10] || ordinals[0];
 };
 
-// Output the given date in the typical UK long format
-export const formatLongDate = (date: DateTime): string => {
-  const ordinal = getDateOrdinal(date.day);
-  return date.toFormat("d! MMMM y").replace("!", ordinal);
+// Express a date range in human readable form with no repetition
+export const formatDateRange = (from: DateTime, to?: DateTime): string => {
+  const fromOrdinal = getDateOrdinal(from.day);
+
+  if (!to) return from.toFormat("d! MMMM y").replace("!", fromOrdinal);
+
+  const applyOrdinal = (template: string, ordinal: string): string =>
+    template.replace("!", ordinal);
+  const toOrdinal = getDateOrdinal(to.day);
+  const toString = applyOrdinal(` to ${to.toFormat("d! MMMM y")}`, toOrdinal);
+
+  if (from.year !== to.year) {
+    return applyOrdinal(
+      `${from.toFormat("d! MMMM y")}${toString}`,
+      fromOrdinal
+    );
+  }
+  if (from.month !== to.month) {
+    return applyOrdinal(`${from.toFormat("d! MMMM")}${toString}`, fromOrdinal);
+  }
+  return applyOrdinal(`${from.toFormat("d!")}${toString}`, fromOrdinal);
 };

@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
 import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
-import { formatLongDate } from "../../functions/date";
+import { formatDateRange } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { GalleryPhotoSlug } from "../../types/brand";
 import { IMarkdownData } from "../../types/markdownOld";
@@ -34,12 +34,9 @@ export const Preview = ({
       </h2>
       {date && (
         <p className="date">
-          {formatLongDate(DateTime.fromISO(date))}
-          {dateEnd && (
-            <>
-              {" to "}
-              {formatLongDate(DateTime.fromISO(dateEnd))}
-            </>
+          {formatDateRange(
+            DateTime.fromISO(date),
+            dateEnd ? DateTime.fromISO(dateEnd) : undefined
           )}
         </p>
       )}
