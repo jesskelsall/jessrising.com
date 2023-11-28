@@ -1,0 +1,29 @@
+{
+  "title": "St James' Church, Buttermere",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2023-10-08-rannerdale-knotts"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 47,
+        "fStop": 22,
+        "ISO": 800
+      }
+    },
+    "date": "2023-10-08T09:30:32.000+01:00",
+    "dimensions": {
+      "height": 6135,
+      "width": 9202
+    }
+  }
+}
