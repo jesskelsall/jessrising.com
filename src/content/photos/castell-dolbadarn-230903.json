@@ -1,0 +1,30 @@
+{
+  "title": "Castell Dolbadarn",
+  "meta": {
+    "location": "Llanberis",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-03T14:40:55.000+01:00",
+    "dimensions": {
+      "height": 6145,
+      "width": 9217
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 40,
+        "fStop": 22,
+        "ISO": 250
+      }
+    }
+  }
+}

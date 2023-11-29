@@ -454,6 +454,9 @@ export const locationHierarchy: LocationHierarchy = {
         Conwy: {},
         Deganwy: {},
         "Gwrych Castle": {},
+        Llanberis: {
+          "Dinorwic Quarry": {},
+        },
         Llandudno: {},
       },
       Gwynedd: {

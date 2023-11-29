@@ -1,0 +1,29 @@
+{
+  "title": "Ceunant Mawr Waterfall",
+  "meta": {
+    "location": "Llanberis",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-03T13:39:43.000+01:00",
+    "dimensions": {
+      "height": 5141,
+      "width": 7712
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 400
+      }
+    }
+  }
+}
