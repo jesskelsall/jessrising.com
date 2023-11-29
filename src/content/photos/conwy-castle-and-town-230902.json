@@ -1,0 +1,31 @@
+{
+  "title": "Conwy Castle and Town",
+  "meta": {
+    "location": "Conwy",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-02T15:10:37.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 56,
+        "fStop": 22,
+        "ISO": 500
+      }
+    }
+  }
+}
