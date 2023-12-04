@@ -1,0 +1,30 @@
+{
+  "title": "Path to Loch Tay",
+  "meta": {
+    "location": "Kenmore",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-12-02T09:56:54.000+00:00",
+    "dimensions": {
+      "height": 6043,
+      "width": 9064
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 28,
+        "fStop": 16,
+        "ISO": 250
+      }
+    }
+  }
+}

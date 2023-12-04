@@ -1,0 +1,30 @@
+{
+  "title": "Taymouth Castle Gate",
+  "meta": {
+    "location": "Kenmore",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-12-02T10:09:14.000+00:00",
+    "dimensions": {
+      "height": 6099,
+      "width": 9148
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 47,
+        "fStop": 22,
+        "ISO": 1250
+      }
+    }
+  }
+}

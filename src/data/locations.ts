@@ -316,11 +316,6 @@ export const locationHierarchy: LocationHierarchy = {
       "Loch Ness": {
         "Fort Augustus": {},
       },
-      "Loch Rannoch & Glen Lyon": {
-        "Dunalasdair Estate": {},
-        "Loch Rannoch": {},
-        "Loch Tummel": {},
-      },
       "Loch Shiel": {
         Sunart: {
           "Loch Sunart": {},
@@ -398,6 +393,17 @@ export const locationHierarchy: LocationHierarchy = {
             "Loch Druidibeag": {},
             "Rubha Àird a' Mhuile": {},
           },
+        },
+      },
+      "Perth and Kinross": {
+        "Loch Rannoch & Glen Lyon": {
+          "Dunalasdair Estate": {},
+          "Loch Rannoch": {},
+          "Loch Tay": {
+            "Ben Lawers": {},
+            Kenmore: {},
+          },
+          "Loch Tummel": {},
         },
       },
       "Rannoch Moor": {

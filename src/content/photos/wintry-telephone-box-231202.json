@@ -1,0 +1,29 @@
+{
+  "title": "Wintry Telephone Box",
+  "meta": {
+    "location": "Kenmore",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-12-02T10:22:17.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 43,
+        "fStop": 16,
+        "ISO": 800
+      }
+    }
+  }
+}

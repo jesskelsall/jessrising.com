@@ -1,0 +1,30 @@
+{
+  "title": "Kenmore Church",
+  "meta": {
+    "location": "Kenmore",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-12-02T10:13:20.000+00:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 50,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}
