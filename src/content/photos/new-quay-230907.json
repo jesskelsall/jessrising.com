@@ -1,0 +1,32 @@
+{
+  "title": "New Quay",
+  "meta": {
+    "location": "Ceredigion",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-07T10:27:06.000+01:00",
+    "dimensions": {
+      "height": 5883,
+      "width": 8824
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 42,
+        "fStop": 22,
+        "ISO": 640
+      }
+    }
+  }
+}

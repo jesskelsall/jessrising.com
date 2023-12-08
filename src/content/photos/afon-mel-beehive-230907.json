@@ -1,0 +1,28 @@
+{
+  "title": "Afon Mêl Beehive",
+  "meta": {
+    "location": "Ceredigion",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-07T12:51:06.000+01:00",
+    "dimensions": {
+      "height": 5437,
+      "width": 8155
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.04,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 4000
+      }
+    }
+  }
+}

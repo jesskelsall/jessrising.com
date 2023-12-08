@@ -1,0 +1,29 @@
+{
+  "title": "Aberaeron Harbour",
+  "meta": {
+    "location": "Aberaeron",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-07T13:39:07.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 58,
+        "fStop": 22,
+        "ISO": 400
+      }
+    }
+  }
+}

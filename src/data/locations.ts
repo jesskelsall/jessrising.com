@@ -460,6 +460,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       Ceredigion: {
+        Aberaeron: {},
         "Devil's Bridge": {},
       },
       "Conwy County": {
