@@ -1,0 +1,29 @@
+{
+  "title": "Penrhyn Castle Tower",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T11:20:32.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 1600
+      }
+    }
+  }
+}

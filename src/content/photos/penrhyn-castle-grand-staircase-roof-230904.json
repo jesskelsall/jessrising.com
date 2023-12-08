@@ -1,0 +1,29 @@
+{
+  "title": "Penrhyn Castle Grand Staircase Roof",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Castle",
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T12:39:06.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 28,
+        "fStop": 8,
+        "ISO": 250
+      }
+    }
+  }
+}

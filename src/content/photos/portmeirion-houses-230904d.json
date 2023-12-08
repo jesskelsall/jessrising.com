@@ -1,0 +1,28 @@
+{
+  "title": "Portmeirion Houses",
+  "meta": {
+    "location": "Portmeirion",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T17:32:21.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 29,
+        "fStop": 11,
+        "ISO": 160
+      }
+    }
+  }
+}

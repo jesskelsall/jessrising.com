@@ -1,0 +1,28 @@
+{
+  "title": "Lily Pond Splashes",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T13:37:29.000+01:00",
+    "dimensions": {
+      "height": 5614,
+      "width": 8420
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 63,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

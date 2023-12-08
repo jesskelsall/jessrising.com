@@ -1,0 +1,29 @@
+{
+  "title": "Menai Suspension Bridge",
+  "meta": {
+    "location": "Menai Bridge",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T10:36:19.000+01:00",
+    "dimensions": {
+      "height": 5274,
+      "width": 7911
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 320
+      }
+    }
+  }
+}

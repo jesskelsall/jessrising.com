@@ -1,0 +1,30 @@
+{
+  "title": "Light From Outside and In",
+  "meta": {
+    "location": "Caernarfon",
+    "tags": [
+      "Castle",
+      "Interior",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T15:22:04.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.2,
+        "focalLength": 42,
+        "fStop": 11,
+        "ISO": 4000
+      }
+    }
+  }
+}

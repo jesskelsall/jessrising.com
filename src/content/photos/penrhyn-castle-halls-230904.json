@@ -1,0 +1,29 @@
+{
+  "title": "Penrhyn Castle Halls",
+  "meta": {
+    "location": "Penrhyn Castle",
+    "tags": [
+      "Castle",
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-04T12:38:06.000+01:00",
+    "dimensions": {
+      "height": 6222,
+      "width": 9333
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.5,
+        "focalLength": 45,
+        "fStop": 16,
+        "ISO": 4000
+      }
+    }
+  }
+}

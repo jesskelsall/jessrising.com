@@ -466,12 +466,15 @@ export const locationHierarchy: LocationHierarchy = {
         Llandudno: {},
       },
       Gwynedd: {
+        Caernarfon: {},
         "Penrhyn Castle": {},
+        Portmeirion: {},
       },
       "Isle of Anglesey": {
         "Holy Island": {
           "South Stack": {},
         },
+        "Menai Bridge": {},
       },
     },
   },
