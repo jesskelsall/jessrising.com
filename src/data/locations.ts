@@ -455,15 +455,19 @@ export const locationHierarchy: LocationHierarchy = {
     Wales: {
       "Eryri National Park": {
         "Aber Falls": {},
+        Llanberis: {
+          "Dinorwic Quarry": {},
+        },
+      },
+      Ceredigion: {
+        "Devil's Bridge": {},
       },
       "Conwy County": {
         Conwy: {},
         Deganwy: {},
         "Gwrych Castle": {},
-        Llanberis: {
-          "Dinorwic Quarry": {},
-        },
         Llandudno: {},
+        "Rhaeadr Y Graig Lwyd": {},
       },
       Gwynedd: {
         Caernarfon: {},
