@@ -480,6 +480,11 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "Menai Bridge": {},
       },
+      Pembrokeshire: {
+        "St Davids": {},
+        "St Govan's Head": {},
+        Tenby: {},
+      },
     },
   },
 };

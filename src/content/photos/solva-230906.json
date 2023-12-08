@@ -1,0 +1,29 @@
+{
+  "title": "Solva",
+  "meta": {
+    "location": "Pembrokeshire",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-06T10:18:42.000+01:00",
+    "dimensions": {
+      "height": 6220,
+      "width": 9331
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 43,
+        "fStop": 22,
+        "ISO": 1250
+      }
+    }
+  }
+}

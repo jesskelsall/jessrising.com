@@ -1,0 +1,29 @@
+{
+  "title": "Cathedral Roof Design",
+  "meta": {
+    "location": "St Davids",
+    "tags": [
+      "Church/Cathedral",
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-06T13:03:42.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 63,
+        "fStop": 22,
+        "ISO": 4000
+      }
+    }
+  }
+}

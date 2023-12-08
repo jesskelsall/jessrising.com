@@ -1,0 +1,30 @@
+{
+  "title": "St Davids Bishop's Palace and Cathedral",
+  "meta": {
+    "location": "St Davids",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-06T13:33:44.000+01:00",
+    "dimensions": {
+      "height": 6186,
+      "width": 9280
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 29,
+        "fStop": 11,
+        "ISO": 100
+      }
+    }
+  }
+}
