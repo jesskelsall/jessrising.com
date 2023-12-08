@@ -1,12 +1,13 @@
 {
-  "title": "Sunset Over Frozen Loch Morlich",
+  "title": "Moon and Snowy Trees",
   "meta": {
     "location": "Loch Morlich",
     "tags": [
       "Landscape",
+      "Beach",
+      "Forest",
       "Loch",
-      "Snow",
-      "Sunrise/Sunset"
+      "Snow"
     ],
     "trip": "2023-12-01-cairngorms-aberfeldy"
   },
@@ -15,17 +16,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": -0.3,
         "exposureTime": 0.03333333333333333,
-        "focalLength": 70,
-        "fStop": 14,
-        "ISO": 1000
+        "focalLength": 24,
+        "fStop": 22,
+        "ISO": 800
       }
     },
-    "date": "2023-12-02T15:34:03.000+00:00",
+    "date": "2023-12-03T09:57:05.000+00:00",
     "dimensions": {
-      "height": 5655,
-      "width": 8482
+      "height": 6116,
+      "width": 9175
     }
   }
 }

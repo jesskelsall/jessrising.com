@@ -1,9 +1,10 @@
 {
-  "title": "Sunset Over Frozen Loch Morlich",
+  "title": "Loch Garry at Dalnaspidal Lodge",
   "meta": {
-    "location": "Loch Morlich",
+    "location": "Cairngorms",
     "tags": [
       "Landscape",
+      "Clouds",
       "Loch",
       "Snow",
       "Sunrise/Sunset"
@@ -16,16 +17,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.03333333333333333,
+        "exposureTime": 0.0012499999720602967,
         "focalLength": 70,
-        "fStop": 14,
+        "fStop": 3.5,
         "ISO": 1000
       }
     },
-    "date": "2023-12-02T15:34:03.000+00:00",
+    "date": "2023-12-03T08:53:26.000+00:00",
     "dimensions": {
-      "height": 5655,
-      "width": 8482
+      "height": 6334,
+      "width": 9502
     }
   }
 }

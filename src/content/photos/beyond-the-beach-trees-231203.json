@@ -1,9 +1,11 @@
 {
-  "title": "Loch Tay From Kenmore Bridge",
+  "title": "Beyond the Beach Trees",
   "meta": {
-    "location": "Kenmore",
+    "location": "Loch Morlich",
     "tags": [
       "Landscape",
+      "Beach",
+      "Forest",
       "Loch",
       "Snow"
     ],
@@ -14,17 +16,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": -0.3,
         "exposureTime": 0.0125,
-        "focalLength": 59,
-        "fStop": 8,
-        "ISO": 100
+        "focalLength": 70,
+        "fStop": 16,
+        "ISO": 1000
       }
     },
-    "date": "2023-12-02T10:31:53.000+00:00",
+    "date": "2023-12-03T09:55:37.000+00:00",
     "dimensions": {
-      "height": 5971,
-      "width": 8956
+      "height": 6218,
+      "width": 9327
     }
   }
 }

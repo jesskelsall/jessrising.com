@@ -1,10 +1,10 @@
 {
-  "title": "Croft Moraig Stone Circle",
+  "title": "The Cairngorm Reindeer Herd",
   "meta": {
-    "location": "Kenmore",
+    "location": "Cairngorm Mountains",
     "tags": [
       "Landscape",
-      "Ruin",
+      "Reindeer",
       "Snow"
     ],
     "trip": "2023-12-01-cairngorms-aberfeldy"
@@ -14,14 +14,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": 0.7,
         "exposureTime": 0.025,
-        "focalLength": 36,
-        "fStop": 16,
-        "ISO": 2000
+        "focalLength": 38,
+        "fStop": 18,
+        "ISO": 200
       }
     },
-    "date": "2023-12-02T09:30:57.000+00:00",
+    "date": "2023-12-03T11:50:36.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

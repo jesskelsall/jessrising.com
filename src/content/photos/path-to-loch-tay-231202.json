@@ -7,14 +7,9 @@
       "Loch",
       "Snow"
     ],
-    "trip": null
+    "trip": "2023-12-01-cairngorms-aberfeldy"
   },
   "exif": {
-    "date": "2023-12-02T09:56:54.000+00:00",
-    "dimensions": {
-      "height": 6043,
-      "width": 9064
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 16,
         "ISO": 250
       }
+    },
+    "date": "2023-12-02T09:56:54.000+00:00",
+    "dimensions": {
+      "height": 6043,
+      "width": 9064
     }
   }
 }

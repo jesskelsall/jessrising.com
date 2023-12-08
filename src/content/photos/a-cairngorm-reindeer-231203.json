@@ -1,11 +1,9 @@
 {
-  "title": "Isle of Spar",
+  "title": "A Cairngorm Reindeer",
   "meta": {
-    "location": "Kenmore",
+    "location": "Cairngorm Mountains",
     "tags": [
-      "Clouds",
-      "Landscape",
-      "Loch",
+      "Reindeer",
       "Snow"
     ],
     "trip": "2023-12-01-cairngorms-aberfeldy"
@@ -15,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.008,
+        "exposureBias": 0.7,
+        "exposureTime": 0.004,
         "focalLength": 70,
-        "fStop": 2.8,
-        "ISO": 50
+        "fStop": 5.6,
+        "ISO": 100
       }
     },
-    "date": "2023-12-02T09:49:12.000+00:00",
+    "date": "2023-12-03T12:09:53.000+00:00",
     "dimensions": {
-      "height": 6062,
-      "width": 9093
+      "height": 4871,
+      "width": 7307
     }
   }
 }

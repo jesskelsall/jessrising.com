@@ -8,14 +8,9 @@
       "Road",
       "Snow"
     ],
-    "trip": null
+    "trip": "2023-12-01-cairngorms-aberfeldy"
   },
   "exif": {
-    "date": "2023-12-02T11:19:05.000+00:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -26,6 +21,11 @@
         "fStop": 14,
         "ISO": 160
       }
+    },
+    "date": "2023-12-02T11:19:05.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

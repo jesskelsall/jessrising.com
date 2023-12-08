@@ -1,11 +1,10 @@
 {
-  "title": "Kenmore Waterfront",
+  "title": "The Cairngorm Reindeer Herd",
   "meta": {
-    "location": "Kenmore",
+    "location": "Cairngorm Mountains",
     "tags": [
-      "Clouds",
       "Landscape",
-      "Loch",
+      "Reindeer",
       "Snow"
     ],
     "trip": "2023-12-01-cairngorms-aberfeldy"
@@ -15,17 +14,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": 0.7,
         "exposureTime": 0.008,
         "focalLength": 70,
-        "fStop": 2.8,
+        "fStop": 5.6,
         "ISO": 50
       }
     },
-    "date": "2023-12-02T09:53:29.000+00:00",
+    "date": "2023-12-03T12:28:10.000+00:00",
     "dimensions": {
-      "height": 5172,
-      "width": 7758
+      "height": 4202,
+      "width": 6312
     }
   }
 }

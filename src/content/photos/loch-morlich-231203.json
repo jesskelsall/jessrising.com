@@ -1,10 +1,11 @@
 {
-  "title": "Kenmore Church Graveyard",
+  "title": "Loch Morlich",
   "meta": {
-    "location": "Kenmore",
+    "location": "Loch Morlich",
     "tags": [
+      "Beach",
       "Landscape",
-      "Church/Cathedral",
+      "Loch",
       "Snow"
     ],
     "trip": "2023-12-01-cairngorms-aberfeldy"
@@ -15,16 +16,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.016666666666666666,
-        "focalLength": 57,
-        "fStop": 16,
-        "ISO": 1600
+        "exposureTime": 0.001,
+        "focalLength": 63,
+        "fStop": 5,
+        "ISO": 1000
       }
     },
-    "date": "2023-12-02T10:20:24.000+00:00",
+    "date": "2023-12-03T09:45:47.000+00:00",
     "dimensions": {
-      "height": 5824,
-      "width": 8736
+      "height": 5770,
+      "width": 8655
     }
   }
 }
