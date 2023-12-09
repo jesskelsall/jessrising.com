@@ -1,0 +1,28 @@
+{
+  "title": "Old Suitcases",
+  "meta": {
+    "location": "Newton House",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-08T12:31:43.000+01:00",
+    "dimensions": {
+      "height": 5509,
+      "width": 8264
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.1,
+        "focalLength": 35,
+        "fStop": 5.6,
+        "ISO": 4000
+      }
+    }
+  }
+}

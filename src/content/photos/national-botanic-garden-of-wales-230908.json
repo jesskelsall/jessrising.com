@@ -1,0 +1,29 @@
+{
+  "title": "National Botanic Garden of Wales",
+  "meta": {
+    "location": "National Botanic Garden of Wales",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-08T14:39:37.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 27,
+        "fStop": 14,
+        "ISO": 100
+      }
+    }
+  }
+}

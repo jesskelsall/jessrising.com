@@ -1,0 +1,29 @@
+{
+  "title": "Henrhyd Falls From Behind",
+  "meta": {
+    "location": "Henrhyd Falls",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-08T09:16:06.000+01:00",
+    "dimensions": {
+      "height": 5744,
+      "width": 8616
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0006249999860301484,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 6400
+      }
+    }
+  }
+}

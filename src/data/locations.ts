@@ -453,11 +453,12 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
     Wales: {
-      "Eryri National Park": {
-        "Aber Falls": {},
-        Llanberis: {
-          "Dinorwic Quarry": {},
-        },
+      "Bannau Brycheiniog National Park": {
+        "Henrhyd Falls": {},
+      },
+      Carmarthenshire: {
+        "National Botanic Garden of Wales": {},
+        "Newton House": {},
       },
       Ceredigion: {
         Aberaeron: {},
@@ -469,6 +470,12 @@ export const locationHierarchy: LocationHierarchy = {
         "Gwrych Castle": {},
         Llandudno: {},
         "Rhaeadr Y Graig Lwyd": {},
+      },
+      "Eryri National Park": {
+        "Aber Falls": {},
+        Llanberis: {
+          "Dinorwic Quarry": {},
+        },
       },
       Gwynedd: {
         Caernarfon: {},
