@@ -1,10 +1,11 @@
 {
-  "title": "Sun Catches the Waterfall Spray",
+  "title": "Hay-on-Wye",
   "meta": {
-    "location": "Llanberis",
+    "location": "Hay-on-Wye",
     "tags": [
       "Landscape",
-      "Waterfall"
+      "People",
+      "Street"
     ],
     "trip": "2023-09-02-wales"
   },
@@ -13,17 +14,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -2,
-        "exposureTime": 0.002,
+        "exposureBias": -1,
+        "exposureTime": 0.0015625,
         "focalLength": 70,
-        "fStop": 3.2,
+        "fStop": 4,
         "ISO": 100
       }
     },
-    "date": "2023-09-03T13:28:19.000+01:00",
+    "date": "2023-09-09T11:20:13.000+01:00",
     "dimensions": {
-      "height": 4777,
-      "width": 7166
+      "height": 6304,
+      "width": 9457
     }
   }
 }

@@ -1,10 +1,9 @@
 {
-  "title": "Aberaeron Harbour",
+  "title": "Clouds",
   "meta": {
-    "location": "Aberaeron",
+    "location": "Hay-on-Wye",
     "tags": [
-      "Landscape",
-      "Boat"
+      "Clouds"
     ],
     "trip": "2023-09-02-wales"
   },
@@ -14,16 +13,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.016666666666666666,
-        "focalLength": 58,
+        "exposureTime": 0.02,
+        "focalLength": 44,
         "fStop": 22,
-        "ISO": 400
+        "ISO": 125
       }
     },
-    "date": "2023-09-07T13:39:07.000+01:00",
+    "date": "2023-09-09T13:24:47.000+01:00",
     "dimensions": {
-      "height": 6334,
-      "width": 9502
+      "height": 6336,
+      "width": 9504
     }
   }
 }

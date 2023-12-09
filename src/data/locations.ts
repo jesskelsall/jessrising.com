@@ -493,6 +493,9 @@ export const locationHierarchy: LocationHierarchy = {
         "St Govan's Head": {},
         Tenby: {},
       },
+      Powys: {
+        "Hay-on-Wye": {},
+      },
     },
   },
 };

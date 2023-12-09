@@ -1,11 +1,9 @@
 {
-  "title": "Conwy Harbour",
+  "title": "Richard Booth's Bookshop",
   "meta": {
-    "location": "Conwy",
+    "location": "Hay-on-Wye",
     "tags": [
-      "Landscape",
-      "Boat",
-      "Sunrise/Sunset"
+      "Interior"
     ],
     "trip": "2023-09-02-wales"
   },
@@ -14,17 +12,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": -1,
         "exposureTime": 0.02,
         "focalLength": 43,
-        "fStop": 22,
-        "ISO": 200
+        "fStop": 4,
+        "ISO": 1600
       }
     },
-    "date": "2023-09-02T19:00:56.000+01:00",
+    "date": "2023-09-09T14:07:15.000+01:00",
     "dimensions": {
-      "height": 6006,
-      "width": 9009
+      "height": 6282,
+      "width": 9418
     }
   }
 }

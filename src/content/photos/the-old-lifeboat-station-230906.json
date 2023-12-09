@@ -8,14 +8,9 @@
       "Boat",
       "Coast"
     ],
-    "trip": null
+    "trip": "2023-09-02-wales"
   },
   "exif": {
-    "date": "2023-09-06T17:38:23.000+01:00",
-    "dimensions": {
-      "height": 6213,
-      "width": 9320
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -26,6 +21,11 @@
         "fStop": 22,
         "ISO": 200
       }
+    },
+    "date": "2023-09-06T17:38:23.000+01:00",
+    "dimensions": {
+      "height": 6213,
+      "width": 9320
     }
   }
 }

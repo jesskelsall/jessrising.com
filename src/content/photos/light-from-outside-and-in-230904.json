@@ -7,14 +7,9 @@
       "Interior",
       "Ruin"
     ],
-    "trip": null
+    "trip": "2023-09-02-wales"
   },
   "exif": {
-    "date": "2023-09-04T15:22:04.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 11,
         "ISO": 4000
       }
+    },
+    "date": "2023-09-04T15:22:04.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

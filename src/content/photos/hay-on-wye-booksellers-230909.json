@@ -1,11 +1,9 @@
 {
-  "title": "Conwy Castle Towers",
+  "title": "Hay-on-Wye Booksellers",
   "meta": {
-    "location": "Conwy",
+    "location": "Hay-on-Wye",
     "tags": [
-      "Landscape",
-      "Castle",
-      "Ruin"
+      "Landscape"
     ],
     "trip": "2023-09-02-wales"
   },
@@ -14,14 +12,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.03333333333333333,
-        "focalLength": 29,
+        "exposureBias": -1,
+        "exposureTime": 0.0125,
+        "focalLength": 52,
         "fStop": 22,
-        "ISO": 200
+        "ISO": 100
       }
     },
-    "date": "2023-09-02T15:19:57.000+01:00",
+    "date": "2023-09-09T11:16:27.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

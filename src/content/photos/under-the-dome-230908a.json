@@ -5,14 +5,9 @@
     "tags": [
       "Landscape"
     ],
-    "trip": null
+    "trip": "2023-09-02-wales"
   },
   "exif": {
-    "date": "2023-09-08T14:51:29.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 18,
         "ISO": 160
       }
+    },
+    "date": "2023-09-08T14:51:29.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }
