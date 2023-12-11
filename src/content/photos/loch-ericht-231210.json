@@ -1,0 +1,30 @@
+{
+  "title": "Loch Ericht",
+  "meta": {
+    "location": "Loch Ericht",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch"
+    ],
+    "trip": "2023-12-10-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 48,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    },
+    "date": "2023-12-10T11:01:27.000+00:00",
+    "dimensions": {
+      "height": 6160,
+      "width": 9241
+    }
+  }
+}

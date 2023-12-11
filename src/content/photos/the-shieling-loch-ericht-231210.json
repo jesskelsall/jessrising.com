@@ -1,0 +1,28 @@
+{
+  "title": "The Shieling, Loch Ericht",
+  "meta": {
+    "location": "Loch Ericht",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-12-10-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    },
+    "date": "2023-12-10T11:18:41.000+00:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    }
+  }
+}
