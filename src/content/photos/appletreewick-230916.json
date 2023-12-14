@@ -1,0 +1,29 @@
+{
+  "title": "Appletreewick",
+  "meta": {
+    "location": "Yorkshire Dales",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-16T09:54:50.000+01:00",
+    "dimensions": {
+      "height": 5989,
+      "width": 8983
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 57,
+        "fStop": 22,
+        "ISO": 2000
+      }
+    }
+  }
+}

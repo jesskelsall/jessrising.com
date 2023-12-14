@@ -140,6 +140,7 @@ export const locationHierarchy: LocationHierarchy = {
           },
           "Ribblehead Viaduct": {},
           Whernside: {},
+          "White Scar Cave": {},
         },
       },
     },

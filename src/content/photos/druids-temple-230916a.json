@@ -1,0 +1,30 @@
+{
+  "title": "Druid's Temple",
+  "meta": {
+    "location": "Yorkshire Dales",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-09-16T16:45:23.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.025,
+        "focalLength": 32,
+        "fStop": 5.6,
+        "ISO": 800
+      }
+    }
+  }
+}
