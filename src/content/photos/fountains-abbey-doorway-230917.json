@@ -1,10 +1,10 @@
 {
-  "title": "Appletreewick",
+  "title": "Fountains Abbey Doorway",
   "meta": {
-    "location": "Yorkshire Dales",
+    "location": "Fountains Abbey",
     "tags": [
       "Landscape",
-      "Street"
+      "Ruin"
     ],
     "trip": "2023-09-15-yorkshire-dales"
   },
@@ -14,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.7,
-        "exposureTime": 0.016666666666666666,
-        "focalLength": 57,
-        "fStop": 22,
-        "ISO": 2000
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 10,
+        "ISO": 500
       }
     },
-    "date": "2023-09-16T09:54:50.000+01:00",
+    "date": "2023-09-17T11:21:25.000+01:00",
     "dimensions": {
-      "height": 5989,
-      "width": 8983
+      "height": 6336,
+      "width": 9504
     }
   }
 }

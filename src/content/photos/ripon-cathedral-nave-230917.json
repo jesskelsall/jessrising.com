@@ -1,9 +1,10 @@
 {
-  "title": "Hilltop Cottage",
+  "title": "Ripon Cathedral Nave",
   "meta": {
-    "location": "Yorkshire Dales",
+    "location": "Ripon",
     "tags": [
-      "Landscape"
+      "Church/Cathedral",
+      "Interior"
     ],
     "trip": "2023-09-15-yorkshire-dales"
   },
@@ -12,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.025,
-        "focalLength": 35,
+        "exposureBias": -0.3,
+        "exposureTime": 0.125,
+        "focalLength": 24,
         "fStop": 22,
         "ISO": 4000
       }
     },
-    "date": "2023-09-16T09:52:45.000+01:00",
+    "date": "2023-09-17T13:00:26.000+01:00",
     "dimensions": {
-      "height": 6141,
-      "width": 9212
+      "height": 6189,
+      "width": 9283
     }
   }
 }

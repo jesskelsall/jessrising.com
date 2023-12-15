@@ -1,10 +1,10 @@
 {
-  "title": "Appletreewick",
+  "title": "Fountains Abbey Tower",
   "meta": {
-    "location": "Yorkshire Dales",
+    "location": "Fountains Abbey",
     "tags": [
       "Landscape",
-      "Street"
+      "Ruin"
     ],
     "trip": "2023-09-15-yorkshire-dales"
   },
@@ -13,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.016666666666666666,
-        "focalLength": 57,
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 43,
         "fStop": 22,
-        "ISO": 2000
+        "ISO": 1600
       }
     },
-    "date": "2023-09-16T09:54:50.000+01:00",
+    "date": "2023-09-17T10:32:02.000+01:00",
     "dimensions": {
-      "height": 5989,
-      "width": 8983
+      "height": 6336,
+      "width": 9504
     }
   }
 }

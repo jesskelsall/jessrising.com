@@ -1,10 +1,9 @@
 {
-  "title": "Druid's Temple",
+  "title": "Fountains Abbey Ruins",
   "meta": {
-    "location": "Yorkshire Dales",
+    "location": "Fountains Abbey",
     "tags": [
       "Landscape",
-      "Forest",
       "Ruin"
     ],
     "trip": "2023-09-15-yorkshire-dales"
@@ -14,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
-        "exposureTime": 0.025,
-        "focalLength": 32,
-        "fStop": 5.6,
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 22,
         "ISO": 800
       }
     },
-    "date": "2023-09-16T16:45:23.000+01:00",
+    "date": "2023-09-17T10:45:00.000+01:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6274,
+      "width": 9412
     }
   }
 }

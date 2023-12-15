@@ -116,9 +116,6 @@ export const locationHierarchy: LocationHierarchy = {
         "Dunstanburgh Castle": {},
         Seahouses: {},
       },
-      Ripon: {
-        "Fountains Abbey": {},
-      },
       "Scotch Corner": {},
       Seaton: {},
       Shap: {},
@@ -127,6 +124,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       Yorkshire: {
         Knaresborough: {},
+        Ripon: {
+          "Fountains Abbey": {},
+        },
         York: {
           "Clifford's Tower": {},
           "National Railway Museum": {},

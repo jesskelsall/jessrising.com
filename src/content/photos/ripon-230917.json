@@ -1,0 +1,31 @@
+{
+  "title": "Ripon",
+  "meta": {
+    "location": "Ripon",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "People",
+      "Street"
+    ],
+    "trip": "2023-09-15-yorkshire-dales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 47,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2023-09-17T13:28:18.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}

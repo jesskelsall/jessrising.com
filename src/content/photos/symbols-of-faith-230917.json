@@ -1,10 +1,10 @@
 {
-  "title": "Appletreewick",
+  "title": "Symbols of Faith",
   "meta": {
-    "location": "Yorkshire Dales",
+    "location": "Ripon",
     "tags": [
-      "Landscape",
-      "Street"
+      "Church/Cathedral",
+      "Interior"
     ],
     "trip": "2023-09-15-yorkshire-dales"
   },
@@ -13,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
+        "exposureBias": 0,
         "exposureTime": 0.016666666666666666,
-        "focalLength": 57,
-        "fStop": 22,
-        "ISO": 2000
+        "focalLength": 51,
+        "fStop": 4,
+        "ISO": 400
       }
     },
-    "date": "2023-09-16T09:54:50.000+01:00",
+    "date": "2023-09-17T13:19:18.000+01:00",
     "dimensions": {
-      "height": 5989,
-      "width": 8983
+      "height": 6078,
+      "width": 9117
     }
   }
 }

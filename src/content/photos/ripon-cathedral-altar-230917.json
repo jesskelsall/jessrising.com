@@ -1,0 +1,29 @@
+{
+  "title": "Ripon Cathedral Altar",
+  "meta": {
+    "location": "Ripon",
+    "tags": [
+      "Church/Cathedral",
+      "Interior"
+    ],
+    "trip": "2023-09-15-yorkshire-dales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 100
+      }
+    },
+    "date": "2023-09-17T13:13:24.000+01:00",
+    "dimensions": {
+      "height": 6166,
+      "width": 9249
+    }
+  }
+}

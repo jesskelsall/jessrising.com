@@ -1,9 +1,10 @@
 {
-  "title": "Hilltop Cottage",
+  "title": "River Skell at Fountains Abbey",
   "meta": {
-    "location": "Yorkshire Dales",
+    "location": "Fountains Abbey",
     "tags": [
-      "Landscape"
+      "Landscape",
+      "Ruin"
     ],
     "trip": "2023-09-15-yorkshire-dales"
   },
@@ -13,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.7,
-        "exposureTime": 0.025,
-        "focalLength": 35,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 28,
         "fStop": 22,
-        "ISO": 4000
+        "ISO": 1000
       }
     },
-    "date": "2023-09-16T09:52:45.000+01:00",
+    "date": "2023-09-17T11:12:16.000+01:00",
     "dimensions": {
-      "height": 6141,
-      "width": 9212
+      "height": 6276,
+      "width": 9414
     }
   }
 }
