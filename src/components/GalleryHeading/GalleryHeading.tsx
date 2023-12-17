@@ -32,7 +32,7 @@ export const GalleryHeading = () => {
     PHOTO_SIZE_SUFFIX.ORIGINAL
   );
 
-  const hasNewTag = meta.tags.includes(TagTitle.parse("New"));
+  const hasForYouTag = meta.tags.includes(TagTitle.parse("For You"));
 
   return (
     <>
@@ -83,7 +83,7 @@ export const GalleryHeading = () => {
           Download high resolution photo
         </Link>
       )}
-      {hasNewTag && (
+      {hasForYouTag && (
         <p className="disclaimer">
           Photo by {APP_AUTHOR}. Free to use in any way. If using this photo
           commercially, please credit by name.

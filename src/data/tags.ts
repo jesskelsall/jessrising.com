@@ -42,5 +42,5 @@ export const allTags: TagRaw[] = [
   { title: "Waterfall", emoji: "💦" },
   { title: "White House", emoji: "🏡" },
   // Last
-  { title: "New", hidePhotos: true },
+  { title: "For You", emoji: "❤️", hidePhotos: true },
 ];

@@ -16,8 +16,8 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: "/new",
-        destination: "/gallery?tag=new&order=oldest",
+        source: "/foryou",
+        destination: "/gallery?tag=for-you&order=oldest",
         permanent: true,
       },
       {

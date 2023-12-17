@@ -84,9 +84,9 @@ const addTrip = async (): Promise<void> => {
       JSON.parse(buffer.toString())
     );
 
-    // Exclude photos tagged with New
+    // Exclude photos tagged with For You
 
-    if (galleryPhotoData.meta.tags.includes(TagId.parse("New"))) continue;
+    if (galleryPhotoData.meta.tags.includes(TagId.parse("For You"))) continue;
 
     // Determine if in range
 

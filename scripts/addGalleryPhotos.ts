@@ -22,8 +22,8 @@ import {
 } from "../src/functions/photo";
 import { GalleryPhotoSlug } from "../src/types/brand";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
-import { Location } from "../src/types/location";
-import { Tag, TagId } from "../src/types/tag";
+import { LocationTitle } from "../src/types/location";
+import { TagTitle } from "../src/types/tag";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
@@ -260,35 +260,23 @@ const enrichGalleryPhoto = async (
     default: previousData?.meta.location || undefined,
   });
   updatedData.meta.location = locationString
-    ? Location.parse(locationString)
+    ? LocationTitle.parse(locationString)
     : null;
 
   // Tags
 
-  const tagDefaults: TagId[] = previousData
+  const tagDefaults: TagTitle[] = previousData
     ? previousData.meta.tags
-    : [TagId.parse("Landscape")];
+    : [TagTitle.parse("Landscape")];
   const selectedTags = await inquirerCheckbox({
     message: `Tags [${tagDefaults.join(", ")}]`,
-    choices: allTags
-      .sort((a, b) => {
-        const priority = ["Landscape", "New"];
-        const prefixPriority = (tag: Tag) =>
-          (priority.includes(tag.id) ? priority.indexOf(tag.id) : "") + tag.id;
-        const aString = prefixPriority(a);
-        const bString = prefixPriority(b);
-
-        if (aString < bString) return -1;
-        if (aString > bString) return 1;
-        return 0;
-      })
-      .map((tag) => ({
-        value: tag.id,
-        checked: tagDefaults.includes(tag.id),
-      })),
+    choices: allTags.map((tag) => ({
+      value: tag.title,
+      checked: tagDefaults.includes(TagTitle.parse(tag.title)),
+    })),
   });
-  updatedData.meta.tags = selectedTags;
-  if (selectedTags.includes(TagId.parse("New"))) {
+  updatedData.meta.tags = selectedTags.map((tag) => TagTitle.parse(tag));
+  if (selectedTags.includes(TagTitle.parse("For You"))) {
     updatedData.settings = { downloadOriginal: true };
   }
 
@@ -336,7 +324,9 @@ const writeGalleryPhoto = async (
   if (!DRY_RUN) {
     const images = GALLERY_IMAGE_SIZES.slice(
       0,
-      galleryPhotoData?.meta.tags.includes(TagId.parse("New")) ? undefined : -1
+      galleryPhotoData?.meta.tags.includes(TagTitle.parse("For You"))
+        ? undefined
+        : -1
     ).map(({ maxDimension, suffix }) => ({
       fileName: `${photoSlug}${suffix}.jpeg`,
       maxDimension,
