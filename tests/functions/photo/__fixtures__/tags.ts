@@ -1,11 +1,15 @@
-import { Tag, TagId } from "../../../../src/types/tag";
+import { TagTitle, TagsDict } from "../../../../src/types/tag";
 
-export const tags: Tag[] = [
-  {
-    id: TagId.parse("Visible"),
+export const tagsDict: TagsDict = {
+  Visible: {
+    title: TagTitle.parse("Visible"),
+    slug: "visible",
+    index: 0,
   },
-  {
-    id: TagId.parse("Invisible"),
+  Invisible: {
+    title: TagTitle.parse("Invisible"),
+    slug: "invisible",
     hidePhotos: true,
+    index: 1,
   },
-];
+};

@@ -8,7 +8,7 @@ import { allTripsDict } from "../../data/trips";
 import { dateFromString } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
 import { getLocationHierarchy } from "../../functions/location";
-import { TagId } from "../../types/tag";
+import { TagTitle } from "../../types/tag";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";
 import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
@@ -32,7 +32,7 @@ export const GalleryHeading = () => {
     PHOTO_SIZE_SUFFIX.ORIGINAL
   );
 
-  const hasNewTag = meta.tags.includes(TagId.parse("New"));
+  const hasNewTag = meta.tags.includes(TagTitle.parse("New"));
 
   return (
     <>

@@ -1,43 +1,43 @@
 import { isPhotoShown } from "../../../src/functions/photo";
 import { GalleryPhoto } from "../../../src/types/galleryPhoto";
-import { TagId } from "../../../src/types/tag";
+import { TagTitle } from "../../../src/types/tag";
 import { genericPhoto } from "./__fixtures__/photo";
-import { tags } from "./__fixtures__/tags";
+import { tagsDict } from "./__fixtures__/tags";
 
-const addTag = (photo: GalleryPhoto, tagId: TagId): GalleryPhoto => ({
+const addTag = (photo: GalleryPhoto, tagTitle: TagTitle): GalleryPhoto => ({
   ...photo,
   meta: {
     ...photo.meta,
-    tags: [...photo.meta.tags, tagId],
+    tags: [...photo.meta.tags, tagTitle],
   },
 });
 
 describe("isPhotoShown", () => {
   test("returns true with no tags", () => {
-    expect(isPhotoShown(tags, [], genericPhoto)).toBe(true);
+    expect(isPhotoShown(tagsDict, [], genericPhoto)).toBe(true);
   });
 
   test("returns true with shown tag", () => {
-    const tagId = TagId.parse("Visibile");
-    const photo = addTag(genericPhoto, tagId);
+    const tagTitle = TagTitle.parse("Visibile");
+    const photo = addTag(genericPhoto, tagTitle);
 
-    expect(isPhotoShown(tags, [tagId], photo)).toBe(true);
+    expect(isPhotoShown(tagsDict, [], photo)).toBe(true);
   });
 
   test("returns false with hidden tag", () => {
-    const tagId = TagId.parse("Invisible");
-    const photo = addTag(genericPhoto, tagId);
+    const tagTitle = TagTitle.parse("Invisible");
+    const photo = addTag(genericPhoto, tagTitle);
 
-    expect(isPhotoShown(tags, [tagId], photo)).toBe(false);
+    expect(isPhotoShown(tagsDict, [], photo)).toBe(false);
   });
 
   test("returns true with hidden tag and shown photo", () => {
-    const tagId = TagId.parse("Invisible");
+    const tagTitle = TagTitle.parse("Invisible");
     const photo: GalleryPhoto = {
-      ...addTag(genericPhoto, tagId),
+      ...addTag(genericPhoto, tagTitle),
       settings: { showPhoto: true },
     };
 
-    expect(isPhotoShown(tags, [tagId], photo)).toBe(true);
+    expect(isPhotoShown(tagsDict, [tagTitle], photo)).toBe(true);
   });
 });

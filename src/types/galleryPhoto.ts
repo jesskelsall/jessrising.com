@@ -3,7 +3,7 @@ import { GalleryPhotoSlug, TripSlug } from "./brand";
 import { ISODateString } from "./date";
 import { LocationTitle } from "./location";
 import { MarkdownString } from "./markdown";
-import { TagId } from "./tag";
+import { TagTitle } from "./tag";
 
 export const GalleryPhotoData = z.object({
   title: z.string(),
@@ -15,7 +15,7 @@ export const GalleryPhotoData = z.object({
       })
       .optional(),
     location: LocationTitle.nullable(),
-    tags: z.array(TagId),
+    tags: z.array(TagTitle),
     trip: TripSlug.nullable(),
   }),
   exif: z.object({

@@ -26,11 +26,11 @@ describe("Gallery Photos", () => {
     });
 
     test("Tags are in tags list", () => {
-      const tagIds = galleryPhoto.meta.tags;
+      const tagTitles = galleryPhoto.meta.tags;
 
-      expect.assertions(tagIds.length);
-      tagIds.forEach((tagId) => {
-        const matchingTag = allTags.find((tag) => tag.id === tagId);
+      expect.assertions(tagTitles.length);
+      tagTitles.forEach((tagTitle) => {
+        const matchingTag = allTags.find((tag) => tag.title === tagTitle);
         expect(matchingTag).not.toBeUndefined();
       });
     });

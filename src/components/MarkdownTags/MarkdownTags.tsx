@@ -1,4 +1,5 @@
-import { kebabCase } from "lodash/fp";
+import { kebabCase, orderBy } from "lodash/fp";
+import { tagsDict } from "../../data/tagsDict";
 import { PillRow } from "../PillRow/PillRow";
 
 interface IMarkdownTagsProps {
@@ -6,9 +7,16 @@ interface IMarkdownTagsProps {
 }
 
 export const MarkdownTags = ({ tags }: IMarkdownTagsProps) => {
-  const pills = tags.map((tag) => ({
-    href: `/gallery?tag=${kebabCase(tag)}`,
-    title: tag,
+  const orderedTags = orderBy(
+    ["index"],
+    ["asc"],
+    tags.map((tag) => tagsDict[tag]).filter((tag) => tag)
+  );
+
+  const pills = orderedTags.map((tag) => ({
+    emoji: tag.emoji,
+    href: `/gallery?tag=${kebabCase(tag.title)}`,
+    title: tag.title,
   }));
 
   return (

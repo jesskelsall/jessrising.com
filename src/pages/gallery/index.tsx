@@ -8,7 +8,7 @@ import { Newsletter } from "../../components/Newsletter/Newsletter";
 import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import { allGalleryPhotosList } from "../../data/galleryPhotos";
-import { allTags } from "../../data/tags";
+import { tagsDict } from "../../data/tagsDict";
 import { allTripsDict } from "../../data/trips";
 import { dateFromString } from "../../functions/date";
 import { TModelFilter, applyFilterQueries } from "../../functions/filter";
@@ -23,7 +23,7 @@ import { pluralise, titleCase } from "../../functions/title";
 import { TripSlug } from "../../types/brand";
 import { IGalleryQuery, TOrder } from "../../types/gallery";
 import { GalleryPhoto } from "../../types/galleryPhoto";
-import { TagId } from "../../types/tag";
+import { TagTitle } from "../../types/tag";
 
 interface IPagination {
   page: number;
@@ -39,7 +39,7 @@ interface IProps {
   order: TOrder;
   pagination: IPagination;
   query: IGalleryQuery;
-  tags: TagId[];
+  tags: TagTitle[];
   trips: TripSlug[];
   year: number | null;
 }
@@ -54,7 +54,7 @@ export const getServerSideProps: GetServerSideProps<
 
   let page = queryParamToIntegers(query.page)[0] || 1;
   const locations = queryParamToStrings(query.location);
-  const tags = queryParamToStrings(query.tag).map((tag) => TagId.parse(tag));
+  const tags = queryParamToStrings(query.tag).map((tag) => TagTitle.parse(tag));
   const trips = queryParamToStrings(query.trip).map((trip) =>
     TripSlug.parse(trip)
   );
@@ -113,7 +113,10 @@ export const getServerSideProps: GetServerSideProps<
     ]);
   }
 
-  filters.push([[true], (photo) => [isPhotoShown(allTags, tags || [], photo)]]);
+  filters.push([
+    [true],
+    (photo) => [isPhotoShown(tagsDict, tags || [], photo)],
+  ]);
 
   const filteredPhotos = applyFilterQueries<GalleryPhoto>(
     sortedPhotos,

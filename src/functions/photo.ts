@@ -3,7 +3,7 @@ import { Camera, Device } from "../data/cameras";
 import { EXIFLoaded } from "../types/EXIF";
 import { GalleryPhotoSlug } from "../types/brand";
 import { GalleryPhoto, GalleryPhotoData } from "../types/galleryPhoto";
-import { Tag, TagId } from "../types/tag";
+import { Tag, TagsDict } from "../types/tag";
 import { dateFromEXIFString, dateFromString } from "./date";
 
 // Gets a device that matches the given make and model
@@ -177,25 +177,26 @@ export const parsePhoto = ({
  * hidePhotos: true can hide photos, but can be overriden by showPhoto: true setting
  */
 export const isPhotoShown = (
-  tags: Tag[],
-  appliedTagIds: TagId[],
+  tagsDict: TagsDict,
+  appliedTagSlugs: string[],
   photo: GalleryPhoto
 ): boolean => {
   if (photo.settings?.showPhoto) return true;
 
-  const hideTagIdsOnPhoto = photo.meta.tags.reduce<TagId[]>((acc, next) => {
-    const tagData = tags.find((tag) => tag.id === next);
-    return tagData?.hidePhotos
-      ? [...acc, TagId.parse(kebabCase(tagData.id))]
-      : acc;
-  }, []);
-
-  if (hideTagIdsOnPhoto.length === 0) return true;
-
-  // Show if all of the hidden tags have been applied, hide otherwise
-  const hideTagsAreApplied = hideTagIdsOnPhoto.every((tagId) =>
-    appliedTagIds.includes(tagId)
+  const hidePhotoTagsOnPhoto = photo.meta.tags.reduce<Tag[]>(
+    (tags, tagTitle) => {
+      const tag = tagsDict[tagTitle];
+      return tag?.hidePhotos ? [...tags, tag] : tags;
+    },
+    []
   );
 
-  return hideTagsAreApplied;
+  if (hidePhotoTagsOnPhoto.length === 0) return true;
+
+  // Show if all of the hidden tags have been applied, hide otherwise
+  const hidePhotoTagsAreApplied = hidePhotoTagsOnPhoto.every((tag) =>
+    appliedTagSlugs.includes(tag.slug)
+  );
+
+  return hidePhotoTagsAreApplied;
 };
