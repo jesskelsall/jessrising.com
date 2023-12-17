@@ -9,7 +9,7 @@ import util from "util";
 import { DIR_CONTENT } from "../src/consts/app";
 import { GalleryPhotoSlug, TripSlug } from "../src/types/brand";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
-import { TagId } from "../src/types/tag";
+import { TagTitle } from "../src/types/tag";
 import { TripData } from "../src/types/trip";
 
 const readdir = util.promisify(fs.readdir);
@@ -86,7 +86,8 @@ const addTrip = async (): Promise<void> => {
 
     // Exclude photos tagged with For You
 
-    if (galleryPhotoData.meta.tags.includes(TagId.parse("For You"))) continue;
+    if (galleryPhotoData.meta.tags.includes(TagTitle.parse("For You")))
+      continue;
 
     // Determine if in range
 
