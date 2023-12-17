@@ -6,8 +6,8 @@ import { Emoji } from "./emoji";
 export const TripData = z.object({
   title: z.string(),
   description: z.string().nullable(),
+  emoji: Emoji,
   thumbnail: GalleryPhotoSlug,
-  icon: Emoji,
   dates: z.object({
     from: ISODateString,
     to: ISODateString.optional(),

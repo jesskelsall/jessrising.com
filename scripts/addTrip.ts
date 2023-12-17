@@ -8,6 +8,7 @@ import path from "path";
 import util from "util";
 import { DIR_CONTENT } from "../src/consts/app";
 import { GalleryPhotoSlug, TripSlug } from "../src/types/brand";
+import { Emoji } from "../src/types/emoji";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
 import { TagTitle } from "../src/types/tag";
 import { TripData } from "../src/types/trip";
@@ -42,8 +43,8 @@ const addTrip = async (): Promise<void> => {
     validate: (input: string) => Boolean(input) || "Thumbnail is required.",
   });
 
-  const icon = await inquirerInput({
-    message: "Icon (emoji)",
+  const emoji = await inquirerInput({
+    message: "Emoji",
   });
 
   // Create trip
@@ -52,8 +53,8 @@ const addTrip = async (): Promise<void> => {
   const trip: TripData = {
     title: tripName,
     description: tripDescription || null,
+    emoji: Emoji.parse(emoji),
     thumbnail: GalleryPhotoSlug.parse(thumbnail),
-    icon,
     dates: {
       from: fromString,
       to: toString || undefined,

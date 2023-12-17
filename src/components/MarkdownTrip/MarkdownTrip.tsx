@@ -5,7 +5,7 @@ export const MarkdownTrip = ({ trip }: { trip: Trip }) => (
   <li>
     Trip:{" "}
     <Pill
-      emoji={trip.icon}
+      emoji={trip.emoji}
       href={`/gallery?trip=${trip.slug}`}
       title={trip.title}
     />

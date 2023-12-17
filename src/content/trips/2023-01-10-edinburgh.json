@@ -2,7 +2,7 @@
   "title": "Edinburgh",
   "description": "A day trip to wintry rainy Edinburgh.",
   "thumbnail": "hawthornbank-lane",
-  "icon": "💊",
+  "emoji": "💊",
   "dates": {
     "from": "2023-01-10"
   }

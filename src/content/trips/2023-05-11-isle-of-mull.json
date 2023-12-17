@@ -2,7 +2,7 @@
   "title": "Isle of Mull",
   "description": "A long weekend on Mull, Iona, Staffa, and Lunga with friends. Taking in Tobermory, beaches and coastline, and puffins.",
   "thumbnail": "puffins-take-flight",
-  "icon": "🦦",
+  "emoji": "🦦",
   "dates": {
     "from": "2023-05-11",
     "to": "2023-05-14"

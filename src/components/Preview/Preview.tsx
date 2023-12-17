@@ -13,23 +13,23 @@ export const Preview = ({
   date,
   dateEnd,
   description,
+  emoji,
   href,
-  icon,
   imageSlug,
   title,
 }: {
   date?: string;
   dateEnd?: string;
   description?: string;
+  emoji?: string;
   href: string;
-  icon?: string;
   imageSlug?: string;
   title: string;
 }) => (
   <li>
     <div>
       <h2>
-        {icon && <span className="emoji">{icon}&nbsp;</span>}
+        {emoji && <span className="emoji">{emoji}&nbsp;</span>}
         <Link href={href}>{title}</Link>
       </h2>
       {date && (
@@ -78,7 +78,7 @@ export const BlogPreview = ({ blogPost }: { blogPost: IMarkdownData }) => {
 };
 
 export const TripPreview = ({ trip }: { trip: Trip }) => {
-  const { dates, description, icon, slug, thumbnail, title } = trip;
+  const { dates, description, emoji, slug, thumbnail, title } = trip;
 
   const imageSlug = getImageSrcFromSlug(thumbnail, PHOTO_SIZE_SUFFIX.SMALL);
 
@@ -87,8 +87,8 @@ export const TripPreview = ({ trip }: { trip: Trip }) => {
       date={dates.from}
       dateEnd={dates.to}
       description={description || undefined}
+      emoji={emoji}
       href={`/gallery?trip=${slug}`}
-      icon={icon}
       imageSlug={imageSlug}
       title={title}
     />

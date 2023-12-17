@@ -179,9 +179,9 @@ const GalleryPage: NextPage<IProps> = ({
     ? DateTime.fromObject({ month }).toFormat("LLLL")
     : "";
   const displayTrips = trips.map((trip) => {
-    const { icon, title } = allTripsDict[trip];
+    const { emoji, title } = allTripsDict[trip];
     if (!title) return trip;
-    return `${icon ? `${icon} ` : ""}${title}`;
+    return `${emoji ? `${emoji} ` : ""}${title}`;
   });
 
   return (
