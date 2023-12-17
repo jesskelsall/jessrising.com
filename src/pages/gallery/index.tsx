@@ -79,7 +79,10 @@ export const getServerSideProps: GetServerSideProps<
   if (locations.length) {
     filters.push([
       locations,
-      (photo) => getLocationHierarchy(photo.meta.location).map(kebabCase),
+      (photo) =>
+        getLocationHierarchy(photo.meta.location).map(
+          (location) => location.slug
+        ),
     ]);
   }
   if (tags.length) {

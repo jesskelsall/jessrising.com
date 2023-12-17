@@ -1,12 +1,9 @@
 import { last } from "lodash/fp";
 import { allGalleryPhotosList } from "../../src/data/galleryPhotos";
-import { locationHierarchy } from "../../src/data/locations";
 import { allTags } from "../../src/data/tags";
 import { getLocationHierarchy } from "../../src/functions/location";
 import { GalleryPhotoSlug } from "../../src/types/brand";
 import { GalleryPhoto } from "../../src/types/galleryPhoto";
-
-const topLevelLocations = Object.keys(locationHierarchy);
 
 describe("Gallery Photos", () => {
   const galleryPhotoTests = allGalleryPhotosList.map<
@@ -24,8 +21,8 @@ describe("Gallery Photos", () => {
 
       const locations = getLocationHierarchy(galleryPhoto.meta.location);
 
-      expect(locations.length).toBeGreaterThan(0);
-      expect(topLevelLocations).toContain(last(locations));
+      expect(locations).not.toHaveLength(0);
+      expect(last(locations)).not.toHaveProperty("parent");
     });
 
     test("Tags are in tags list", () => {

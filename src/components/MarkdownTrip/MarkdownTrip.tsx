@@ -1,9 +1,13 @@
-import Link from "next/link";
 import { Trip } from "../../types/trip";
+import { Pill } from "../Pill/Pill";
 
 export const MarkdownTrip = ({ trip }: { trip: Trip }) => (
   <li>
-    Trip: {trip.icon && <span className="emoji">{trip.icon}&nbsp;</span>}
-    <Link href={`/gallery?trip=${trip.slug}`}>{trip.title}</Link>
+    Trip:{" "}
+    <Pill
+      emoji={trip.icon}
+      href={`/gallery?trip=${trip.slug}`}
+      title={trip.title}
+    />
   </li>
 );

@@ -6,8 +6,8 @@ import { LocationHierarchy } from "../types/location";
  * Nesting expresses hierarchy
  */
 export const locationHierarchy: LocationHierarchy = {
-  "United Kingdom": {
-    England: {
+  "🇬🇧 United Kingdom": {
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England": {
       "County Durham": {
         Durham: {
           "Durham Cathedral": {},
@@ -144,7 +144,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
     },
-    Scotland: {
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland": {
       Aberdeenshire: {
         Crovie: {},
         "Rattray Head": {},
@@ -453,7 +453,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
     },
-    Wales: {
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {
       "Bannau Brycheiniog National Park": {
         "Henrhyd Falls": {},
       },
@@ -499,11 +499,4 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
   },
-};
-
-export const LocationFlags: Record<string, string> = {
-  England: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-  Scotland: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-  "United Kingdom": "🇬🇧",
-  Wales: "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
 };

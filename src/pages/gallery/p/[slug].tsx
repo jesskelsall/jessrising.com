@@ -56,7 +56,9 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
   const { exif, meta, slug, title } = galleryPhoto;
 
-  const location = getLocationHierarchy(meta.location).join(", ");
+  const openGraphLocation = getLocationHierarchy(meta.location)
+    .map((location) => location.title)
+    .join(", ");
 
   return (
     <>
@@ -64,7 +66,7 @@ const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
         <title>{title}</title>
         <OpenGraphHeaders
           date={exif.date}
-          description={location}
+          description={openGraphLocation}
           imageSlug={slug}
           urlPath={`gallery/p/${slug}`}
           title={title}

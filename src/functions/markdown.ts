@@ -7,7 +7,6 @@ import {
   TMarkdownListData,
 } from "../types/markdownOld";
 import { dateFromSlug } from "./date";
-import { getLocationHierarchy } from "./location";
 
 const LIST_LINE_PREFIX = "- ";
 
@@ -151,10 +150,6 @@ export const parseMarkdownMeta = (
   if (listData.GPS) {
     const [lat, long] = listData.GPS.map((value) => parseFloat(value));
     meta.gps = { lat, long };
-  }
-
-  if (listData.Location) {
-    meta.locations = getLocationHierarchy(listData.Location[0]);
   }
 
   if (listData.Tags) {

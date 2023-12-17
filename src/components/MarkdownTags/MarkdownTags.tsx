@@ -1,23 +1,19 @@
 import { kebabCase } from "lodash/fp";
-import Link from "next/link";
-import React from "react";
+import { PillRow } from "../PillRow/PillRow";
 
 interface IMarkdownTagsProps {
   tags: string[];
 }
 
-export const MarkdownTags = ({ tags }: IMarkdownTagsProps) => (
-  <li>
-    Tags:{" "}
-    {tags.map((tag, index) => {
-      const tagSlug = kebabCase(tag);
+export const MarkdownTags = ({ tags }: IMarkdownTagsProps) => {
+  const pills = tags.map((tag) => ({
+    href: `/gallery?tag=${kebabCase(tag)}`,
+    title: tag,
+  }));
 
-      return (
-        <React.Fragment key={tagSlug}>
-          {index !== 0 && ", "}
-          <Link href={`/gallery?tag=${tagSlug}`}>{tag}</Link>
-        </React.Fragment>
-      );
-    })}
-  </li>
-);
+  return (
+    <li>
+      Tags: <PillRow pills={pills} />
+    </li>
+  );
+};

@@ -33,12 +33,6 @@ export const GalleryHeading = () => {
   );
 
   const hasNewTag = meta.tags.includes(TagId.parse("New"));
-  const copyrightTo = DateTime.now().year.toString();
-  const copyrightFrom = (
-    dateFromString(exif.date)?.year || copyrightTo
-  ).toString();
-  const copyrightRange =
-    copyrightFrom + (copyrightTo !== copyrightFrom ? `-${copyrightTo}` : "");
 
   return (
     <>

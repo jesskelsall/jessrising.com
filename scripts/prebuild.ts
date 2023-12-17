@@ -6,8 +6,10 @@ import path from "path";
 import util from "util";
 import { DIR_DATA } from "../src/consts/app";
 import { getAllBlogPosts, getAllContent } from "../src/functions/fs";
+import { computeLocations } from "../src/functions/location";
 import { GalleryPhotoSlug, TripSlug } from "../src/types/brand";
 import { GalleryPhoto, GalleryPhotoData } from "../src/types/galleryPhoto";
+import { LocationsDict } from "../src/types/location";
 import { IMarkdownData } from "../src/types/markdownOld";
 import { Trip, TripData } from "../src/types/trip";
 
@@ -47,10 +49,17 @@ const preBuildTrips = async (): Promise<void> => {
   writeData<Trip[]>(trips, "trips.json");
 };
 
+const preBuildLocationsDict = async (): Promise<void> => {
+  const locations = computeLocations();
+
+  writeData<LocationsDict>(locations, "locationsDict.json");
+};
+
 const prebuild = async (): Promise<void> => {
   await preBuildBlogPosts();
   await preBuildGalleryPhotos();
   await preBuildTrips();
+  await preBuildLocationsDict();
 };
 
 prebuild();

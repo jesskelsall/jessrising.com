@@ -1,12 +1,13 @@
 import { z } from "zod";
 import { GalleryPhotoSlug, TripSlug } from "./brand";
 import { ISODateString } from "./date";
+import { Emoji } from "./emoji";
 
 export const TripData = z.object({
   title: z.string(),
   description: z.string().nullable(),
   thumbnail: GalleryPhotoSlug,
-  icon: z.string().emoji(),
+  icon: Emoji,
   dates: z.object({
     from: ISODateString,
     to: ISODateString.optional(),

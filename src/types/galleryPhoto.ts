@@ -1,7 +1,7 @@
 import { z } from "zod";
 import { GalleryPhotoSlug, TripSlug } from "./brand";
 import { ISODateString } from "./date";
-import { Location } from "./location";
+import { LocationTitle } from "./location";
 import { MarkdownString } from "./markdown";
 import { TagId } from "./tag";
 
@@ -14,7 +14,7 @@ export const GalleryPhotoData = z.object({
         long: z.number(),
       })
       .optional(),
-    location: Location.nullable(),
+    location: LocationTitle.nullable(),
     tags: z.array(TagId),
     trip: TripSlug.nullable(),
   }),
