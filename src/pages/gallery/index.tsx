@@ -12,7 +12,7 @@ import { tagsDict } from "../../data/tagsDict";
 import { allTripsDict } from "../../data/trips";
 import { dateFromString } from "../../functions/date";
 import { TModelFilter, applyFilterQueries } from "../../functions/filter";
-import { getLocationHierarchy } from "../../functions/location";
+import { getLocationHierarchy } from "../../functions/locationsDict";
 import {
   queryParamToIntegers,
   queryParamToStrings,

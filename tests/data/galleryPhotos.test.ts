@@ -1,7 +1,7 @@
 import { last } from "lodash/fp";
 import { allGalleryPhotosList } from "../../src/data/galleryPhotos";
 import { allTags } from "../../src/data/tags";
-import { getLocationHierarchy } from "../../src/functions/location";
+import { getLocationHierarchy } from "../../src/functions/locationsDict";
 import { GalleryPhotoSlug } from "../../src/types/brand";
 import { GalleryPhoto } from "../../src/types/galleryPhoto";
 

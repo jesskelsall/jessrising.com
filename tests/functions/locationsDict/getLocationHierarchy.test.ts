@@ -1,4 +1,4 @@
-import { getLocationHierarchy } from "../../../src/functions/location";
+import { getLocationHierarchy } from "../../../src/functions/locationsDict";
 import { Emoji } from "../../../src/types/emoji";
 import { Location, LocationTitle } from "../../../src/types/location";
 

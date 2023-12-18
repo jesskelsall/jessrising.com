@@ -7,7 +7,7 @@ import { useGalleryPhoto } from "../../context/galleryPhoto";
 import { allTripsDict } from "../../data/trips";
 import { dateFromString } from "../../functions/date";
 import { getImageSrcFromSlug } from "../../functions/image";
-import { getLocationHierarchy } from "../../functions/location";
+import { getLocationHierarchy } from "../../functions/locationsDict";
 import { TagTitle } from "../../types/tag";
 import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
 import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";

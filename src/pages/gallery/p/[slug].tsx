@@ -11,7 +11,7 @@ import {
   allGalleryPhotoSlugs,
   allGalleryPhotosDict,
 } from "../../../data/galleryPhotos";
-import { getLocationHierarchy } from "../../../functions/location";
+import { getLocationHierarchy } from "../../../functions/locationsDict";
 import { GalleryPhotoSlug } from "../../../types/brand";
 import { GalleryPhoto } from "../../../types/galleryPhoto";
 
