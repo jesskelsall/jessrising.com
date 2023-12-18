@@ -28,7 +28,7 @@ Arriving at the bridge I said hello to two already waiting trainspotters, hopped
 
 I could not have asked for better conditions. A mostly blue-sky day, only small puffs of cloud and strands gathering on Ingleborough to spoil the low winter light. Snow was more abundant than last week, some between the rails below, and considerably more lining the distant valley and hills. I was excited!
 
-<img src="../../public/photos/blea-moor-and-ingleborough.jpeg" alt="Multiple train lines stretch below, turning a gentle corner to the left. To their left, an old signal box and nearby dilapidated house. In the background, rolling snow-kissed hills and Ingleborough, a tall snow-covered hill. Clouds cling to its summit." cover />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/blea-moor-and-ingleborough-230121-lg.jpeg" alt="Multiple train lines stretch below, turning a gentle corner to the left. To their left, an old signal box and nearby dilapidated house. In the background, rolling snow-kissed hills and Ingleborough, a tall snow-covered hill. Clouds cling to its summit." cover />
 
 ## Trainspotters
 
@@ -40,13 +40,13 @@ It was nice being in experienced company, even if I felt and looked ever the out
 
 A few light conversations and occasional interjections later, I had successfully been welcomed in, though I still stuck out like a sore thumb. A current-gen smartphone on a new tripod draw curiosity, with comments about how phones can do anything these days. Their chunky tripods and decades-old video cameras might have looked primitive, but these guys knew what they were doing - good microphones and a purist's eye for the perfect static shot showed their experience, their craft.
 
-<img src="../../public/photos/steam-blea-moor-2.jpeg" alt="A crowd of older trainspotters lines the bridge next to me. They have set up their video cameras on tripods resting against the bridge's stone edge." />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/steam-blea-moor-2.jpeg" alt="A crowd of older trainspotters lines the bridge next to me. They have set up their video cameras on tripods resting against the bridge's stone edge." />
 
 Meanwhile I tinkered with my DSLR. After all, my phone needed no help, and I left it to record a timelapse of the rolling clouds on Ingleborough. Out of practice, aperture priority mode would do for today. I fiddled for a while with ISO, white balance, metering, focus zones, and dialled in something that looked decent on a fifteen-year-old dim LCD screen. I wired up my remote shutter and rehearsed a burst of seven photos. The recognisable snap of the mirror moving out of the sensor's way with each photo.
 
 Two Northern diesel multiple units passed through in opposite directions in quick succession, giving a chance to test everything out. The video looked okay. The photos looked okay. Now we simply waited for a distant horn beep to be replaced by the toot of a steam locomotive.
 
-<img src="../../public/photos/steam-blea-moor-3.jpeg" alt="My Sony Alpha a550 camera mounted on an old tripod, pointed beyond the edge of the bridge." />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/steam-blea-moor-3.jpeg" alt="My Sony Alpha a550 camera mounted on an old tripod, pointed beyond the edge of the bridge." />
 
 ## A Black Bullet
 
@@ -72,7 +72,7 @@ Beyond that, the lenses were filthy. A mixture of hair, fibres and dust collecte
 
 Still, I post this here for posterity and for completeness. We are more than our final best effort.
 
-<img src="../../public/photos/steam-blea-moor-4.jpeg" alt="A photo of the steam locomotive traversing the rail line towards the camera. The image is blurry, speckled with fibres and dust particles, and the bottom right corner is foggy white, including the front of the steam locomotive." />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/steam-blea-moor-4.jpeg" alt="A photo of the steam locomotive traversing the rail line towards the camera. The image is blurry, speckled with fibres and dust particles, and the bottom right corner is foggy white, including the front of the steam locomotive." />
 
 ## Conclusion
 

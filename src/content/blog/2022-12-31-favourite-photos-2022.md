@@ -16,7 +16,7 @@ My criteria for judging my photography is unashamedly subjective. I can't untang
 
 ## #10: Sunset on the River Axe
 
-<img src="../../public/photos/sunset-on-the-river-axe.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/sunset-on-the-river-axe-220620-lg.jpeg" />
 
 Likely the least recognisable location on this list, the River Axe meets the sea in the seaside town of Seaton. Here an unlikely idyllic view up the river can be found opposite the marina. A calm day produced the glassy river surface, which perfectly reflects the soft colours of early sunset.
 
@@ -24,7 +24,7 @@ I visited Seaton in June to see my online friend Chloe, who I've known for over 
 
 ## #9: Herdys Overlook Wast Water
 
-<img src="../../public/photos/herdys-overlook-wast-water.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/herdys-overlook-wast-water-220428-lg.jpeg" />
 
 There are plenty of beautiful views across Wast Water in the western Lake District, most notably from the shores visible in this photo below, looking in the opposite direction towards Wasdale Head and [Great Gable](https://en.wikipedia.org/wiki/Great_Gable). However, this view from Water Crag provides a panorama that credibly sells the scale of the valley and the Wasdale Screes that overshadow it.
 
@@ -32,7 +32,7 @@ On this early adventure from April, I took my friend Rin to Wast Water in search
 
 ## #8: Approaching Loch Coruisk
 
-<img src="../../public/photos/approaching-loch-coruisk.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/approaching-loch-coruisk-220814-lg.jpeg" />
 
 The only photo on this list not taken from *terra firma*, the [Bella Jane](https://www.bellajane.co.uk/boattrips.asp) delivered my girlfriend and I to both Loch Coruisk and spectacular view of Loch na Cuilce on the south coast of the Isle of Skye. As we rounded seaweed-covered rocks, we were greeted by both the white Coruisk Memorial Hut (a bothy) and a raft on its way back to the two-mast sailing ship we just passed in the bay.
 
@@ -40,7 +40,7 @@ Dramatic views of the rocky land tantalisingly obscuring our first view of Loch 
 
 ## #7: Tràigh an t-Suidhe
 
-<img src="../../public/photos/traigh-an-t-suidhe-221023.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/traigh-an-t-suidhe-221023-lg.jpeg" />
 
 Iona, a small island near the Isle of Mull, is a fantastic place to wander in solitude away from life's worries. Here on its north edge, I explored *Beach of the Seat* completely alone, with views across uninhabited sea and land as my only company. The sand here is white, the rocks are orange and green, and in typical western Highlands fashion, the sky threatens rain.
 
@@ -48,7 +48,7 @@ The busy nature of this photo's rocky textures and contrasting colours are seemi
 
 ## #6: What Remains of Fountains Abbey
 
-<img src="../../public/photos/what-remains-of-fountains-abbey.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/what-remains-of-fountains-abbey-220623-lg.jpeg" />
 
 At the end of my June trip to south-east England, an impromptu stop at [Fountains Abbey & Studley Royal](https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden) treated me to an enjoyable pastime - walking through the ruins of an English monastery. Here the abbey's main structure is mostly intact up to the top of the walls, begging my camera to wander upwards.
 
@@ -56,7 +56,7 @@ This photo towards the crossing, looking up at the pillars and arches, contrasts
 
 ## #5: Lagangarbh Hut and Buachaille Etive Mòr
 
-<img src="../../public/photos/lagangarbh-hut-and-buachaille-etive-mor-221210.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/lagangarbh-hut-and-buachaille-etive-mor-221210-lg.jpeg" />
 
 When compiling this list, I started with a "shortlist" of around 100 photos - three of which were of Lagangarbh, the famous white house at the top of Glen Coe. Each was from a different season, but I've chosen this one from December for several reasons.
 
@@ -64,7 +64,7 @@ This particular angle from the bridge shows off the house, River Coupall and [Bu
 
 ## #4: Dreary Lingcove Beck
 
-<img src="../../public/photos/dreary-lingcove-beck.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/dreary-lingcove-beck-220723-lg.jpeg" />
 
 When seeking waterfalls, wet weather is best, for rain charges the valleys and streams, allowing waterfalls to give you their best. This hunt led me to Lingcove Bridge in the Lake District on a terribly wet day that saw me soaked through to my underwear. While this isn't a photo of a waterfall, the day's objective was met, and all that was left was to descend back to the bridge on the return home along the valley pictured here.
 
@@ -74,7 +74,7 @@ Despite its muted tones and its nature as a by-product of a day photographing wa
 
 ## #3: Sunset Over the Black Cullin
 
-<img src="../../public/photos/sunset-over-the-black-cullin.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/sunset-over-the-black-cullin-220604-lg.jpeg" />
 
 This year three vistas brought me to tears. Perhaps then unsurprisingly, they all feature in the top three photos on this list.
 
@@ -84,7 +84,7 @@ It is impossible to resist a sunset this orange, particularly one over your dest
 
 ## #2: The Jacobite Crosses Glenfinnan Viaduct
 
-<img src="../../public/photos/the-jacobite-crosses-glenfinnan-viaduct.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/the-jacobite-crosses-glenfinnan-viaduct-220619-lg.jpeg" />
 
 While I am not an adult fan of [Harry Potter](https://en.wikipedia.org/wiki/TERF), the allure of Glenfinnan Viaduct for many is down to its appearance in the series' film adaptations. For me, I appreciate the architecture, its setting, and steam trains. A trip to see [The Jacobite](https://westcoastrailways.co.uk/jacobite/steam-train-trip) proudly cross the crescent shaped span was effectively a pilgrimage.
 
@@ -92,7 +92,7 @@ Amongst one hundred others lining the hill in anticipation of the morning servic
 
 ## #1: The Old Man of Storr
 
-<img src="../../public/photos/the-old-man-of-storr-220605.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/the-old-man-of-storr-220605-lg.jpeg" />
 
 Before I knew of the Scottish Highlands, I knew of the Old Man of Storr. A fairy-tale view across jagged rocks and alternating land & water. Before I could drive, Scotland was a foreign land, and the Isle of Skye was so impossibly far away. In 2015, two years after learning to drive, I almost travelled to the island to get the best partial view of the [total solar eclipse](https://www.timeanddate.com/eclipse/solar/2015-march-20) outside of Svalbard, but concluded a sixteen hour round trip was too much. This year, I finally made it.
 

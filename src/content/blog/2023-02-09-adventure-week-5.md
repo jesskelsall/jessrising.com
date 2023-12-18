@@ -20,8 +20,8 @@ But I resolved to come back and make this work. I would do it on my birthday, Sa
 
 Sunday's forecast was sparkling, with clear skies and little breeze. Overnight frost was to be expected. Cool fresh air would help me on my way. Another 06:00 start. By 09:15, I parked up at the base of my hike. Before me, Middle Fell to the right, and Buckbarrow to the left.
 
-<img src="../../public/photos/middle-fell-1.jpeg" />
-<img src="../../public/photos/buckbarrow-1.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/middle-fell-1.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/buckbarrow-1.jpeg" />
 
 I arrived with two other cars and immediately got chatting to the would-be hikers. They were also taking the same route as me. We discussed hiking aspirations. They got into hiking after the first COVID-19 lockdown, as many in the UK did, looking domestically for travel and leisure. I told them of my plans to check off some Wainwrights and make a statement for myself.
 
@@ -49,11 +49,11 @@ Suddenly, a rocky summit appeared before me. I could not believe it. In this mom
 
 The rewards were bountiful. A stunning view of [Yewbarrow](https://en.wikipedia.org/wiki/Yewbarrow) and Wasdale Head, with the Scafell complex at its most dramatic angle.
 
-<img src="../../public/photos/wasdale-fells.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/wasdale-fells-230205-lg.jpeg" />
 
 While the middle of Wast Water was obscured from here, peach winter skies above [Illgill Head](https://en.wikipedia.org/wiki/Illgill_Head) were an odd sight at 11:00, but certainly welcome.
 
-<img src="../../public/photos/illgill-peaches.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/illgill-peaches-230205-lg.jpeg" />
 
 After the high wore off, I found a rocky outcrop overlooking Wasdale Head and sat down for an early lunch. I planned to stop on Seatallan for lunch, but I would take a rest here too after the hardship. A sausage roll and bag of Monster Munch would perk me back up.
 
@@ -63,7 +63,7 @@ Once back on my feet, I made conversation with two older hikes that had arrived 
 
 Rested and socialised, it was time to descend towards Seatallan. I had spotted the next Wainwright on my way up. It is a smooth mound with no clear geology to aid in hiking it. According to the route, I would simply walk straight towards the summit cairn, right up the hillside. Looking at how steep it got towards the top, this didn't seem possible.
 
-<img src="../../public/photos/seatallan-1.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/seatallan-1.jpeg" />
 
 As I descended to the marshy valley below, my concern grew. Two hikers ahead of me made their way up a barely visible brown line that petered into nothing. It was only after soaking my hiking boots in the marsh that I could see the footholds above, rising defiantly between nearby patches of scree. The last 200m of ascent for the day was here.
 
@@ -73,7 +73,7 @@ The sense of height and danger got to me here. It was easy enough to keep my hea
 
 Eventually I came across two footholds that had collapsed. The dirt here was loose and damp, my confidence equally eroded. I placed my foot but couldn't transfer my weight and put my faith in the spot and its grip. I wrestled with it as my anxiety grew. My hiking poles did little to help - I was more worried that pushing too much on them would send me tumbling backwards. It took minutes before I could move again, and when I did, it was a leap of faith. I took two steps and stopped to catch my breath.
 
-<img src="../../public/photos/seatallan-2.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/seatallan-2.jpeg" />
 
 The moment felt like an eternity, but the confidence loss and sudden sense of height left me. Few steep steps remained before it mercilessly began to level out. Suddenly I was amongst a well-grazed grassy plain. Relief, but only once at the cairn beyond.
 
@@ -81,11 +81,11 @@ The moment felt like an eternity, but the confidence loss and sudden sense of he
 
 Seatallan represented the final heights of the hike - from here it would all be downhill towards Buckbarrow. The exposed summit was windswept, though a windbreak cairn could offer shelter. I touched the trig point, making the effort official.
 
-<img src="../../public/photos/seatallan-3.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/seatallan-3.jpeg" />
 
 I wandered the summit for a while, travelling to a nearby cairn overlooking [Scoat Fell](https://en.wikipedia.org/wiki/Scoat_Fell). Eventually I settled on a rock facing the opposite view - [Sellafield](https://en.wikipedia.org/wiki/Sellafield) nuclear site, the Irish Sea, and much to my surprise and delight, the [Isle of Man](https://en.wikipedia.org/wiki/Isle_of_Man).
 
-<img src="../../public/photos/seatallan-4.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/seatallan-4.jpeg" />
 
 ## Along to Buckbarrow
 
@@ -97,11 +97,11 @@ The cairn soon approached, signalling a left turn towards Buckbarrow. From here 
 
 I only lingered at Buckbarrow's summit for a few moments before seeking a better view. Rocky crags overlook Greendale and Wast Water as a whole, so it was necessary to traverse the criss-crossing trails. I ended up on Pike Crag, looking along Wast Water towards Wasdale Head.
 
-<img src="../../public/photos/wast-water-from-buckbarrow.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/wast-water-from-buckbarrow-230205-lg.jpeg" />
 
 In the other direction, the two hikers from before could be seen atop Long Crag next to me, taking similar photos. The photo below beautifully captures the crags and the day's beautiful orange tones, now amplified as the sun came out around 14:00.
 
-<img src="../../public/photos/from-long-crag-to-the-irish-sea.jpeg" cover />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/from-long-crag-to-the-irish-sea-230205-lg.jpeg" cover />
 
 I took my final sit down here, close to the sheer edge of the crag. The view was a fine reward for my efforts so far, much more dramatic than from Seatallan. My expectations for the day had been exceeded.
 
@@ -115,7 +115,7 @@ A steep descent followed, down through grassy switchbacks, and with no protectio
 
 The sight of a herdy before a ford over one of the gills was welcome. This proved to be the end of the worst of the descent.
 
-<img src="../../public/photos/buckbarrow-2.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/buckbarrow-2.jpeg" />
 
 From here the trail kept me busy with craggy and technical rocks, tightrope dirt paths cut into the hillside, and muddy slopes. Eventually the slopes let up and revealed the homesteads of Greendale once again, with a clear route past a sheepfold and stone walls pointing my way towards the road.
 
@@ -123,7 +123,7 @@ From here the trail kept me busy with craggy and technical rocks, tightrope dirt
 
 Once down the last muddy slope and into the farmer's field, my ankles noted the flat terrain and I rejoiced - I'd made it! My face was flush from cold winds, my body aching from the effort, but I was excited. The afternoon sun appeared across Illgill Head once more, affording me an opportunity to snap a few more gorgeous photos.
 
-<img src="../../public/photos/greendale-2.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/greendale-230205b-lg.jpeg" />
 
 A small walk returned me to the car. The grassy car park, spotted as full from Middle Fell, was now empty except for two. I was happy to get out of my boots, change my socks, and prepare for a long drive back home. My body would have to wait a bit longer before completely crashing on me.
 

@@ -14,24 +14,24 @@ My analytical approach to any sort of completion applied here equally, so each f
 
 On Saturday I arrived at Maggie's Bridge car park, near the north-eastern edge of Loweswater, a lesser-known lake of the western Lake District. From here I would attempt a circuit that would bag me at least three Wainwrights, and four if I was feeling well and ambitious. Cloudy skies obscured the summits of Carling Knott and my first target, Burnbank Fell. The forecast suggested the weather would turn by midday.
 
-<img src="../../public/photos/loweswater-weekend-1.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-1.jpeg" />
 
 A gentle walk along the lake took me into Holme Wood. Here weekday logging operations had closed the most straightforward trail up through it, but I didn't mind the extra distance. The path was saturated with rain and muddy from logging trucks' persistent track making, causing some sections to be unpleasant to traverse.
 
 After a more persistent uphill following the trucks' path, I arrived at Holme Force. A series of waterfalls cascaded down well-worn rock faces, tumbling beneath the wooden bridge on which I stood. I ascended a small trail along the edge of the falls for a better view of the higher up falls. Somewhere higher above yet, a track would cut across this stream, and from there my ascent would truly begin.
 
-<img src="../../public/photos/loweswater-weekend-2.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-2.jpeg" />
 
 As the track gently worked its way up the edge of the hillside, the mud comprising it became problematic. Every step saw the treads of my hiking boots disappear into slick mud, surface water rushing to penetrate. I had to keep moving, carefully but quickly. The middle of the road offered little respite. At one point a stream overflowed onto the trail, collecting in a depression that required a small leap to traverse without soggy ankles.
 
 Mercifully, my map instructed me to take a hard right off the trail and ascend towards the treeline. I was perplexed to find no sign of a path at first, but a closer look above the track yielded a lightly worn trail. Unfortunately, the logging trucks had lowered the level of the track so much that I needed to vault up onto the steep ground above, using only slick muddy footholds and my hiking poles. In hindsight this would prove to be the scariest part of the day's efforts. Immediately a stunning view above the trees and across Loweswater rewarded my efforts.
 
-<img src="../../public/photos/holme-wood.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/holme-wood-230211-lg.jpeg" />
 
 Beyond this, the trail became heavily wooded, accompanied by a pair of [Swaledale sheep](https://en.wikipedia.org/wiki/Swaledale_sheep) before the next gate leading out onto exposed hillside. A short walk downhill from here, the wooden bridge crossing Holme Beck. The views from here were my favourite of the day - Loweswater coming into view with Low Fell beyond. As the trail continued upward and round the hillside, a wooden bench afforded an opportunity to rest and take in the dramatic clouded scenery.
 
-<img src="../../public/photos/holme-beck.jpeg" />
-<img src="../../public/photos/loweswater-from-the-bench.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/holme-beck-230211-lg.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-from-the-bench-230211-lg.jpeg" />
 
 ## Head in the Clouds
 
@@ -39,11 +39,11 @@ The next gate along the path signalled the end of my easy traversable romp up th
 
 As I went, the views remained stunning, but a looming sense of the cloud layer just above warned me that it wouldn't be to last. I drank in one last view from a marker cairn along the way.
 
-<img src="../../public/photos/the-cairn-and-the-clouds.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/the-cairn-and-the-clouds-230211-lg.jpeg" />
 
 As promised, the trail levelled out and for now wouldn't exceed a fair slope. The mists beyond shrouded by destination, and each step took any view of it further away. The mists were upon me. Easterly winds from the Irish Sea blew clouds across the fells, keeping me windswept with drizzle. My waterproof hood went up and I persisted.
 
-<img src="../../public/photos/loweswater-weekend-3.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-3.jpeg" />
 
 Several rises later, Burnbank Fell's summit came into view. A lone cairn by a fence junction, with no view to speak of. Still, a Wainwright is a Wainwright, and I had at least two more to go. I took a moment to put on my waterproof trousers as the windy drizzle began to saturate my trousers.
 
@@ -63,7 +63,7 @@ Despite the miserable conditions, the going had been easy enough that I still ha
 
 Initially my route descended steeply along fence line, finding a wide valley at the bottom. Here I crossed paths with two other hikers who helped me plot a route across to Hen Comb's steeper back side, as my map insisted I ascend a nearby small hill when clearly I could just cut the corner and not bother. As we parted, so did the clouds - the last of the morning's low cloud cover floated east, and the Wainwright was revealed. If it stayed this way, I'd be on for a good view to round off the hike.
 
-<img src="../../public/photos/loweswater-weekend-4.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-4.jpeg" />
 
 The valley was boggy, only punctuated by a low stream that required vaulting down and back up out of. For seemingly ages the squelch of my boots in sopping wet moss and grass was all I could hear. Eventually a hill materialised, and my last ascent of the day was afoot. It ascended steeper and steeper to the corner of a fence. Here I challenged myself to keep going steadily rather than employing quick bursts of effort and frequent breaks for breath. Slow and steady.
 
@@ -71,8 +71,8 @@ Getting up Hen Comb was much of the same, though steeper. From here unfamiliar v
 
 From Hen Comb the main views are of Loweswater to the north-west and of Buttermere to the south-east. Initially I misidentified Buttermere as Crummock Water, as I couldn't see the latter, until I recognised Fleetwith Pike's distinctive profile at its end. Only then did I understand that Mellbreak to my east was completely obscuring Crummock Water. A full sense of where I was now in place, thanks to a previous circumnavigation of Buttermere last summer. Once again, the clouds hung dramatically in the distance.
 
-<img src="../../public/photos/loweswater-weekend-5.jpeg" />
-<img src="../../public/photos/buttermere-from-hen-comb.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-5.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/buttermere-from-hen-comb-230211-lg.jpeg" />
 
 Not long after arriving, two more groups of hikers reached the summit, similarly sitting to eat and take in the views. I chatted with one person who had completed two-thirds of the Wainwrights, and another who had recently begun the endeavour, but was travelling up from Surrey. He viewed the efforts as a ten-year project, with many hostel stays required. As always, an instant sense of community is present at altitude.
 
@@ -80,23 +80,23 @@ Not long after arriving, two more groups of hikers reached the summit, similarly
 
 Now, all that was left was the descent. Hen Comb is normally tackled from the north, owing to its steady incline. How fortunate for me that this was to be my descent path. Initially the going was steep and with a partially eroded trail, but it quickly levelled off and invited views across Low Fell on the other side of Loweswater. Little Dodd's small protrusion half way proved to be the best view.
 
-<img src="../../public/photos/loweswater-weekend-6.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-6.jpeg" />
 
 Beyond this, herds of sheep dotted the separating paths as I bee-lined for a distant stone field wall. Behind Mellbreak, Grasmoor showed its face. Photographing sheep up close is a fool's errand, but if your camera is ready and you stop suddenly, sheep quickly pay attention and look your way. Usually.
 
-<img src="../../public/photos/sheep-on-loweswater-fell.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/sheep-on-loweswater-fell-230211-lg.jpeg" />
 
 The descent I had planned for this addition to my hike called for crossing through farmers' fields, threading one gate to the next, as I had done when descending Whernside. The difference is that in the Yorkshire Dales I had been aided by a public right of way. Here I would be denied by a notice of private land and no trespassing. I would comply begrudgingly, immediately turning right in the direction of a path I knew existed to the east, though now I would have to unpick some of my descent across untrodden fields.
 
 This route eventually yielded a trail that descended hard towards a stream. With my trail back to Loweswater village visible on the other side, there was no alternative but to ford. Fortunately, several large rocks were present, and my hiking poles allowed me to get across with only one foot plunged momentarily.
 
-<img src="../../public/photos/loweswater-weekend-7.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-7.jpeg" />
 
 I was rewarded by an equally steep ascent on the other side. At this point my body declared it was no longer interested in hiking, but I required it to press on as my car was still where I parked it.
 
 Following the trail from here was easy going, along the exit of the valley, eventually between field walls and past the farm. Here Loweswater came into view. I crossed the bridge, admired the snowdrops, and admired the stubbornness of a signpost with not one but two denials.
 
-<img src="../../public/photos/loweswater-weekend-8.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-8.jpeg" />
 
 The remaining walk back was along the roadside, eventually retracing the last part of my drive in. Here I was able to correctly identify the fells around me, now familiar, now conquered or sized up for future hikes.
 
@@ -106,36 +106,36 @@ After one day of hiking, I double-dipped - my friend Aušrinė would join me on 
 
 We arrived at Thackthwaite, parking in a dirt lay-by north of the settlement - seemingly the only parking for a mile. Despite the season and the 09:00 start, we were lucky to find a spot. Following the road into the settlement, we joined a path on the other side of the farmhouse yard, finding a rocky, beck-filled trail through the trees.
 
-<img src="../../public/photos/loweswater-weekend-9.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-9.jpeg" />
 
 After a while this trail emerged through a kissing gate into a field, continuing uphill. From here, our first view of Low Fell before us. But first, we'd have to join onto a path heading south away from it and around the bend to an area we would spend the day navigating back and forth between the two Wainwrights.
 
 As we ascended the path grew steeper, but it was well defined and wide enough for us to walk side-by-side. Behind us, views of Lorton Vale appeared, the sleepy valley of our origin.
 
-<img src="../../public/photos/loweswater-weekend-10.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-10.jpeg" />
 
 We turned off the track, descended to cross a beck, then started the ascent to Fellbarrow. After reaching the fence line of an otherwise quite featureless hill, we came upon footholds and the first real adversity of the day. A few stops were needed, but eventually it was cleared, and the summit became visible ahead.
 
 On the other side of the fence, a trig point and summit cairn. A quick hop over the stile between us and celebration. The view we were rewarded with was unprecedented - the Isle of Man to the west, and to the north the Solway Firth and the hills of Galloway Forest Park beyond - Scotland. We sat for a while, uncomfortably on cairn stones, taking in the view and refuelling before continuing.
 
-<img src="../../public/photos/loweswater-weekend-11.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-11.jpeg" />
 
 Turning around, we retraced our steps back down the grassy slope, following the fence line up the next and across to the path we had observed others ascending along. This brought us along a muddy cut path to a gate, inviting us onwards to Low Fell. The first of many undulating parts here dropped us towards our first view of Crummock Water, although it was only a tease of views to come.
 
 Low Fell refused to present itself immediately. Instead, each miniature summit presented another, demanding more effort before the eventual pay-off. The greatest ask was a steep muddy foothold ascent along a steep edge with airy views down to the valley and lake below. Here the sense of height and danger was mostly in the mind, but caution was taken with each footstep.
 
-<img src="../../public/photos/loweswater-weekend-12.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-12.jpeg" />
 
 Before long, Low Fell gave up, and one ascent later, we were there. Despite the summit cairn and map confirmation that we were in the right place, there was no view of Loweswater to our south-west. As if beckoning us on, the trail continued...
 
 A relentless series of hills snaked us further down the south edge of Low Fell, culminating in one last significant rise to another summit cairn - Bield. From here: a beautiful view across Loweswater and the farm I passed at the start of my walk yesterday, as well as both Mellbreak and Hen Comb from their fronts.
 
-<img src="../../public/photos/loweswater-weekend-13.jpeg" />
-<img src="../../public/photos/loweswater-weekend-14.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-13.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/loweswater-weekend-14.jpeg" />
 
 Still, the hill beckoned. I dragged my friend further into the chilling winds, down further to a third cairn, this time with clearly no further route. From here I found the best view of Crummock Water. To its left, Grasmoor. To its right, Mellbreak. Beyond, a sliver of Buttermere and all its surrounding fells. This was the Lake District that I had toiled for.
 
-<img src="../../public/photos/crummock-water-from-bield.jpeg" cover />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/crummock-water-from-bield-230212-lg.jpeg" cover />
 
 All that remained, of course, was the descent. The route back was straightforward, with a much more pleasant direct route back to our initial ascent. Herdwick sheep saw us off, and before we knew it, we were back in Thackthwaite.
 

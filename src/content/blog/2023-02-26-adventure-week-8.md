@@ -20,7 +20,7 @@ Within walking distance of our house is the [C2C cycle route](https://www.sustra
 
 This section is a frequent source of my summer evening walks and ill-fated [Couch to 5K](https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/) attempts, providing an easy gradient and abundant friendly dogs. It would be the scene of today's adventure.
 
-<img src="../../public/photos/beamish-cows-1.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-1.jpeg" />
 
 ## Breaking New Ground
 
@@ -30,13 +30,13 @@ Sophie and I set off on a grey day that threatened rain, the ground already damp
 
 At Pelton, the route crosses a road within view of Holy Trinity Church, its slender spire poking above its tree-filled grounds. The composition of rising road, telephone poles and church has proven inspiring, though typically with clear skies or sunset.
 
-<img src="../../public/photos/beamish-cows-2.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-2.jpeg" />
 
 Not much further along, the trail passes under the A693 and immediately the scenery to the right opens up - rolling fields and a distant view north-east. With binoculars or sharp vision, the tower blocks of Harlow Green can be spotted, and amongst them, [Angel of the North](https://www.gateshead.gov.uk/article/3957/Angel-of-the-North) above the A1(M). Even St James' Park can be spotted in Newcastle city centre.
 
 Before this scene, rolling farmland gives home to a farm, stored hay bales, and a white house amongst the trees. This view marks the furthest point I've been west on the C2C. Time to press on.
 
-<img src="../../public/photos/beamish-cows-3.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-3.jpeg" />
 
 Beyond this the route races towards Beamish, past High Handenhold. The odd bridge provides curious glances across back gardens and country lanes, but the sightlines here keep us fixated on the tunnel of trees. Eventually a sign for [The Angel's Way](https://www.thisisdurham.com/northernsaints/see-and-do/the-angels-way-p1053001) reminds us that there are other routes here, this one running north to south, stringing together various attractions and historic sites.
 
@@ -48,7 +48,7 @@ After one more Victorian tunnel, now oversized for a mere footpath and cycle rou
 
 Initially appearing skeletal, closer inspection shows an attention to detail with respect to anatomy and disposition - each cow is posed differently, each seemingly with its own personality. Particular detail has been paid to the head, so it was no surprise that we found ourselves viewing the cows as real creatures, suspension of disbelief achieved.
 
-<img src="../../public/photos/beamish-cows-4.jpeg" cover />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-4.jpeg" cover />
 
 Their place along the route is banal except for the nearby tunnel, affording a few choice angles for photos. Steep banks on either side covered with trees extend the feeling of a tunnel beyond the cows, and beyond them a path cuts upwards to the road passing over the tunnel, leading directly to [Beamish Museum](https://www.beamish.org.uk/).
 
@@ -56,7 +56,7 @@ Perhaps the allure of the cows isn't fully realised at this time of year - noisy
 
 After a few moments inspecting the cows, considering the artwork, and taking photos, it was time to move on.
 
-<img src="../../public/photos/beamish-cows-5.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-5.jpeg" />
 
 ## Sunday Lunch
 
@@ -66,13 +66,13 @@ _The Shepherd & Shepherdess_ delivered exactly that. Just around the corner from
 
 It had been some time since I'd been in a pub like this, a haven for locals looking for drinks, familiar meals, and socialisation. This part of County Durham is littered with former coal mines (234 in 1947, now zero), leaving former mining villages that have struggled economically since the closure of their lifeblood, right to the modern day. As Beamish is one such village, a strong working-class sensibility is felt here.
 
-<img src="../../public/photos/beamish-cows-7.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-7.jpeg" />
 
 We picked a table in the corner and perused the menu, mostly concerning ourselves with which meat we wanted with our roast dinner - beef for me, chicken for Sophie. While we waited, the remaining tables were claimed as the real Sunday lunch rush arrived. Patrons stood outside to drink and smoke. Some cyclists stopped in for a quick drink before continuing on their way. A buzz of activity.
 
 After a torturous wait, dinner was served. Generous portions delighted, especially the large Yorkshire puddings soaked in gravy. Shredded lettuce was an odd inclusion, as were balls of stuffing, though these were more appreciated. Tender meat and flavourful roast vegetables were balanced by undercooked carrots, likely cut too thick for their boil time. Overall, an enjoyable and filling meal, a touch rough around the edges - typical as there are too many elements to a Sunday lunch to ace every single one of them.
 
-<img src="../../public/photos/beamish-cows-6.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/beamish-cows-6.jpeg" />
 
 ## Return
 

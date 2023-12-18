@@ -4,7 +4,7 @@
 
 This year I want to travel more and see new places. As someone whose main hobby is traveling, this seems like an obvious choice, but I've put in place some rules that should transform this New Year's resolution from a sentiment into a challenge.
 
-<img src="../../public/photos/frozen-sunrise.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/frozen-sunrise-100104-lg.jpeg" />
 
 ## Weekly Adventures
 

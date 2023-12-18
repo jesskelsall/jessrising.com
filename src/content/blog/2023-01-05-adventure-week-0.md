@@ -14,7 +14,7 @@ Still, to keep everyone happy, and because I wanted to be outdoors on New Year's
 
 ## My Local Park
 
-<img src="../../public/photos/chester-park-1.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/chester-park-1.jpeg" />
 
 Riverside Park is a moderately sized public park in Chester-le-Street, a ten-minute drive from my house. It plays host to people of all ages, and a variety of events including [Riverside parkrun](https://www.parkrun.org.uk/riverside/) every Saturday morning. As far as town parks go, it's not particularly exceptional. There is ample parking, a children's playground, plenty of paths, and as pictured above, there's often an ice cream van.
 
@@ -44,13 +44,13 @@ Riverside Park has a section of fenced off areas filled with interesting structu
 
 We happened upon a family approaching a lone pine tree, getting a closer look at dozens of Christmas baubles hanging from its branches. It is unclear for what reason they were put there - was this a concerted effort, or an ad-hoc crowdfunded decoration where visitors brought their own after seeing the initial spark of creativity? At any rate, a whimsical sight to remind us of the season.
 
-<img src="../../public/photos/chester-park-2.jpeg" cover />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/chester-park-2.jpeg" cover />
 
 So too, the River Wear itself. After heavy rainfall over the last few days, it had burst its banks and flooded the path running directly alongside it which was to be our return route from the park's opposite end. Fast flowing water rushed past as ducks and swans battled with the currents.
 
 The meeting point of the waterfowl is typically a small sandy shore on the opposite side of the main park area. Here everything from seagulls to swans to coots gather, motivated by bread and seed donated by regular park-goers. Today the shore is underwater, but habits stick, and the dance continues. On a parallel path we navigate around several swans, popular with young children today.
 
-<img src="../../public/photos/chester-park-3.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/chester-park-3.jpeg" />
 
 Further round in the direction of Lumley Castle and with the car park in sight, we follow the river's edge to a lesser used corner of the park. Here the castle's golf course can be seen across the river. We follow it until our path becomes a public footpath, demarcated by its exit from the park under a road bridge.
 
@@ -58,4 +58,4 @@ Here there is an old stone brick outcrop where a clearer view of the water can b
 
 Without snow, this time of year isn't considered photogenic. Certainly, the colours and abundance of life in spring and summer lends itself better to heightened appreciation of nature, but this part of the cycle is just as important. While not as visible, mammals, birds, and bugs play their role in the cycle of life.
 
-<img src="../../public/photos/new-years-browns.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/new-years-browns-230101-lg.jpeg" />
