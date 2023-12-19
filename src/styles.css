@@ -220,6 +220,10 @@ ol, ul {
   margin: 1.5em 0 1.5em 2em;
 }
 
+main.content-area.blog li {
+  margin: 0.5em 0;
+}
+
 li::marker {
   padding-right: 1em;
   color: var(--color-heading);
@@ -404,11 +408,19 @@ button + button,
   display: inline-block;
   background-color: var(--color-bg);
   padding: 0 0.5em;
-  border: 1px solid var(--color-heading);
+  border: 1px solid var(--color-text);
   border-radius: 1em;
   margin: 1px 0;
+}
+
+a.pill {
+  border-color: var(--color-heading);
   text-decoration: none;
   cursor: pointer;
+}
+
+a.pill:visited {
+  border-color: var(--color-link-visited);
 }
 
 .pill-row {
