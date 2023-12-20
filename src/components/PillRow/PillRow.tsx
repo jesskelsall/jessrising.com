@@ -1,3 +1,4 @@
+import React from "react";
 import { Pill, PillProps } from "../Pill/Pill";
 
 export type PillRowProps = {
@@ -5,9 +6,12 @@ export type PillRowProps = {
 };
 
 export const PillRow = ({ pills }: PillRowProps) => (
-  <div className="pill-row">
-    {pills.map(({ emoji, href, title }) => (
-      <Pill emoji={emoji} href={href} key={title} title={title} />
+  <>
+    {pills.map(({ emoji, href, title }, index) => (
+      <React.Fragment key={title}>
+        {index > 0 && <> </>}
+        <Pill emoji={emoji} href={href} title={title} />
+      </React.Fragment>
     ))}
-  </div>
+  </>
 );

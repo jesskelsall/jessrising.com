@@ -423,12 +423,6 @@ a.pill:visited {
   border-color: var(--color-link-visited);
 }
 
-.pill-row {
-  display: inline-flex;
-  flex-direction: row;
-  gap: 0.25em;
-}
-
 /* Input */
 
 .input {
