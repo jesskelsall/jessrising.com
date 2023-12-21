@@ -6,7 +6,8 @@ export type TagTitle = z.infer<typeof TagTitle>;
 
 export const TagRaw = z.object({
   emoji: z.string().optional(),
-  hidePhotos: z.boolean().optional(), // Hide photos with this tag unless it is applied as a filter
+  hidePhotos: z.boolean().optional(), // Hide photos with this tag unless it is applied as a filter.
+  hideTag: z.boolean().optional(), // Hide this tag from filtering and gallery photo tag lists.
   title: z.string(),
 });
 export type TagRaw = z.infer<typeof TagRaw>;

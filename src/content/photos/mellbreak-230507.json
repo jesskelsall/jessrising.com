@@ -1,0 +1,25 @@
+{
+  "title": "Mellbreak",
+  "meta": {
+    "location": "Mellbreak",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.55511111111111,
+      "long": -3.3183
+    }
+  },
+  "exif": {
+    "date": "2023-05-07T09:51:14.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

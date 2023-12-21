@@ -1,0 +1,25 @@
+{
+  "title": "Scar Crags",
+  "meta": {
+    "location": "Derwent Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.57499722222222,
+      "long": -3.2258750000000003
+    }
+  },
+  "exif": {
+    "date": "2023-10-07T11:55:58.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

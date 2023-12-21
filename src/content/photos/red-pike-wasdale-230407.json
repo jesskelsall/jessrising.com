@@ -1,0 +1,25 @@
+{
+  "title": "Red Pike (Wasdale)",
+  "meta": {
+    "location": "Mosedale",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.48386666666667,
+      "long": -3.2898638888888887
+    }
+  },
+  "exif": {
+    "date": "2023-04-07T10:34:57.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

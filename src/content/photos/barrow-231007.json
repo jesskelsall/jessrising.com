@@ -8,7 +8,8 @@
     "location": "Barrow",
     "tags": [
       "Landscape",
-      "Clouds"
+      "Clouds",
+      "Wainwright"
     ],
     "trip": "2023-10-07-causey-pike-scar-crags-barrow"
   },
@@ -22,5 +23,8 @@
       "height": 2633,
       "width": 3511
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

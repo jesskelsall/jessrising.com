@@ -1,0 +1,25 @@
+{
+  "title": "Blake Fell",
+  "meta": {
+    "location": "Loweswater Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.56459444444444,
+      "long": -3.3772416666666665
+    }
+  },
+  "exif": {
+    "date": "2023-02-11T11:16:23.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

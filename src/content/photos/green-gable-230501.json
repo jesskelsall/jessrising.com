@@ -1,0 +1,25 @@
+{
+  "title": "Green Gable",
+  "meta": {
+    "location": "Seathwaite",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.485675,
+      "long": -3.2137694444444445
+    }
+  },
+  "exif": {
+    "date": "2023-05-01T11:56:47.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

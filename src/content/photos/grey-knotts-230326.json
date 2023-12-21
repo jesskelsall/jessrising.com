@@ -1,0 +1,25 @@
+{
+  "title": "Grey Knotts",
+  "meta": {
+    "location": "Grey Knotts",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.502361111111114,
+      "long": -3.2102055555555555
+    }
+  },
+  "exif": {
+    "date": "2023-03-26T11:08:00.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Steeple",
+  "meta": {
+    "location": "Steeple",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.49330277777778,
+      "long": -3.302236111111111
+    }
+  },
+  "exif": {
+    "date": "2023-03-25T11:03:26.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

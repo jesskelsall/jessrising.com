@@ -1,0 +1,25 @@
+{
+  "title": "Scoat Fell",
+  "meta": {
+    "location": "Scoat Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.49129166666667,
+      "long": -3.3016611111111107
+    }
+  },
+  "exif": {
+    "date": "2023-03-25T11:27:32.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

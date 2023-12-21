@@ -8,7 +8,8 @@
     "location": "Ennerdale Fell",
     "tags": [
       "Landscape",
-      "Sunrise/Sunset"
+      "Sunrise/Sunset",
+      "Wainwright"
     ],
     "trip": "2023-04-08-grike-crag-fell-lank-rigg"
   },
@@ -21,5 +22,8 @@
       "height": 3024,
       "width": 4032
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

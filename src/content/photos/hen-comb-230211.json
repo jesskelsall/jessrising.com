@@ -1,0 +1,25 @@
+{
+  "title": "Hen Comb",
+  "meta": {
+    "location": "Hen Comb",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.55083055555555,
+      "long": -3.3432583333333334
+    }
+  },
+  "exif": {
+    "date": "2023-02-11T13:28:10.000+00:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Great Gable",
+  "meta": {
+    "location": "Great Gable",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.482086111111116,
+      "long": -3.219205555555556
+    }
+  },
+  "exif": {
+    "date": "2023-04-02T15:02:39.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

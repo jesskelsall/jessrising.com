@@ -1,0 +1,25 @@
+{
+  "title": "Buckbarrow",
+  "meta": {
+    "location": "Buckbarrow",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.443152777777776,
+      "long": -3.3343333333333334
+    }
+  },
+  "exif": {
+    "date": "2023-02-05T14:00:21.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

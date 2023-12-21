@@ -9,6 +9,7 @@
     "tags": [
       "Landscape",
       "Snow",
+      "Wainwright",
       "Annual Shortlist"
     ],
     "trip": "2023-03-11-buttermere-edge"
@@ -22,5 +23,8 @@
       "height": 3024,
       "width": 4032
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

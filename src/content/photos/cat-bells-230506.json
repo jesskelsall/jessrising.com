@@ -7,7 +7,8 @@
     },
     "location": "Cat Bells",
     "tags": [
-      "Landscape"
+      "Landscape",
+      "Wainwright"
     ],
     "trip": "2023-05-06-cat-bells"
   },
@@ -20,5 +21,8 @@
       "height": 3024,
       "width": 4032
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

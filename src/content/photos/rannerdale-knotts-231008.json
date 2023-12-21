@@ -4,7 +4,8 @@
     "location": "Rannerdale Knotts",
     "tags": [
       "Landscape",
-      "Cairn"
+      "Cairn",
+      "Wainwright"
     ],
     "trip": "2023-10-08-rannerdale-knotts"
   },
@@ -25,5 +26,8 @@
       "height": 6336,
       "width": 9504
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

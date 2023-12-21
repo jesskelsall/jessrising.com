@@ -3,7 +3,8 @@
   "meta": {
     "location": "Brackenthwaite Fell",
     "tags": [
-      "Landscape"
+      "Landscape",
+      "Wainwright"
     ],
     "trip": "2023-11-11-the-grasmoor-six"
   },
@@ -24,5 +25,8 @@
       "height": 6104,
       "width": 9157
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

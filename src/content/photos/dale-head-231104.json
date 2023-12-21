@@ -4,7 +4,8 @@
     "location": "Dale Head",
     "tags": [
       "Landscape",
-      "Cairn"
+      "Cairn",
+      "Wainwright"
     ],
     "trip": "2023-11-04-newlands-horseshoe"
   },
@@ -25,5 +26,8 @@
       "height": 6336,
       "width": 9504
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

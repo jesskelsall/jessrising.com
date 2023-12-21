@@ -1,0 +1,25 @@
+{
+  "title": "Brandreth",
+  "meta": {
+    "location": "Brandreth",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.496625,
+      "long": -3.213652777777778
+    }
+  },
+  "exif": {
+    "date": "2023-03-26T11:47:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

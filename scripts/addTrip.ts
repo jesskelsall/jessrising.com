@@ -7,15 +7,19 @@ import { DateTime } from "luxon";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT } from "../src/consts/app";
+import { allTags } from "../src/data/tags";
 import { GalleryPhotoSlug, TripSlug } from "../src/types/brand";
 import { Emoji } from "../src/types/emoji";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
-import { TagTitle } from "../src/types/tag";
 import { TripData } from "../src/types/trip";
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
+
+const excludedTagTitles = allTags
+  .filter((tag) => tag.hidePhotos)
+  .map((tag) => tag.title);
 
 const addTrip = async (): Promise<void> => {
   // Input details
@@ -85,10 +89,14 @@ const addTrip = async (): Promise<void> => {
       JSON.parse(buffer.toString())
     );
 
-    // Exclude photos tagged with For You
+    // Exclude photos hidden from the gallery
 
-    if (galleryPhotoData.meta.tags.includes(TagTitle.parse("For You")))
+    if (
+      !galleryPhotoData.settings?.showPhoto &&
+      galleryPhotoData.meta.tags.some((tag) => excludedTagTitles.includes(tag))
+    ) {
       continue;
+    }
 
     // Determine if in range
 

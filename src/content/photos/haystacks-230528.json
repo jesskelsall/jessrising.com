@@ -1,0 +1,25 @@
+{
+  "title": "Haystacks",
+  "meta": {
+    "location": "Haystacks",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.507194444444444,
+      "long": -3.247327777777778
+    }
+  },
+  "exif": {
+    "date": "2023-05-28T09:05:31.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Wandope",
+  "meta": {
+    "location": "Brackenthwaite Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.56636111111111,
+      "long": -3.2570444444444444
+    }
+  },
+  "exif": {
+    "date": "2023-11-11T14:33:17.000+00:00",
+    "dimensions": {
+      "height": 2842,
+      "width": 3790
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Base Brown",
+  "meta": {
+    "location": "Base Brown",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.49254166666667,
+      "long": -3.197761111111111
+    }
+  },
+  "exif": {
+    "date": "2023-05-01T10:45:25.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

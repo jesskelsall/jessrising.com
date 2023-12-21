@@ -1,0 +1,25 @@
+{
+  "title": "Starling Dodd",
+  "meta": {
+    "location": "Gale Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.529738888888886,
+      "long": -3.327258333333333
+    }
+  },
+  "exif": {
+    "date": "2023-07-01T12:31:56.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

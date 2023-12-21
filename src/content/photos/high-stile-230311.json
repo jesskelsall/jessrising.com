@@ -8,7 +8,8 @@
     "location": "High Stile",
     "tags": [
       "Landscape",
-      "Snow"
+      "Snow",
+      "Wainwright"
     ],
     "trip": "2023-03-11-buttermere-edge"
   },
@@ -21,5 +22,8 @@
       "height": 2998,
       "width": 3997
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

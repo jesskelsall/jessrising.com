@@ -3,6 +3,7 @@
 import { PutObjectCommand, S3Client } from "@aws-sdk/client-s3";
 import {
   checkbox as inquirerCheckbox,
+  confirm as inquirerConfirm,
   input as inquirerInput,
 } from "@inquirer/prompts";
 import ExifReader from "exifreader";
@@ -47,6 +48,10 @@ const allGalleryPhotoSlugs = galleryPhotosJSON.map((galleryPhoto) =>
   GalleryPhotoSlug.parse(galleryPhoto.slug)
 );
 
+const hiddenTagTitles = allTags
+  .filter((tag) => tag.hidePhotos && tag.title !== "For You")
+  .map((tag) => tag.title);
+
 /* CONFIG */
 
 const DRY_RUN = false;
@@ -64,14 +69,6 @@ const GALLERY_IMAGE_SIZES: ImageSize[] = [
     suffix: "-og",
   },
 ];
-
-/**
- * TODO
- * - Read all photo slugs
- * - Pull slug suffixes out (numbers with possible additional letter)
- * - Build new slugs with suffix by default (6 digit, letter if multiple)
- * - If the base slug already exists without a suffix, warn.
- */
 
 /* HELPERS */
 
@@ -278,6 +275,21 @@ const enrichGalleryPhoto = async (
   updatedData.meta.tags = selectedTags.map((tag) => TagTitle.parse(tag));
   if (selectedTags.includes(TagTitle.parse("For You"))) {
     updatedData.settings = { downloadOriginal: true };
+  }
+
+  const hasHiddenTags = selectedTags.some((tag) =>
+    hiddenTagTitles.includes(tag)
+  );
+  if (hasHiddenTags) {
+    const showPhoto = await inquirerConfirm({
+      message: "Show this photo (override hidden tags)?",
+      default: false,
+    });
+    if (showPhoto) {
+      updatedData.settings = {
+        showPhoto: true,
+      };
+    }
   }
 
   return updatedData;

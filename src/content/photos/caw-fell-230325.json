@@ -8,7 +8,8 @@
     "location": "Caw Fell",
     "tags": [
       "Landscape",
-      "Clouds"
+      "Clouds",
+      "Wainwright"
     ],
     "trip": "2023-03-25-steeple-scoat-fell-haycock-caw-fell"
   },
@@ -21,5 +22,8 @@
       "height": 3024,
       "width": 4032
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

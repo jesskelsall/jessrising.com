@@ -4,7 +4,8 @@
     "location": "Hopegill Head",
     "tags": [
       "Landscape",
-      "Snow"
+      "Snow",
+      "Wainwright"
     ],
     "trip": "2023-11-11-the-grasmoor-six"
   },
@@ -25,5 +26,8 @@
       "height": 6336,
       "width": 9504
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

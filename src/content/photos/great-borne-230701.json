@@ -8,7 +8,8 @@
     "location": "Great Borne",
     "tags": [
       "Landscape",
-      "Clouds"
+      "Clouds",
+      "Wainwright"
     ],
     "trip": "2023-07-01-great-borne-starling-dodd"
   },
@@ -22,5 +23,8 @@
       "height": 3024,
       "width": 4032
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

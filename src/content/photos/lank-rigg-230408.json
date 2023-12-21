@@ -1,0 +1,25 @@
+{
+  "title": "Lank Rigg",
+  "meta": {
+    "location": "Ennerdale Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.494822222222226,
+      "long": -3.4039333333333333
+    }
+  },
+  "exif": {
+    "date": "2023-04-08T09:21:36.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

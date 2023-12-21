@@ -1,0 +1,25 @@
+{
+  "title": "Pillar",
+  "meta": {
+    "location": "Pillar",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.49745277777778,
+      "long": -3.281172222222222
+    }
+  },
+  "exif": {
+    "date": "2023-04-07T12:41:02.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

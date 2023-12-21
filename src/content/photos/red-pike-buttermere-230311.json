@@ -1,0 +1,25 @@
+{
+  "title": "Red Pike (Buttermere)",
+  "meta": {
+    "location": "Buttermere Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.527375,
+      "long": -3.298502777777778
+    }
+  },
+  "exif": {
+    "date": "2023-03-11T12:37:23.000+00:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
