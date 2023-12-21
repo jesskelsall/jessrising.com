@@ -1,5 +1,4 @@
 import { DateTime } from "luxon";
-import Image from "next/image";
 import Link from "next/link";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { useGalleryPhotoSlugs } from "../context/galleryPhotoSlugs";
@@ -44,7 +43,7 @@ export const Preview = ({
     </div>
     {imageSlug && (
       <Link href={href}>
-        <Image src={imageSlug} alt={title} width={200} height={150} />
+        <img src={imageSlug} alt={title} />
       </Link>
     )}
   </li>

@@ -20,9 +20,9 @@ import { IMarkdownData, TMarkdownDataFile } from "../types/markdownOld";
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
-export const FEATURED_BLOG_POST = "2022-12-31-favourite-photos-2022";
+export const FEATURED_BLOG_POST = "2023-12-21-2023-in-a-nutshell";
 export const FEATURED_PHOTO = GalleryPhotoSlug.parse(
-  "kenmore-waterfront-231202"
+  "wintry-telephone-box-231202"
 );
 
 interface IProps {
