@@ -1,3 +1,4 @@
+import { locationHierarchy } from "../../../src/data/locations";
 import { computeLocations } from "../../../src/functions/location";
 import { LocationsDict } from "../../../src/types/location";
 
@@ -5,7 +6,7 @@ describe("computeLocations", () => {
   let locationsDict: LocationsDict;
 
   beforeAll(() => {
-    locationsDict = computeLocations();
+    locationsDict = computeLocations(locationHierarchy);
   });
 
   test("Separates emoji from title", () => {

@@ -1,3 +1,4 @@
+import { allTags } from "../../../src/data/tags";
 import { computeTags } from "../../../src/functions/tag";
 import { TagsDict } from "../../../src/types/tag";
 
@@ -5,7 +6,7 @@ describe("computeTags", () => {
   let tagsDict: TagsDict;
 
   beforeAll(() => {
-    tagsDict = computeTags();
+    tagsDict = computeTags(allTags);
   });
 
   test("Computes TagRaw to Tag", () => {

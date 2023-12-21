@@ -1,9 +1,12 @@
 import { kebabCase, keyBy } from "lodash/fp";
-import { allTags } from "../data/tags";
 import { Emoji } from "../types/emoji";
-import { TagTitle, TagsDict } from "../types/tag";
+import { TagRaw, TagTitle, TagsDict } from "../types/tag";
 
-export const computeTags = (): TagsDict =>
+/**
+ * Converts tags data into a dictionary of Tag objects.
+ * @returns Object of Tags using tag titles for keys.
+ */
+export const computeTags = (allTags: TagRaw[]): TagsDict =>
   keyBy(
     "title",
     allTags.map((tag, index) => ({

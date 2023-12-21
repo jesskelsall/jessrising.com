@@ -5,6 +5,8 @@ import { keyBy } from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_DATA } from "../src/consts/app";
+import { locationHierarchy } from "../src/data/locations";
+import { allTags } from "../src/data/tags";
 import { getAllBlogPosts, getAllContent } from "../src/functions/fs";
 import { computeLocations } from "../src/functions/location";
 import { computeTags } from "../src/functions/tag";
@@ -52,13 +54,13 @@ const preBuildTrips = async (): Promise<void> => {
 };
 
 const preBuildLocationsDict = async (): Promise<void> => {
-  const locations = computeLocations();
+  const locations = computeLocations(locationHierarchy);
 
   writeData<LocationsDict>(locations, "locationsDict.json");
 };
 
 const preBuildTagsDict = async (): Promise<void> => {
-  const tags = computeTags();
+  const tags = computeTags(allTags);
 
   writeData<TagsDict>(tags, "tagsDict.json");
 };

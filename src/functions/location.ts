@@ -1,5 +1,4 @@
 import { kebabCase, keyBy } from "lodash/fp";
-import { locationHierarchy } from "../data/locations";
 import {
   Location,
   LocationHierarchy,
@@ -9,11 +8,14 @@ import {
 import { splitEmojiFromTitle } from "./emoji";
 
 /**
- * Unpacks locationHierarchy into a flat object of locations
- * Separates location emojis from titles
- * Provides the title of the parent location if one exists (only countries shouldn't have one)
+ * Unpacks locationHierarchy into a flat object of locations.
+ * Separates location emojis from titles.
+ * Provides the title of the parent location if one exists (only countries shouldn't have one).
+ * @returns Array of computed location objects.
  */
-export const computeLocations = (): LocationsDict => {
+export const computeLocations = (
+  locationHierarchy: LocationHierarchy
+): LocationsDict => {
   const buildLocationsArray = (
     hierarchy: LocationHierarchy,
     parent?: LocationTitle
