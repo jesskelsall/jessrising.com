@@ -1,7 +1,7 @@
 import { orderBy } from "lodash/fp";
 import { GetStaticProps, NextPage } from "next";
-import { Newsletter } from "../../components/Newsletter/Newsletter";
-import { TripPreview } from "../../components/Preview/Preview";
+import { Newsletter } from "../../components/Newsletter";
+import { TripPreview } from "../../components/Preview";
 import { CONFIG } from "../../consts/config";
 import { allTripsList } from "../../data/trips";
 import { Trip } from "../../types/trip";

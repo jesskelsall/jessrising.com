@@ -1,18 +1,18 @@
 import { DateTime } from "luxon";
 import Link from "next/link";
-import { APP_AUTHOR } from "../../consts/app";
-import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { SEPARATOR } from "../../consts/text";
-import { useGalleryPhoto } from "../../context/galleryPhoto";
-import { allTripsDict } from "../../data/trips";
-import { dateFromString } from "../../functions/date";
-import { getImageSrcFromSlug } from "../../functions/image";
-import { getLocationHierarchy } from "../../functions/locationsDict";
-import { TagTitle } from "../../types/tag";
-import { MarkdownGPS } from "../MarkdownGPS/MarkdownGPS";
-import { MarkdownLocations } from "../MarkdownLocations/MarkdownLocations";
-import { MarkdownTags } from "../MarkdownTags/MarkdownTags";
-import { MarkdownTrip } from "../MarkdownTrip/MarkdownTrip";
+import { APP_AUTHOR } from "../consts/app";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import { SEPARATOR } from "../consts/text";
+import { useGalleryPhoto } from "../context/galleryPhoto";
+import { allTripsDict } from "../data/trips";
+import { dateFromString } from "../functions/date";
+import { getImageSrcFromSlug } from "../functions/image";
+import { getLocationHierarchy } from "../functions/locationsDict";
+import { TagTitle } from "../types/tag";
+import { MarkdownGPS } from "./MarkdownGPS";
+import { MarkdownLocations } from "./MarkdownLocations";
+import { MarkdownTags } from "./MarkdownTags";
+import { MarkdownTrip } from "./MarkdownTrip";
 
 const renderSetting = (
   setting: number | undefined,

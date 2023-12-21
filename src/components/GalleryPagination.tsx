@@ -1,7 +1,7 @@
 import Link from "next/link";
 import url from "url";
-import { IGalleryQuery, TOrder } from "../../types/gallery";
-import { GALLERY_PAGINATION_BUTTONS } from "../../consts/gallery";
+import { GALLERY_PAGINATION_BUTTONS } from "../consts/gallery";
+import { IGalleryQuery, TOrder } from "../types/gallery";
 
 interface IGalleryPaginationProps {
   order: TOrder;

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Emoji } from "../../types/emoji";
+import { Emoji } from "../types/emoji";
 
 export type PillProps = {
   emoji?: Emoji;

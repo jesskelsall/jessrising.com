@@ -1,10 +1,10 @@
 import _, { kebabCase } from "lodash/fp";
 import { DateTime } from "luxon";
 import { GetServerSideProps, NextPage } from "next";
-import { GalleryGrid } from "../../components/GalleryGrid/GalleryGrid";
-import { GalleryPagination } from "../../components/GalleryPagination/GalleryPagination";
-import { TContentArea } from "../../components/Header/Header";
-import { Newsletter } from "../../components/Newsletter/Newsletter";
+import { GalleryGrid } from "../../components/GalleryGrid";
+import { GalleryPagination } from "../../components/GalleryPagination";
+import { TContentArea } from "../../components/Header";
+import { Newsletter } from "../../components/Newsletter";
 import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import { allGalleryPhotosList } from "../../data/galleryPhotos";

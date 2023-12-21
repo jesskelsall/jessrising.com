@@ -1,8 +1,8 @@
 import type { AppProps } from "next/app";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import { Footer } from "../components/Footer/Footer";
-import { Header, TContentArea } from "../components/Header/Header";
+import { Footer } from "../components/Footer";
+import { Header, TContentArea } from "../components/Header";
 import { getRouteAsTitle } from "../functions/title";
 import "../styles.css";
 

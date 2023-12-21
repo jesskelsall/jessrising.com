@@ -1,6 +1,6 @@
-import { APP_NAME, URL } from "../../consts/app";
-import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { getImageSrcFromSlug } from "../../functions/image";
+import { APP_NAME, URL } from "../consts/app";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import { getImageSrcFromSlug } from "../functions/image";
 
 interface IOpenGraphHeadersProps {
   date?: string;

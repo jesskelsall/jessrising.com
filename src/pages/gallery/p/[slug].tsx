@@ -1,10 +1,10 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { GalleryPhoto as GalleryPhotoComponent } from "../../../components/GalleryPhoto/GalleryPhoto";
-import { TContentArea } from "../../../components/Header/Header";
-import { Newsletter } from "../../../components/Newsletter/Newsletter";
-import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
+import { GalleryPhoto as GalleryPhotoComponent } from "../../../components/GalleryPhoto";
+import { TContentArea } from "../../../components/Header";
+import { Newsletter } from "../../../components/Newsletter";
+import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders";
 import { CONFIG } from "../../../consts/config";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
 import {

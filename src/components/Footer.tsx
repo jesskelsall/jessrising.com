@@ -1,6 +1,6 @@
 import { DateTime } from "luxon";
 import Link from "next/link";
-import { APP_AUTHOR, APP_AUTHOR_EMAIL } from "../../consts/app";
+import { APP_AUTHOR, APP_AUTHOR_EMAIL } from "../consts/app";
 
 export const Footer = () => {
   const copyrightFrom = DateTime.fromObject({ year: 2022 }).year.toString();

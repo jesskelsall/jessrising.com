@@ -1,9 +1,9 @@
 import { startCase } from "lodash/fp";
 import Markdown from "markdown-to-jsx";
-import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { useGalleryPhoto } from "../../context/galleryPhoto";
-import { getImageSrcFromSlug } from "../../functions/image";
-import { GalleryHeading } from "../GalleryHeading/GalleryHeading";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import { useGalleryPhoto } from "../context/galleryPhoto";
+import { getImageSrcFromSlug } from "../functions/image";
+import { GalleryHeading } from "./GalleryHeading";
 
 export const GalleryPhoto = () => {
   const { markdown, slug } = useGalleryPhoto();

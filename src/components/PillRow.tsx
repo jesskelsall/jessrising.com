@@ -1,5 +1,5 @@
 import React from "react";
-import { Pill, PillProps } from "../Pill/Pill";
+import { Pill, PillProps } from "./Pill";
 
 export type PillRowProps = {
   pills: PillProps[];

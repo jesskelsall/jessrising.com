@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
-import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { getImageSrcFromSlug } from "../../functions/image";
-import { GalleryPhoto } from "../../types/galleryPhoto";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import { getImageSrcFromSlug } from "../functions/image";
+import { GalleryPhoto } from "../types/galleryPhoto";
 
 interface IGalleryGridProps {
   galleryPhotos: GalleryPhoto[];

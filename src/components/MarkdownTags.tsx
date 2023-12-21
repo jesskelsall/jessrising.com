@@ -1,6 +1,6 @@
 import { kebabCase, orderBy } from "lodash/fp";
-import { tagsDict } from "../../data/tagsDict";
-import { PillRow } from "../PillRow/PillRow";
+import { tagsDict } from "../data/tagsDict";
+import { PillRow } from "./PillRow";
 
 interface IMarkdownTagsProps {
   tags: string[];

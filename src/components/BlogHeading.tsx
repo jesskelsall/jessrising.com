@@ -1,8 +1,8 @@
 import { DateTime } from "luxon";
 import { ReactNode } from "react";
-import { useBlogPost } from "../../context/blogPost";
-import { formatDateRange } from "../../functions/date";
-import { zipBetween } from "../../functions/jsx";
+import { useBlogPost } from "../context/blogPost";
+import { formatDateRange } from "../functions/date";
+import { zipBetween } from "../functions/jsx";
 
 const lineBreak = <br />;
 

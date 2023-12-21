@@ -1,7 +1,7 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
-import { Newsletter } from "../../components/Newsletter/Newsletter";
-import { BlogPreview } from "../../components/Preview/Preview";
+import { Newsletter } from "../../components/Newsletter";
+import { BlogPreview } from "../../components/Preview";
 import { CONFIG } from "../../consts/config";
 import { GalleryPhotoSlugsContext } from "../../context/galleryPhotoSlugs";
 import blogPostsJSON from "../../data/blogPosts.json";

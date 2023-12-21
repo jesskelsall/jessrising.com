@@ -3,9 +3,9 @@
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
-import { BlogPost } from "../../../components/BlogPost/BlogPost";
-import { Newsletter } from "../../../components/Newsletter/Newsletter";
-import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders/OpenGraphHeaders";
+import { BlogPost } from "../../../components/BlogPost";
+import { Newsletter } from "../../../components/Newsletter";
+import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders";
 import { CONFIG } from "../../../consts/config";
 import { BlogPostContext } from "../../../context/blogPost";
 import { BlogPostsContext } from "../../../context/blogPosts";

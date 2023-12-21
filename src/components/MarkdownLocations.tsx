@@ -1,5 +1,5 @@
-import { Location } from "../../types/location";
-import { PillRow } from "../PillRow/PillRow";
+import { Location } from "../types/location";
+import { PillRow } from "./PillRow";
 
 type MarkdownLocationsProps = {
   locations: Location[];

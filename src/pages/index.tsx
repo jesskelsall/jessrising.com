@@ -1,8 +1,8 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
 import Link from "next/link";
-import { BlogImage } from "../components/BlogImage/BlogImage";
-import { BlogPreview } from "../components/Preview/Preview";
+import { BlogImage } from "../components/BlogImage";
+import { BlogPreview } from "../components/Preview";
 import { CONFIG } from "../consts/config";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { GalleryPhotoSlugsContext } from "../context/galleryPhotoSlugs";

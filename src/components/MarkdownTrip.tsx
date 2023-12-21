@@ -1,5 +1,5 @@
-import { Trip } from "../../types/trip";
-import { Pill } from "../Pill/Pill";
+import { Trip } from "../types/trip";
+import { Pill } from "./Pill";
 
 export const MarkdownTrip = ({ trip }: { trip: Trip }) => (
   <li>

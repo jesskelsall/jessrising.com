@@ -1,13 +1,13 @@
 import { DateTime } from "luxon";
 import Image from "next/image";
 import Link from "next/link";
-import { PHOTO_SIZE_SUFFIX } from "../../consts/photo";
-import { useGalleryPhotoSlugs } from "../../context/galleryPhotoSlugs";
-import { formatDateRange } from "../../functions/date";
-import { getImageSrcFromSlug } from "../../functions/image";
-import { GalleryPhotoSlug } from "../../types/brand";
-import { IMarkdownData } from "../../types/markdownOld";
-import { Trip } from "../../types/trip";
+import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
+import { useGalleryPhotoSlugs } from "../context/galleryPhotoSlugs";
+import { formatDateRange } from "../functions/date";
+import { getImageSrcFromSlug } from "../functions/image";
+import { GalleryPhotoSlug } from "../types/brand";
+import { IMarkdownData } from "../types/markdownOld";
+import { Trip } from "../types/trip";
 
 export const Preview = ({
   date,
