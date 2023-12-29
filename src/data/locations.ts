@@ -8,131 +8,133 @@ import { LocationHierarchy } from "../types/location";
 export const locationHierarchy: LocationHierarchy = {
   "🇬🇧 United Kingdom": {
     "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England": {
-      "County Durham": {
-        Durham: {
+      "🗺️ County Durham": {
+        "🏙️ Durham": {
           "Durham Cathedral": {},
         },
+        Home: {},
         "Raby Castle": {},
       },
-      Home: {},
-      "Lake District": {
-        "Birker Fell": {},
-        "Borrowdale Fells": {
-          Seathwaite: {
-            "Base Brown": {},
-            "Sty Head": {},
-          },
-        },
-        Buttermere: {
-          "Buttermere Fell": {
-            Haystacks: {},
-            "High Crag": {},
-            "High Stile": {},
-            "Scarth Gap Pass": {},
-          },
-        },
-        "Coniston Water": {
-          Coniston: {
-            "Yew Tree Farm": {},
-          },
-        },
-        "Copeland Forest": {
-          Buckbarrow: {},
-          "Dore Head": {},
-          "Middle Fell": {},
-        },
-        "Crummock Water": {
-          "Brackenthwaite Fell": {
-            "Crag Hill": {},
-            Grasmoor: {},
-            "Hopegill Head": {},
-            Whiteside: {},
-          },
-          Mellbreak: {},
-          "Rannerdale Knotts": {},
-          "Scale Beck": {},
-        },
-        "Derwent Water": {
-          "Derwent Fells": {
-            "Ard Crags": {},
-            Barrow: {},
-            "Cat Bells": {},
-            "Dale Head": {},
-            "Knott Rigg": {},
-            "Maiden Moor": {},
-            Robinson: {},
-          },
-          Newlands: {},
-        },
-        "Ennerdale Water": {
-          "Ennerdale Fell": {
-            "Caw Fell": {},
-            "Scoat Fell": {},
-            Steeple: {},
-          },
-          "Ennerdale Forest": {},
-          "Gale Fell": {
-            "Great Borne": {},
-            Herdus: {},
-          },
-        },
-        Fleetwith: {
-          Brandreth: {},
-          "Fleetwith Pike": {},
-          "Grey Knotts": {},
-        },
-        Keswick: {},
-        Loweswater: {
-          Fellbarrow: {},
-          "Holme Wood": {},
-          "Low Fell": {},
-          "Loweswater Fell": {
-            "Burnbank Fell": {},
-            "Hen Comb": {},
-          },
-        },
-        "River Esk": {},
-        Rydal: {
-          "Rydal Cave": {},
-        },
-        Ullswater: {
-          "Aira Force": {},
-        },
-        "Wast Water": {
-          "Wasdale Head": {
-            "Great Gable": {},
-            Mosedale: {
-              Pillar: {},
+      "🗺️ Cumbria": {
+        "🏞️ Lake District": {
+          "Birker Fell": {},
+          "Borrowdale Fells": {
+            Seathwaite: {
+              "Base Brown": {},
+              "Sty Head": {},
             },
           },
-          Yewbarrow: {},
+          Buttermere: {
+            "Buttermere Fell": {
+              Haystacks: {},
+              "High Crag": {},
+              "High Stile": {},
+              "Scarth Gap Pass": {},
+            },
+          },
+          "Coniston Water": {
+            Coniston: {
+              "Yew Tree Farm": {},
+            },
+          },
+          "Copeland Forest": {
+            Buckbarrow: {},
+            "Dore Head": {},
+            "Middle Fell": {},
+          },
+          "Crummock Water": {
+            "Brackenthwaite Fell": {
+              "Crag Hill": {},
+              Grasmoor: {},
+              "Hopegill Head": {},
+              Whiteside: {},
+            },
+            Mellbreak: {},
+            "Rannerdale Knotts": {},
+            "Scale Beck": {},
+          },
+          "Derwent Water": {
+            "Derwent Fells": {
+              "Ard Crags": {},
+              Barrow: {},
+              "Cat Bells": {},
+              "Dale Head": {},
+              "Knott Rigg": {},
+              "Maiden Moor": {},
+              Robinson: {},
+            },
+            Newlands: {},
+          },
+          "Ennerdale Water": {
+            "Ennerdale Fell": {
+              "Caw Fell": {},
+              "Scoat Fell": {},
+              Steeple: {},
+            },
+            "Ennerdale Forest": {},
+            "Gale Fell": {
+              "Great Borne": {},
+              Herdus: {},
+            },
+          },
+          Fleetwith: {
+            Brandreth: {},
+            "Fleetwith Pike": {},
+            "Grey Knotts": {},
+          },
+          Keswick: {},
+          Loweswater: {
+            Fellbarrow: {},
+            "Holme Wood": {},
+            "Low Fell": {},
+            "Loweswater Fell": {
+              "Burnbank Fell": {},
+              "Hen Comb": {},
+            },
+          },
+          "River Esk": {},
+          Rydal: {
+            "Rydal Cave": {},
+          },
+          Ullswater: {
+            "Aira Force": {},
+          },
+          "Wast Water": {
+            "Wasdale Head": {
+              "Great Gable": {},
+              Mosedale: {
+                Pillar: {},
+              },
+            },
+            Yewbarrow: {},
+          },
         },
+        Shap: {},
       },
-      Newcastle: {
-        "Neville Hall": {},
+      "🗺️ Devon": {
+        Seaton: {},
       },
-      Northumberland: {
+      "🗺️ Tyne & Wear": {
+        "🏙️ Newcastle": {},
+        "Penshaw Monument": {},
+      },
+      "🗺️ Northumberland": {
         Cragside: {},
         "Dunstanburgh Castle": {},
         Seahouses: {},
       },
-      "Scotch Corner": {},
-      Seaton: {},
-      Shap: {},
-      Washington: {
-        "Penshaw Monument": {},
-      },
-      Yorkshire: {
+      "🗺️ Yorkshire": {
         Knaresborough: {},
-        Ripon: {
+        "🏙️ Ripon": {
           "Fountains Abbey": {},
           "Ripon Cathedral": {},
         },
-        York: {
+        "Scotch Corner": {},
+        "🏙️ York": {
           "Clifford's Tower": {},
           "National Railway Museum": {},
         },
-        "Yorkshire Dales": {
+        "🏞️ Yorkshire Dales": {
           "Blea Moor": {},
           Clapham: {},
           "Howgill Fells": {},
@@ -146,206 +148,222 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
     "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland": {
-      Aberdeenshire: {
+      "🗺️ Aberdeenshire": {
         Crovie: {},
         "Rattray Head": {},
       },
-      Achnasheen: {
-        "Achnashellach Forest": {},
-        "Loch a'Chroisg": {},
-        "Loch Gowan": {},
-        "Loch Sgamhain": {},
-      },
-      Appin: {},
-      "Applecross Peninsula": {
-        "An Àird Bhàn": {},
-        Applecross: {},
-        "Bealach na Bà": {},
-      },
-      Ardnamurchan: {
-        Glenbeg: {},
-        Kilchoan: {},
-        "Point of Ardnamurchan": {},
-      },
-      "Assynt-Coigach": {
-        Clashnessie: {},
-        Inchnadamph: {},
-        Kylesku: {},
-        "Glencanisp Forest": {
-          Suilven: {},
+      "🗺️ Argyll & Bute": {
+        Cowal: {
+          "Puck's Glen": {},
         },
-        "Loch Assynt": {
-          "Ardvreck Castle": {},
+        "Isle of Bute": {
+          Kerrycroy: {},
+          "Kyles of Bute": {},
+          "Mount Stuart": {},
+          Rothesay: {
+            "Ardencraig Gardens": {},
+          },
         },
-        Lochinver: {},
-        "Stac Pollaidh": {},
-      },
-      "Ben Nevis & Glen Coe": {
-        "Fort William": {},
-        "Glen Coe": {
-          "Kingshouse Hotel": {},
-          Lagangarbh: {},
-          "Loch Achtriochtan": {},
-          "Meeting of Three Waters": {},
-          "The Three Sisters": {},
+        "Isle of Mull": {
+          "Calgary Bay": {},
+          Fionnphort: {},
+          "Isle of Iona": {
+            "Iona Abbey": {},
+          },
+          "Isle of Staffa": {},
+          Lochbuie: {},
+          "Loch Spelve": {},
+          "Sound of Mull": {},
+          Tobermory: {},
+          "Treshnish Isles": {
+            "Isle of Lunga": {},
+          },
         },
-        "Glen Etive": {
-          Dalness: {},
-          "Glen Etive Forest": {},
-          "Loch Etive": {},
-          "Lochan Urr": {},
-          "View to Skyfall": {},
+        "Loch Awe": {
+          "Kilchurn Castle": {},
+          "St Conan's Kirk": {},
+        },
+        Oban: {
+          "Firth of Lorn": {},
+          "McCaig's Tower": {},
         },
       },
-      Cairngorms: {
+      "🏞️ Cairngorms": {
         "Abernethy Forest": {
-          "Loch Garten": {},
           "Loch Mallachie": {},
         },
         Balmoral: {},
         "Cairngorm Mountains": {},
-        "Glen More": {
-          "Loch Morlich": {},
+        Dalwhinnie: {
+          "Loch Ericht": {},
         },
-        Kingussie: {
-          "Ruthven Barracks": {},
-        },
-        "Loch Ericht": {},
+        "Loch Morlich": {},
         "Loch Vaa": {},
         "Muir of Dinnet": {},
         Rothiemurchus: {},
         Tomintoul: {},
       },
-      Caithness: {
-        "Duncansby Head": {},
-        "Noss Head": {},
-      },
-      Cowal: {
-        "Puck's Glen": {},
-      },
-      Cromar: {},
-      "Easter Ross": {
-        Balintore: {},
-        "Tarbat Ness": {},
-      },
-      Dalwhinnie: {},
-      "East Lothain": {
-        "Balgone Estate": {},
-        Haddington: {},
-      },
-      Edinburgh: {
-        "Princes Street Gardens": {},
-        Stockbridge: {},
-        "Water of Leith": {},
-      },
-      "Glen Creran": {},
-      Glenfinnan: {},
-      "Isle of Bute": {
-        Kerrycroy: {},
-        "Kyles of Bute": {},
-        "Mount Stuart": {},
-        Rothesay: {
-          "Ardencraig Gardens": {},
+      "🗺️ Highlands": {
+        Ardnamurchan: {
+          "Point of Ardnamurchan": {},
         },
-      },
-      "Isle of Mull": {
-        "Calgary Bay": {},
-        Fionnphort: {},
-        "Isle of Iona": {
-          "Iona Abbey": {},
+        "🏞️ Assynt-Coigach": {
+          Clashnessie: {},
+          Inchnadamph: {},
+          Kylesku: {},
+          "Glencanisp Forest": {
+            Suilven: {},
+          },
+          "Loch Assynt": {
+            "Ardvreck Castle": {},
+          },
+          Lochinver: {},
+          "Stac Pollaidh": {},
         },
-        "Isle of Staffa": {},
-        Lochbuie: {},
-        "Loch Spelve": {},
-        "Sound of Mull": {},
-        Tobermory: {},
-        "Treshnish Isles": {
-          "Isle of Lunga": {},
+        "🏞️ Ben Nevis & Glen Coe": {
+          "Fort William": {},
+          "Glen Coe": {
+            "Kingshouse Hotel": {},
+            Lagangarbh: {},
+            "Loch Achtriochtan": {},
+            "Meeting of Three Waters": {},
+            "The Three Sisters": {},
+          },
+          "Glen Etive": {
+            Dalness: {},
+            "Glen Etive Forest": {},
+            "Loch Etive": {},
+            "Lochan Urr": {},
+            "View to Skyfall": {},
+          },
+          "Rannoch Moor": {},
         },
-      },
-      "Isle of Skye": {
-        Duirinish: {
-          "Neist Point": {},
+        "🏞️ Caithness": {
+          "Duncansby Head": {},
+          "Noss Head": {},
         },
-        Dunvegan: {},
         "Isle of Raasay": {
           Brochel: {},
         },
-        Sleat: {
-          Armadale: {},
-          Isleornsay: {},
-          "Dunscaith Castle": {},
-          Teangue: {},
+        "Isle of Skye": {
+          Duirinish: {
+            "Neist Point": {},
+          },
+          Dunvegan: {},
+          Sleat: {
+            Armadale: {},
+            Isleornsay: {},
+            "Dunscaith Castle": {},
+            Teangue: {},
+          },
+          Strathaird: {
+            Elgol: {},
+          },
+          "The Cullins": {
+            "Fairy Pools": {},
+            "Loch Coruisk": {},
+            Sligachan: {},
+          },
+          Trotternish: {
+            Portree: {},
+            "The Quiraing": {},
+            "The Storr": {},
+          },
+          Waternish: {},
         },
-        Strathaird: {
-          Elgol: {},
+        "🏞️ Knoydart": {},
+        "🏞️ Loch Shiel": {
+          Glenfinnan: {},
         },
-        "The Cullins": {
-          "Fairy Pools": {},
-          "Loch Coruisk": {},
-          Sligachan: {},
+        Moidart: {},
+        Morar: {
+          "Larachmhor Gardens": {},
+          "Loch Morar": {},
+          Mallaig: {},
         },
-        Trotternish: {
-          Portree: {},
-          "The Quiraing": {},
-          "The Storr": {},
+        Morvern: {
+          Lochaline: {},
         },
-        Waternish: {},
+        "Ross & Cromarty": {
+          Balintore: {},
+          "🏞️ Kintail": {
+            "Eilean Donan Castle": {},
+            Glenelg: {},
+            "Kyle of Lochalsh": {},
+            "Ratagan Pass": {},
+            "Strath Croe": {},
+          },
+          "Loch Carron": {
+            Attadale: {},
+            Plockton: {},
+            "Strome Castle": {},
+          },
+          "Tarbat Ness": {},
+          "🏞️ Wester Ross": {
+            Achnasheen: {},
+            Applecross: {
+              "An Àird Bhàn": {},
+              "Bealach na Bà": {},
+            },
+            "Glen Carron": {},
+            "Gruinard Bay": {},
+            "Loch Ewe": {
+              "Inverewe Garden": {},
+            },
+            "Loch Maree": {},
+            "Upper Loch Torridon": {
+              "Ben-damph Forest": {},
+              Shieldaig: {},
+            },
+          },
+          Ullapool: {},
+        },
+        "🗺️ Sutherland": {
+          Balnakeil: {},
+          Durness: {
+            "Smoo Cave": {},
+          },
+          Golspie: {
+            "Dunrobin Castle": {},
+          },
+          "🏞️ Kyle of Tongue": {},
+          Lairg: {},
+          "Loch Eriboll": {},
+          "🏞️ North-west Sutherland": {
+            "Loch Stack": {},
+          },
+          "Sandwood Bay": {},
+          "Strathy Point": {},
+        },
+        "The Great Glen": {
+          "Loch Arkaig": {},
+          "Loch Lochy": {},
+          "Loch Ness": {
+            "Fort Augustus": {},
+          },
+        },
       },
-      Kintail: {
-        "Eilean Donan Castle": {},
-        Glenelg: {},
-        "Kyle of Lochalsh": {},
-        Plockton: {},
-        "Ratagan Pass": {},
-        "Strath Croe": {},
-      },
-      Knoydart: {},
-      "Loch Awe": {
-        "Kilchurn Castle": {},
-        "St Conan's Kirk": {},
-      },
-      "Loch Carron": {
-        Attadale: {},
-        "Strome Castle": {},
-      },
-      "Loch Lomond & The Trossachs": {
+      "🏞️ Loch Lomond & The Trossachs": {
         "Falls of Falloch": {},
         "Loch Lomond": {
           Inveruglas: {},
         },
       },
-      "Loch Ness": {
-        "Fort Augustus": {},
-      },
-      "Loch Shiel": {
-        Sunart: {
-          "Loch Sunart": {},
+      "🗺️ Lothian": {
+        "Balgone Estate": {},
+        "🏙️ Edinburgh": {
+          Stockbridge: {},
+          "Water of Leith": {},
         },
+        Haddington: {},
       },
-      Moidart: {
-        "Loch Moidart": {},
-      },
-      Morar: {
-        "Larachmhor Gardens": {},
-        "Loch Morar": {},
-        Mallaig: {},
-      },
-      Moray: {
+      "🗺️ Moray": {
         "Bow Fiddle Rock": {},
         "Charlestown of Aberlour": {},
         "Elgin Cathedral": {},
       },
-      Morvern: {
-        "Loch Aline": {},
-        Lochaline: {},
-      },
-      Oban: {
-        "Firth of Lorn": {},
-        "McCaig's Tower": {},
-      },
-      "Outer Hebrides": {
-        Barra: {
+      "🗺️ Outer Hebrides": {
+        "🗺️ Barra": {
           Ardmhor: {},
           Borve: {},
           Castlebay: {
@@ -356,7 +374,7 @@ export const locationHierarchy: LocationHierarchy = {
           Eoligarry: {},
           Vatersay: {},
         },
-        "Lewis & Harris": {
+        "🗺️ Lewis & Harris": {
           Harris: {
             "North Harris": {},
             "South Harris": {
@@ -377,7 +395,11 @@ export const locationHierarchy: LocationHierarchy = {
             Stornoway: {},
           },
         },
-        "Uist & Benbecula": {
+        "St Kilda": {
+          Boreray: {},
+          Hirta: {},
+        },
+        "🗺️ Uist & Benbecula": {
           Benbecula: {},
           Berneray: {},
           Eriskay: {
@@ -397,8 +419,8 @@ export const locationHierarchy: LocationHierarchy = {
           },
         },
       },
-      "Perth and Kinross": {
-        "Loch Rannoch & Glen Lyon": {
+      "🗺️ Perth & Kinross": {
+        "🏞️ Loch Rannoch & Glen Lyon": {
           "Dunalasdair Estate": {},
           "Loch Rannoch": {},
           "Loch Tay": {
@@ -408,94 +430,49 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch Tummel": {},
         },
       },
-      "Rannoch Moor": {
-        "Rannoch Station": {},
-      },
-      Sandaig: {},
-      "St Kilda": {
-        Boreray: {},
-        Hirta: {},
-      },
-      Sutherland: {
-        Balnakeil: {},
-        Durness: {
-          "Smoo Cave": {},
-        },
-        Golspie: {
-          "Dunrobin Castle": {},
-        },
-        "Kyle of Tongue": {},
-        Lairg: {},
-        "Loch Eriboll": {},
-        "North-west Sutherland": {
-          "Loch Stack": {},
-        },
-        "Sandwood Bay": {},
-        "Strathy Point": {},
-      },
-      "The Great Glen": {
-        Lochaber: {
-          "Loch Arkaig": {},
-        },
-        "Loch Lochy": {},
-      },
-      Ullapool: {},
-      "Wester Ross": {
-        "Gruinard Bay": {},
-        "Loch Ewe": {
-          "Inverewe Garden": {},
-        },
-        "Loch Maree": {},
-        "Upper Loch Torridon": {
-          Annat: {},
-          "Ben-damph Forest": {},
-          Shieldaig: {},
-          Torridon: {},
-        },
-      },
     },
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {
-      "Bannau Brycheiniog National Park": {
+      "🏞️ Bannau Brycheiniog": {
         "Henrhyd Falls": {},
       },
-      Carmarthenshire: {
+      "🗺️ Carmarthenshire": {
         "National Botanic Garden of Wales": {},
         "Newton House": {},
       },
-      Ceredigion: {
+      "🗺️ Ceredigion": {
         Aberaeron: {},
         "Devil's Bridge": {},
       },
-      "Conwy County": {
+      "🗺️ Conwy County": {
         Conwy: {},
         Deganwy: {},
         "Gwrych Castle": {},
         Llandudno: {},
         "Rhaeadr Y Graig Lwyd": {},
       },
-      "Eryri National Park": {
+      "🏞️ Eryri": {
         "Aber Falls": {},
         Llanberis: {
           "Dinorwic Quarry": {},
         },
       },
-      Gwynedd: {
+      "🗺️ Gwynedd": {
         Caernarfon: {},
         "Penrhyn Castle": {},
         Portmeirion: {},
       },
-      "Isle of Anglesey": {
+      "🗺️ Isle of Anglesey": {
         "Holy Island": {
           "South Stack": {},
         },
         "Menai Bridge": {},
       },
-      Pembrokeshire: {
-        "St Davids": {},
+      "🗺️ Pembrokeshire": {
+        "🏙️ St Davids": {},
         "St Govan's Head": {},
         Tenby: {},
       },
-      Powys: {
+      "🗺️ Powys": {
         "Hay-on-Wye": {},
       },
     },
