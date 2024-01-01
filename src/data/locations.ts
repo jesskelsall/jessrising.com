@@ -125,6 +125,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Yorkshire": {
         Knaresborough: {},
+        "🏞️ North York Moors": {
+          Whitby: {},
+        },
         "🏙️ Ripon": {
           "Fountains Abbey": {},
           "Ripon Cathedral": {},

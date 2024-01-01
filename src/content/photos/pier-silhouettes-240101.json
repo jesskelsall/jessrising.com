@@ -1,0 +1,31 @@
+{
+  "title": "Pier Silhouettes",
+  "meta": {
+    "location": "Whitby",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Lighthouse",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-01T10:44:41.000+00:00",
+    "dimensions": {
+      "height": 6032,
+      "width": 9048
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 65,
+        "fStop": 4,
+        "ISO": 50
+      }
+    }
+  }
+}
