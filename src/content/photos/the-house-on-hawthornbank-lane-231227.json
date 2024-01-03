@@ -1,0 +1,28 @@
+{
+  "title": "The House on Hawthornbank Lane",
+  "meta": {
+    "location": "Water of Leith",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2023-12-27T11:39:34.000+00:00",
+    "dimensions": {
+      "height": 6218,
+      "width": 9327
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.025,
+        "focalLength": 31,
+        "fStop": 4.5,
+        "ISO": 1000
+      }
+    }
+  }
+}
