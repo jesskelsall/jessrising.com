@@ -1,0 +1,30 @@
+{
+  "title": "Cloud Inversion From Sleet How",
+  "meta": {
+    "location": "Grisedale Pike",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Mist"
+    ],
+    "trip": "2024-01-06-coledale-horseshoe"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.05,
+        "focalLength": 38,
+        "fStop": 8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-01-06T09:55:39.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

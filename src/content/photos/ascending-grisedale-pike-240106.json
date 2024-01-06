@@ -1,0 +1,29 @@
+{
+  "title": "Ascending Grisedale Pike",
+  "meta": {
+    "location": "Grisedale Pike",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2024-01-06-coledale-horseshoe"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 40,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-01-06T09:57:59.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

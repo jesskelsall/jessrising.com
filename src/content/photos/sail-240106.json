@@ -1,0 +1,33 @@
+{
+  "title": "Sail",
+  "meta": {
+    "location": "Sail",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Wainwright"
+    ],
+    "trip": "2024-01-06-coledale-horseshoe"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 16,
+        "ISO": 400
+      }
+    },
+    "date": "2024-01-06T14:07:27.000+00:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}
