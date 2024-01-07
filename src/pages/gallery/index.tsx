@@ -5,6 +5,7 @@ import { GalleryGrid } from "../../components/GalleryGrid";
 import { GalleryPagination } from "../../components/GalleryPagination";
 import { TContentArea } from "../../components/Header";
 import { Newsletter } from "../../components/Newsletter";
+import { OpenGraphHeaders } from "../../components/OpenGraphHeaders";
 import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import { allGalleryPhotosList } from "../../data/galleryPhotos";
@@ -184,8 +185,19 @@ const GalleryPage: NextPage<IProps> = ({
     return `${emoji ? `${emoji} ` : ""}${title}`;
   });
 
+  const trip = trips.length === 1 ? allTripsDict[trips[0]] : undefined;
+
   return (
     <>
+      {trip && (
+        <OpenGraphHeaders
+          date={trip.dates.to || trip.dates.from}
+          description={trip.description || undefined}
+          imageSlug={trip.thumbnail}
+          urlPath={`gallery?trip=${trip.slug}`}
+          title={`Trip: ${trip.title}`}
+        />
+      )}
       <main className="content-area gallery">
         <div className="gallery-heading">
           <div>
