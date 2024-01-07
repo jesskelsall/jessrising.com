@@ -1,10 +1,9 @@
 {
-  "title": "Swinging Above the Monument",
+  "title": "Rainbow Bushes",
   "meta": {
-    "location": "Edinburgh",
+    "location": "Royal Botanic Garden Edinburgh",
     "tags": [
-      "Landscape",
-      "People"
+      "Landscape"
     ],
     "trip": "2023-12-27-edinburgh-for-hrt"
   },
@@ -14,13 +13,13 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.7,
-        "exposureTime": 0.00625,
-        "focalLength": 60,
-        "fStop": 3.5,
-        "ISO": 100
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 70,
+        "fStop": 11,
+        "ISO": 4000
       }
     },
-    "date": "2023-12-27T14:26:37.000+00:00",
+    "date": "2023-12-27T17:28:53.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504
