@@ -117,7 +117,9 @@ export const locationHierarchy: LocationHierarchy = {
         Seaton: {},
       },
       "🗺️ Tyne & Wear": {
-        "🏙️ Newcastle": {},
+        "🏙️ Newcastle": {
+          "Newcastle Cathedral": {},
+        },
         "Penshaw Monument": {},
       },
       "🗺️ Northumberland": {

@@ -1,0 +1,29 @@
+{
+  "title": "Newcastle Cathedral Windows",
+  "meta": {
+    "location": "Newcastle Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-01-07-newcastle-cathedral"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 4,
+        "ISO": 1000
+      }
+    },
+    "date": "2024-01-07T14:09:30.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
