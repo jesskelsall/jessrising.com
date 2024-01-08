@@ -1,0 +1,29 @@
+{
+  "title": "York Minster Chapter House",
+  "meta": {
+    "location": "York Minster",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2023-12-30-new-years-away"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 50
+      }
+    },
+    "date": "2023-12-30T14:10:54.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

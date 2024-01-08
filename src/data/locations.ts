@@ -140,6 +140,7 @@ export const locationHierarchy: LocationHierarchy = {
         "🏙️ York": {
           "Clifford's Tower": {},
           "National Railway Museum": {},
+          "York Minster": {},
         },
         "🏞️ Yorkshire Dales": {
           "Blea Moor": {},

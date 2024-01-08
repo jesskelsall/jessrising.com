@@ -1,11 +1,10 @@
 {
-  "title": "Whitby Abbey Length",
+  "title": "The Wreath and the Organ",
   "meta": {
-    "location": "Whitby",
+    "location": "York Minster",
     "tags": [
-      "Landscape",
-      "Church/Cathedral",
-      "Ruin"
+      "Interior",
+      "Church/Cathedral"
     ],
     "trip": "2023-12-30-new-years-away"
   },
@@ -15,13 +14,13 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.016666666666666666,
+        "exposureTime": 0.06666666666666667,
         "focalLength": 37,
-        "fStop": 3.5,
-        "ISO": 50
+        "fStop": 4,
+        "ISO": 4000
       }
     },
-    "date": "2024-01-01T12:09:01.000+00:00",
+    "date": "2023-12-30T15:01:24.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

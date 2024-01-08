@@ -1,0 +1,29 @@
+{
+  "title": "York Minster Nave",
+  "meta": {
+    "location": "York Minster",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2023-12-30-new-years-away"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.2,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 50
+      }
+    },
+    "date": "2023-12-30T14:41:26.000+00:00",
+    "dimensions": {
+      "height": 6187,
+      "width": 9280
+    }
+  }
+}

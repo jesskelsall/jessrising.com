@@ -1,0 +1,29 @@
+{
+  "title": "Statues of Kings",
+  "meta": {
+    "location": "York Minster",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2023-12-30-new-years-away"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.1,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 50
+      }
+    },
+    "date": "2023-12-30T13:58:56.000+00:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    }
+  }
+}
