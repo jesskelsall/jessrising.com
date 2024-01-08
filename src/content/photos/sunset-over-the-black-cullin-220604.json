@@ -1,17 +1,17 @@
 {
   "title": "Sunset Over the Black Cullin",
   "meta": {
+    "gps": {
+      "lat": 57.15620555555555,
+      "long": -5.673852777777778
+    },
     "location": "Knoydart",
     "tags": [
       "Landscape",
       "Sunrise/Sunset",
       "Annual Top 10"
     ],
-    "gps": {
-      "lat": 57.15620555555555,
-      "long": -5.673852777777778
-    },
-    "trip": null
+    "trip": "2022-06-04-isle-of-skye"
   },
   "exif": {
     "camera": {

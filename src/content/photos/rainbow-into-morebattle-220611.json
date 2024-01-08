@@ -1,0 +1,27 @@
+{
+  "title": "Rainbow Into Morebattle",
+  "meta": {
+    "location": "Scottish Borders",
+    "tags": [
+      "Landscape",
+      "Rainbow",
+      "Road"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 55.51736944444444,
+      "long": -2.3874333333333335
+    }
+  },
+  "exif": {
+    "date": "2022-06-11T17:05:39.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    }
+  }
+}

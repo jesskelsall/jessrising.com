@@ -1,0 +1,26 @@
+{
+  "title": "The Storr Viewpoint",
+  "meta": {
+    "gps": {
+      "lat": 57.51067777777778,
+      "long": -6.175319444444445
+    },
+    "location": "The Storr",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-05T11:18:47.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

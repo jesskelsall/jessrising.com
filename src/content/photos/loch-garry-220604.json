@@ -1,0 +1,26 @@
+{
+  "title": "Loch Garry",
+  "meta": {
+    "gps": {
+      "lat": 57.080558333333336,
+      "long": -4.870205555555556
+    },
+    "location": "Loch Garry",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-06-04T15:11:18.000+01:00",
+    "dimensions": {
+      "height": 3012,
+      "width": 4016
+    }
+  }
+}

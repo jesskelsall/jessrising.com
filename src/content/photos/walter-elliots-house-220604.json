@@ -1,0 +1,26 @@
+{
+  "title": "Walter Elliot's House",
+  "meta": {
+    "gps": {
+      "lat": 56.66448333333333,
+      "long": -5.037844444444445
+    },
+    "location": "Loch Achtriochtan",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-06-04T12:48:05.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

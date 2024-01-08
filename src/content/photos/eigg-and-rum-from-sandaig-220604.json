@@ -1,0 +1,27 @@
+{
+  "title": "Eigg and Rùm From Sandaig",
+  "meta": {
+    "gps": {
+      "lat": 57.15625277777777,
+      "long": -5.673927777777778
+    },
+    "location": "Knoydart",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-06-04T22:00:18.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

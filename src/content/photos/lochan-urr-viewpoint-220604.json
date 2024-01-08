@@ -1,0 +1,25 @@
+{
+  "title": "Lochan Urr Viewpoint",
+  "meta": {
+    "gps": {
+      "lat": 56.600125,
+      "long": -5.0168944444444445
+    },
+    "location": "Lochan Urr",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-04T10:53:05.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

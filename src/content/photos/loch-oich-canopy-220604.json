@@ -1,0 +1,26 @@
+{
+  "title": "Loch Oich Canopy",
+  "meta": {
+    "gps": {
+      "lat": 57.05234166666666,
+      "long": -4.795522222222222
+    },
+    "location": "Loch Oich",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-04T14:57:53.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

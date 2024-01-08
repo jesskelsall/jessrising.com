@@ -1,0 +1,25 @@
+{
+  "title": "St Cuthbert's Way Field",
+  "meta": {
+    "location": "Scottish Borders",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 55.50494444444445,
+      "long": -2.452988888888889
+    }
+  },
+  "exif": {
+    "date": "2022-06-11T15:40:54.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    }
+  }
+}

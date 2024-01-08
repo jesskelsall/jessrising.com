@@ -1,0 +1,27 @@
+{
+  "title": "Sunset Over Kylerhea",
+  "meta": {
+    "gps": {
+      "lat": 57.191855555555556,
+      "long": -5.649911111111111
+    },
+    "location": "Glenelg",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-04T22:20:46.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

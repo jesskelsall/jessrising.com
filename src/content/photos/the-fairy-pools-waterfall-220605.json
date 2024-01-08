@@ -1,0 +1,26 @@
+{
+  "title": "The Fairy Pools Waterfall",
+  "meta": {
+    "gps": {
+      "lat": 57.249275000000004,
+      "long": -6.249427777777778
+    },
+    "location": "Fairy Pools",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-05T15:13:13.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Portree",
+  "meta": {
+    "gps": {
+      "lat": 57.41294444444444,
+      "long": -6.191044444444445
+    },
+    "location": "Portree",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-05T12:57:01.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

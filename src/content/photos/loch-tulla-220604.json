@@ -1,0 +1,26 @@
+{
+  "title": "Loch Tulla",
+  "meta": {
+    "gps": {
+      "lat": 56.554249999999996,
+      "long": -4.749847222222222
+    },
+    "location": "Ben Nevis & Glen Coe",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-06-04T09:15:26.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

@@ -1,6 +1,10 @@
 {
   "title": "The Old Man of Storr",
   "meta": {
+    "gps": {
+      "lat": 57.511208333333336,
+      "long": -6.1741472222222225
+    },
     "location": "The Storr",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Annual Top 10",
       "Annual Winner"
     ],
-    "gps": {
-      "lat": 57.511208333333336,
-      "long": -6.1741472222222225
-    },
-    "trip": null
+    "trip": "2022-06-04-isle-of-skye"
   },
   "exif": {
     "camera": {

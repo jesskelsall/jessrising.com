@@ -300,6 +300,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Ross & Cromarty": {
           Balintore: {},
           "🏞️ Kintail": {
+            Balmacara: {},
             "Eilean Donan Castle": {},
             Glenelg: {},
             "Kyle of Lochalsh": {},
@@ -350,11 +351,13 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "The Great Glen": {
           "Loch Arkaig": {},
+          "Loch Garry": {},
           "Loch Lochy": {},
           "Loch Ness": {
             "Fort Augustus": {},
             "Urquhart Castle": {},
           },
+          "Loch Oich": {},
         },
       },
       "🏞️ Loch Lomond & The Trossachs": {
@@ -445,6 +448,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch Tummel": {},
         },
       },
+      "🗺️ Scottish Borders": {},
     },
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {
       "🏞️ Bannau Brycheiniog": {

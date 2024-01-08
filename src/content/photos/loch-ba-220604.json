@@ -1,0 +1,26 @@
+{
+  "title": "Loch Bà",
+  "meta": {
+    "gps": {
+      "lat": 56.606544444444445,
+      "long": -4.753380555555555
+    },
+    "location": "Rannoch Moor",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-04T09:47:38.000+01:00",
+    "dimensions": {
+      "height": 2962,
+      "width": 3950
+    }
+  }
+}

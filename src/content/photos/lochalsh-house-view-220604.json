@@ -1,0 +1,26 @@
+{
+  "title": "Lochalsh House View",
+  "meta": {
+    "gps": {
+      "lat": 57.282608333333336,
+      "long": -5.660244444444444
+    },
+    "location": "Balmacara",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-06-04T18:22:58.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}
