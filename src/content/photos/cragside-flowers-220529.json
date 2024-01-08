@@ -1,0 +1,26 @@
+{
+  "title": "Cragside Flowers",
+  "meta": {
+    "gps": {
+      "lat": 55.314030555555554,
+      "long": -1.8861916666666667
+    },
+    "location": "Cragside",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-05-29-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-05-29T11:27:04.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

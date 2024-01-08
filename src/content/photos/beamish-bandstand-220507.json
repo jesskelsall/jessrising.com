@@ -1,0 +1,26 @@
+{
+  "title": "Beamish Bandstand",
+  "meta": {
+    "location": "County Durham",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.889152777777774,
+      "long": -1.6607999999999998
+    }
+  },
+  "exif": {
+    "date": "2022-05-07T11:44:30.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    }
+  }
+}

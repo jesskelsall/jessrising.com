@@ -1,0 +1,27 @@
+{
+  "title": "Edinburgh Castle",
+  "meta": {
+    "gps": {
+      "lat": 55.95149444444445,
+      "long": -3.1938277777777775
+    },
+    "location": "Edinburgh",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-04-25-loch-ness-edinburgh"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-04-25T19:53:46.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

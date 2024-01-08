@@ -1,0 +1,29 @@
+{
+  "title": "Kilchurn Castle",
+  "meta": {
+    "gps": {
+      "lat": 56.40190833333333,
+      "long": -5.025813888888889
+    },
+    "location": "Kilchurn Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Clouds",
+      "Loch",
+      "Ruin"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-05-08T10:53:13.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

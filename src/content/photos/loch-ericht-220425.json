@@ -1,0 +1,28 @@
+{
+  "title": "Loch Ericht",
+  "meta": {
+    "gps": {
+      "lat": 56.935205555555555,
+      "long": -4.2454527777777775
+    },
+    "location": "Loch Ericht",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch",
+      "Snow"
+    ],
+    "trip": "2022-04-25-loch-ness-edinburgh"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-04-25T09:23:48.000+01:00",
+    "dimensions": {
+      "height": 2925,
+      "width": 3935
+    }
+  }
+}

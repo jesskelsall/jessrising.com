@@ -1,0 +1,27 @@
+{
+  "title": "Bluebells",
+  "meta": {
+    "gps": {
+      "lat": 56.234741666666665,
+      "long": -5.073205555555555
+    },
+    "location": "Inveraray Castle",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Forest"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-05-08T14:10:29.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -102,6 +102,7 @@ export const locationHierarchy: LocationHierarchy = {
             "Aira Force": {},
           },
           "Wast Water": {
+            "Eskdale Fell": {},
             "Wasdale Head": {
               "Great Gable": {},
               Mosedale: {
@@ -125,6 +126,7 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Northumberland": {
         Cragside: {},
         "Dunstanburgh Castle": {},
+        "Hadrian's Wall": {},
         Seahouses: {},
       },
       "🗺️ Yorkshire": {
@@ -163,6 +165,9 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Argyll & Bute": {
         Cowal: {
           "Puck's Glen": {},
+        },
+        Inveraray: {
+          "Inveraray Castle": {},
         },
         "Isle of Bute": {
           Kerrycroy: {},
@@ -348,6 +353,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch Lochy": {},
           "Loch Ness": {
             "Fort Augustus": {},
+            "Urquhart Castle": {},
           },
         },
       },

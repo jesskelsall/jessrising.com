@@ -1,0 +1,27 @@
+{
+  "title": "Loch Lochy",
+  "meta": {
+    "gps": {
+      "lat": 56.940261111111106,
+      "long": -4.96175
+    },
+    "location": "Loch Lochy",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch"
+    ],
+    "trip": "2022-04-25-loch-ness-edinburgh"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-04-25T14:22:21.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

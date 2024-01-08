@@ -1,0 +1,27 @@
+{
+  "title": "Dùm na Cuaiche Tower",
+  "meta": {
+    "gps": {
+      "lat": 56.24574722222222,
+      "long": -5.0676499999999995
+    },
+    "location": "Inveraray Castle",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Ruin"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-05-08T16:20:13.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

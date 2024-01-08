@@ -1,0 +1,27 @@
+{
+  "title": "Vital Spark",
+  "meta": {
+    "gps": {
+      "lat": 56.23147222222222,
+      "long": -5.071975
+    },
+    "location": "Inveraray",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Loch"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-05-08T13:16:46.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

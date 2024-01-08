@@ -1,0 +1,26 @@
+{
+  "title": "Inveraray Castle Flowers",
+  "meta": {
+    "gps": {
+      "lat": 56.23785,
+      "long": -5.07335
+    },
+    "location": "Inveraray Castle",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-05-08T13:47:21.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

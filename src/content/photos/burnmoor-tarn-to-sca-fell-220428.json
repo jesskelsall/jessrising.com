@@ -1,0 +1,25 @@
+{
+  "title": "Burnmoor Tarn to Sca Fell",
+  "meta": {
+    "gps": {
+      "lat": 54.43206111111111,
+      "long": -3.256425
+    },
+    "location": "Eskdale Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-04-28-wast-water-burnmoor-tarn"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-04-28T14:16:21.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

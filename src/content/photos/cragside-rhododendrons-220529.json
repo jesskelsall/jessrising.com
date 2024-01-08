@@ -1,0 +1,25 @@
+{
+  "title": "Cragside Rhododendrons",
+  "meta": {
+    "gps": {
+      "lat": 55.311613888888886,
+      "long": -1.8782
+    },
+    "location": "Cragside",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2022-05-29-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-05-29T12:27:39.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

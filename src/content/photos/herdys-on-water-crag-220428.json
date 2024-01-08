@@ -1,23 +1,23 @@
 {
-  "title": "Herdys Overlook Wast Water",
+  "title": "Herdys on Water Crag",
   "meta": {
     "gps": {
-      "lat": 54.44305833333333,
-      "long": -3.3042666666666665
+      "lat": 54.44282222222222,
+      "long": -3.3044305555555553
     },
     "location": "Wast Water",
     "tags": [
       "Landscape",
-      "Sheep",
-      "Annual Top 10"
+      "Sheep"
     ],
     "trip": "2022-04-28-wast-water-burnmoor-tarn"
   },
   "exif": {
     "camera": {
-      "name": "Apple iPhone 11 Pro Max"
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
     },
-    "date": "2022-04-28T10:52:51.000+01:00",
+    "date": "2022-04-28T10:51:45.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

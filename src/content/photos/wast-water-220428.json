@@ -1,0 +1,25 @@
+{
+  "title": "Wast Water",
+  "meta": {
+    "gps": {
+      "lat": 54.43632777777778,
+      "long": -3.3096083333333333
+    },
+    "location": "Wast Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-04-28-wast-water-burnmoor-tarn"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-04-28T10:24:08.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

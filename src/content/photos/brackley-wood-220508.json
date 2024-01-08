@@ -1,0 +1,26 @@
+{
+  "title": "Brackley Wood",
+  "meta": {
+    "gps": {
+      "lat": 56.244502777777775,
+      "long": -5.075175
+    },
+    "location": "Inveraray Castle",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-05-08T15:46:52.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

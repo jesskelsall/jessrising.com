@@ -1,0 +1,27 @@
+{
+  "title": "Sheep at Loch Awe",
+  "meta": {
+    "gps": {
+      "lat": 56.40051944444444,
+      "long": -5.024236111111111
+    },
+    "location": "Kilchurn Castle",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Sheep"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-05-08T10:48:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

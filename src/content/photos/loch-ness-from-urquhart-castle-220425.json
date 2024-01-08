@@ -1,0 +1,27 @@
+{
+  "title": "Loch Ness From Urquhart Castle",
+  "meta": {
+    "gps": {
+      "lat": 57.32409722222223,
+      "long": -4.441833333333333
+    },
+    "location": "Urquhart Castle",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Loch"
+    ],
+    "trip": "2022-04-25-loch-ness-edinburgh"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-04-25T11:54:21.000+01:00",
+    "dimensions": {
+      "height": 2988,
+      "width": 3985
+    }
+  }
+}

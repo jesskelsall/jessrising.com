@@ -1,0 +1,27 @@
+{
+  "title": "Inveraray Castle Towers",
+  "meta": {
+    "gps": {
+      "lat": 56.236758333333334,
+      "long": -5.073336111111111
+    },
+    "location": "Inveraray Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-05-08-inveraray"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 6mm f/2"
+    },
+    "date": "2022-05-08T14:21:27.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Urquhart Castle Ruins",
+  "meta": {
+    "gps": {
+      "lat": 57.32409722222223,
+      "long": -4.441833333333333
+    },
+    "location": "Urquhart Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Clouds",
+      "Loch",
+      "Ruin"
+    ],
+    "trip": "2022-04-25-loch-ness-edinburgh"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "iPhone 11 Pro Max back triple camera 4.25mm f/1.8"
+    },
+    "date": "2022-04-25T11:41:58.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
