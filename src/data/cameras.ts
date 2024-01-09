@@ -16,25 +16,25 @@ export type Camera = Device & {
  */
 export const cameras: Camera[] = [
   {
-    displayName: "Apple iPhone 14 Pro Max",
+    displayName: "Apple iPhone 11 Pro Max",
     displaySettings: false,
     make: "Apple",
-    model: "iPhone 14 Pro Max",
+    model: "iPhone 11 Pro Max",
     lenses: [
       {
         displayName: "Ultra Wide Camera",
         make: "Apple",
-        model: "iPhone 14 Pro Max back triple camera 2.22mm f/2.2",
+        model: "iPhone 11 Pro Max back triple camera 1.54mm f/2.4",
       },
       {
         displayName: "Main Camera",
         make: "Apple",
-        model: "iPhone 14 Pro Max back triple camera 6.86mm f/1.78",
+        model: "iPhone 11 Pro Max back triple camera 4.25mm f/1.8",
       },
       {
         displayName: "Telephoto Camera",
         make: "Apple",
-        model: "iPhone 14 Pro Max back triple camera 9mm f/2.8",
+        model: "iPhone 11 Pro Max back triple camera 6mm f/2",
       },
     ],
   },
