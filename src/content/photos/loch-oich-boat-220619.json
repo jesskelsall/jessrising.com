@@ -1,0 +1,27 @@
+{
+  "title": "Loch Oich Boat",
+  "meta": {
+    "gps": {
+      "lat": 57.05226111111111,
+      "long": -4.795686111111111
+    },
+    "location": "Loch Oich",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-19T12:28:39.000+01:00",
+    "dimensions": {
+      "height": 3006,
+      "width": 4008
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Low Force Between the Trees",
+  "meta": {
+    "gps": {
+      "lat": 54.646452777777775,
+      "long": -2.150922222222222
+    },
+    "location": "Bowlees",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Waterfall"
+    ],
+    "trip": "2022-06-17-low-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-17T14:40:47.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

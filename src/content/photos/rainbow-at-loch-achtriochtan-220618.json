@@ -1,0 +1,28 @@
+{
+  "title": "Rainbow at Loch Achtriochtan",
+  "meta": {
+    "gps": {
+      "lat": 56.66456111111111,
+      "long": -5.038005555555555
+    },
+    "location": "Loch Achtriochtan",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch",
+      "Rainbow"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-18T17:07:35.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

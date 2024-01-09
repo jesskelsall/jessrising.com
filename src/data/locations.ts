@@ -14,6 +14,9 @@ export const locationHierarchy: LocationHierarchy = {
         },
         Home: {},
         "Raby Castle": {},
+        Teesdale: {
+          Bowlees: {},
+        },
       },
       "🗺️ Cumbria": {
         "🏞️ Lake District": {
@@ -365,6 +368,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Loch Lomond": {
           Inveruglas: {},
         },
+        "Rest and Be Thankful": {},
       },
       "🗺️ Lothian": {
         "Balgone Estate": {},

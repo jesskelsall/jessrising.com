@@ -1,0 +1,26 @@
+{
+  "title": "Loch Restil",
+  "meta": {
+    "gps": {
+      "lat": 56.23379166666667,
+      "long": -4.855919444444444
+    },
+    "location": "Rest and Be Thankful",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-18T10:45:37.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

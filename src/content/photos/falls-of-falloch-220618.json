@@ -1,0 +1,26 @@
+{
+  "title": "Falls of Falloch",
+  "meta": {
+    "gps": {
+      "lat": 56.35019166666667,
+      "long": -4.693083333333334
+    },
+    "location": "Falls of Falloch",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-18T16:01:49.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

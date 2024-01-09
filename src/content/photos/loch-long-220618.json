@@ -1,0 +1,26 @@
+{
+  "title": "Loch Long",
+  "meta": {
+    "gps": {
+      "lat": 56.19306666666667,
+      "long": -4.775175
+    },
+    "location": "Loch Lomond & The Trossachs",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-18T15:20:18.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

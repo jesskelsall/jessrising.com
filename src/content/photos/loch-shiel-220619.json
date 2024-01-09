@@ -1,0 +1,26 @@
+{
+  "title": "Loch Shiel",
+  "meta": {
+    "gps": {
+      "lat": 56.86893888888889,
+      "long": -5.437336111111112
+    },
+    "location": "Glenfinnan",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-19T09:33:00.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Loch Lochy",
+  "meta": {
+    "gps": {
+      "lat": 56.985175,
+      "long": -4.873647222222223
+    },
+    "location": "Loch Lochy",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-04T14:45:33.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

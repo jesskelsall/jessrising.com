@@ -1,0 +1,26 @@
+{
+  "title": "Meeting of Three Waters",
+  "meta": {
+    "gps": {
+      "lat": 56.66243333333333,
+      "long": -4.966383333333334
+    },
+    "location": "Meeting of Three Waters",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-18T16:57:49.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Loch Achtriochtan",
+  "meta": {
+    "gps": {
+      "lat": 56.664741666666664,
+      "long": -5.037202777777778
+    },
+    "location": "Loch Achtriochtan",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-18T17:10:19.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

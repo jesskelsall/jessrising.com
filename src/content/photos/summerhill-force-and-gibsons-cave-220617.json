@@ -1,0 +1,26 @@
+{
+  "title": "Summerhill Force and Gibson's Cave",
+  "meta": {
+    "gps": {
+      "lat": 54.65281944444444,
+      "long": -2.1417166666666665
+    },
+    "location": "Bowlees",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2022-06-17-low-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-17T15:32:47.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

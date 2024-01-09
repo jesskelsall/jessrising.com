@@ -1,23 +1,22 @@
 {
-  "title": "IMG_9279",
+  "title": "Buttercup Field",
   "meta": {
     "gps": {
-      "lat": 56.985175,
-      "long": -4.873647222222223
+      "lat": 54.6483,
+      "long": -2.1465638888888887
     },
-    "location": "Loch Lochy",
+    "location": "Bowlees",
     "tags": [
-      "Landscape",
-      "Loch"
+      "Landscape"
     ],
-    "trip": "2022-06-04-isle-of-skye"
+    "trip": "2022-06-17-low-force"
   },
   "exif": {
     "camera": {
       "name": "Apple iPhone 11 Pro Max",
       "lens": "Main Camera"
     },
-    "date": "2022-06-04T14:45:33.000+01:00",
+    "date": "2022-06-17T15:11:55.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

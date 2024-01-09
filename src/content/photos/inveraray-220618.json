@@ -1,0 +1,25 @@
+{
+  "title": "Inveraray",
+  "meta": {
+    "gps": {
+      "lat": 56.23490833333334,
+      "long": -5.072408333333333
+    },
+    "location": "Inveraray",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-18T13:56:08.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

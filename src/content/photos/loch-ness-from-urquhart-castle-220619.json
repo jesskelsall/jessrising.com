@@ -1,0 +1,26 @@
+{
+  "title": "Loch Ness From Urquhart Castle",
+  "meta": {
+    "gps": {
+      "lat": 57.32373333333334,
+      "long": -4.442444444444445
+    },
+    "location": "Urquhart Castle",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-19T15:18:11.000+01:00",
+    "dimensions": {
+      "height": 3002,
+      "width": 4003
+    }
+  }
+}

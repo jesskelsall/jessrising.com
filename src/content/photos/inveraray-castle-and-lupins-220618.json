@@ -1,0 +1,27 @@
+{
+  "title": "Inveraray Castle and Lupins",
+  "meta": {
+    "gps": {
+      "lat": 56.236916666666666,
+      "long": -5.073788888888888
+    },
+    "location": "Inveraray Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-18T14:08:09.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

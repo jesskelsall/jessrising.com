@@ -1,17 +1,14 @@
 {
-  "title": "The Jacobite Crosses Glenfinnan Viaduct",
+  "title": "A' Chrois from Inveruglas",
   "meta": {
     "gps": {
-      "lat": 56.87587222222222,
-      "long": -5.435075
+      "lat": 56.251397222222224,
+      "long": -4.707513888888889
     },
-    "location": "Glenfinnan",
+    "location": "Inveruglas",
     "tags": [
       "Landscape",
-      "Viaduct",
-      "Rail",
-      "Steam",
-      "Annual Top 10"
+      "Loch"
     ],
     "trip": "2022-06-18-scottish-highlands"
   },
@@ -20,7 +17,7 @@
       "name": "Apple iPhone 11 Pro Max",
       "lens": "Telephoto Camera"
     },
-    "date": "2022-06-19T10:55:20.000+01:00",
+    "date": "2022-06-18T10:05:28.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

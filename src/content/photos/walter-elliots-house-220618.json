@@ -1,17 +1,16 @@
 {
-  "title": "The Jacobite Crosses Glenfinnan Viaduct",
+  "title": "Walter Elliot's House",
   "meta": {
     "gps": {
-      "lat": 56.87587222222222,
-      "long": -5.435075
+      "lat": 56.66468888888889,
+      "long": -5.037216666666667
     },
-    "location": "Glenfinnan",
+    "location": "Loch Achtriochtan",
     "tags": [
       "Landscape",
-      "Viaduct",
-      "Rail",
-      "Steam",
-      "Annual Top 10"
+      "Clouds",
+      "Waterfall",
+      "White House"
     ],
     "trip": "2022-06-18-scottish-highlands"
   },
@@ -20,7 +19,7 @@
       "name": "Apple iPhone 11 Pro Max",
       "lens": "Telephoto Camera"
     },
-    "date": "2022-06-19T10:55:20.000+01:00",
+    "date": "2022-06-18T17:09:57.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

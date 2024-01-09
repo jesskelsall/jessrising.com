@@ -1,0 +1,26 @@
+{
+  "title": "Inveruglas Shore",
+  "meta": {
+    "gps": {
+      "lat": 56.252225,
+      "long": -4.707341666666667
+    },
+    "location": "Inveruglas",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-18T10:09:15.000+01:00",
+    "dimensions": {
+      "height": 3006,
+      "width": 4008
+    }
+  }
+}

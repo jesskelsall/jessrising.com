@@ -1,0 +1,28 @@
+{
+  "title": "Urquhart Castle Grounds",
+  "meta": {
+    "gps": {
+      "lat": 57.32396666666667,
+      "long": -4.442466666666667
+    },
+    "location": "Urquhart Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Loch",
+      "Ruin"
+    ],
+    "trip": "2022-06-18-scottish-highlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-19T15:20:37.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}
