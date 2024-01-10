@@ -1,22 +1,23 @@
 {
-  "title": "Dreary Lingcove Beck",
+  "title": "River Esk",
   "meta": {
     "gps": {
-      "lat": 56.87587222222222,
-      "long": -5.435075
+      "lat": 54.41591944444444,
+      "long": -3.1962611111111108
     },
     "location": "Lingcove Beck",
     "tags": [
       "Landscape",
-      "Annual Top 10"
+      "Waterfall"
     ],
     "trip": "2022-07-23-lingcove-bridge-esk-falls"
   },
   "exif": {
     "camera": {
-      "name": "Apple iPhone 11 Pro Max"
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
     },
-    "date": "2022-07-23T13:31:12.000+01:00",
+    "date": "2022-07-23T08:44:54.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

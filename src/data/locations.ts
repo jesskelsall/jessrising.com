@@ -83,12 +83,17 @@ export const locationHierarchy: LocationHierarchy = {
               Herdus: {},
             },
           },
+          Eskdale: {
+            "Hardknott Pass": {},
+            "Lingcove Beck": {},
+          },
           Fleetwith: {
             Brandreth: {},
             "Fleetwith Pike": {},
             "Grey Knotts": {},
           },
           Keswick: {},
+          "Kirkstone Pass": {},
           Loweswater: {
             Fellbarrow: {},
             "Holme Wood": {},
@@ -98,12 +103,12 @@ export const locationHierarchy: LocationHierarchy = {
               "Hen Comb": {},
             },
           },
-          "River Esk": {},
           Rydal: {
             "Rydal Cave": {},
           },
           Ullswater: {
             "Aira Force": {},
+            Glenridding: {},
           },
           "Wast Water": {
             "Eskdale Fell": {},
@@ -115,6 +120,7 @@ export const locationHierarchy: LocationHierarchy = {
             },
             Yewbarrow: {},
           },
+          Wrynose: {},
         },
         Shap: {},
       },
@@ -126,6 +132,12 @@ export const locationHierarchy: LocationHierarchy = {
         "Corfe Castle": {},
         Lulworth: {},
         Weymouth: {},
+      },
+      "🏙️ London": {
+        "London Bridge": {},
+        "London Underground": {},
+        "St Paul's Cathedral": {},
+        Westminster: {},
       },
       "🗺️ Tyne & Wear": {
         "🏙️ Newcastle": {

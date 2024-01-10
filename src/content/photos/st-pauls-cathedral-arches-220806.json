@@ -1,0 +1,26 @@
+{
+  "title": "St Paul's Cathedral Arches",
+  "meta": {
+    "gps": {
+      "lat": 51.513977777777775,
+      "long": -0.09830555555555555
+    },
+    "location": "St Paul's Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-06T08:48:07.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Bridge and Rails",
+  "meta": {
+    "gps": {
+      "lat": 51.50447777777778,
+      "long": -0.08634166666666666
+    },
+    "location": "London",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Rail"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-05T15:21:46.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

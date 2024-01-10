@@ -2,24 +2,23 @@
   "title": "Motorway Between National Parks",
   "meta": {
     "gps": {
-      "lat": 54.40048888888889,
-      "long": -2.605352777777778
+      "lat": 54.400483333333334,
+      "long": -2.6053555555555556
     },
     "location": "Cumbria",
     "tags": [
       "Landscape",
-      "Clouds",
-      "Mist",
+      "Flowers & Insects",
       "Road"
     ],
-    "trip": "2022-07-23-lingcove-bridge-esk-falls"
+    "trip": "2022-08-07-ullswater-aira-force"
   },
   "exif": {
     "camera": {
       "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
+      "lens": "Main Camera"
     },
-    "date": "2022-07-23T06:09:27.000+01:00",
+    "date": "2022-08-07T07:40:20.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

@@ -1,22 +1,23 @@
 {
-  "title": "Dreary Lingcove Beck",
+  "title": "Behind Lingcove Bridge",
   "meta": {
     "gps": {
-      "lat": 56.87587222222222,
-      "long": -5.435075
+      "lat": 54.42250833333333,
+      "long": -3.1920861111111107
     },
     "location": "Lingcove Beck",
     "tags": [
       "Landscape",
-      "Annual Top 10"
+      "Bridge"
     ],
     "trip": "2022-07-23-lingcove-bridge-esk-falls"
   },
   "exif": {
     "camera": {
-      "name": "Apple iPhone 11 Pro Max"
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
     },
-    "date": "2022-07-23T13:31:12.000+01:00",
+    "date": "2022-07-23T09:59:54.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

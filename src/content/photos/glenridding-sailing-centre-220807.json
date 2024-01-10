@@ -1,0 +1,27 @@
+{
+  "title": "Glenridding Sailing Centre",
+  "meta": {
+    "gps": {
+      "lat": 54.54555833333333,
+      "long": -2.9446000000000003
+    },
+    "location": "Glenridding",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Clouds"
+    ],
+    "trip": "2022-08-07-ullswater-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-07T13:47:34.000+01:00",
+    "dimensions": {
+      "height": 3002,
+      "width": 4003
+    }
+  }
+}

@@ -1,15 +1,14 @@
 {
-  "title": "Motorway Between National Parks",
+  "title": "A Good Effort",
   "meta": {
     "gps": {
-      "lat": 54.40048888888889,
-      "long": -2.605352777777778
+      "lat": 54.40278611111111,
+      "long": -3.185744444444444
     },
-    "location": "Cumbria",
+    "location": "Hardknott Pass",
     "tags": [
       "Landscape",
       "Clouds",
-      "Mist",
       "Road"
     ],
     "trip": "2022-07-23-lingcove-bridge-esk-falls"
@@ -19,7 +18,7 @@
       "name": "Apple iPhone 11 Pro Max",
       "lens": "Telephoto Camera"
     },
-    "date": "2022-07-23T06:09:27.000+01:00",
+    "date": "2022-07-23T07:36:53.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

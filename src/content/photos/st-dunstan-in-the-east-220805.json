@@ -1,0 +1,26 @@
+{
+  "title": "St Dunstan in the East",
+  "meta": {
+    "gps": {
+      "lat": 51.51013888888889,
+      "long": -0.08209444444444444
+    },
+    "location": "London Bridge",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-05T13:07:21.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

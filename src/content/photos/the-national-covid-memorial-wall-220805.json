@@ -1,0 +1,25 @@
+{
+  "title": "The National Covid Memorial Wall",
+  "meta": {
+    "gps": {
+      "lat": 51.50038055555556,
+      "long": -0.11993611111111112
+    },
+    "location": "Westminster",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-05T14:08:19.000+01:00",
+    "dimensions": {
+      "height": 3006,
+      "width": 4008
+    }
+  }
+}

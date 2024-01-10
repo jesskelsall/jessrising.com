@@ -1,0 +1,25 @@
+{
+  "title": "Sea of Bleeding Hearts",
+  "meta": {
+    "gps": {
+      "lat": 51.50026388888889,
+      "long": -0.12001944444444444
+    },
+    "location": "Westminster",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-05T14:08:53.000+01:00",
+    "dimensions": {
+      "height": 3002,
+      "width": 4003
+    }
+  }
+}

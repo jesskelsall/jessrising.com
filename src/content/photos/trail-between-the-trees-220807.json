@@ -1,0 +1,26 @@
+{
+  "title": "Trail Between the Trees",
+  "meta": {
+    "gps": {
+      "lat": 54.57553055555556,
+      "long": -2.9296805555555556
+    },
+    "location": "Aira Force",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2022-08-07-ullswater-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-07T10:43:23.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

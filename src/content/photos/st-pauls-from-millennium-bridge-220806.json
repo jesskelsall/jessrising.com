@@ -1,0 +1,27 @@
+{
+  "title": "St Paul's from Millennium Bridge",
+  "meta": {
+    "gps": {
+      "lat": 51.508408333333335,
+      "long": -0.09860555555555556
+    },
+    "location": "London",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-06T08:28:45.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

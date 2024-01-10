@@ -1,0 +1,26 @@
+{
+  "title": "The White Lion",
+  "meta": {
+    "gps": {
+      "lat": 51.51280555555556,
+      "long": -0.12367777777777778
+    },
+    "location": "London",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-05T18:53:56.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

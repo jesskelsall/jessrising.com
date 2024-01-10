@@ -1,0 +1,26 @@
+{
+  "title": "Tarka",
+  "meta": {
+    "gps": {
+      "lat": 54.54554722222222,
+      "long": -2.944580555555556
+    },
+    "location": "Glenridding",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": "2022-08-07-ullswater-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-07T13:47:27.000+01:00",
+    "dimensions": {
+      "height": 2803,
+      "width": 3737
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Tower Bridge and the Shard",
+  "meta": {
+    "gps": {
+      "lat": 51.51045555555555,
+      "long": -0.0984
+    },
+    "location": "London",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-06T08:32:50.000+01:00",
+    "dimensions": {
+      "height": 2986,
+      "width": 3981
+    }
+  }
+}

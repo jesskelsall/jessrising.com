@@ -1,0 +1,26 @@
+{
+  "title": "East London from the Shard",
+  "meta": {
+    "gps": {
+      "lat": 51.504475,
+      "long": -0.0862861111111111
+    },
+    "location": "London",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-05T15:20:29.000+01:00",
+    "dimensions": {
+      "height": 3002,
+      "width": 4003
+    }
+  }
+}

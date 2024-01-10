@@ -1,0 +1,27 @@
+{
+  "title": "Refuge Amongst the Offices",
+  "meta": {
+    "gps": {
+      "lat": 51.509797222222225,
+      "long": -0.08252777777777778
+    },
+    "location": "London Bridge",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-05T12:51:45.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

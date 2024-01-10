@@ -1,0 +1,25 @@
+{
+  "title": "Ullswater from Below Gowbarrow Fell",
+  "meta": {
+    "gps": {
+      "lat": 54.57568333333334,
+      "long": -2.923275
+    },
+    "location": "Aira Force",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-07-ullswater-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-07T12:32:43.000+01:00",
+    "dimensions": {
+      "height": 2978,
+      "width": 3971
+    }
+  }
+}

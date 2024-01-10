@@ -1,0 +1,25 @@
+{
+  "title": "The Kirkstone",
+  "meta": {
+    "gps": {
+      "lat": 54.469211111111115,
+      "long": -2.9244499999999998
+    },
+    "location": "Kirkstone Pass",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-07-ullswater-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-07T08:40:28.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

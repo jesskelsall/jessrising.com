@@ -1,0 +1,22 @@
+{
+  "title": "Elizabeth Line Corridor",
+  "meta": {
+    "location": "London Underground",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2022-08-05-london"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-05T20:50:14.000+01:00",
+    "dimensions": {
+      "height": 2992,
+      "width": 3990
+    }
+  }
+}
