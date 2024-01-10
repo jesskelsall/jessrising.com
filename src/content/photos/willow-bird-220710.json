@@ -1,0 +1,26 @@
+{
+  "title": "Willow Bird",
+  "meta": {
+    "gps": {
+      "lat": 55.67050833333333,
+      "long": -1.7802083333333332
+    },
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2022-07-10-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-07-10T12:44:18.000+01:00",
+    "dimensions": {
+      "height": 2958,
+      "width": 3945
+    }
+  }
+}

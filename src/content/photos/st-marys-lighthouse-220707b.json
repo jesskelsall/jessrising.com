@@ -1,0 +1,27 @@
+{
+  "title": "St Mary's Lighthouse",
+  "meta": {
+    "gps": {
+      "lat": 55.06993611111111,
+      "long": -1.4514527777777777
+    },
+    "location": "St Mary's Lighthouse",
+    "tags": [
+      "Landscape",
+      "Lighthouse",
+      "People"
+    ],
+    "trip": "2022-07-07-st-marys-lighthouse"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-07-07T18:12:08.000+01:00",
+    "dimensions": {
+      "height": 3012,
+      "width": 4016
+    }
+  }
+}

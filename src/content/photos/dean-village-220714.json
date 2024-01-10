@@ -1,0 +1,25 @@
+{
+  "title": "Dean Village",
+  "meta": {
+    "gps": {
+      "lat": 55.95180833333334,
+      "long": -3.217713888888889
+    },
+    "location": "Water of Leith",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-14T13:14:50.000+01:00",
+    "dimensions": {
+      "height": 2996,
+      "width": 4011
+    }
+  }
+}

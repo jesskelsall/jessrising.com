@@ -1,0 +1,26 @@
+{
+  "title": "Above the Quarry Ruins",
+  "meta": {
+    "gps": {
+      "lat": 54.37309166666667,
+      "long": -3.1122472222222224
+    },
+    "location": "The Old Man of Coniston",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2022-06-24-old-man-of-coniston"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-24T10:35:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

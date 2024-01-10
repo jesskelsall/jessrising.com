@@ -1,0 +1,26 @@
+{
+  "title": "St Mary's Head",
+  "meta": {
+    "gps": {
+      "lat": 55.07207777777778,
+      "long": -1.4498638888888888
+    },
+    "location": "St Mary's Lighthouse",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2022-07-07-st-marys-lighthouse"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-07T17:56:13.000+01:00",
+    "dimensions": {
+      "height": 2982,
+      "width": 3976
+    }
+  }
+}

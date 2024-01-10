@@ -1,0 +1,27 @@
+{
+  "title": "Circus Lane",
+  "meta": {
+    "gps": {
+      "lat": 55.95801111111111,
+      "long": -3.205402777777778
+    },
+    "location": "Stockbridge",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Street"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-14T12:01:17.000+01:00",
+    "dimensions": {
+      "height": 2992,
+      "width": 3990
+    }
+  }
+}

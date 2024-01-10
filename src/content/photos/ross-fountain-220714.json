@@ -1,0 +1,26 @@
+{
+  "title": "Ross Fountain",
+  "meta": {
+    "gps": {
+      "lat": 55.95018888888889,
+      "long": -3.2031111111111112
+    },
+    "location": "Edinburgh",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-14T11:01:02.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

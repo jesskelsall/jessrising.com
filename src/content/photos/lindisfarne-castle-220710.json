@@ -1,0 +1,27 @@
+{
+  "title": "Lindisfarne Castle",
+  "meta": {
+    "gps": {
+      "lat": 55.66871666666666,
+      "long": -1.7874305555555554
+    },
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast"
+    ],
+    "trip": "2022-07-10-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-07-10T12:15:33.000+01:00",
+    "dimensions": {
+      "height": 3012,
+      "width": 4016
+    }
+  }
+}

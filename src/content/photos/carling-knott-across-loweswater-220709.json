@@ -1,0 +1,26 @@
+{
+  "title": "Carling Knott Across Loweswater",
+  "meta": {
+    "location": "Loweswater",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.58113055555556,
+      "long": -3.3442000000000003
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T09:35:15.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

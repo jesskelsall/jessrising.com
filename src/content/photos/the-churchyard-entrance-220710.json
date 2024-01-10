@@ -1,0 +1,25 @@
+{
+  "title": "The Churchyard Entrance",
+  "meta": {
+    "gps": {
+      "lat": 55.66949444444444,
+      "long": -1.8021722222222223
+    },
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-07-10-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-10T11:51:23.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

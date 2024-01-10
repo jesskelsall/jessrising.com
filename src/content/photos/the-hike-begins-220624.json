@@ -1,0 +1,26 @@
+{
+  "title": "The Hike Begins",
+  "meta": {
+    "gps": {
+      "lat": 54.363997222222224,
+      "long": -3.0959166666666667
+    },
+    "location": "The Old Man of Coniston",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2022-06-24-old-man-of-coniston"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-24T08:57:57.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

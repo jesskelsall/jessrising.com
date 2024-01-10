@@ -1,0 +1,26 @@
+{
+  "title": "Sheep Above Goat's Hawse",
+  "meta": {
+    "gps": {
+      "lat": 54.37745555555556,
+      "long": -3.1245833333333333
+    },
+    "location": "The Old Man of Coniston",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2022-06-24-old-man-of-coniston"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-24T13:23:56.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

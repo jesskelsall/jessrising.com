@@ -1,0 +1,25 @@
+{
+  "title": "Hawthornbank Lane",
+  "meta": {
+    "gps": {
+      "lat": 55.952358333333336,
+      "long": -3.2166833333333336
+    },
+    "location": "Water of Leith",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-14T12:58:06.000+01:00",
+    "dimensions": {
+      "height": 3016,
+      "width": 4022
+    }
+  }
+}

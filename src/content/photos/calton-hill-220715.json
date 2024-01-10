@@ -1,0 +1,26 @@
+{
+  "title": "Calton Hill",
+  "meta": {
+    "gps": {
+      "lat": 55.95478055555556,
+      "long": -3.1842416666666664
+    },
+    "location": "Edinburgh",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-15T14:57:26.000+01:00",
+    "dimensions": {
+      "height": 2966,
+      "width": 3955
+    }
+  }
+}

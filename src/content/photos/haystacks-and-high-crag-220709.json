@@ -1,0 +1,25 @@
+{
+  "title": "Haystacks and High Crag",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.52824444444445,
+      "long": -3.2517444444444443
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T12:14:54.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Royal Botanic Garden Edinburgh",
+  "meta": {
+    "gps": {
+      "lat": 55.964175000000004,
+      "long": -3.2087083333333335
+    },
+    "location": "Royal Botanic Garden Edinburgh",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-14T15:39:34.000+01:00",
+    "dimensions": {
+      "height": 2992,
+      "width": 3990
+    }
+  }
+}

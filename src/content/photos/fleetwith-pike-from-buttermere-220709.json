@@ -1,0 +1,25 @@
+{
+  "title": "Fleetwith Pike From Buttermere",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.52528888888889,
+      "long": -3.2599305555555556
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T11:40:17.000+01:00",
+    "dimensions": {
+      "height": 3012,
+      "width": 4016
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

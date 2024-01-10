@@ -1,0 +1,28 @@
+{
+  "title": "Motorway Between National Parks",
+  "meta": {
+    "location": "Cumbria",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Mist",
+      "Road"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.40048888888889,
+      "long": -2.605352777777778
+    }
+  },
+  "exif": {
+    "date": "2022-07-23T06:09:27.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

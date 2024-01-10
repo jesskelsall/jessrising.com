@@ -1,0 +1,26 @@
+{
+  "title": "Burtness Wood",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.53268333333333,
+      "long": -3.2745194444444445
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T11:17:27.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Fenkle Street",
+  "meta": {
+    "gps": {
+      "lat": 55.67061111111111,
+      "long": -1.8005583333333335
+    },
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2022-07-10-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-10T11:58:22.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

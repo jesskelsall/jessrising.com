@@ -1,0 +1,26 @@
+{
+  "title": "Castlerigg Stone Circle",
+  "meta": {
+    "location": "Keswick",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.602811111111116,
+      "long": -3.098625
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T14:49:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

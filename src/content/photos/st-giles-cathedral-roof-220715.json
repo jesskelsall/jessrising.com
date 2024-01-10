@@ -1,0 +1,26 @@
+{
+  "title": "St Giles' Cathedral Roof",
+  "meta": {
+    "gps": {
+      "lat": 55.94961111111111,
+      "long": -3.191222222222222
+    },
+    "location": "St Giles' Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-07-15T17:02:01.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

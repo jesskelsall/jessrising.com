@@ -1,0 +1,26 @@
+{
+  "title": "Hiking Above Coniston",
+  "meta": {
+    "gps": {
+      "lat": 54.373336111111115,
+      "long": -3.1067666666666667
+    },
+    "location": "The Old Man of Coniston",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2022-06-24-old-man-of-coniston"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-24T09:52:39.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Castle Point Cairns",
+  "meta": {
+    "gps": {
+      "lat": 55.669088888888886,
+      "long": -1.779036111111111
+    },
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Cairn",
+      "Coast"
+    ],
+    "trip": "2022-07-10-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-07-10T12:38:48.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4013
+    }
+  }
+}

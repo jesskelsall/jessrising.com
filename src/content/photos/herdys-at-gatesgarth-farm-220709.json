@@ -1,0 +1,26 @@
+{
+  "title": "Herdys at Gatesgarth Farm",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.52485,
+      "long": -3.2471555555555556
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T12:05:05.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

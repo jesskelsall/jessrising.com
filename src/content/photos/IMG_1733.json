@@ -1,0 +1,25 @@
+{
+  "title": "IMG_1733",
+  "meta": {
+    "gps": {
+      "lat": 55.96429444444445,
+      "long": -3.205280555555556
+    },
+    "location": "Royal Botanic Garden Edinburgh",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-07-14-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-07-14T15:17:14.000+01:00",
+    "dimensions": {
+      "height": 3002,
+      "width": 4003
+    }
+  }
+}

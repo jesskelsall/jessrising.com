@@ -1,0 +1,28 @@
+{
+  "title": "Lindisfarne Castle and Boats",
+  "meta": {
+    "gps": {
+      "lat": 55.669216666666664,
+      "long": -1.7964916666666666
+    },
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Castle",
+      "Coast"
+    ],
+    "trip": "2022-07-10-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-07-10T11:08:57.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

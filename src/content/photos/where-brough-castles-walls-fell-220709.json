@@ -1,0 +1,26 @@
+{
+  "title": "Where Brough Castle's Walls Fell",
+  "meta": {
+    "location": "Yorkshire Dales",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.52186666666667,
+      "long": -2.3242138888888886
+    }
+  },
+  "exif": {
+    "date": "2022-07-09T15:54:02.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

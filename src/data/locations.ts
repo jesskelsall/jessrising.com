@@ -37,6 +37,7 @@ export const locationHierarchy: LocationHierarchy = {
           },
           "Coniston Water": {
             Coniston: {
+              "The Old Man of Coniston": {},
               "Yew Tree Farm": {},
             },
           },
@@ -131,11 +132,13 @@ export const locationHierarchy: LocationHierarchy = {
           "Newcastle Cathedral": {},
         },
         "Penshaw Monument": {},
+        "St Mary's Lighthouse": {},
       },
       "🗺️ Northumberland": {
         Cragside: {},
         "Dunstanburgh Castle": {},
         "Hadrian's Wall": {},
+        Lindisfarne: {},
         Seahouses: {},
       },
       "🗺️ Wiltshire": {
@@ -385,6 +388,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Balgone Estate": {},
         "🏙️ Edinburgh": {
           "Royal Botanic Garden Edinburgh": {},
+          "St Giles' Cathedral": {},
           Stockbridge: {},
           "Water of Leith": {},
         },

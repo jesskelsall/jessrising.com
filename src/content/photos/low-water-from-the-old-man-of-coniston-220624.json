@@ -1,0 +1,26 @@
+{
+  "title": "Low Water From the Old Man of Coniston",
+  "meta": {
+    "gps": {
+      "lat": 54.370780555555555,
+      "long": -3.1215361111111113
+    },
+    "location": "The Old Man of Coniston",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2022-06-24-old-man-of-coniston"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-24T13:04:03.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
