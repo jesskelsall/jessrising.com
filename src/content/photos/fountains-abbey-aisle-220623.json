@@ -1,0 +1,26 @@
+{
+  "title": "Fountains Abbey Aisle",
+  "meta": {
+    "gps": {
+      "lat": 54.11007777777778,
+      "long": -1.5811944444444443
+    },
+    "location": "Fountains Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-23T12:14:21.000+01:00",
+    "dimensions": {
+      "height": 3016,
+      "width": 4023
+    }
+  }
+}

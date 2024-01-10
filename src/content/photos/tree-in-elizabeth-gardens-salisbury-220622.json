@@ -1,0 +1,25 @@
+{
+  "title": "Tree in Elizabeth Gardens, Salisbury",
+  "meta": {
+    "gps": {
+      "lat": 51.067075,
+      "long": -1.8008305555555555
+    },
+    "location": "Salisbury",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-22T13:05:37.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

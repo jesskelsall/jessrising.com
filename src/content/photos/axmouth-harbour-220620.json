@@ -1,0 +1,26 @@
+{
+  "title": "Axmouth Harbour",
+  "meta": {
+    "gps": {
+      "lat": 50.70408888888889,
+      "long": -3.0608555555555554
+    },
+    "location": "Beer",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-20T21:21:43.000+01:00",
+    "dimensions": {
+      "height": 2978,
+      "width": 3971
+    }
+  }
+}

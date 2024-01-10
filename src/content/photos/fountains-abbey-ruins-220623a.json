@@ -1,0 +1,26 @@
+{
+  "title": "Fountains Abbey Ruins",
+  "meta": {
+    "gps": {
+      "lat": 54.109252777777776,
+      "long": -1.582547222222222
+    },
+    "location": "Fountains Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-23T12:00:45.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

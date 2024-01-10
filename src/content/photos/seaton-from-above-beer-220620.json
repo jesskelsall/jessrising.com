@@ -1,0 +1,27 @@
+{
+  "title": "Seaton From Above Beer",
+  "meta": {
+    "gps": {
+      "lat": 50.698252777777775,
+      "long": -3.0866611111111113
+    },
+    "location": "Beer",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-20T14:22:51.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

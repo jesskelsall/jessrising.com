@@ -1,0 +1,26 @@
+{
+  "title": "Salisbury Cathedral Choir",
+  "meta": {
+    "gps": {
+      "lat": 51.06515833333333,
+      "long": -1.7977277777777776
+    },
+    "location": "Salisbury Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-22T11:33:37.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

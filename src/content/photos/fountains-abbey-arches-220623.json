@@ -1,0 +1,26 @@
+{
+  "title": "Fountains Abbey Arches",
+  "meta": {
+    "gps": {
+      "lat": 54.10931388888889,
+      "long": -1.5821444444444444
+    },
+    "location": "Fountains Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-23T12:24:14.000+01:00",
+    "dimensions": {
+      "height": 3006,
+      "width": 4008
+    }
+  }
+}

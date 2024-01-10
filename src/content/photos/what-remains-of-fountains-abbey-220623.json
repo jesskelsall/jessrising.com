@@ -1,17 +1,17 @@
 {
   "title": "What Remains of Fountains Abbey",
   "meta": {
+    "gps": {
+      "lat": 54.10998611111111,
+      "long": -1.5806888888888888
+    },
     "location": "Fountains Abbey",
     "tags": [
       "Ruin",
       "National Trust",
       "Annual Top 10"
     ],
-    "gps": {
-      "lat": 54.10998611111111,
-      "long": -1.5806888888888888
-    },
-    "trip": null
+    "trip": "2022-06-20-southern-england"
   },
   "exif": {
     "camera": {

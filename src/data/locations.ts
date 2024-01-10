@@ -118,7 +118,13 @@ export const locationHierarchy: LocationHierarchy = {
         Shap: {},
       },
       "🗺️ Devon": {
+        Beer: {},
         Seaton: {},
+      },
+      "🗺️ Dorset": {
+        "Corfe Castle": {},
+        Lulworth: {},
+        Weymouth: {},
       },
       "🗺️ Tyne & Wear": {
         "🏙️ Newcastle": {
@@ -131,6 +137,11 @@ export const locationHierarchy: LocationHierarchy = {
         "Dunstanburgh Castle": {},
         "Hadrian's Wall": {},
         Seahouses: {},
+      },
+      "🗺️ Wiltshire": {
+        Salisbury: {
+          "Salisbury Cathedral": {},
+        },
       },
       "🗺️ Yorkshire": {
         Knaresborough: {},

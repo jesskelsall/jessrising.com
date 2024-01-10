@@ -1,0 +1,26 @@
+{
+  "title": "Fountains Abbey Columns",
+  "meta": {
+    "gps": {
+      "lat": 54.10973055555556,
+      "long": -1.5819194444444444
+    },
+    "location": "Fountains Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-23T12:08:06.000+01:00",
+    "dimensions": {
+      "height": 2978,
+      "width": 3971
+    }
+  }
+}

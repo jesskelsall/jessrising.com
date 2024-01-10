@@ -1,0 +1,28 @@
+{
+  "title": "Beer Beach",
+  "meta": {
+    "gps": {
+      "lat": 50.69710277777777,
+      "long": -3.0901194444444444
+    },
+    "location": "Beer",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-20T14:12:27.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Durdle Door From Swyre Head",
+  "meta": {
+    "gps": {
+      "lat": 50.62303888888889,
+      "long": -2.2837444444444444
+    },
+    "location": "Lulworth",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-21T19:47:43.000+01:00",
+    "dimensions": {
+      "height": 3002,
+      "width": 4003
+    }
+  }
+}

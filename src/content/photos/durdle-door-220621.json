@@ -1,0 +1,28 @@
+{
+  "title": "Durdle Door",
+  "meta": {
+    "gps": {
+      "lat": 50.62201666666667,
+      "long": -2.2757444444444443
+    },
+    "location": "Lulworth",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-21T19:20:34.000+01:00",
+    "dimensions": {
+      "height": 3020,
+      "width": 4027
+    }
+  }
+}

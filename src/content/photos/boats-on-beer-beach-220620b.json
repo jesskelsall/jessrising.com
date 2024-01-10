@@ -1,0 +1,28 @@
+{
+  "title": "Boats on Beer Beach",
+  "meta": {
+    "gps": {
+      "lat": 50.696236111111105,
+      "long": -3.090825
+    },
+    "location": "Beer",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-20T16:43:16.000+01:00",
+    "dimensions": {
+      "height": 3016,
+      "width": 4022
+    }
+  }
+}

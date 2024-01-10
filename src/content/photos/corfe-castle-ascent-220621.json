@@ -1,0 +1,26 @@
+{
+  "title": "Corfe Castle Ascent",
+  "meta": {
+    "gps": {
+      "lat": 50.6404,
+      "long": -2.0596777777777775
+    },
+    "location": "Corfe Castle",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-21T10:50:59.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

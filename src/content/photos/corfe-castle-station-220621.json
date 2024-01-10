@@ -1,0 +1,30 @@
+{
+  "title": "Corfe Castle Station",
+  "meta": {
+    "gps": {
+      "lat": 50.63811111111111,
+      "long": -2.054736111111111
+    },
+    "location": "Corfe Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "People",
+      "Rail",
+      "Ruin",
+      "Steam"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-21T12:47:03.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

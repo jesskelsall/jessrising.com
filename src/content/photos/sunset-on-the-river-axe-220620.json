@@ -1,6 +1,10 @@
 {
   "title": "Sunset on the River Axe",
   "meta": {
+    "gps": {
+      "lat": 50.70476111111111,
+      "long": -3.059625
+    },
     "location": "Seaton",
     "tags": [
       "Landscape",
@@ -8,11 +12,7 @@
       "Boat",
       "Annual Top 10"
     ],
-    "gps": {
-      "lat": 50.70476111111111,
-      "long": -3.059625
-    },
-    "trip": null
+    "trip": "2022-06-20-southern-england"
   },
   "exif": {
     "camera": {

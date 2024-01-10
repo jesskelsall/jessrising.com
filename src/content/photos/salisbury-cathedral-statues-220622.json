@@ -1,0 +1,25 @@
+{
+  "title": "Salisbury Cathedral Statues",
+  "meta": {
+    "gps": {
+      "lat": 51.06486388888889,
+      "long": -1.7983583333333333
+    },
+    "location": "Salisbury Cathedral",
+    "tags": [
+      "Church/Cathedral"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-22T10:33:55.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

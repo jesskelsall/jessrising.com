@@ -1,0 +1,25 @@
+{
+  "title": "Roman Mosaic in the Salisbury Museum",
+  "meta": {
+    "gps": {
+      "lat": 51.064816666666665,
+      "long": -1.8002
+    },
+    "location": "Salisbury",
+    "tags": [
+      "Ruin"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-22T13:35:35.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

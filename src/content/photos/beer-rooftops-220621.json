@@ -1,0 +1,26 @@
+{
+  "title": "Beer Rooftops",
+  "meta": {
+    "gps": {
+      "lat": 50.700294444444445,
+      "long": -3.0937194444444445
+    },
+    "location": "Beer",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-21T06:18:43.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

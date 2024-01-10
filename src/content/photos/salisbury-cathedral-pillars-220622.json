@@ -1,0 +1,26 @@
+{
+  "title": "Salisbury Cathedral Pillars",
+  "meta": {
+    "gps": {
+      "lat": 51.06520555555555,
+      "long": -1.7975638888888887
+    },
+    "location": "Salisbury Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-22T11:23:50.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

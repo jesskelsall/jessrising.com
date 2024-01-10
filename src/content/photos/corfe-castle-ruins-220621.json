@@ -1,0 +1,27 @@
+{
+  "title": "Corfe Castle Ruins",
+  "meta": {
+    "gps": {
+      "lat": 50.64062222222222,
+      "long": -2.0586499999999996
+    },
+    "location": "Corfe Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Ruin"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-21T11:05:44.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

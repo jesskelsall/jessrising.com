@@ -1,0 +1,26 @@
+{
+  "title": "Salisbury Cathedral From the River",
+  "meta": {
+    "gps": {
+      "lat": 51.066861111111116,
+      "long": -1.8013305555555557
+    },
+    "location": "Salisbury",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-22T13:03:58.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

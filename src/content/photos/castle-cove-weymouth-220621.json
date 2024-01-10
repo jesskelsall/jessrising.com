@@ -1,0 +1,28 @@
+{
+  "title": "Castle Cove, Weymouth",
+  "meta": {
+    "gps": {
+      "lat": 50.59764444444445,
+      "long": -2.4596222222222224
+    },
+    "location": "Weymouth",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": "2022-06-20-southern-england"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-06-21T07:57:46.000+01:00",
+    "dimensions": {
+      "height": 3016,
+      "width": 4022
+    }
+  }
+}
