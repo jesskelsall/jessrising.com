@@ -1,0 +1,26 @@
+{
+  "title": "River Sligachan",
+  "meta": {
+    "location": "Sligachan",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.289791666666666,
+      "long": -6.172977777777778
+    }
+  },
+  "exif": {
+    "date": "2022-08-12T20:41:40.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

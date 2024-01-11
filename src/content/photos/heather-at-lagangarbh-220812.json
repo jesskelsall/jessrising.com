@@ -1,0 +1,26 @@
+{
+  "title": "Heather at Lagangarbh",
+  "meta": {
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 56.66401388888889,
+      "long": -4.904694444444445
+    }
+  },
+  "exif": {
+    "date": "2022-08-12T11:04:16.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Old Boat of Caol",
+  "meta": {
+    "location": "Fort William",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Clouds",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 56.841208333333334,
+      "long": -5.118113888888889
+    }
+  },
+  "exif": {
+    "date": "2022-08-12T12:44:35.000+01:00",
+    "dimensions": {
+      "height": 2932,
+      "width": 3910
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

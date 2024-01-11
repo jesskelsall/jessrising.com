@@ -1,0 +1,26 @@
+{
+  "title": "Lagangarbh Hut",
+  "meta": {
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 56.663977777777774,
+      "long": -4.904719444444445
+    }
+  },
+  "exif": {
+    "date": "2022-08-12T11:02:57.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Loch Loyne",
+  "meta": {
+    "location": "Glenshiel",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.11518888888889,
+      "long": -4.983422222222222
+    }
+  },
+  "exif": {
+    "date": "2022-08-12T13:45:47.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

@@ -292,6 +292,7 @@ export const locationHierarchy: LocationHierarchy = {
             "Neist Point": {},
           },
           Dunvegan: {},
+          Mingnish: {},
           Sleat: {
             Armadale: {},
             Isleornsay: {},
@@ -332,6 +333,7 @@ export const locationHierarchy: LocationHierarchy = {
             Balmacara: {},
             "Eilean Donan Castle": {},
             Glenelg: {},
+            Glenshiel: {},
             "Kyle of Lochalsh": {},
             "Ratagan Pass": {},
             "Strath Croe": {},
