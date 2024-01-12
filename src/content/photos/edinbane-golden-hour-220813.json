@@ -1,0 +1,28 @@
+{
+  "title": "Edinbane Golden Hour",
+  "meta": {
+    "location": "Isle of Skye",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Sheep",
+      "White House"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.47202222222222,
+      "long": -6.441688888888889
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T20:25:48.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

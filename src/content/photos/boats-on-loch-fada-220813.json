@@ -1,0 +1,27 @@
+{
+  "title": "Boats on Loch Fada",
+  "meta": {
+    "location": "Loch Fada",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Loch"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.46042222222223,
+      "long": -6.184027777777778
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T16:05:38.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

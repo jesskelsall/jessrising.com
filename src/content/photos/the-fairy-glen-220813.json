@@ -1,0 +1,26 @@
+{
+  "title": "The Fairy Glen",
+  "meta": {
+    "location": "Fairy Glen",
+    "tags": [
+      "Landscape",
+      "Mist"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.582322222222224,
+      "long": -6.324572222222222
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T09:56:11.000+01:00",
+    "dimensions": {
+      "height": 3006,
+      "width": 4008
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

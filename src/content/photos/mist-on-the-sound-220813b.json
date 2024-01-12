@@ -1,0 +1,28 @@
+{
+  "title": "Mist on the Sound",
+  "meta": {
+    "location": "Lealt Falls",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Mist",
+      "People"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.56616944444444,
+      "long": -6.150552777777778
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T15:38:59.000+01:00",
+    "dimensions": {
+      "height": 3014,
+      "width": 4019
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

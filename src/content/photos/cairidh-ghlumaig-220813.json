@@ -1,0 +1,27 @@
+{
+  "title": "Cairidh Ghlumaig",
+  "meta": {
+    "location": "Duntulm Castle",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.68147777777777,
+      "long": -6.345713888888889
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T13:05:18.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Trotternish Highland Cows",
+  "meta": {
+    "location": "Skye Museum of Island Life",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.66,
+      "long": -6.369288888888889
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T12:23:29.000+01:00",
+    "dimensions": {
+      "height": 2822,
+      "width": 3763
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Misty Precipice",
+  "meta": {
+    "location": "Mealt Falls",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Mist"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.61080277777778,
+      "long": -6.172086111111112
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T15:15:18.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

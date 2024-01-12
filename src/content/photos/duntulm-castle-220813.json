@@ -1,0 +1,29 @@
+{
+  "title": "Duntulm Castle",
+  "meta": {
+    "location": "Duntulm Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Clouds",
+      "Coast",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.684261111111105,
+      "long": -6.346975
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T13:18:22.000+01:00",
+    "dimensions": {
+      "height": 2936,
+      "width": 3915
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

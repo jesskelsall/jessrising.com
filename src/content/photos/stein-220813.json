@@ -1,0 +1,28 @@
+{
+  "title": "Stein",
+  "meta": {
+    "location": "Waternish",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.511002777777776,
+      "long": -6.5589249999999995
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T21:16:49.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

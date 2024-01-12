@@ -1,0 +1,26 @@
+{
+  "title": "Out Into the Little Minch",
+  "meta": {
+    "location": "Duntulm Castle",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 57.673605555555554,
+      "long": -6.352622222222222
+    }
+  },
+  "exif": {
+    "date": "2022-08-13T12:37:26.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
