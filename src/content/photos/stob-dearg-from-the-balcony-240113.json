@@ -1,0 +1,30 @@
+{
+  "title": "Stob Dearg from the Balcony",
+  "meta": {
+    "location": "Kingshouse Hotel",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Snow"
+    ],
+    "trip": "2024-01-12-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.02,
+        "focalLength": 52,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-01-13T09:21:52.000+00:00",
+    "dimensions": {
+      "height": 6130,
+      "width": 9195
+    }
+  }
+}

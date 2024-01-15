@@ -1,0 +1,30 @@
+{
+  "title": "Castle Stalker and Beinn na Cille",
+  "meta": {
+    "location": "Appin",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Loch"
+    ],
+    "trip": "2024-01-12-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 209,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    },
+    "date": "2024-01-14T11:08:44.000+00:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}

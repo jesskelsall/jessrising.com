@@ -1,0 +1,29 @@
+{
+  "title": "Pap of Glencoe and Sgorr nam Fiannaidh",
+  "meta": {
+    "location": "Glen Coe",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2024-01-12-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-01-13T14:17:48.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

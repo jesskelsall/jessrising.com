@@ -192,6 +192,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Rattray Head": {},
       },
       "🗺️ Argyll & Bute": {
+        Appin: {},
         Cowal: {
           "Puck's Glen": {},
         },

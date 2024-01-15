@@ -1,0 +1,30 @@
+{
+  "title": "Coire na Tulaich",
+  "meta": {
+    "location": "Lagangarbh",
+    "tags": [
+      "Landscape",
+      "People",
+      "Snow"
+    ],
+    "trip": "2024-01-12-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2024-01-13T13:14:36.000+00:00",
+    "dimensions": {
+      "height": 5735,
+      "width": 8602
+    }
+  }
+}

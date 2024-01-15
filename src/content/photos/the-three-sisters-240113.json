@@ -1,0 +1,29 @@
+{
+  "title": "The Three Sisters",
+  "meta": {
+    "location": "The Three Sisters",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2024-01-12-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.008,
+        "focalLength": 35,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-01-13T13:30:59.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
