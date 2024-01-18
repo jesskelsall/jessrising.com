@@ -147,6 +147,7 @@ export const locationHierarchy: LocationHierarchy = {
         "St Mary's Lighthouse": {},
       },
       "🗺️ Northumberland": {
+        Bamburgh: {},
         Cragside: {},
         "Dunstanburgh Castle": {},
         "Hadrian's Wall": {},
