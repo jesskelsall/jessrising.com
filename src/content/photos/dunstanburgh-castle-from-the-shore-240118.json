@@ -1,0 +1,31 @@
+{
+  "title": "Dunstanburgh Castle from the Shore",
+  "meta": {
+    "location": "Dunstanburgh Castle",
+    "tags": [
+      "Astro",
+      "Castle",
+      "Coast",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-18T22:32:50.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 30,
+        "focalLength": 24,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    }
+  }
+}
