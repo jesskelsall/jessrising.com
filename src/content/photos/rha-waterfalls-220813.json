@@ -1,27 +1,27 @@
 {
   "title": "Rha Waterfalls",
   "meta": {
+    "gps": {
+      "lat": 57.589475,
+      "long": -6.360388888888888
+    },
     "location": "Uig",
     "tags": [
       "Landscape",
       "Forest",
       "Waterfall"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.589475,
-      "long": -6.360388888888888
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-13T10:40:21.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

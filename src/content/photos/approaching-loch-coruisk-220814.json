@@ -1,17 +1,19 @@
 {
   "title": "Approaching Loch Coruisk",
   "meta": {
-    "location": "Loch Coruisk",
-    "tags": [
-      "Landscape",
-      "Loch",
-      "Annual Top 10"
-    ],
     "gps": {
       "lat": 57.19639166666666,
       "long": -6.166155555555556
     },
-    "trip": null
+    "location": "Loch Coruisk",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast",
+      "People",
+      "Annual Top 10"
+    ],
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
     "camera": {

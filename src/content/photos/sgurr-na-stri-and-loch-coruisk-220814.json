@@ -1,23 +1,23 @@
 {
-  "title": "The Quiraing Shrouded",
+  "title": "Sgùrr na Stri and Loch Coruisk",
   "meta": {
     "gps": {
-      "lat": 57.62815833333333,
-      "long": -6.289416666666667
+      "lat": 57.20060277777778,
+      "long": -6.160808333333334
     },
-    "location": "The Quiraing",
+    "location": "Loch Coruisk",
     "tags": [
       "Landscape",
-      "Mist"
+      "Loch"
     ],
     "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
     "camera": {
       "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
+      "lens": "Main Camera"
     },
-    "date": "2022-08-13T14:16:40.000+01:00",
+    "date": "2022-08-14T12:11:27.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

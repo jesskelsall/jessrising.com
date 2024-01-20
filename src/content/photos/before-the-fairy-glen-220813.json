@@ -1,25 +1,25 @@
 {
   "title": "Before the Fairy Glen",
   "meta": {
+    "gps": {
+      "lat": 57.58377777777778,
+      "long": -6.327138888888888
+    },
     "location": "Fairy Glen",
     "tags": [
       "Landscape"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.58377777777778,
-      "long": -6.327138888888888
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-13T09:38:25.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

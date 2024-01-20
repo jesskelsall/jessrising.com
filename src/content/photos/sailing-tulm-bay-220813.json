@@ -1,6 +1,10 @@
 {
   "title": "Sailing Tulm Bay",
   "meta": {
+    "gps": {
+      "lat": 57.68420277777778,
+      "long": -6.347005555555556
+    },
     "location": "Duntulm Castle",
     "tags": [
       "Landscape",
@@ -8,21 +12,17 @@
       "Coast",
       "Sheep"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.68420277777778,
-      "long": -6.347005555555556
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2022-08-13T13:18:39.000+01:00",
     "dimensions": {
       "height": 2984,
       "width": 3979
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

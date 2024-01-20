@@ -1,26 +1,26 @@
 {
   "title": "Lagangarbh Hut and Buachaille Etive Mòr",
   "meta": {
+    "gps": {
+      "lat": 56.66280833333333,
+      "long": -4.902997222222223
+    },
     "location": "Lagangarbh",
     "tags": [
       "Landscape",
       "White House"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 56.66280833333333,
-      "long": -4.902997222222223
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-12T11:11:17.000+01:00",
     "dimensions": {
       "height": 2936,
       "width": 3915
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

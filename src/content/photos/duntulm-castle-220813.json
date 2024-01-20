@@ -1,6 +1,10 @@
 {
   "title": "Duntulm Castle",
   "meta": {
+    "gps": {
+      "lat": 57.684261111111105,
+      "long": -6.346975
+    },
     "location": "Duntulm Castle",
     "tags": [
       "Landscape",
@@ -9,21 +13,17 @@
       "Coast",
       "Ruin"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.684261111111105,
-      "long": -6.346975
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-13T13:18:22.000+01:00",
     "dimensions": {
       "height": 2936,
       "width": 3915
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "title": "Àrd Beag, Trumpan",
   "meta": {
+    "gps": {
+      "lat": 57.55203611111111,
+      "long": -6.637416666666666
+    },
     "location": "Waternish",
     "tags": [
       "Landscape",
@@ -9,21 +13,17 @@
       "Coast",
       "Sunrise/Sunset"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.55203611111111,
-      "long": -6.637416666666666
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2022-08-13T20:56:11.000+01:00",
     "dimensions": {
       "height": 2998,
       "width": 3998
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

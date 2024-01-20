@@ -1,27 +1,27 @@
 {
   "title": "Loch Long, Dornie",
   "meta": {
+    "gps": {
+      "lat": 57.28981388888889,
+      "long": -5.514905555555556
+    },
     "location": "Kintail",
     "tags": [
       "Landscape",
       "Boat",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.28981388888889,
-      "long": -5.514905555555556
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2022-08-12T15:51:02.000+01:00",
     "dimensions": {
       "height": 2986,
       "width": 3982
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

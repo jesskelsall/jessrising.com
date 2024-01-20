@@ -1,14 +1,13 @@
 {
-  "title": "Loch Loyne",
+  "title": "The Blue Mountain",
   "meta": {
     "gps": {
-      "lat": 57.11518888888889,
-      "long": -4.983422222222222
+      "lat": 57.22497222222223,
+      "long": -6.030525
     },
-    "location": "Glenshiel",
+    "location": "Strathaird",
     "tags": [
-      "Landscape",
-      "Loch"
+      "Landscape"
     ],
     "trip": "2022-08-12-isle-of-skye"
   },
@@ -17,7 +16,7 @@
       "name": "Apple iPhone 11 Pro Max",
       "lens": "Telephoto Camera"
     },
-    "date": "2022-08-12T13:45:47.000+01:00",
+    "date": "2022-08-14T14:23:16.000+01:00",
     "dimensions": {
       "height": 3010,
       "width": 4014

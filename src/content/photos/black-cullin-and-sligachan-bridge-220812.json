@@ -1,27 +1,27 @@
 {
   "title": "Black Cullin and Sligachan Bridge",
   "meta": {
+    "gps": {
+      "lat": 57.29021944444444,
+      "long": -6.172961111111111
+    },
     "location": "Sligachan",
     "tags": [
       "Landscape",
       "Bridge",
       "Clouds"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.29021944444444,
-      "long": -6.172961111111111
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-12T20:45:05.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

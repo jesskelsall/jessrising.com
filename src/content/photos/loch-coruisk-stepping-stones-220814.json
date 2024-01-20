@@ -1,11 +1,11 @@
 {
-  "title": "Loch Loyne",
+  "title": "Loch Coruisk Stepping Stones",
   "meta": {
     "gps": {
-      "lat": 57.11518888888889,
-      "long": -4.983422222222222
+      "lat": 57.19894444444444,
+      "long": -6.158172222222222
     },
-    "location": "Glenshiel",
+    "location": "Loch Coruisk",
     "tags": [
       "Landscape",
       "Loch"
@@ -15,9 +15,9 @@
   "exif": {
     "camera": {
       "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
+      "lens": "Main Camera"
     },
-    "date": "2022-08-12T13:45:47.000+01:00",
+    "date": "2022-08-14T12:49:42.000+01:00",
     "dimensions": {
       "height": 3010,
       "width": 4014

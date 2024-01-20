@@ -1,6 +1,10 @@
 {
   "title": "Ardmore House",
   "meta": {
+    "gps": {
+      "lat": 57.57203333333334,
+      "long": -6.5879361111111105
+    },
     "location": "Waternish",
     "tags": [
       "Landscape",
@@ -8,21 +12,17 @@
       "Sunrise/Sunset",
       "White House"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.57203333333334,
-      "long": -6.5879361111111105
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2022-08-13T21:00:06.000+01:00",
     "dimensions": {
       "height": 2976,
       "width": 3969
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

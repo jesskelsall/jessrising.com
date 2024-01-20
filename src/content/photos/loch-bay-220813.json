@@ -1,27 +1,27 @@
 {
   "title": "Loch Bay",
   "meta": {
+    "gps": {
+      "lat": 57.50978888888889,
+      "long": -6.558202777777778
+    },
     "location": "Waternish",
     "tags": [
       "Landscape",
       "Clouds",
       "Coast"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.50978888888889,
-      "long": -6.558202777777778
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2022-08-13T17:23:21.000+01:00",
     "dimensions": {
       "height": 3010,
       "width": 4014
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

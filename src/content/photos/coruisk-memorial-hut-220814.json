@@ -1,23 +1,23 @@
 {
-  "title": "The Quiraing Shrouded",
+  "title": "Coruisk Memorial Hut",
   "meta": {
     "gps": {
-      "lat": 57.62815833333333,
-      "long": -6.289416666666667
+      "lat": 57.198338888888884,
+      "long": -6.160188888888889
     },
-    "location": "The Quiraing",
+    "location": "Loch Coruisk",
     "tags": [
       "Landscape",
-      "Mist"
+      "White House"
     ],
     "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
     "camera": {
       "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
+      "lens": "Main Camera"
     },
-    "date": "2022-08-13T14:16:40.000+01:00",
+    "date": "2022-08-14T12:59:59.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

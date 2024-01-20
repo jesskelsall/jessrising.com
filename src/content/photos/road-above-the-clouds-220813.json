@@ -1,27 +1,27 @@
 {
   "title": "Road Above the Clouds",
   "meta": {
+    "gps": {
+      "lat": 57.542655555555555,
+      "long": -6.146019444444445
+    },
     "location": "Trotternish",
     "tags": [
       "Landscape",
       "Clouds",
       "Road"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.542655555555555,
-      "long": -6.146019444444445
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
     "date": "2022-08-13T15:50:38.000+01:00",
     "dimensions": {
       "height": 2992,
       "width": 3990
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
     }
   }
 }

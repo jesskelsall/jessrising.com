@@ -1,27 +1,27 @@
 {
   "title": "Loch Cluanie",
   "meta": {
+    "gps": {
+      "lat": 57.14774722222222,
+      "long": -5.014722222222222
+    },
     "location": "Glenshiel",
     "tags": [
       "Landscape",
       "Flowers & Insects",
       "Loch"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.14774722222222,
-      "long": -5.014722222222222
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-12T13:56:24.000+01:00",
     "dimensions": {
       "height": 2994,
       "width": 3992
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }

@@ -1,26 +1,26 @@
 {
   "title": "Eilean Donan Castle From the Island",
   "meta": {
+    "gps": {
+      "lat": 57.27433333333333,
+      "long": -5.516277777777778
+    },
     "location": "Eilean Donan Castle",
     "tags": [
       "Landscape",
       "Castle"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.27433333333333,
-      "long": -5.516277777777778
-    }
+    "trip": "2022-08-12-isle-of-skye"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
     "date": "2022-08-12T15:13:42.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
     }
   }
 }
