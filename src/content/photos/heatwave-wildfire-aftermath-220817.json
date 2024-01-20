@@ -1,0 +1,25 @@
+{
+  "title": "Heatwave Wildfire Aftermath",
+  "meta": {
+    "location": "Home",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.86575277777778,
+      "long": -1.602813888888889
+    }
+  },
+  "exif": {
+    "date": "2022-08-17T17:55:17.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}
