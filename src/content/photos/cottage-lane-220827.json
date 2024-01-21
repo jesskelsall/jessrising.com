@@ -1,0 +1,25 @@
+{
+  "title": "Cottage Lane",
+  "meta": {
+    "gps": {
+      "lat": 52.19048055555555,
+      "long": -1.731513888888889
+    },
+    "location": "Stratford-upon-Avon",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-27-stratford-upon-avon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-27T12:39:58.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

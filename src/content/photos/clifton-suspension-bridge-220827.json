@@ -1,0 +1,26 @@
+{
+  "title": "Clifton Suspension Bridge",
+  "meta": {
+    "gps": {
+      "lat": 51.45697777777778,
+      "long": -2.6277083333333335
+    },
+    "location": "Bristol",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2022-08-27-stratford-upon-avon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-27T19:11:00.000+01:00",
+    "dimensions": {
+      "height": 2693,
+      "width": 3591
+    }
+  }
+}

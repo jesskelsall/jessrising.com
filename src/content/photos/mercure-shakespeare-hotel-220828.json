@@ -1,0 +1,25 @@
+{
+  "title": "Mercure Shakespeare Hotel",
+  "meta": {
+    "gps": {
+      "lat": 52.19146666666666,
+      "long": -1.7071388888888888
+    },
+    "location": "Stratford-upon-Avon",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-27-stratford-upon-avon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-08-28T08:43:22.000+01:00",
+    "dimensions": {
+      "height": 2769,
+      "width": 3693
+    }
+  }
+}

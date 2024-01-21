@@ -1,0 +1,26 @@
+{
+  "title": "Clifton Suspension Bridge Through the Trees",
+  "meta": {
+    "gps": {
+      "lat": 51.45628055555556,
+      "long": -2.625786111111111
+    },
+    "location": "Bristol",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2022-08-27-stratford-upon-avon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-27T19:34:00.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

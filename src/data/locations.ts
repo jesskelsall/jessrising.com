@@ -8,6 +8,7 @@ import { LocationHierarchy } from "../types/location";
 export const locationHierarchy: LocationHierarchy = {
   "🇬🇧 United Kingdom": {
     "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England": {
+      "🏙️ Bristol": {},
       "🗺️ County Durham": {
         "🏙️ Durham": {
           "Durham Cathedral": {},
@@ -133,6 +134,7 @@ export const locationHierarchy: LocationHierarchy = {
         Lulworth: {},
         Weymouth: {},
       },
+      "🗺️ Gloucestershire": {},
       "🏙️ London": {
         "London Bridge": {},
         "London Underground": {},
@@ -154,6 +156,9 @@ export const locationHierarchy: LocationHierarchy = {
         "Hadrian's Wall": {},
         Lindisfarne: {},
         Seahouses: {},
+      },
+      "🗺️ Warwickshire": {
+        "Stratford-upon-Avon": {},
       },
       "🗺️ Wiltshire": {
         Salisbury: {

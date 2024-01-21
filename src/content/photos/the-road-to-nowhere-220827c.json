@@ -1,0 +1,26 @@
+{
+  "title": "The Road to Nowhere",
+  "meta": {
+    "gps": {
+      "lat": 51.53142222222222,
+      "long": -2.433738888888889
+    },
+    "location": "Gloucestershire",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": "2022-08-27-stratford-upon-avon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-27T18:22:11.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
