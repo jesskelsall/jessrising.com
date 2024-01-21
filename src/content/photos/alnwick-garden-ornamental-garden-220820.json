@@ -1,0 +1,26 @@
+{
+  "title": "Alnwick Garden Ornamental Garden",
+  "meta": {
+    "gps": {
+      "lat": 55.41226944444444,
+      "long": -1.7005083333333333
+    },
+    "location": "Alnwick",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2022-08-20-the-alnwick-garden"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-20T10:35:59.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    }
+  }
+}

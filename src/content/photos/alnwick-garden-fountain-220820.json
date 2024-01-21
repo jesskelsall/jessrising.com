@@ -1,0 +1,25 @@
+{
+  "title": "Alnwick Garden Fountain",
+  "meta": {
+    "gps": {
+      "lat": 55.413425,
+      "long": -1.7011388888888888
+    },
+    "location": "Alnwick",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-08-20-the-alnwick-garden"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2022-08-20T11:04:44.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
