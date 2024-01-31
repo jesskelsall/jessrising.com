@@ -9,6 +9,7 @@ export const locationHierarchy: LocationHierarchy = {
   "🇬🇧 United Kingdom": {
     "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England": {
       "🏙️ Bristol": {},
+      "🗺️ Cornwall": {},
       "🗺️ County Durham": {
         "🏙️ Durham": {
           "Durham Cathedral": {},
@@ -157,6 +158,9 @@ export const locationHierarchy: LocationHierarchy = {
         Lindisfarne: {},
         Seahouses: {},
       },
+      "🗺️ Somerset": {
+        Wells: {},
+      },
       "🗺️ Warwickshire": {
         "Stratford-upon-Avon": {},
       },
@@ -195,6 +199,7 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland": {
       "🗺️ Aberdeenshire": {
+        "🏙️ Aberdeen": {},
         Crovie: {},
         "Rattray Head": {},
       },
@@ -497,6 +502,15 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Scottish Borders": {},
+      "🗺️ Shetland": {
+        Mainland: {
+          Scalloway: {},
+          "St Ninian's Isle": {},
+          "West Burra": {},
+        },
+        Unst: {},
+        Yell: {},
+      },
     },
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {
       "🏞️ Bannau Brycheiniog": {

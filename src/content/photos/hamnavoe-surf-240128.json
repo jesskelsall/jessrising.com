@@ -1,0 +1,29 @@
+{
+  "title": "Hamnavoe Surf",
+  "meta": {
+    "location": "West Burra",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-28T10:46:29.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 271,
+        "fStop": 5.6,
+        "ISO": 1600
+      }
+    }
+  }
+}

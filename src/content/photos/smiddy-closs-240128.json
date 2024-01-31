@@ -1,0 +1,29 @@
+{
+  "title": "Smiddy Closs",
+  "meta": {
+    "location": "Scalloway",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-28T11:30:49.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 37,
+        "fStop": 8,
+        "ISO": 320
+      }
+    }
+  }
+}

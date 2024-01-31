@@ -1,0 +1,29 @@
+{
+  "title": "Bridge End Marina",
+  "meta": {
+    "location": "West Burra",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-28T10:14:41.000+00:00",
+    "dimensions": {
+      "height": 5953,
+      "width": 8930
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 48,
+        "fStop": 13,
+        "ISO": 1250
+      }
+    }
+  }
+}
