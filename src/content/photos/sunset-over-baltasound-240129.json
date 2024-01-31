@@ -1,0 +1,28 @@
+{
+  "title": "Sunset Over Baltasound",
+  "meta": {
+    "location": "Unst",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-29T15:18:51.000+00:00",
+    "dimensions": {
+      "height": 5373,
+      "width": 8060
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0003124999930150742,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

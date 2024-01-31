@@ -1,0 +1,29 @@
+{
+  "title": "Norwick, Unst",
+  "meta": {
+    "location": "Unst",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-29T14:08:12.000+00:00",
+    "dimensions": {
+      "height": 5747,
+      "width": 8621
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

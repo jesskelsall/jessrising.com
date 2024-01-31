@@ -1,0 +1,29 @@
+{
+  "title": "MV Geira",
+  "meta": {
+    "location": "Unst",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-29T15:44:01.000+00:00",
+    "dimensions": {
+      "height": 6037,
+      "width": 9056
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}
