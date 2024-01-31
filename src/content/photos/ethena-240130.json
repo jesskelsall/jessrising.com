@@ -1,0 +1,28 @@
+{
+  "title": "Ethena",
+  "meta": {
+    "location": "Lerwick",
+    "tags": [
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-30T10:49:07.000+00:00",
+    "dimensions": {
+      "height": 6213,
+      "width": 9319
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 55,
+        "fStop": 8,
+        "ISO": 160
+      }
+    }
+  }
+}

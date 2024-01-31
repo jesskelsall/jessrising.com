@@ -1,0 +1,30 @@
+{
+  "title": "Galley on the Move",
+  "meta": {
+    "location": "Lerwick",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-30T09:49:06.000+00:00",
+    "dimensions": {
+      "height": 5920,
+      "width": 8880
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.00019999999494630462,
+        "focalLength": 105,
+        "fStop": 7.1,
+        "ISO": 500
+      }
+    }
+  }
+}

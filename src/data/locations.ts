@@ -505,6 +505,7 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Shetland": {
         Mainland: {
           "Esha Ness": {},
+          Lerwick: {},
           Scalloway: {},
           "St Ninian's Isle": {},
           "West Burra": {},
