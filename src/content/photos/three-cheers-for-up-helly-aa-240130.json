@@ -1,0 +1,29 @@
+{
+  "title": "Three Cheers for Up Helly Aa",
+  "meta": {
+    "location": "Lerwick",
+    "tags": [
+      "Boat",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-30T20:22:03.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 100,
+        "fStop": 5.6,
+        "ISO": 4000
+      }
+    }
+  }
+}

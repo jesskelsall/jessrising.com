@@ -1,0 +1,28 @@
+{
+  "title": "Ethena's Prow Ablaze",
+  "meta": {
+    "location": "Lerwick",
+    "tags": [
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-30T20:34:24.000+00:00",
+    "dimensions": {
+      "height": 5503,
+      "width": 8255
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0025,
+        "focalLength": 388,
+        "fStop": 5.6,
+        "ISO": 1600
+      }
+    }
+  }
+}

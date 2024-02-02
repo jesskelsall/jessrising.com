@@ -1,0 +1,28 @@
+{
+  "title": "Ethena Ablaze",
+  "meta": {
+    "location": "Lerwick",
+    "tags": [
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-01-30T20:31:34.000+00:00",
+    "dimensions": {
+      "height": 6027,
+      "width": 9040
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 160
+      }
+    }
+  }
+}
