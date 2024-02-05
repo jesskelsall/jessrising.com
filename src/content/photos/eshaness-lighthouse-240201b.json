@@ -3,26 +3,27 @@
   "meta": {
     "location": "Eshaness Lighthouse",
     "tags": [
-      "Astro",
+      "Landscape",
+      "Coast",
       "Lighthouse"
     ],
     "trip": null
   },
   "exif": {
-    "date": "2024-01-29T21:04:04.000+00:00",
+    "date": "2024-02-01T12:44:13.000+00:00",
     "dimensions": {
-      "height": 6100,
-      "width": 9150
+      "height": 6242,
+      "width": 9364
     },
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 24mm F1.4",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 2.5,
-        "focalLength": 24,
-        "fStop": 1.4,
-        "ISO": 2500
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
       }
     }
   }

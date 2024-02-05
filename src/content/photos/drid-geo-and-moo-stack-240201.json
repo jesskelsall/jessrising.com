@@ -1,0 +1,29 @@
+{
+  "title": "Drid Geo and Moo Stack",
+  "meta": {
+    "location": "Eshaness Lighthouse",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-01T12:28:41.000+00:00",
+    "dimensions": {
+      "height": 5695,
+      "width": 8542
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 43,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}
