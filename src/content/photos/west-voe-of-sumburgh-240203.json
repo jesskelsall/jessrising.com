@@ -1,0 +1,30 @@
+{
+  "title": "West Voe of Sumburgh",
+  "meta": {
+    "location": "Sumburgh",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T10:49:59.000+00:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 43,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    }
+  }
+}

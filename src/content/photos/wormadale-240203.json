@@ -1,0 +1,28 @@
+{
+  "title": "Wormadale",
+  "meta": {
+    "location": "Weisdale & Whiteness",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T14:19:26.000+00:00",
+    "dimensions": {
+      "height": 5951,
+      "width": 8927
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}

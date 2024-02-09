@@ -1,0 +1,29 @@
+{
+  "title": "Jarlshof Ruins",
+  "meta": {
+    "location": "Jarlshof Prehistoric & Norse Settlement",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T10:41:15.000+00:00",
+    "dimensions": {
+      "height": 5317,
+      "width": 7975
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 51,
+        "fStop": 8,
+        "ISO": 125
+      }
+    }
+  }
+}

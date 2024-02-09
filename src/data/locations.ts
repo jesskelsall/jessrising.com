@@ -510,6 +510,10 @@ export const locationHierarchy: LocationHierarchy = {
           Lerwick: {},
           Scalloway: {},
           "St Ninian's Isle": {},
+          Sumburgh: {
+            "Jarlshof Prehistoric & Norse Settlement": {},
+            "Sumburgh Head": {},
+          },
           "Weisdale & Whiteness": {},
           "West Burra": {},
         },

@@ -1,0 +1,30 @@
+{
+  "title": "Jarlshof Wheelhouse",
+  "meta": {
+    "location": "Jarlshof Prehistoric & Norse Settlement",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T10:27:38.000+00:00",
+    "dimensions": {
+      "height": 6160,
+      "width": 9241
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 27,
+        "fStop": 22,
+        "ISO": 320
+      }
+    }
+  }
+}

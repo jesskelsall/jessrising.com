@@ -1,0 +1,26 @@
+{
+  "title": "Sunny Shetland Flag",
+  "meta": {
+    "location": "Sumburgh",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T11:00:19.000+00:00",
+    "dimensions": {
+      "height": 5587,
+      "width": 8381
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -5,
+        "exposureTime": 0.000125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    }
+  }
+}

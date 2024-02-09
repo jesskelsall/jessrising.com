@@ -1,0 +1,29 @@
+{
+  "title": "Scord of Weisdale",
+  "meta": {
+    "location": "Weisdale & Whiteness",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T14:02:01.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 56,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}

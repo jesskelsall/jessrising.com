@@ -1,0 +1,30 @@
+{
+  "title": "Sumburgh Head from Jarlshof",
+  "meta": {
+    "location": "Sumburgh",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-03T11:09:59.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00019999999494630462,
+        "focalLength": 179,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    }
+  }
+}
