@@ -7,14 +7,9 @@
       "Coast",
       "Lighthouse"
     ],
-    "trip": null
+    "trip": "2024-01-27-shetland"
   },
   "exif": {
-    "date": "2024-02-03T11:09:59.000+00:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -25,6 +20,11 @@
         "fStop": 5.6,
         "ISO": 125
       }
+    },
+    "date": "2024-02-03T11:09:59.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

@@ -6,14 +6,9 @@
       "Landscape",
       "Coast"
     ],
-    "trip": null
+    "trip": "2024-01-27-shetland"
   },
   "exif": {
-    "date": "2024-02-03T11:54:53.000+00:00",
-    "dimensions": {
-      "height": 6304,
-      "width": 9457
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -24,6 +19,11 @@
         "fStop": 5.6,
         "ISO": 125
       }
+    },
+    "date": "2024-02-03T11:54:53.000+00:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
     }
   }
 }

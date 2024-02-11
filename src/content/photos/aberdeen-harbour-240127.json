@@ -1,26 +1,26 @@
 {
   "title": "Aberdeen Harbour",
   "meta": {
+    "gps": {
+      "lat": 57.145291666666665,
+      "long": -2.091416666666667
+    },
     "location": "Aberdeen",
     "tags": [
       "Landscape",
       "Boat"
     ],
-    "trip": null,
-    "gps": {
-      "lat": 57.145291666666665,
-      "long": -2.091416666666667
-    }
+    "trip": "2024-01-27-shetland"
   },
   "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    },
     "date": "2024-01-27T16:05:19.000+00:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
-    },
-    "camera": {
-      "name": "Apple iPhone 14 Pro Max",
-      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
     }
   }
 }

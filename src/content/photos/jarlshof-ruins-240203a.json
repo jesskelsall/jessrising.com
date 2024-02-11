@@ -7,14 +7,9 @@
       "Lighthouse",
       "Ruin"
     ],
-    "trip": null
+    "trip": "2024-01-27-shetland"
   },
   "exif": {
-    "date": "2024-02-03T10:30:40.000+00:00",
-    "dimensions": {
-      "height": 6130,
-      "width": 9195
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 11,
         "ISO": 125
       }
+    },
+    "date": "2024-02-03T10:30:40.000+00:00",
+    "dimensions": {
+      "height": 6130,
+      "width": 9195
     }
   }
 }

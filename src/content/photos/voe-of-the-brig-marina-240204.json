@@ -1,9 +1,10 @@
 {
-  "title": "The Lodberrie",
+  "title": "Voe of the Brig Marina",
   "meta": {
-    "location": "Lerwick",
+    "location": "North Roe",
     "tags": [
       "Landscape",
+      "Boat",
       "Coast"
     ],
     "trip": "2024-01-27-shetland"
@@ -14,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.3,
-        "exposureTime": 0.008,
-        "focalLength": 27,
-        "fStop": 3.2,
-        "ISO": 100
+        "exposureTime": 0.00019999999494630462,
+        "focalLength": 47,
+        "fStop": 5,
+        "ISO": 125
       }
     },
-    "date": "2024-01-30T14:57:51.000+00:00",
+    "date": "2024-02-04T11:04:19.000+00:00",
     "dimensions": {
-      "height": 5509,
-      "width": 8263
+      "height": 6218,
+      "width": 9328
     }
   }
 }

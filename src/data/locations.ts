@@ -508,6 +508,8 @@ export const locationHierarchy: LocationHierarchy = {
             "Eshaness Lighthouse": {},
           },
           Lerwick: {},
+          Lunnasting: {},
+          "North Roe": {},
           Scalloway: {},
           "St Ninian's Isle": {},
           Sumburgh: {

@@ -1,10 +1,10 @@
 {
-  "title": "Sumburgh Airport Runway",
+  "title": "Voe",
   "meta": {
-    "location": "Sumburgh",
+    "location": "Mainland",
     "tags": [
       "Landscape",
-      "Sheep"
+      "Boat"
     ],
     "trip": "2024-01-27-shetland"
   },
@@ -13,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.0005,
+        "exposureBias": -0.7,
+        "exposureTime": 0.0015625,
         "focalLength": 70,
         "fStop": 2.8,
         "ISO": 125
       }
     },
-    "date": "2024-02-03T12:07:06.000+00:00",
+    "date": "2024-02-04T12:01:15.000+00:00",
     "dimensions": {
-      "height": 5024,
-      "width": 7536
+      "height": 6304,
+      "width": 9457
     }
   }
 }

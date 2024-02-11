@@ -1,10 +1,10 @@
 {
-  "title": "Sumburgh Airport Runway",
+  "title": "Ruins Amongst the Town",
   "meta": {
-    "location": "Sumburgh",
+    "location": "Lerwick",
     "tags": [
       "Landscape",
-      "Sheep"
+      "Ruin"
     ],
     "trip": "2024-01-27-shetland"
   },
@@ -14,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.0005,
-        "focalLength": 70,
-        "fStop": 2.8,
-        "ISO": 125
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 16,
+        "ISO": 200
       }
     },
-    "date": "2024-02-03T12:07:06.000+00:00",
+    "date": "2024-02-04T14:17:27.000+00:00",
     "dimensions": {
-      "height": 5024,
-      "width": 7536
+      "height": 6274,
+      "width": 9412
     }
   }
 }

@@ -1,10 +1,9 @@
 {
-  "title": "The Lodberrie",
+  "title": "Clickimin Broch Interior",
   "meta": {
     "location": "Lerwick",
     "tags": [
-      "Landscape",
-      "Coast"
+      "Ruin"
     ],
     "trip": "2024-01-27-shetland"
   },
@@ -14,16 +13,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.3,
-        "exposureTime": 0.008,
-        "focalLength": 27,
-        "fStop": 3.2,
-        "ISO": 100
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 16,
+        "ISO": 500
       }
     },
-    "date": "2024-01-30T14:57:51.000+00:00",
+    "date": "2024-02-04T14:19:22.000+00:00",
     "dimensions": {
-      "height": 5509,
-      "width": 8263
+      "height": 6304,
+      "width": 9457
     }
   }
 }

@@ -1,9 +1,10 @@
 {
-  "title": "Wormadale",
+  "title": "North Collafirth",
   "meta": {
-    "location": "Weisdale & Whiteness",
+    "location": "North Roe",
     "tags": [
-      "Landscape"
+      "Landscape",
+      "Coast"
     ],
     "trip": "2024-01-27-shetland"
   },
@@ -14,15 +15,15 @@
       "settings": {
         "exposureBias": -0.3,
         "exposureTime": 0.0012499999720602967,
-        "focalLength": 70,
-        "fStop": 2.8,
+        "focalLength": 54,
+        "fStop": 5,
         "ISO": 125
       }
     },
-    "date": "2024-02-03T14:19:26.000+00:00",
+    "date": "2024-02-04T11:00:59.000+00:00",
     "dimensions": {
-      "height": 5951,
-      "width": 8927
+      "height": 5569,
+      "width": 8354
     }
   }
 }
