@@ -1,0 +1,28 @@
+{
+  "title": "Noctalgia",
+  "meta": {
+    "location": "Hadrian's Wall",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-11T10:12:23.000+00:00",
+    "dimensions": {
+      "height": 5868,
+      "width": 8802
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 60,
+        "fStop": 4,
+        "ISO": 1600
+      }
+    }
+  }
+}
