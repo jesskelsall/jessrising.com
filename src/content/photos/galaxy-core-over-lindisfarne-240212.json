@@ -1,0 +1,28 @@
+{
+  "title": "Galaxy Core Over Lindisfarne",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Astro"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-12T00:28:28.000+00:00",
+    "dimensions": {
+      "height": 6214,
+      "width": 9322
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 8,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 2000
+      }
+    }
+  }
+}
