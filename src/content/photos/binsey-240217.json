@@ -1,0 +1,25 @@
+{
+  "title": "Binsey",
+  "meta": {
+    "location": "Uldale Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.70879722222222,
+      "long": -3.204191666666667
+    }
+  },
+  "exif": {
+    "date": "2024-02-17T10:36:35.000+00:00",
+    "dimensions": {
+      "height": 2900,
+      "width": 3867
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Sale Fell",
+  "meta": {
+    "gps": {
+      "lat": 54.655625,
+      "long": -3.250286111111111
+    },
+    "location": "Wythop",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Wainwright"
+    ],
+    "trip": "2024-02-17-sale-fell-ling-fell-binsey"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    },
+    "date": "2024-02-17T07:52:33.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

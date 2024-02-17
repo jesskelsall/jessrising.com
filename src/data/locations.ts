@@ -22,6 +22,13 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Cumbria": {
         "🏞️ Lake District": {
+          "Lakes North": {
+            "Uldale Fells": {},
+          },
+          "Bassenthwaite Lake": {
+            "Whinlatter Forest": {},
+            Wythop: {},
+          },
           "Birker Fell": {},
           "Borrowdale Fells": {
             Seathwaite: {

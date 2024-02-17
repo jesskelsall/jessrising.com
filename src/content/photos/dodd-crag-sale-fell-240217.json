@@ -1,0 +1,25 @@
+{
+  "title": "Dodd Crag, Sale Fell",
+  "meta": {
+    "gps": {
+      "lat": 54.653705555555554,
+      "long": -3.259872222222222
+    },
+    "location": "Wythop",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-02-17-sale-fell-ling-fell-binsey"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    },
+    "date": "2024-02-17T07:37:55.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

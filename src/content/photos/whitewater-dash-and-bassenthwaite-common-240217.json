@@ -1,0 +1,27 @@
+{
+  "title": "Whitewater Dash and Bassenthwaite Common",
+  "meta": {
+    "gps": {
+      "lat": 54.70876388888889,
+      "long": -3.204086111111111
+    },
+    "location": "Uldale Fells",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Waterfall"
+    ],
+    "trip": "2024-02-17-sale-fell-ling-fell-binsey"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 9mm f/2.8"
+    },
+    "date": "2024-02-17T10:37:51.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
