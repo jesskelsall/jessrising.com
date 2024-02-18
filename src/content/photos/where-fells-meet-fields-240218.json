@@ -1,0 +1,25 @@
+{
+  "title": "Where Fells Meet Fields",
+  "meta": {
+    "gps": {
+      "lat": 54.701144444444445,
+      "long": -3.132075
+    },
+    "location": "Uldale Fells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-02-18-back-o-skiddaw"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 9mm f/2.8"
+    },
+    "date": "2024-02-18T12:15:58.000+00:00",
+    "dimensions": {
+      "height": 2812,
+      "width": 3749
+    }
+  }
+}

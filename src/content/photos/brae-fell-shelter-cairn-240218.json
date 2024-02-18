@@ -1,0 +1,26 @@
+{
+  "title": "Brae Fell Shelter Cairn",
+  "meta": {
+    "gps": {
+      "lat": 54.706452777777784,
+      "long": -3.1053194444444445
+    },
+    "location": "Uldale Fells",
+    "tags": [
+      "Landscape",
+      "Cairn"
+    ],
+    "trip": "2024-02-18-back-o-skiddaw"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    },
+    "date": "2024-02-18T09:40:57.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}
