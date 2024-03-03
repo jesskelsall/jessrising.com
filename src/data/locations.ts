@@ -151,7 +151,11 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Tyne & Wear": {
         "🏙️ Newcastle": {
+          "Bank House": {},
+          "High Level Bridge": {},
           "Newcastle Cathedral": {},
+          "The Glasshouse": {},
+          "Tyne Bridge": {},
         },
         "Penshaw Monument": {},
         "St Mary's Lighthouse": {},

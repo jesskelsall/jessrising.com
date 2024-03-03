@@ -1,0 +1,29 @@
+{
+  "title": "Tyne Bridge Alive",
+  "meta": {
+    "location": "Tyne Bridge",
+    "tags": [
+      "Light Painting",
+      "Bridge"
+    ],
+    "trip": "2024-02-20-night-in-newcastle"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 15,
+        "focalLength": 24,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-02-20T18:38:22.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

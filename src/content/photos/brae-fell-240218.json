@@ -1,0 +1,25 @@
+{
+  "title": "Brae Fell",
+  "meta": {
+    "location": "Uldale Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.706375,
+      "long": -3.1053444444444445
+    }
+  },
+  "exif": {
+    "date": "2024-02-18T09:40:31.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

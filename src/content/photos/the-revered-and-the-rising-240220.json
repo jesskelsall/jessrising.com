@@ -1,0 +1,28 @@
+{
+  "title": "The Revered and the Rising",
+  "meta": {
+    "location": "Bank House",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-02-20-night-in-newcastle"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 146,
+        "fStop": 7.1,
+        "ISO": 125
+      }
+    },
+    "date": "2024-02-20T10:19:08.000+00:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9415
+    }
+  }
+}

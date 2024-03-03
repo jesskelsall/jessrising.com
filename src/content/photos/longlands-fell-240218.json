@@ -1,0 +1,25 @@
+{
+  "title": "Longlands Fell",
+  "meta": {
+    "location": "Uldale Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.708377777777784,
+      "long": -3.1253722222222224
+    }
+  },
+  "exif": {
+    "date": "2024-02-18T08:38:42.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

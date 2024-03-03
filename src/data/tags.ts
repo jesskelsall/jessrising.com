@@ -5,6 +5,7 @@ export const allTags: TagRaw[] = [
   { title: "Landscape", emoji: "🏞️" },
   { title: "Astro", emoji: "🌌" },
   { title: "Interior", emoji: "🏠" },
+  { title: "Light Painting", emoji: "🖌️" },
   // Other
   { title: "Aurora", emoji: "🌌" },
   { title: "Beach", emoji: "🏝️" },

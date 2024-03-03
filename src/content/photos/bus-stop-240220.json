@@ -1,0 +1,29 @@
+{
+  "title": "Bus Stop",
+  "meta": {
+    "location": "Newcastle",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": "2024-02-20-night-in-newcastle"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 3200
+      }
+    },
+    "date": "2024-02-20T18:11:01.000+00:00",
+    "dimensions": {
+      "height": 3730,
+      "width": 5596
+    }
+  }
+}
