@@ -1,0 +1,30 @@
+{
+  "title": "Keswick Between the Trees",
+  "meta": {
+    "location": "Whinlatter Forest",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "trip": "2024-02-24-whinlatter"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-02-24T12:26:57.000+00:00",
+    "dimensions": {
+      "height": 5835,
+      "width": 8752
+    }
+  }
+}

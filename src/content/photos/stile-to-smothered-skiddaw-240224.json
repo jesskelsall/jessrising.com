@@ -1,0 +1,30 @@
+{
+  "title": "Stile to Smothered Skiddaw",
+  "meta": {
+    "location": "Lorton Fells",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "trip": "2024-02-24-whinlatter"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 50,
+        "fStop": 16,
+        "ISO": 320
+      }
+    },
+    "date": "2024-02-24T10:20:19.000+00:00",
+    "dimensions": {
+      "height": 5857,
+      "width": 8786
+    }
+  }
+}

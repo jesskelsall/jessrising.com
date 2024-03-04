@@ -1,0 +1,30 @@
+{
+  "title": "Ladyside Pike from Graystones",
+  "meta": {
+    "location": "Lorton Fells",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "trip": "2024-02-24-whinlatter"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.001,
+        "focalLength": 41,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    },
+    "date": "2024-02-24T09:05:34.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

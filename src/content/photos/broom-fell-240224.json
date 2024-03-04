@@ -1,0 +1,35 @@
+{
+  "title": "Broom Fell",
+  "meta": {
+    "location": "Lorton Fells",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Clouds",
+      "Snow",
+      "Wainwright"
+    ],
+    "trip": "2024-02-24-whinlatter"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 36,
+        "fStop": 16,
+        "ISO": 160
+      }
+    },
+    "date": "2024-02-24T10:24:18.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

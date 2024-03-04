@@ -1,0 +1,29 @@
+{
+  "title": "Whinlatter Forest",
+  "meta": {
+    "location": "Whinlatter Forest",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2024-02-24-whinlatter"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 54,
+        "fStop": 8,
+        "ISO": 3200
+      }
+    },
+    "date": "2024-02-24T12:42:24.000+00:00",
+    "dimensions": {
+      "height": 6102,
+      "width": 9154
+    }
+  }
+}

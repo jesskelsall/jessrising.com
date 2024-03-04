@@ -1,0 +1,30 @@
+{
+  "title": "Hopegill Head Through the Clouds",
+  "meta": {
+    "location": "Lorton Fells",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "trip": "2024-02-24-whinlatter"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.0006249999860301484,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    },
+    "date": "2024-02-24T11:04:06.000+00:00",
+    "dimensions": {
+      "height": 5911,
+      "width": 8867
+    }
+  }
+}
