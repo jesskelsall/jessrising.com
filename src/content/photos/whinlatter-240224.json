@@ -1,0 +1,28 @@
+{
+  "title": "Whinlatter",
+  "meta": {
+    "location": "Whinlatter",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-24T15:54:10.000+00:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 38,
+        "fStop": 16,
+        "ISO": 400
+      }
+    }
+  }
+}

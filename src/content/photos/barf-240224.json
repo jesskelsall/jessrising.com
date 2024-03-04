@@ -1,0 +1,25 @@
+{
+  "title": "Barf",
+  "meta": {
+    "location": "Lorton Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.629666666666665,
+      "long": -3.2179555555555557
+    }
+  },
+  "exif": {
+    "date": "2024-02-24T12:11:19.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

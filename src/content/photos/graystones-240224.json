@@ -1,0 +1,28 @@
+{
+  "title": "Graystones",
+  "meta": {
+    "location": "Lorton Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-24T09:15:48.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 47,
+        "fStop": 16,
+        "ISO": 200
+      }
+    }
+  }
+}
