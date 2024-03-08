@@ -1,0 +1,29 @@
+{
+  "title": "Aurora at Haltwhistle",
+  "meta": {
+    "location": "Northumberland",
+    "tags": [
+      "Astro",
+      "Aurora"
+    ],
+    "trip": "2024-03-03-blencathra-via-blease-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 6,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1250
+      }
+    },
+    "date": "2024-03-03T23:24:47.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

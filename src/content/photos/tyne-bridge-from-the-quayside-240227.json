@@ -1,0 +1,29 @@
+{
+  "title": "Tyne Bridge from the Quayside",
+  "meta": {
+    "location": "Newcastle Quayside",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-27T18:30:57.000+00:00",
+    "dimensions": {
+      "height": 5564,
+      "width": 8346
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 10,
+        "focalLength": 39,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "King Street and All Saints",
+  "meta": {
+    "location": "Newcastle Quayside",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-27T18:14:42.000+00:00",
+    "dimensions": {
+      "height": 6231,
+      "width": 9347
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 8,
+        "focalLength": 46,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    }
+  }
+}

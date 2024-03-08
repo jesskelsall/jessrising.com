@@ -1,0 +1,29 @@
+{
+  "title": "Whiteout",
+  "meta": {
+    "location": "Blencathra",
+    "tags": [
+      "Mist",
+      "Snow"
+    ],
+    "trip": "2024-03-03-blencathra-via-blease-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.002,
+        "focalLength": 42,
+        "fStop": 4,
+        "ISO": 50
+      }
+    },
+    "date": "2024-03-03T08:48:46.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

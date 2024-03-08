@@ -23,6 +23,9 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Cumbria": {
         "🏞️ Lake District": {
           "Lakes North": {
+            Blencathra: {
+              "Blease Fell": {},
+            },
             "Lorton Fells": {
               Whinlatter: {},
             },
@@ -157,6 +160,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Bank House": {},
           "High Level Bridge": {},
           "Newcastle Cathedral": {},
+          "Newcastle Quayside": {},
           "The Glasshouse": {},
           "Tyne Bridge": {},
         },

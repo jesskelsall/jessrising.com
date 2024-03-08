@@ -1,0 +1,30 @@
+{
+  "title": "Snow and Sun",
+  "meta": {
+    "location": "Blencathra",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Snow"
+    ],
+    "trip": "2024-03-03-blencathra-via-blease-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0003124999930150742,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-03-03T08:22:35.000+00:00",
+    "dimensions": {
+      "height": 6299,
+      "width": 9448
+    }
+  }
+}

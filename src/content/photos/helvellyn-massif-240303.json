@@ -1,0 +1,30 @@
+{
+  "title": "Helvellyn Massif",
+  "meta": {
+    "location": "Blease Fell",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "trip": "2024-03-03-blencathra-via-blease-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 105,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    },
+    "date": "2024-03-03T13:52:49.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

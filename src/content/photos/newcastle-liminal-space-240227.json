@@ -1,0 +1,28 @@
+{
+  "title": "Newcastle Liminal Space",
+  "meta": {
+    "location": "Newcastle",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-02-27T17:32:31.000+00:00",
+    "dimensions": {
+      "height": 6198,
+      "width": 9297
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.25,
+        "focalLength": 43,
+        "fStop": 8,
+        "ISO": 500
+      }
+    }
+  }
+}

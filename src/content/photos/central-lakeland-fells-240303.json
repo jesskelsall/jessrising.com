@@ -1,0 +1,30 @@
+{
+  "title": "Central Lakeland Fells",
+  "meta": {
+    "location": "Blease Fell",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Snow"
+    ],
+    "trip": "2024-03-03-blencathra-via-blease-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    },
+    "date": "2024-03-03T14:02:46.000+00:00",
+    "dimensions": {
+      "height": 6101,
+      "width": 9152
+    }
+  }
+}
