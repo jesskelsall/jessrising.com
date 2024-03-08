@@ -1,0 +1,25 @@
+{
+  "title": "Blencathra",
+  "meta": {
+    "location": "Blencathra",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.639922222222225,
+      "long": -3.0497388888888888
+    }
+  },
+  "exif": {
+    "date": "2024-03-03T12:50:33.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}
