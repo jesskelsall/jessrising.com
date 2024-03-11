@@ -1,0 +1,29 @@
+{
+  "title": "Durham Cathedral Cloisters",
+  "meta": {
+    "location": "Durham Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-03-02-durham-cathedral"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 63,
+        "fStop": 8,
+        "ISO": 3200
+      }
+    },
+    "date": "2024-03-02T12:20:06.000+00:00",
+    "dimensions": {
+      "height": 5787,
+      "width": 8680
+    }
+  }
+}

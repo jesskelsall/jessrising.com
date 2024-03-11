@@ -1,0 +1,29 @@
+{
+  "title": "Door to Shrine of St Cuthbert",
+  "meta": {
+    "location": "Durham Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-03-02-durham-cathedral"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 4,
+        "ISO": 1250
+      }
+    },
+    "date": "2024-03-02T13:18:47.000+00:00",
+    "dimensions": {
+      "height": 6024,
+      "width": 9036
+    }
+  }
+}

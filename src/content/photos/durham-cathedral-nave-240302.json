@@ -1,0 +1,29 @@
+{
+  "title": "Durham Cathedral Nave",
+  "meta": {
+    "location": "Durham Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-03-02-durham-cathedral"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 2.8,
+        "ISO": 1000
+      }
+    },
+    "date": "2024-03-02T12:33:35.000+00:00",
+    "dimensions": {
+      "height": 6246,
+      "width": 9370
+    }
+  }
+}

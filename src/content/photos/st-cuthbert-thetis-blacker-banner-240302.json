@@ -1,0 +1,29 @@
+{
+  "title": "St Cuthbert Thetis Blacker Banner",
+  "meta": {
+    "location": "Durham Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-03-02-durham-cathedral"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 4,
+        "ISO": 1000
+      }
+    },
+    "date": "2024-03-02T13:32:50.000+00:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}
