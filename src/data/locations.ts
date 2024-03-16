@@ -26,10 +26,16 @@ export const locationHierarchy: LocationHierarchy = {
             Blencathra: {
               "Blease Fell": {},
             },
+            "Caldbeck Fells": {
+              "Carrock Fell": {},
+              "Great Calva": {},
+            },
+            "Uldale Fells": {},
+          },
+          "Lakes Northwest": {
             "Lorton Fells": {
               Whinlatter: {},
             },
-            "Uldale Fells": {},
             "Whinlatter Forest": {},
           },
           "Bassenthwaite Lake": {

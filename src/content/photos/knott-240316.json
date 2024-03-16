@@ -1,0 +1,25 @@
+{
+  "title": "Knott",
+  "meta": {
+    "location": "Caldbeck Fells",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.68696111111111,
+      "long": -3.0932416666666667
+    }
+  },
+  "exif": {
+    "date": "2024-03-16T10:45:28.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

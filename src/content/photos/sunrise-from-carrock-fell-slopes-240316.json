@@ -1,0 +1,30 @@
+{
+  "title": "Sunrise from Carrock Fell Slopes",
+  "meta": {
+    "location": "Carrock Fell",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2024-03-16-carrock-fell-high-pike-knott-great-calva"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-03-16T06:30:25.000+00:00",
+    "dimensions": {
+      "height": 5912,
+      "width": 8868
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "DSC04291",
+  "meta": {
+    "location": "Carrock Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-03-16-carrock-fell-high-pike-knott-great-calva"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 28,
+        "fStop": 14,
+        "ISO": 200
+      }
+    },
+    "date": "2024-03-16T07:19:28.000+00:00",
+    "dimensions": {
+      "height": 6235,
+      "width": 9352
+    }
+  }
+}
