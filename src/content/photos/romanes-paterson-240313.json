@@ -1,0 +1,28 @@
+{
+  "title": "Romanes & Paterson",
+  "meta": {
+    "location": "Edinburgh",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-13T16:55:44.000+00:00",
+    "dimensions": {
+      "height": 5725,
+      "width": 8588
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 35,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}

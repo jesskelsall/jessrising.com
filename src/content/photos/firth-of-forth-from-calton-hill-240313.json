@@ -1,0 +1,28 @@
+{
+  "title": "Firth of Forth from Calton Hill",
+  "meta": {
+    "location": "Calton Hill",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-13T17:33:40.000+00:00",
+    "dimensions": {
+      "height": 5743,
+      "width": 8614
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}
