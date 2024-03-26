@@ -1,0 +1,29 @@
+{
+  "title": "Koivusaari Arrival",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-22T20:19:51.000+00:00",
+    "dimensions": {
+      "height": 6177,
+      "width": 9267
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 33,
+        "fStop": 4,
+        "ISO": 400
+      }
+    }
+  }
+}

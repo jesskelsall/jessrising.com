@@ -1,0 +1,29 @@
+{
+  "title": "Helsingin Tuomiokirkko",
+  "meta": {
+    "location": "Helsinki Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-22T14:17:14.000+00:00",
+    "dimensions": {
+      "height": 6110,
+      "width": 9165
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 5.6,
+        "ISO": 2500
+      }
+    }
+  }
+}

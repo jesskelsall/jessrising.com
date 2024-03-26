@@ -1,0 +1,29 @@
+{
+  "title": "Tapiola Train",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-22T19:52:43.000+00:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9456
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 41,
+        "fStop": 4,
+        "ISO": 640
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Tapiola Lights",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-22T19:54:47.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 45,
+        "fStop": 3.5,
+        "ISO": 2000
+      }
+    }
+  }
+}

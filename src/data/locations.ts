@@ -600,4 +600,18 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
   },
+  "🇫🇮 Finland": {
+    "🏙️ Helsinki": {
+      "Helsinki Metro": {},
+      Kaivopuisto: {},
+      Katajanokka: {},
+      Kauppatori: {},
+      Kluuvi: {},
+      Kruununhaka: {
+        "Helsinki Cathedral": {},
+      },
+      Töölö: {},
+      Ullanlinna: {},
+    },
+  },
 };
