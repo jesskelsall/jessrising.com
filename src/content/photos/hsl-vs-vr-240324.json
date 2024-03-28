@@ -1,9 +1,10 @@
 {
-  "title": "Olympia Terminaali",
+  "title": "HSL vs VR",
   "meta": {
-    "location": "Kaivopuisto",
+    "location": "Kluuvi",
     "tags": [
-      "Landscape"
+      "Landscape",
+      "Rail"
     ],
     "trip": "2024-03-22-helsinki"
   },
@@ -12,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 1,
-        "exposureTime": 0.002,
+        "exposureBias": 0,
+        "exposureTime": 0.004,
         "focalLength": 70,
         "fStop": 2.8,
         "ISO": 125
       }
     },
-    "date": "2024-03-23T13:54:01.000+00:00",
+    "date": "2024-03-24T09:54:15.000+00:00",
     "dimensions": {
-      "height": 5838,
-      "width": 8757
+      "height": 4259,
+      "width": 6389
     }
   }
 }

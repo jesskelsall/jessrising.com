@@ -6,14 +6,9 @@
       "Interior",
       "Church/Cathedral"
     ],
-    "trip": null
+    "trip": "2024-03-22-helsinki"
   },
   "exif": {
-    "date": "2024-03-22T16:17:14.000+00:00",
-    "dimensions": {
-      "height": 6110,
-      "width": 9165
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -24,6 +19,11 @@
         "fStop": 5.6,
         "ISO": 2500
       }
+    },
+    "date": "2024-03-22T16:17:14.000+00:00",
+    "dimensions": {
+      "height": 6110,
+      "width": 9165
     }
   }
 }

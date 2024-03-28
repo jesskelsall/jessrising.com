@@ -7,14 +7,9 @@
       "Church/Cathedral",
       "Rail"
     ],
-    "trip": null
+    "trip": "2024-03-22-helsinki"
   },
   "exif": {
-    "date": "2024-03-23T14:04:06.000+00:00",
-    "dimensions": {
-      "height": 3970,
-      "width": 5955
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 2.8,
         "ISO": 125
       }
+    },
+    "date": "2024-03-23T14:04:06.000+00:00",
+    "dimensions": {
+      "height": 3970,
+      "width": 5955
     }
   }
 }

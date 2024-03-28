@@ -5,14 +5,9 @@
     "tags": [
       "Landscape"
     ],
-    "trip": null
+    "trip": "2024-03-22-helsinki"
   },
   "exif": {
-    "date": "2024-03-23T09:30:01.000+00:00",
-    "dimensions": {
-      "height": 6132,
-      "width": 9198
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 4,
         "ISO": 125
       }
+    },
+    "date": "2024-03-23T09:30:01.000+00:00",
+    "dimensions": {
+      "height": 6132,
+      "width": 9198
     }
   }
 }
