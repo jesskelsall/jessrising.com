@@ -1,7 +1,7 @@
 {
-  "title": "Helsingin Tuomiokirkko Arches",
+  "title": "Temppeliaukion Kirkko",
   "meta": {
-    "location": "Helsinki Cathedral",
+    "location": "Töölö",
     "tags": [
       "Interior",
       "Church/Cathedral"
@@ -9,20 +9,20 @@
     "trip": null
   },
   "exif": {
-    "date": "2024-03-22T16:30:06.000+00:00",
+    "date": "2024-03-23T12:05:54.000+00:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6244,
+      "width": 9367
     },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.3333333333333333,
-        "focalLength": 41,
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 24,
         "fStop": 2.8,
-        "ISO": 160
+        "ISO": 50
       }
     }
   }

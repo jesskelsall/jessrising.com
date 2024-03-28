@@ -1,18 +1,18 @@
 {
-  "title": "Keilaniemi Station and Trains",
+  "title": "Helsingin Tuomiokirkko Aisle",
   "meta": {
-    "location": "Helsinki Metro",
+    "location": "Helsinki Cathedral",
     "tags": [
       "Interior",
-      "Rail"
+      "Church/Cathedral"
     ],
     "trip": null
   },
   "exif": {
-    "date": "2024-03-22T22:02:51.000+00:00",
+    "date": "2024-03-22T16:17:14.000+00:00",
     "dimensions": {
-      "height": 6306,
-      "width": 9459
+      "height": 6110,
+      "width": 9165
     },
     "camera": {
       "name": "Sony ɑ7R V",
@@ -21,8 +21,8 @@
         "exposureBias": 0,
         "exposureTime": 0.03333333333333333,
         "focalLength": 24,
-        "fStop": 8,
-        "ISO": 4000
+        "fStop": 5.6,
+        "ISO": 2500
       }
     }
   }

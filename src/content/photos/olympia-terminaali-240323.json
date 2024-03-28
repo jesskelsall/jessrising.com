@@ -1,0 +1,28 @@
+{
+  "title": "Olympia Terminaali",
+  "meta": {
+    "location": "Kaivopuisto",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-23T13:54:01.000+00:00",
+    "dimensions": {
+      "height": 5838,
+      "width": 8757
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 1,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}

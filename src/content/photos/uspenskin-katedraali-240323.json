@@ -1,0 +1,29 @@
+{
+  "title": "Uspenskin Katedraali",
+  "meta": {
+    "location": "Katajanokka",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-23T09:51:46.000+00:00",
+    "dimensions": {
+      "height": 5895,
+      "width": 8843
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.008,
+        "focalLength": 50,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}

@@ -1,18 +1,17 @@
 {
-  "title": "Helsingin Tuomiokirkko Chandelier",
+  "title": "Senaatintori",
   "meta": {
-    "location": "Helsinki Cathedral",
+    "location": "Kruununhaka",
     "tags": [
-      "Interior",
-      "Church/Cathedral"
+      "Landscape"
     ],
     "trip": null
   },
   "exif": {
-    "date": "2024-03-22T16:20:57.000+00:00",
+    "date": "2024-03-23T08:23:56.000+00:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6200,
+      "width": 9300
     },
     "camera": {
       "name": "Sony ɑ7R V",
@@ -20,9 +19,9 @@
       "settings": {
         "exposureBias": 0,
         "exposureTime": 0.016666666666666666,
-        "focalLength": 59,
-        "fStop": 5.6,
-        "ISO": 1600
+        "focalLength": 57,
+        "fStop": 11,
+        "ISO": 400
       }
     }
   }

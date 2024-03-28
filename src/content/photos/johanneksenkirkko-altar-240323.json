@@ -1,0 +1,29 @@
+{
+  "title": "Johanneksenkirkko Altar",
+  "meta": {
+    "location": "Ullanlinna",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-23T14:42:01.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.125,
+        "focalLength": 24,
+        "fStop": 2,
+        "ISO": 100
+      }
+    }
+  }
+}
