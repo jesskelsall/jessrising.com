@@ -1,0 +1,29 @@
+{
+  "title": "Class 803 at Burnmouth",
+  "meta": {
+    "location": "Scottish Borders",
+    "tags": [
+      "Landscape",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-26T16:12:46.000+00:00",
+    "dimensions": {
+      "height": 4759,
+      "width": 7138
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.002,
+        "focalLength": 288,
+        "fStop": 5.6,
+        "ISO": 640
+      }
+    }
+  }
+}

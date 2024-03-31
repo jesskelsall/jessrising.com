@@ -449,6 +449,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Balgone Estate": {},
         "🏙️ Edinburgh": {
           "Calton Hill": {},
+          "Princes Street": {},
           "Royal Botanic Garden Edinburgh": {},
           "St Giles' Cathedral": {},
           Stockbridge: {},

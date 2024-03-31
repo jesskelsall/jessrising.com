@@ -1,0 +1,29 @@
+{
+  "title": "Trains at Edinburgh Waverley",
+  "meta": {
+    "location": "Princes Street",
+    "tags": [
+      "Landscape",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-26T11:44:47.000+00:00",
+    "dimensions": {
+      "height": 6078,
+      "width": 9117
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 303,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    }
+  }
+}
