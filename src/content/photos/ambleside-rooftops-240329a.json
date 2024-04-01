@@ -1,0 +1,29 @@
+{
+  "title": "Ambleside Rooftops",
+  "meta": {
+    "location": "Ambleside",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-29T09:02:32.000+00:00",
+    "dimensions": {
+      "height": 6246,
+      "width": 9370
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 63,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}

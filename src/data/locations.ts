@@ -38,6 +38,10 @@ export const locationHierarchy: LocationHierarchy = {
             },
             "Whinlatter Forest": {},
           },
+          "Lakes South": {
+            Ambleside: {},
+            Grasmere: {},
+          },
           "Bassenthwaite Lake": {
             Wythop: {},
           },

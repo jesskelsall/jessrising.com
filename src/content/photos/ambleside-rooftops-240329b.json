@@ -1,0 +1,29 @@
+{
+  "title": "Ambleside Rooftops",
+  "meta": {
+    "location": "Ambleside",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-29T13:50:24.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.002,
+        "focalLength": 57,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}
