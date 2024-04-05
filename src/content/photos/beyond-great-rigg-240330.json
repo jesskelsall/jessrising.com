@@ -1,0 +1,29 @@
+{
+  "title": "Beyond Great Rigg",
+  "meta": {
+    "location": "Hart Crag",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-30T12:13:39.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 327,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    }
+  }
+}

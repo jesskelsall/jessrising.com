@@ -1,0 +1,29 @@
+{
+  "title": "West from Dove Crag",
+  "meta": {
+    "location": "Rydal Fells",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-30T11:00:46.000+00:00",
+    "dimensions": {
+      "height": 5838,
+      "width": 8757
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}

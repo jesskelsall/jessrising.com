@@ -1,0 +1,29 @@
+{
+  "title": "Striding Edge from Fairfield",
+  "meta": {
+    "location": "Fairfield",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-30T12:45:43.000+00:00",
+    "dimensions": {
+      "height": 3779,
+      "width": 5668
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    }
+  }
+}

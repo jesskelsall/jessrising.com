@@ -1,0 +1,25 @@
+{
+  "title": "Low Pike",
+  "meta": {
+    "location": "Low Pike",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.46200833333334,
+      "long": -2.9679555555555557
+    }
+  },
+  "exif": {
+    "date": "2024-03-30T08:43:19.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

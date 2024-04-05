@@ -1,0 +1,28 @@
+{
+  "title": "Grasmere",
+  "meta": {
+    "location": "Rydal Fells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-30T15:40:44.000+00:00",
+    "dimensions": {
+      "height": 6232,
+      "width": 9348
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.002,
+        "focalLength": 53,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}

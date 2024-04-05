@@ -41,6 +41,11 @@ export const locationHierarchy: LocationHierarchy = {
           "Lakes South": {
             Ambleside: {},
             Grasmere: {},
+            "Rydal Fells": {
+              Fairfield: {},
+              "Hart Crag": {},
+              "Low Pike": {},
+            },
           },
           "Bassenthwaite Lake": {
             Wythop: {},

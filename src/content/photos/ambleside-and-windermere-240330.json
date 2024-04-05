@@ -1,0 +1,28 @@
+{
+  "title": "Ambleside and Windermere",
+  "meta": {
+    "location": "Rydal Fells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-03-30T16:02:06.000+00:00",
+    "dimensions": {
+      "height": 6332,
+      "width": 9499
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 62,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}
