@@ -1,25 +1,25 @@
 {
-  "title": "High Pike",
+  "title": "High Pike (Scandale)",
   "meta": {
-    "location": "Caldbeck Fells",
+    "location": "Rydal Fells",
     "tags": [
       "Wainwright"
     ],
     "trip": null,
     "gps": {
-      "lat": 54.70548333333333,
-      "long": -3.0587055555555556
+      "lat": 54.47098611111111,
+      "long": -2.96675
     }
   },
   "exif": {
-    "date": "2024-03-16T08:56:41.000+00:00",
+    "date": "2024-03-30T10:05:28.000+00:00",
     "dimensions": {
       "height": 3024,
       "width": 4032
     },
     "camera": {
       "name": "Apple iPhone 14 Pro Max",
-      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+      "lens": "iPhone 14 Pro Max back triple camera 2.22mm f/2.2"
     }
   }
 }
