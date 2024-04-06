@@ -1,0 +1,26 @@
+{
+  "title": "Pulteney Bridge and Weir",
+  "meta": {
+    "location": "Bath",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38256111111111,
+      "long": -2.3575500000000003
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T15:44:34.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

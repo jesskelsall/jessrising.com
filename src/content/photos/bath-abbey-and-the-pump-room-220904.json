@@ -1,0 +1,26 @@
+{
+  "title": "Bath Abbey and the Pump Room",
+  "meta": {
+    "location": "Bath Abbey",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38130555555556,
+      "long": -2.3600333333333334
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T09:43:28.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

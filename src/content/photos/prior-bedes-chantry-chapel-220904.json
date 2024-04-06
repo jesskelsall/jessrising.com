@@ -1,0 +1,26 @@
+{
+  "title": "Prior Bede's Chantry Chapel",
+  "meta": {
+    "location": "Bath Abbey",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38143888888889,
+      "long": -2.358775
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T13:36:00.000+01:00",
+    "dimensions": {
+      "height": 2890,
+      "width": 3854
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Bath Assembly Rooms",
+  "meta": {
+    "location": "Bath",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38686666666666,
+      "long": -2.3626194444444444
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T15:11:35.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

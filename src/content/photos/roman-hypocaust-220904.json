@@ -1,0 +1,26 @@
+{
+  "title": "Roman Hypocaust",
+  "meta": {
+    "location": "The Roman Baths",
+    "tags": [
+      "Interior",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38090833333333,
+      "long": -2.3602055555555554
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T13:07:33.000+01:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

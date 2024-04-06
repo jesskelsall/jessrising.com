@@ -1,0 +1,25 @@
+{
+  "title": "Bath Arch",
+  "meta": {
+    "location": "Bath",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38075,
+      "long": -2.359925
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T09:58:54.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

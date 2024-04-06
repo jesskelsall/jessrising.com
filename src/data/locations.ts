@@ -200,6 +200,10 @@ export const locationHierarchy: LocationHierarchy = {
         Seahouses: {},
       },
       "🗺️ Somerset": {
+        Bath: {
+          "Bath Abbey": {},
+          "The Roman Baths": {},
+        },
         Wells: {
           "The Bishop's Palace": {},
           "Wells Cathedral": {},

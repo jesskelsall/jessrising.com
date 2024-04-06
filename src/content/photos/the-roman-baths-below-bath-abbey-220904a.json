@@ -1,0 +1,27 @@
+{
+  "title": "The Roman Baths Below Bath Abbey",
+  "meta": {
+    "location": "The Roman Baths",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38088611111111,
+      "long": -2.359375
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T11:10:36.000+01:00",
+    "dimensions": {
+      "height": 2890,
+      "width": 3854
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Ultra Wide Camera"
+    }
+  }
+}

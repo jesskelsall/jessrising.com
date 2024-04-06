@@ -1,0 +1,26 @@
+{
+  "title": "Bath Abbey Memorials",
+  "meta": {
+    "location": "Bath Abbey",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38151666666667,
+      "long": -2.3586222222222224
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T13:32:55.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

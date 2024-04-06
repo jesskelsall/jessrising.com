@@ -1,0 +1,26 @@
+{
+  "title": "Bath Hot Spring",
+  "meta": {
+    "location": "The Roman Baths",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.381191666666666,
+      "long": -2.359788888888889
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T13:02:24.000+01:00",
+    "dimensions": {
+      "height": 2849,
+      "width": 3798
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

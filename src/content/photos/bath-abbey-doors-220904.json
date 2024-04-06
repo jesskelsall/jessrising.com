@@ -1,0 +1,26 @@
+{
+  "title": "Bath Abbey Doors",
+  "meta": {
+    "location": "Bath Abbey",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.381397222222226,
+      "long": -2.3593583333333332
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T09:55:32.000+01:00",
+    "dimensions": {
+      "height": 2975,
+      "width": 3967
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

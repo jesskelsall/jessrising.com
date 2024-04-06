@@ -1,0 +1,26 @@
+{
+  "title": "Bath Abbey Altar",
+  "meta": {
+    "location": "Bath Abbey",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38141944444445,
+      "long": -2.358613888888889
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T13:35:07.000+01:00",
+    "dimensions": {
+      "height": 2945,
+      "width": 3927
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

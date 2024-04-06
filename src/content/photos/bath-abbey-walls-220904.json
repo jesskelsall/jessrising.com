@@ -1,0 +1,26 @@
+{
+  "title": "Bath Abbey Walls",
+  "meta": {
+    "location": "Bath Abbey",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38153888888889,
+      "long": -2.359038888888889
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T13:41:24.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Royal Crescent",
+  "meta": {
+    "location": "Bath",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.386925,
+      "long": -2.3689583333333335
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T14:45:42.000+01:00",
+    "dimensions": {
+      "height": 2745,
+      "width": 3659
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

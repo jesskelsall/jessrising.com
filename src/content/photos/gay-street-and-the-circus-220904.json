@@ -1,0 +1,25 @@
+{
+  "title": "Gay Street and the Circus",
+  "meta": {
+    "location": "Bath",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38547222222222,
+      "long": -2.363852777777778
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T14:32:05.000+01:00",
+    "dimensions": {
+      "height": 3022,
+      "width": 4030
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

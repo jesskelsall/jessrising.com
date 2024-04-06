@@ -1,0 +1,25 @@
+{
+  "title": "Bath Assembly Rooms Chandeliers",
+  "meta": {
+    "location": "Bath",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.38594166666667,
+      "long": -2.3622666666666667
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T15:14:17.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}
