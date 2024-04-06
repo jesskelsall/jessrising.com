@@ -1,0 +1,27 @@
+{
+  "title": "Wells Cathedral Through the Window",
+  "meta": {
+    "location": "The Bishop's Palace",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.208875000000006,
+      "long": -2.64295
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T16:05:19.000+01:00",
+    "dimensions": {
+      "height": 2912,
+      "width": 3883
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral",
+  "meta": {
+    "location": "The Bishop's Palace",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20962222222222,
+      "long": -2.6422222222222222
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T16:13:04.000+01:00",
+    "dimensions": {
+      "height": 2874,
+      "width": 3832
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

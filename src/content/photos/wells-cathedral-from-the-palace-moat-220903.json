@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral from the Palace Moat",
+  "meta": {
+    "location": "The Bishop's Palace",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20895,
+      "long": -2.644197222222222
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T20:42:53.000+01:00",
+    "dimensions": {
+      "height": 2602,
+      "width": 3470
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

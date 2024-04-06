@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral Lady Chapel",
+  "meta": {
+    "location": "Wells Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.210261111111116,
+      "long": -2.643263888888889
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T15:23:16.000+01:00",
+    "dimensions": {
+      "height": 2929,
+      "width": 3906
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

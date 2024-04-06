@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral Choir",
+  "meta": {
+    "location": "Wells Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.210322222222224,
+      "long": -2.643811111111111
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T15:17:50.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

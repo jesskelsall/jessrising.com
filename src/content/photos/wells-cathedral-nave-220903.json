@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral Nave",
+  "meta": {
+    "location": "Wells Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.210319444444444,
+      "long": -2.6444
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T15:07:11.000+01:00",
+    "dimensions": {
+      "height": 2985,
+      "width": 3981
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

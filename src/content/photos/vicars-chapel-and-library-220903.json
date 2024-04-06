@@ -1,0 +1,25 @@
+{
+  "title": "Vicar's Chapel and Library",
+  "meta": {
+    "location": "Wells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.2119,
+      "long": -2.6439666666666666
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T14:44:11.000+01:00",
+    "dimensions": {
+      "height": 2958,
+      "width": 3945
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

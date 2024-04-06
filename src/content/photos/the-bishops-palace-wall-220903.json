@@ -1,0 +1,26 @@
+{
+  "title": "The Bishop's Palace Wall",
+  "meta": {
+    "location": "The Bishop's Palace",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20903333333334,
+      "long": -2.6432305555555553
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T16:02:17.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

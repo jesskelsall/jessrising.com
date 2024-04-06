@@ -1,0 +1,27 @@
+{
+  "title": "Vicar's Close",
+  "meta": {
+    "location": "Wells",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Street"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.21173055555556,
+      "long": -2.6437944444444446
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T14:46:36.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

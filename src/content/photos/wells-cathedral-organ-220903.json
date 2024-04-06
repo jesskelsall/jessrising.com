@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral Organ",
+  "meta": {
+    "location": "Wells Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.210319444444444,
+      "long": -2.6441083333333335
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T15:16:21.000+01:00",
+    "dimensions": {
+      "height": 2949,
+      "width": 3933
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

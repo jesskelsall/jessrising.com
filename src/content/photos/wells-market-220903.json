@@ -1,0 +1,27 @@
+{
+  "title": "Wells Market",
+  "meta": {
+    "location": "Wells",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "People"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20925555555556,
+      "long": -2.645827777777778
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T14:19:54.000+01:00",
+    "dimensions": {
+      "height": 2974,
+      "width": 3965
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

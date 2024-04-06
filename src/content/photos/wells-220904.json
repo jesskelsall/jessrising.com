@@ -1,0 +1,26 @@
+{
+  "title": "Wells",
+  "meta": {
+    "location": "Wells",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20925555555556,
+      "long": -2.6457444444444445
+    }
+  },
+  "exif": {
+    "date": "2022-09-04T20:07:38.000+01:00",
+    "dimensions": {
+      "height": 2948,
+      "width": 3931
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

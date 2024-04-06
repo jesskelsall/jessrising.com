@@ -1,0 +1,25 @@
+{
+  "title": "Wells Market Place",
+  "meta": {
+    "location": "Wells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20939722222222,
+      "long": -2.6452027777777776
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T20:37:59.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

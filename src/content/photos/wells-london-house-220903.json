@@ -1,0 +1,25 @@
+{
+  "title": "Wells London House",
+  "meta": {
+    "location": "Wells",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20949166666667,
+      "long": -2.644877777777778
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T20:38:54.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Wells Cathedral Façade",
+  "meta": {
+    "location": "Wells Cathedral",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.2102,
+      "long": -2.6448694444444443
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T14:51:37.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

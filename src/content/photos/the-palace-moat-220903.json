@@ -1,0 +1,26 @@
+{
+  "title": "The Palace Moat",
+  "meta": {
+    "location": "The Bishop's Palace",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.20789722222222,
+      "long": -2.642875
+    }
+  },
+  "exif": {
+    "date": "2022-09-03T14:30:23.000+01:00",
+    "dimensions": {
+      "height": 2984,
+      "width": 3979
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}
