@@ -5,14 +5,9 @@
     "tags": [
       "Landscape"
     ],
-    "trip": null
+    "trip": "2024-03-28-lake-district"
   },
   "exif": {
-    "date": "2024-03-29T13:51:08.000+00:00",
-    "dimensions": {
-      "height": 6112,
-      "width": 9168
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 2.8,
         "ISO": 125
       }
+    },
+    "date": "2024-03-29T13:51:08.000+00:00",
+    "dimensions": {
+      "height": 6112,
+      "width": 9168
     }
   }
 }

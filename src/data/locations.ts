@@ -22,6 +22,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Cumbria": {
         "🏞️ Lake District": {
+          "Lakes Central": {
+            Lodore: {},
+          },
           "Lakes North": {
             Blencathra: {
               "Blease Fell": {},
@@ -122,7 +125,9 @@ export const locationHierarchy: LocationHierarchy = {
             "Fleetwith Pike": {},
             "Grey Knotts": {},
           },
-          Keswick: {},
+          Keswick: {
+            "Castlerigg Stone Circle": {},
+          },
           "Kirkstone Pass": {},
           Loweswater: {
             Fellbarrow: {},

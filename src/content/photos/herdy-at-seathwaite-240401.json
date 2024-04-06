@@ -1,9 +1,9 @@
 {
-  "title": "Windermere from Link Hause",
+  "title": "Herdy at Seathwaite",
   "meta": {
-    "location": "Hart Crag",
+    "location": "Seathwaite",
     "tags": [
-      "Landscape"
+      "Sheep"
     ],
     "trip": "2024-03-28-lake-district"
   },
@@ -12,17 +12,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
       "settings": {
-        "exposureBias": 0.3,
+        "exposureBias": -0.3,
         "exposureTime": 0.004,
-        "focalLength": 119,
-        "fStop": 5,
-        "ISO": 50
+        "focalLength": 215,
+        "fStop": 9,
+        "ISO": 3200
       }
     },
-    "date": "2024-03-30T12:16:18.000+00:00",
+    "date": "2024-04-01T08:50:03.000+01:00",
     "dimensions": {
-      "height": 5913,
-      "width": 8870
+      "height": 4027,
+      "width": 6041
     }
   }
 }

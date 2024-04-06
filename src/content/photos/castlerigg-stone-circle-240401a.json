@@ -1,10 +1,11 @@
 {
-  "title": "West from Dove Crag",
+  "title": "Castlerigg Stone Circle",
   "meta": {
-    "location": "Rydal Fells",
+    "location": "Castlerigg Stone Circle",
     "tags": [
       "Landscape",
-      "Clouds"
+      "Clouds",
+      "Ruin"
     ],
     "trip": "2024-03-28-lake-district"
   },
@@ -13,17 +14,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0.3,
-        "exposureTime": 0.0015625,
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
         "focalLength": 70,
-        "fStop": 2.8,
+        "fStop": 6.300000190736682,
         "ISO": 125
       }
     },
-    "date": "2024-03-30T11:00:46.000+00:00",
+    "date": "2024-04-01T11:12:49.000+01:00",
     "dimensions": {
-      "height": 5838,
-      "width": 8757
+      "height": 6191,
+      "width": 9287
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "title": "Ambleside Rooftops",
+  "title": "Lingholm Gardens",
   "meta": {
-    "location": "Ambleside",
+    "location": "Keswick",
     "tags": [
       "Landscape",
-      "Church/Cathedral"
+      "Forest"
     ],
     "trip": "2024-03-28-lake-district"
   },
@@ -13,14 +13,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.002,
-        "focalLength": 57,
-        "fStop": 2.8,
-        "ISO": 125
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 37,
+        "fStop": 5,
+        "ISO": 200
       }
     },
-    "date": "2024-03-29T13:50:24.000+00:00",
+    "date": "2024-04-01T10:42:52.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504
