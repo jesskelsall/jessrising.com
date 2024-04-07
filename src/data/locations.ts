@@ -204,6 +204,11 @@ export const locationHierarchy: LocationHierarchy = {
           "Bath Abbey": {},
           "The Roman Baths": {},
         },
+        "Cheddar Gorge": {},
+        Glastonbury: {
+          "Glastonbury Abbey": {},
+          "Glastonbury Tor": {},
+        },
         Wells: {
           "The Bishop's Palace": {},
           "Wells Cathedral": {},

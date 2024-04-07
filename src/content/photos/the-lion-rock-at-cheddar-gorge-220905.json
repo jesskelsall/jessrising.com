@@ -1,0 +1,25 @@
+{
+  "title": "The Lion Rock at Cheddar Gorge",
+  "meta": {
+    "location": "Cheddar Gorge",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.281866666666666,
+      "long": -2.766783333333333
+    }
+  },
+  "exif": {
+    "date": "2022-09-05T12:56:04.000+01:00",
+    "dimensions": {
+      "height": 2783,
+      "width": 3777
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

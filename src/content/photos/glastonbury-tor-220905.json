@@ -1,0 +1,26 @@
+{
+  "title": "Glastonbury Tor",
+  "meta": {
+    "location": "Glastonbury Tor",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.143947222222224,
+      "long": -2.700741666666667
+    }
+  },
+  "exif": {
+    "date": "2022-09-05T15:24:28.000+01:00",
+    "dimensions": {
+      "height": 2779,
+      "width": 3704
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

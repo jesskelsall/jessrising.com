@@ -1,0 +1,26 @@
+{
+  "title": "Glastonbury Abbey Entrance Arch",
+  "meta": {
+    "location": "Glastonbury Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.14678055555556,
+      "long": -2.7164083333333333
+    }
+  },
+  "exif": {
+    "date": "2022-09-05T17:02:19.000+01:00",
+    "dimensions": {
+      "height": 2961,
+      "width": 3948
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

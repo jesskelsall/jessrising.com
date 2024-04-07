@@ -1,0 +1,26 @@
+{
+  "title": "What Remains of Glastonbury Abbey",
+  "meta": {
+    "location": "Glastonbury Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.14673888888889,
+      "long": -2.715805555555556
+    }
+  },
+  "exif": {
+    "date": "2022-09-05T17:09:44.000+01:00",
+    "dimensions": {
+      "height": 2972,
+      "width": 3963
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

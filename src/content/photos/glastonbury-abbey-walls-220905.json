@@ -1,0 +1,26 @@
+{
+  "title": "Glastonbury Abbey Walls",
+  "meta": {
+    "location": "Glastonbury Abbey",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 51.146825,
+      "long": -2.7145583333333336
+    }
+  },
+  "exif": {
+    "date": "2022-09-05T17:22:38.000+01:00",
+    "dimensions": {
+      "height": 2970,
+      "width": 3961
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}
