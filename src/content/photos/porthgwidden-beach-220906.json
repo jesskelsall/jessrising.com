@@ -1,0 +1,27 @@
+{
+  "title": "Porthgwidden Beach",
+  "meta": {
+    "location": "St Ives",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.21821944444444,
+      "long": -5.476552777777778
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T16:03:55.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

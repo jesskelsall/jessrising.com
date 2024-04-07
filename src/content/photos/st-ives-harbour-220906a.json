@@ -1,0 +1,27 @@
+{
+  "title": "St Ives Harbour",
+  "meta": {
+    "location": "St Ives",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Church/Cathedral"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.214797222222224,
+      "long": -5.476713888888889
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T15:44:31.000+01:00",
+    "dimensions": {
+      "height": 2996,
+      "width": 3995
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

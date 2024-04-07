@@ -9,7 +9,10 @@ export const locationHierarchy: LocationHierarchy = {
   "🇬🇧 United Kingdom": {
     "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England": {
       "🏙️ Bristol": {},
-      "🗺️ Cornwall": {},
+      "🗺️ Cornwall": {
+        "St Ives": {},
+        Tintagel: {},
+      },
       "🗺️ County Durham": {
         "🏙️ Durham": {
           "Durham Cathedral": {},
@@ -161,6 +164,7 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Devon": {
         Beer: {},
+        Clovelly: {},
         Seaton: {},
       },
       "🗺️ Dorset": {

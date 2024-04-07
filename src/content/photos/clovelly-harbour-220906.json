@@ -1,0 +1,28 @@
+{
+  "title": "Clovelly Harbour",
+  "meta": {
+    "location": "Clovelly",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.998783333333336,
+      "long": -4.397775
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T09:47:27.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

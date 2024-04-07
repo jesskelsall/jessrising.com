@@ -1,0 +1,27 @@
+{
+  "title": "Porthmeor Beach",
+  "meta": {
+    "location": "St Ives",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.21818888888889,
+      "long": -5.478502777777778
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T16:18:37.000+01:00",
+    "dimensions": {
+      "height": 2998,
+      "width": 3998
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

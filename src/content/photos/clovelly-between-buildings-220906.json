@@ -1,0 +1,26 @@
+{
+  "title": "Clovelly Between Buildings",
+  "meta": {
+    "location": "Clovelly",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.99831666666667,
+      "long": -4.398652777777778
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T09:39:18.000+01:00",
+    "dimensions": {
+      "height": 2960,
+      "width": 3947
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

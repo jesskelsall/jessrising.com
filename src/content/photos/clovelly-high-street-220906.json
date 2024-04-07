@@ -1,0 +1,26 @@
+{
+  "title": "Clovelly High Street",
+  "meta": {
+    "location": "Clovelly",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.99789166666667,
+      "long": -4.399625
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T09:35:29.000+01:00",
+    "dimensions": {
+      "height": 2996,
+      "width": 3995
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

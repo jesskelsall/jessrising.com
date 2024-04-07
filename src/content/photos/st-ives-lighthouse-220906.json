@@ -1,0 +1,27 @@
+{
+  "title": "St Ives Lighthouse",
+  "meta": {
+    "location": "St Ives",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.21311666666667,
+      "long": -5.478788888888889
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T15:13:51.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4013
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

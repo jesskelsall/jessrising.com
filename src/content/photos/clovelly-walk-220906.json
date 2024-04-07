@@ -1,0 +1,25 @@
+{
+  "title": "Clovelly Walk",
+  "meta": {
+    "location": "Clovelly",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.99872222222222,
+      "long": -4.400394444444445
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T10:12:13.000+01:00",
+    "dimensions": {
+      "height": 2924,
+      "width": 3899
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Clovelly Bay",
+  "meta": {
+    "location": "Clovelly",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.99768888888889,
+      "long": -4.3997
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T09:28:37.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    }
+  }
+}

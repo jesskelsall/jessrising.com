@@ -1,0 +1,26 @@
+{
+  "title": "Clovelly Cobbles",
+  "meta": {
+    "location": "Clovelly",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 50.997547222222224,
+      "long": -4.400166666666667
+    }
+  },
+  "exif": {
+    "date": "2022-09-06T09:32:08.000+01:00",
+    "dimensions": {
+      "height": 2924,
+      "width": 3899
+    },
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Telephoto Camera"
+    }
+  }
+}
