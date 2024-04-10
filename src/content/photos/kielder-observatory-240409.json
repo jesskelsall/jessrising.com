@@ -1,0 +1,28 @@
+{
+  "title": "Kielder Observatory",
+  "meta": {
+    "location": "Kielder Water",
+    "tags": [
+      "Astro"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-09T23:15:12.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 5,
+        "focalLength": 24,
+        "fStop": 2,
+        "ISO": 2000
+      }
+    }
+  }
+}
