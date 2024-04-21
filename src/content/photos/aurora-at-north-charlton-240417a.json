@@ -1,0 +1,29 @@
+{
+  "title": "Aurora at North Charlton",
+  "meta": {
+    "location": "Northumberland",
+    "tags": [
+      "Astro",
+      "Aurora"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-17T00:23:21.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 4,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 500
+      }
+    }
+  }
+}
