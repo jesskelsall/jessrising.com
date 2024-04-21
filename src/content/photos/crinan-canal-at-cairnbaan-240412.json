@@ -1,0 +1,29 @@
+{
+  "title": "Crinan Canal at Cairnbaan",
+  "meta": {
+    "location": "Crinan Canal",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-12T11:12:08.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.04,
+        "focalLength": 145,
+        "fStop": 5,
+        "ISO": 50
+      }
+    }
+  }
+}

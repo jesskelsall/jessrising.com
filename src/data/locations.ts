@@ -277,6 +277,13 @@ export const locationHierarchy: LocationHierarchy = {
             "Ardencraig Gardens": {},
           },
         },
+        "Isle of Islay": {
+          "Rinns of Islay": {},
+          "South Islay": {
+            Ardbeg: {},
+            "Port Ellen": {},
+          },
+        },
         "Isle of Mull": {
           "Calgary Bay": {},
           Fionnphort: {},
@@ -291,6 +298,10 @@ export const locationHierarchy: LocationHierarchy = {
           "Treshnish Isles": {
             "Isle of Lunga": {},
           },
+        },
+        Kintyre: {
+          "Crinan Canal": {},
+          "Tarbert (Kintyre)": {},
         },
         "Loch Awe": {
           "Kilchurn Castle": {},
@@ -514,7 +525,7 @@ export const locationHierarchy: LocationHierarchy = {
               Seilebost: {},
             },
             "Sound of Harris": {},
-            Tarbert: {},
+            "Tarbert (Harris)": {},
           },
           Lewis: {
             "Butt of Lewis": {},

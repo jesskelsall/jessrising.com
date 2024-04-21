@@ -1,0 +1,29 @@
+{
+  "title": "Port Wemyss",
+  "meta": {
+    "location": "Rinns of Islay",
+    "tags": [
+      "Landscape",
+      "Lighthouse"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-12T17:21:00.000+01:00",
+    "dimensions": {
+      "height": 6185,
+      "width": 9278
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 164,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    }
+  }
+}

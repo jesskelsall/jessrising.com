@@ -1,0 +1,30 @@
+{
+  "title": "Tarbert Harbour",
+  "meta": {
+    "location": "Tarbert (Kintyre)",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-12T09:42:27.000+01:00",
+    "dimensions": {
+      "height": 6297,
+      "width": 9444
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    }
+  }
+}
