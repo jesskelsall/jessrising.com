@@ -1,0 +1,28 @@
+{
+  "title": "Lonscale Fell",
+  "meta": {
+    "location": "Lonscale Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-20T08:00:16.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.004,
+        "focalLength": 48,
+        "fStop": 11,
+        "ISO": 160
+      }
+    }
+  }
+}
