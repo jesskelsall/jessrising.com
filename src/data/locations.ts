@@ -36,6 +36,10 @@ export const locationHierarchy: LocationHierarchy = {
               "Carrock Fell": {},
               "Great Calva": {},
             },
+            "Skiddaw Forest": {
+              "Lonscale Fell": {},
+              Skiddaw: {},
+            },
             "Uldale Fells": {},
           },
           "Lakes Northwest": {

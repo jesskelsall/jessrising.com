@@ -1,0 +1,28 @@
+{
+  "title": "Cat Bells from Little Man",
+  "meta": {
+    "location": "Skiddaw",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-04-20-skiddaw-bakestall"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 181,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2024-04-20T09:14:46.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

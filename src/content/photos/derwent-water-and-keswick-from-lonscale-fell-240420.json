@@ -1,0 +1,28 @@
+{
+  "title": "Derwent Water and Keswick from Lonscale Fell",
+  "meta": {
+    "location": "Lonscale Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-04-20-skiddaw-bakestall"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    },
+    "date": "2024-04-20T06:42:49.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
