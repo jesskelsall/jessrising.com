@@ -1,0 +1,29 @@
+{
+  "title": "Pre-Dawn Glow from Latrigg",
+  "meta": {
+    "location": "Latrigg",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-27T05:42:50.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 241,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

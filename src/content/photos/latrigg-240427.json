@@ -1,0 +1,28 @@
+{
+  "title": "Latrigg",
+  "meta": {
+    "location": "Latrigg",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-27T06:35:21.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.025,
+        "focalLength": 38,
+        "fStop": 22,
+        "ISO": 640
+      }
+    }
+  }
+}

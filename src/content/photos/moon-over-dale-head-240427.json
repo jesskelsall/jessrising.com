@@ -1,0 +1,28 @@
+{
+  "title": "Moon Over Dale Head",
+  "meta": {
+    "location": "Latrigg",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-27T06:04:25.000+01:00",
+    "dimensions": {
+      "height": 5339,
+      "width": 8008
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 297,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    }
+  }
+}

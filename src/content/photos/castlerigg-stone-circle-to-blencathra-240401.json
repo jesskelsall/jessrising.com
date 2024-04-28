@@ -1,5 +1,5 @@
 {
-  "title": "Castlerigg Stone Circle",
+  "title": "Castlerigg Stone Circle to Blencathra",
   "meta": {
     "location": "Castlerigg Stone Circle",
     "tags": [
@@ -7,24 +7,24 @@
       "Clouds",
       "Ruin"
     ],
-    "trip": "2023-07-22-lake-district"
+    "trip": "2024-03-28-lake-district"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": -0.3,
         "exposureTime": 0.008,
-        "focalLength": 35,
-        "fStop": 4.5,
-        "ISO": 50
+        "focalLength": 70,
+        "fStop": 6.300000190736682,
+        "ISO": 125
       }
     },
-    "date": "2023-07-22T16:30:59.000+01:00",
+    "date": "2024-04-01T11:12:49.000+01:00",
     "dimensions": {
-      "height": 6244,
-      "width": 9367
+      "height": 6191,
+      "width": 9287
     }
   }
 }

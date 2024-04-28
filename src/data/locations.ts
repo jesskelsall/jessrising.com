@@ -37,6 +37,7 @@ export const locationHierarchy: LocationHierarchy = {
               "Great Calva": {},
             },
             "Skiddaw Forest": {
+              Latrigg: {},
               "Lonscale Fell": {},
               Skiddaw: {},
             },
