@@ -36,6 +36,10 @@ export const locationHierarchy: LocationHierarchy = {
               "Carrock Fell": {},
               "Great Calva": {},
             },
+            "Dodd Wood": {
+              "Longside Edge": {},
+              "White Stones": {},
+            },
             "Skiddaw Forest": {
               Latrigg: {},
               "Lonscale Fell": {},

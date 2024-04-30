@@ -1,7 +1,7 @@
 {
-  "title": "Keswick from Latrigg",
+  "title": "Skiddaw Little Man Heather",
   "meta": {
-    "location": "Latrigg",
+    "location": "Longside Edge",
     "tags": [
       "Landscape"
     ],
@@ -10,16 +10,16 @@
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.0125,
-        "focalLength": 100,
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 43,
         "fStop": 4.5,
-        "ISO": 200
+        "ISO": 160
       }
     },
-    "date": "2024-04-27T06:22:11.000+01:00",
+    "date": "2024-04-27T12:21:20.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

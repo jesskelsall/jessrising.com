@@ -1,0 +1,28 @@
+{
+  "title": "Dodd",
+  "meta": {
+    "location": "Dodd Wood",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-27T13:47:01.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 34,
+        "fStop": 22,
+        "ISO": 50
+      }
+    }
+  }
+}

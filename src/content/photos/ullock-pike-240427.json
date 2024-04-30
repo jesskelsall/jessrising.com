@@ -1,0 +1,28 @@
+{
+  "title": "Ullock Pike",
+  "meta": {
+    "location": "Longside Edge",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-27T10:27:13.000+01:00",
+    "dimensions": {
+      "height": 6136,
+      "width": 9204
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 30,
+        "fStop": 20,
+        "ISO": 50
+      }
+    }
+  }
+}

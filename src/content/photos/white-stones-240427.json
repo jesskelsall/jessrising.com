@@ -1,10 +1,9 @@
 {
-  "title": "Castlerigg Stone Circle to Bleaberry Fell",
+  "title": "White Stones",
   "meta": {
-    "location": "Castlerigg Stone Circle",
+    "location": "White Stones",
     "tags": [
-      "Landscape",
-      "Ruin"
+      "Landscape"
     ],
     "trip": "2024-04-27-latrigg-longside-edge-dodd-wood"
   },
@@ -13,14 +12,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
-        "exposureTime": 0.02,
-        "focalLength": 42,
-        "fStop": 16,
-        "ISO": 320
+        "exposureBias": -0.3,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 37,
+        "fStop": 5.6,
+        "ISO": 160
       }
     },
-    "date": "2024-04-27T07:10:54.000+01:00",
+    "date": "2024-04-27T12:25:40.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

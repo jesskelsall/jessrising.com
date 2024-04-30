@@ -1,10 +1,11 @@
 {
-  "title": "Castlerigg Stone Circle to Bleaberry Fell",
+  "title": "Carl Side",
   "meta": {
-    "location": "Castlerigg Stone Circle",
+    "location": "Longside Edge",
     "tags": [
       "Landscape",
-      "Ruin"
+      "Cairn",
+      "Wainwright"
     ],
     "trip": "2024-04-27-latrigg-longside-edge-dodd-wood"
   },
@@ -13,17 +14,20 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
+        "exposureBias": -0.3,
         "exposureTime": 0.02,
-        "focalLength": 42,
+        "focalLength": 37,
         "fStop": 16,
-        "ISO": 320
+        "ISO": 160
       }
     },
-    "date": "2024-04-27T07:10:54.000+01:00",
+    "date": "2024-04-27T11:50:59.000+01:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6204,
+      "width": 9306
     }
+  },
+  "settings": {
+    "showPhoto": true
   }
 }

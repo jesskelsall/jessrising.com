@@ -1,26 +1,25 @@
 {
-  "title": "Robinson and High Stile from Latrigg",
+  "title": "Ascending Ullock Pike",
   "meta": {
-    "location": "Latrigg",
+    "location": "Longside Edge",
     "tags": [
-      "Landscape",
-      "Snow"
+      "Landscape"
     ],
     "trip": "2024-04-27-latrigg-longside-edge-dodd-wood"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.01,
-        "focalLength": 235,
-        "fStop": 5.6,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 26,
+        "fStop": 16,
         "ISO": 200
       }
     },
-    "date": "2024-04-27T06:15:39.000+01:00",
+    "date": "2024-04-27T09:30:06.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

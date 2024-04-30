@@ -1,10 +1,9 @@
 {
-  "title": "Sunrise Around Blencathra",
+  "title": "Scafell Massif from Longside Edge",
   "meta": {
-    "location": "Latrigg",
+    "location": "Longside Edge",
     "tags": [
-      "Landscape",
-      "Sunrise/Sunset"
+      "Landscape"
     ],
     "trip": "2024-04-27-latrigg-longside-edge-dodd-wood"
   },
@@ -13,14 +12,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.0025,
-        "focalLength": 400,
+        "exposureBias": -0.3,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 262,
         "fStop": 5.6,
-        "ISO": 50
+        "ISO": 160
       }
     },
-    "date": "2024-04-27T05:53:00.000+01:00",
+    "date": "2024-04-27T11:10:48.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

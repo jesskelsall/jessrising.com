@@ -5,14 +5,9 @@
     "tags": [
       "Astro"
     ],
-    "trip": null
+    "trip": "2024-04-27-latrigg-longside-edge-dodd-wood"
   },
   "exif": {
-    "date": "2024-04-27T23:02:00.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24mm F1.4",
@@ -23,6 +18,11 @@
         "fStop": 1.4,
         "ISO": 1000
       }
+    },
+    "date": "2024-04-27T23:02:00.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }
