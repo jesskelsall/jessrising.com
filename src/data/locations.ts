@@ -336,6 +336,7 @@ export const locationHierarchy: LocationHierarchy = {
         Rothiemurchus: {},
         Tomintoul: {},
       },
+      "🏞️ Galloway Forest Park": {},
       "🗺️ Highlands": {
         Ardnamurchan: {
           "Point of Ardnamurchan": {},

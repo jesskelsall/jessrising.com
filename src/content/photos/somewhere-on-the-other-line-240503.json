@@ -1,15 +1,14 @@
 {
-  "title": "Aurora at Kielder Observatory",
+  "title": "Somewhere On the Other Line",
   "meta": {
-    "location": "Kielder Water",
+    "location": "Galloway Forest Park",
     "tags": [
-      "Astro",
-      "Aurora"
+      "Astro"
     ],
-    "trip": "2024-04-27-latrigg-longside-edge-dodd-wood"
+    "trip": null
   },
   "exif": {
-    "date": "2024-04-28T01:41:27.000+01:00",
+    "date": "2024-05-03T00:37:00.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504
@@ -19,10 +18,10 @@
       "lens": "Sony FE 24mm F1.4",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 4,
+        "exposureTime": 8,
         "focalLength": 24,
         "fStop": 1.4,
-        "ISO": 3200
+        "ISO": 1250
       }
     }
   }
