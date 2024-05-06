@@ -1,0 +1,28 @@
+{
+  "title": "Laphroaig Peat Fire",
+  "meta": {
+    "location": "Laphroaig",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-13T10:41:31.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 50,
+        "fStop": 2.8,
+        "ISO": 1600
+      }
+    }
+  }
+}

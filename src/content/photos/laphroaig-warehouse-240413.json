@@ -1,0 +1,28 @@
+{
+  "title": "Laphroaig Warehouse",
+  "meta": {
+    "location": "Laphroaig",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-13T11:07:35.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9501
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 4000
+      }
+    }
+  }
+}

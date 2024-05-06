@@ -290,6 +290,8 @@ export const locationHierarchy: LocationHierarchy = {
           "Rinns of Islay": {},
           "South Islay": {
             Ardbeg: {},
+            Lagavulin: {},
+            Laphroaig: {},
             "Port Ellen": {},
           },
         },

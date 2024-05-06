@@ -1,0 +1,29 @@
+{
+  "title": "Laphroaig Visitor Centre",
+  "meta": {
+    "location": "Laphroaig",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-04-13T13:29:21.000+01:00",
+    "dimensions": {
+      "height": 6170,
+      "width": 9255
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 48,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    }
+  }
+}
