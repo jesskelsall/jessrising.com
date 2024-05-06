@@ -9,14 +9,9 @@
       "Ruin",
       "White House"
     ],
-    "trip": null
+    "trip": "2024-04-12-isle-of-islay"
   },
   "exif": {
-    "date": "2024-04-13T17:03:13.000+01:00",
-    "dimensions": {
-      "height": 5781,
-      "width": 8671
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -27,6 +22,11 @@
         "fStop": 4,
         "ISO": 160
       }
+    },
+    "date": "2024-04-13T17:03:13.000+01:00",
+    "dimensions": {
+      "height": 5781,
+      "width": 8671
     }
   }
 }

@@ -1,9 +1,10 @@
 {
-  "title": "Laphroaig Floor Malting",
+  "title": "Gorse",
   "meta": {
-    "location": "Laphroaig",
+    "location": "Port Ellen",
     "tags": [
-      "Interior"
+      "Flowers & Insects",
+      "Gorse"
     ],
     "trip": "2024-04-12-isle-of-islay"
   },
@@ -13,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.03333333333333333,
-        "focalLength": 36,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
         "fStop": 8,
-        "ISO": 4000
+        "ISO": 160
       }
     },
-    "date": "2024-04-13T10:08:04.000+01:00",
+    "date": "2024-04-14T10:01:53.000+01:00",
     "dimensions": {
-      "height": 6334,
-      "width": 9502
+      "height": 6210,
+      "width": 9315
     }
   }
 }

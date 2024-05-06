@@ -1,10 +1,9 @@
 {
-  "title": "Tarbert Harbour",
+  "title": "The Warrior Behind Glass",
   "meta": {
-    "location": "Tarbert (Kintyre)",
+    "location": "Loch Finlaggan",
     "tags": [
-      "Landscape",
-      "Boat"
+      "Ruin"
     ],
     "trip": "2024-04-12-isle-of-islay"
   },
@@ -14,13 +13,13 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.008,
+        "exposureTime": 0.0012499999720602967,
         "focalLength": 70,
         "fStop": 4,
-        "ISO": 125
+        "ISO": 160
       }
     },
-    "date": "2024-04-12T09:40:52.000+01:00",
+    "date": "2024-04-14T12:04:32.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

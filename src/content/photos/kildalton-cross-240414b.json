@@ -1,10 +1,10 @@
 {
-  "title": "Laphroaig Visitor Centre",
+  "title": "Kildalton Cross",
   "meta": {
-    "location": "Laphroaig",
+    "location": "South Islay",
     "tags": [
       "Landscape",
-      "Coast"
+      "Ruin"
     ],
     "trip": "2024-04-12-isle-of-islay"
   },
@@ -13,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
-        "exposureTime": 0.005,
-        "focalLength": 48,
+        "exposureBias": -0.7,
+        "exposureTime": 0.002,
+        "focalLength": 52,
         "fStop": 5.6,
-        "ISO": 50
+        "ISO": 160
       }
     },
-    "date": "2024-04-13T13:29:21.000+01:00",
+    "date": "2024-04-14T09:06:09.000+01:00",
     "dimensions": {
-      "height": 6170,
-      "width": 9255
+      "height": 5949,
+      "width": 8923
     }
   }
 }

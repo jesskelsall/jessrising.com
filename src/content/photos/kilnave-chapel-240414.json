@@ -1,10 +1,11 @@
 {
-  "title": "Lagavulin Coast",
+  "title": "Kilnave Chapel",
   "meta": {
-    "location": "Lagavulin",
+    "location": "Isle of Islay",
     "tags": [
       "Landscape",
-      "Coast"
+      "Coast",
+      "Ruin"
     ],
     "trip": "2024-04-12-isle-of-islay"
   },
@@ -13,17 +14,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
-        "exposureTime": 0.0015625,
+        "exposureBias": 0.3,
+        "exposureTime": 0.01,
         "focalLength": 54,
-        "fStop": 2.8,
-        "ISO": 50
+        "fStop": 11,
+        "ISO": 160
       }
     },
-    "date": "2024-04-13T17:19:43.000+01:00",
+    "date": "2024-04-14T11:02:31.000+01:00",
     "dimensions": {
-      "height": 6186,
-      "width": 9279
+      "height": 6156,
+      "width": 9235
     }
   }
 }

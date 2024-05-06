@@ -1,10 +1,11 @@
 {
-  "title": "Crinan Canal at Cairnbaan",
+  "title": "Port Ellen Pier",
   "meta": {
-    "location": "Crinan Canal",
+    "location": "Port Ellen",
     "tags": [
       "Landscape",
-      "White House"
+      "Boat",
+      "Coast"
     ],
     "trip": "2024-04-12-isle-of-islay"
   },
@@ -13,17 +14,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.04,
-        "focalLength": 145,
-        "fStop": 5,
+        "exposureBias": -1,
+        "exposureTime": 0.002,
+        "focalLength": 100,
+        "fStop": 4.5,
         "ISO": 50
       }
     },
-    "date": "2024-04-12T11:12:08.000+01:00",
+    "date": "2024-04-14T09:37:08.000+01:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6097,
+      "width": 9145
     }
   }
 }

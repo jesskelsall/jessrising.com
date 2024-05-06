@@ -6,14 +6,9 @@
       "Landscape",
       "Ruin"
     ],
-    "trip": null
+    "trip": "2024-04-12-isle-of-islay"
   },
   "exif": {
-    "date": "2024-04-13T14:39:16.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -24,6 +19,11 @@
         "fStop": 7.1,
         "ISO": 200
       }
+    },
+    "date": "2024-04-13T14:39:16.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }
