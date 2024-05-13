@@ -1,0 +1,29 @@
+{
+  "title": "Oxygen Excitement",
+  "meta": {
+    "location": "Clatteringshaws Loch",
+    "tags": [
+      "Astro",
+      "Aurora"
+    ],
+    "trip": "2024-05-10-aurora-at-clatteringshaws-loch"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 4,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 250
+      }
+    },
+    "date": "2024-05-10T23:59:04.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

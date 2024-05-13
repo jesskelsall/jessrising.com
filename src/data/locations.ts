@@ -24,6 +24,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Cumbria": {
+        Brampton: {},
         "🏞️ Lake District": {
           "Lakes Central": {
             Lodore: {},
@@ -340,7 +341,9 @@ export const locationHierarchy: LocationHierarchy = {
         Rothiemurchus: {},
         Tomintoul: {},
       },
-      "🏞️ Galloway Forest Park": {},
+      "🏞️ Galloway Forest Park": {
+        "Clatteringshaws Loch": {},
+      },
       "🗺️ Highlands": {
         Ardnamurchan: {
           "Point of Ardnamurchan": {},
