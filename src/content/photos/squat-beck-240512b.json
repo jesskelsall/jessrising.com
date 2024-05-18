@@ -1,0 +1,28 @@
+{
+  "title": "Squat Beck",
+  "meta": {
+    "location": "Rannerdale Knotts",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-05-12-rannerdale-bluebells-mungrisdale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 26,
+        "fStop": 8,
+        "ISO": 200
+      }
+    },
+    "date": "2024-05-12T07:17:00.000+01:00",
+    "dimensions": {
+      "height": 6216,
+      "width": 9324
+    }
+  }
+}

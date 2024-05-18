@@ -1,0 +1,29 @@
+{
+  "title": "Mungrisdale from Raven Crags",
+  "meta": {
+    "location": "Mungrisdale",
+    "tags": [
+      "Landscape",
+      "Gorse"
+    ],
+    "trip": "2024-05-12-rannerdale-bluebells-mungrisdale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 38,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-05-12T10:12:16.000+01:00",
+    "dimensions": {
+      "height": 6036,
+      "width": 9054
+    }
+  }
+}

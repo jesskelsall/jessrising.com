@@ -1,0 +1,28 @@
+{
+  "title": "Bannerdale Crags to Valley",
+  "meta": {
+    "location": "Bannerdale Crags",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-05-12-rannerdale-bluebells-mungrisdale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 33,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-05-12T11:52:31.000+01:00",
+    "dimensions": {
+      "height": 6035,
+      "width": 9052
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Bannerdale Crags",
+  "meta": {
+    "location": "Bannerdale Crags",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Wainwright"
+    ],
+    "trip": "2024-05-12-rannerdale-bluebells-mungrisdale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 43,
+        "fStop": 8,
+        "ISO": 200
+      }
+    },
+    "date": "2024-05-12T12:35:43.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

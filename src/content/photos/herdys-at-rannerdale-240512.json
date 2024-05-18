@@ -1,0 +1,28 @@
+{
+  "title": "Herdys at Rannerdale",
+  "meta": {
+    "location": "Rannerdale Knotts",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2024-05-12-rannerdale-bluebells-mungrisdale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 297,
+        "fStop": 5.6,
+        "ISO": 2000
+      }
+    },
+    "date": "2024-05-12T06:20:25.000+01:00",
+    "dimensions": {
+      "height": 5437,
+      "width": 8155
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Bluebells",
+  "meta": {
+    "location": "Rannerdale Knotts",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2024-05-12-rannerdale-bluebells-mungrisdale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 400,
+        "fStop": 8,
+        "ISO": 640
+      }
+    },
+    "date": "2024-05-12T08:06:43.000+01:00",
+    "dimensions": {
+      "height": 3841,
+      "width": 5762
+    }
+  }
+}

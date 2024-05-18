@@ -41,6 +41,9 @@ export const locationHierarchy: LocationHierarchy = {
               "Longside Edge": {},
               "White Stones": {},
             },
+            Mungrisdale: {
+              "Bannerdale Crags": {},
+            },
             "Skiddaw Forest": {
               Latrigg: {},
               "Lonscale Fell": {},
