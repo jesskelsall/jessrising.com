@@ -214,7 +214,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Dunstanburgh Castle": {},
         "Hadrian's Wall": {},
         "Kielder Water": {},
-        Lindisfarne: {},
+        "🏝️ Lindisfarne": {},
         Seahouses: {},
       },
       "🗺️ Somerset": {
@@ -282,38 +282,12 @@ export const locationHierarchy: LocationHierarchy = {
         Inveraray: {
           "Inveraray Castle": {},
         },
-        "Isle of Bute": {
+        "🏝️ Bute": {
           Kerrycroy: {},
           "Kyles of Bute": {},
           "Mount Stuart": {},
           Rothesay: {
             "Ardencraig Gardens": {},
-          },
-        },
-        "Isle of Islay": {
-          "Loch Finlaggan": {},
-          "Port Askaig": {},
-          "Rinns of Islay": {},
-          "South Islay": {
-            Ardbeg: {},
-            Lagavulin: {},
-            Laphroaig: {},
-            "Port Ellen": {},
-          },
-        },
-        "Isle of Mull": {
-          "Calgary Bay": {},
-          Fionnphort: {},
-          "Isle of Iona": {
-            "Iona Abbey": {},
-          },
-          "Isle of Staffa": {},
-          Lochbuie: {},
-          "Loch Spelve": {},
-          "Sound of Mull": {},
-          Tobermory: {},
-          "Treshnish Isles": {
-            "Isle of Lunga": {},
           },
         },
         Kintyre: {
@@ -385,43 +359,6 @@ export const locationHierarchy: LocationHierarchy = {
         "🏞️ Caithness": {
           "Duncansby Head": {},
           "Noss Head": {},
-        },
-        "Isle of Raasay": {
-          Brochel: {},
-        },
-        "Isle of Skye": {
-          Duirinish: {
-            "Neist Point": {},
-          },
-          Dunvegan: {},
-          Mingnish: {},
-          Sleat: {
-            Armadale: {},
-            Isleornsay: {},
-            "Dunscaith Castle": {},
-            Teangue: {},
-          },
-          Strathaird: {
-            Elgol: {},
-          },
-          "The Cullins": {
-            "Fairy Pools": {},
-            "Loch Coruisk": {},
-            Sligachan: {},
-          },
-          Trotternish: {
-            "Duntulm Castle": {},
-            "Fairy Glen": {},
-            "Lealt Falls": {},
-            "Loch Fada": {},
-            "Mealt Falls": {},
-            Portree: {},
-            "Skye Museum of Island Life": {},
-            "The Quiraing": {},
-            "The Storr": {},
-            Uig: {},
-          },
-          Waternish: {},
         },
         "🏞️ Knoydart": {},
         "🏞️ Loch Shiel": {
@@ -500,6 +437,76 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch Oich": {},
         },
       },
+      "🗺️ Inner Hebrides": {
+        "🏝️ Islay": {
+          "Loch Finlaggan": {},
+          "Port Askaig": {},
+          "Rinns of Islay": {},
+          "South Islay": {
+            Ardbeg: {},
+            Lagavulin: {},
+            Laphroaig: {},
+            "Port Ellen": {},
+          },
+        },
+        "🏝️ Mull": {
+          "Calgary Bay": {},
+          Fionnphort: {},
+          "🏝️ Iona": {
+            "Iona Abbey": {},
+          },
+          Lochbuie: {},
+          "Loch Spelve": {},
+          "Sound of Mull": {},
+          Tobermory: {},
+        },
+        "🏝️ Raasay": {
+          Brochel: {},
+        },
+        "🏝️ Skye": {
+          Duirinish: {
+            "Neist Point": {},
+          },
+          Dunvegan: {},
+          Mingnish: {},
+          Sleat: {
+            Armadale: {},
+            Isleornsay: {},
+            "Dunscaith Castle": {},
+            Teangue: {},
+          },
+          Strathaird: {
+            Elgol: {},
+          },
+          "The Cullins": {
+            "Fairy Pools": {},
+            "Loch Coruisk": {},
+            Sligachan: {},
+          },
+          Trotternish: {
+            "Duntulm Castle": {},
+            "Fairy Glen": {},
+            "Lealt Falls": {},
+            "Loch Fada": {},
+            "Mealt Falls": {},
+            Portree: {},
+            "Skye Museum of Island Life": {},
+            "The Quiraing": {},
+            "The Storr": {},
+            Uig: {},
+          },
+          Waternish: {},
+        },
+        "🏝️ Tiree": {
+          Hynish: {},
+          Kilkenneth: {},
+          Scarinish: {},
+        },
+        "Treshnish Isles": {
+          "🏝️ Lunga": {},
+          "🏝️ Staffa": {},
+        },
+      },
       "🏞️ Loch Lomond & The Trossachs": {
         "Falls of Falloch": {},
         "Loch Lomond": {
@@ -525,7 +532,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Elgin Cathedral": {},
       },
       "🗺️ Outer Hebrides": {
-        "🗺️ Barra": {
+        "🏝️ Barra": {
           Ardmhor: {},
           Borve: {},
           Castlebay: {
@@ -536,7 +543,7 @@ export const locationHierarchy: LocationHierarchy = {
           Eoligarry: {},
           Vatersay: {},
         },
-        "🗺️ Lewis & Harris": {
+        "🏝️ Lewis & Harris": {
           Harris: {
             "North Harris": {},
             "South Harris": {
@@ -558,22 +565,22 @@ export const locationHierarchy: LocationHierarchy = {
           },
         },
         "St Kilda": {
-          Boreray: {},
-          Hirta: {},
+          "🏝️ Boreray": {},
+          "🏝️ Hirta": {},
         },
         "🗺️ Uist & Benbecula": {
-          Benbecula: {},
-          Berneray: {},
-          Eriskay: {
+          "🏝️ Benbecula": {},
+          "🏝️ Berneray": {},
+          "🏝️ Eriskay": {
             Acairseid: {},
             "Rubha Ban": {},
           },
-          Grimsay: {},
-          "North Uist": {
+          "🏝️ Grimsay": {},
+          "🏝️ North Uist": {
             Baleloch: {},
             "Trinity Temple": {},
           },
-          "South Uist": {
+          "🏝️ South Uist": {
             "Beinn Mhòr": {},
             Kildonan: {},
             "Loch Druidibeag": {},
@@ -647,7 +654,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Penrhyn Castle": {},
         Portmeirion: {},
       },
-      "🗺️ Isle of Anglesey": {
+      "🏝️ Isle of Anglesey": {
         "Holy Island": {
           "South Stack": {},
         },

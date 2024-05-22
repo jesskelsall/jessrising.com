@@ -1,0 +1,29 @@
+{
+  "title": "Tràigh Thodhrasdail Rocks",
+  "meta": {
+    "location": "Kilkenneth",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-18T21:00:04.000+01:00",
+    "dimensions": {
+      "height": 6256,
+      "width": 9386
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 41,
+        "fStop": 8,
+        "ISO": 200
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "MV Loch Frisa",
+  "meta": {
+    "location": "Sound of Mull",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-18T07:23:52.000+01:00",
+    "dimensions": {
+      "height": 4962,
+      "width": 7443
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.002,
+        "focalLength": 385,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    }
+  }
+}

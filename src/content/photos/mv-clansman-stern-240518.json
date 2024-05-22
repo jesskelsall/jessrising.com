@@ -1,0 +1,29 @@
+{
+  "title": "MV Clansman Stern",
+  "meta": {
+    "location": "Sound of Mull",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-18T07:17:06.000+01:00",
+    "dimensions": {
+      "height": 6264,
+      "width": 9396
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.005,
+        "focalLength": 24,
+        "fStop": 16,
+        "ISO": 640
+      }
+    }
+  }
+}

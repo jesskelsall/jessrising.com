@@ -1,0 +1,30 @@
+{
+  "title": "Hynish Dry Dock",
+  "meta": {
+    "location": "Hynish",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-18T15:33:12.000+01:00",
+    "dimensions": {
+      "height": 5923,
+      "width": 8884
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 24,
+        "fStop": 16,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Sunset at Rubha Chràiginis",
+  "meta": {
+    "location": "Kilkenneth",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-18T21:26:50.000+01:00",
+    "dimensions": {
+      "height": 6206,
+      "width": 9312
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 69,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    }
+  }
+}
