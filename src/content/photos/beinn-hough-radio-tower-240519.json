@@ -1,0 +1,28 @@
+{
+  "title": "Beinn Hough Radio Tower",
+  "meta": {
+    "location": "Hough",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-19T12:59:00.000+01:00",
+    "dimensions": {
+      "height": 6013,
+      "width": 9020
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 128,
+        "fStop": 5,
+        "ISO": 50
+      }
+    }
+  }
+}

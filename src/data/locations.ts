@@ -498,6 +498,8 @@ export const locationHierarchy: LocationHierarchy = {
           Waternish: {},
         },
         "🏝️ Tiree": {
+          Caolas: {},
+          Hough: {},
           Hynish: {},
           Kilkenneth: {},
           Scarinish: {},

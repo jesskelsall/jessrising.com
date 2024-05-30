@@ -1,0 +1,29 @@
+{
+  "title": "Eilean an Aodaich",
+  "meta": {
+    "location": "Hynish",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-19T20:13:19.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9415
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 49,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}

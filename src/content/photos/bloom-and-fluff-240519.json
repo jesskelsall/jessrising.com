@@ -1,0 +1,28 @@
+{
+  "title": "Bloom and Fluff",
+  "meta": {
+    "location": "Hough",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-19T12:47:50.000+01:00",
+    "dimensions": {
+      "height": 5075,
+      "width": 7612
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 315,
+        "fStop": 9,
+        "ISO": 500
+      }
+    }
+  }
+}

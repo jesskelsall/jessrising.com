@@ -1,0 +1,29 @@
+{
+  "title": "Hynish Crumbling Wall",
+  "meta": {
+    "location": "Hynish",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-19T19:33:19.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 31,
+        "fStop": 9,
+        "ISO": 100
+      }
+    }
+  }
+}

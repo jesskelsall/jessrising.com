@@ -1,0 +1,28 @@
+{
+  "title": "Field Tyre Tracks",
+  "meta": {
+    "location": "Hough",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-19T12:24:57.000+01:00",
+    "dimensions": {
+      "height": 5844,
+      "width": 8974
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 158,
+        "fStop": 5,
+        "ISO": 50
+      }
+    }
+  }
+}

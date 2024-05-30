@@ -1,0 +1,29 @@
+{
+  "title": "Hynish Coast from Clèit Mhòr",
+  "meta": {
+    "location": "Hynish",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-19T20:12:51.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9413
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 51,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}
