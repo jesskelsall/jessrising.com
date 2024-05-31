@@ -1,0 +1,29 @@
+{
+  "title": "Sunset Over a Tiree Rooftop",
+  "meta": {
+    "location": "Balephetrish",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-20T21:39:13.000+01:00",
+    "dimensions": {
+      "height": 4707,
+      "width": 7060
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

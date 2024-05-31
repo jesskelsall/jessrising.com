@@ -1,0 +1,30 @@
+{
+  "title": "Tràigh Bhàgh",
+  "meta": {
+    "location": "Tiree",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-20T20:53:43.000+01:00",
+    "dimensions": {
+      "height": 6284,
+      "width": 9430
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 33,
+        "fStop": 4,
+        "ISO": 50
+      }
+    }
+  }
+}
