@@ -4,15 +4,19 @@ import { APP_AUTHOR } from "../consts/app";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { SEPARATOR } from "../consts/text";
 import { useGalleryPhoto } from "../context/galleryPhoto";
+import { useGalleryPhotoSlugs } from "../context/galleryPhotoSlugs";
 import { allTripsDict } from "../data/trips";
 import { dateFromString } from "../functions/date";
 import { getImageSrcFromSlug } from "../functions/image";
 import { getLocationHierarchy } from "../functions/locationsDict";
+import { parsePhotoSlug } from "../functions/photo";
+import { pluralise } from "../functions/title";
 import { TagTitle } from "../types/tag";
 import { MarkdownGPS } from "./MarkdownGPS";
 import { MarkdownLocations } from "./MarkdownLocations";
 import { MarkdownTags } from "./MarkdownTags";
 import { MarkdownTrip } from "./MarkdownTrip";
+import { Pill } from "./Pill";
 
 const renderSetting = (
   setting: number | undefined,
@@ -23,6 +27,7 @@ const renderSetting = (
 };
 
 export const GalleryHeading = () => {
+  const galleryPhotoSlugs = useGalleryPhotoSlugs();
   const { exif, meta, settings, slug, title } = useGalleryPhoto();
   const { camera } = exif;
 
@@ -33,6 +38,11 @@ export const GalleryHeading = () => {
   );
 
   const hasForYouTag = meta.tags.includes(TagTitle.parse("For You"));
+
+  const photoSlugPrefix = parsePhotoSlug(title);
+  const matchingTitlesCount =
+    galleryPhotoSlugs.filter((eachSlug) => eachSlug.startsWith(photoSlugPrefix))
+      .length - 1;
 
   return (
     <>
@@ -78,6 +88,18 @@ export const GalleryHeading = () => {
           </li>
         )}
       </ul>
+      {matchingTitlesCount > 0 && (
+        <p>
+          <Pill
+            href={`/gallery?title=${photoSlugPrefix}`}
+            title={`${matchingTitlesCount} other ${pluralise(
+              "photo",
+              "photos",
+              matchingTitlesCount
+            )} with this title`}
+          />
+        </p>
+      )}
       {settings?.downloadOriginal && (
         <Link className="button" href={originalImagePath}>
           Download high resolution photo

@@ -7,6 +7,7 @@ import { Newsletter } from "../../../components/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders";
 import { CONFIG } from "../../../consts/config";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
+import { GalleryPhotoSlugsContext } from "../../../context/galleryPhotoSlugs";
 import {
   allGalleryPhotoSlugs,
   allGalleryPhotosDict,
@@ -22,6 +23,7 @@ interface IParams extends ParsedUrlQuery {
 interface IProps {
   contentArea: TContentArea;
   galleryPhoto: GalleryPhoto;
+  galleryPhotoSlugs: GalleryPhotoSlug[];
 }
 
 export const getStaticPaths: GetStaticPaths<IParams> = async () => ({
@@ -38,13 +40,13 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
 
     // Prepare page-specific props
     const galleryPhoto = allGalleryPhotosDict[GalleryPhotoSlug.parse(slug)];
-
     if (!galleryPhoto) return { notFound: true };
 
     return {
       props: {
         contentArea: "photo",
         galleryPhoto,
+        galleryPhotoSlugs: allGalleryPhotoSlugs,
       },
     };
   } catch (error) {
@@ -53,7 +55,10 @@ export const getStaticProps: GetStaticProps<IProps, IParams> = async (
   }
 };
 
-const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
+const GalleryPhotoPage: NextPage<IProps> = ({
+  galleryPhoto,
+  galleryPhotoSlugs,
+}) => {
   const { exif, meta, slug, title } = galleryPhoto;
 
   const openGraphLocation = getLocationHierarchy(meta.location)
@@ -72,9 +77,11 @@ const GalleryPhotoPage: NextPage<IProps> = ({ galleryPhoto }) => {
           title={title}
         />
       </Head>
-      <GalleryPhotoContext.Provider value={galleryPhoto}>
-        <GalleryPhotoComponent />
-      </GalleryPhotoContext.Provider>
+      <GalleryPhotoSlugsContext.Provider value={galleryPhotoSlugs}>
+        <GalleryPhotoContext.Provider value={galleryPhoto}>
+          <GalleryPhotoComponent />
+        </GalleryPhotoContext.Provider>
+      </GalleryPhotoSlugsContext.Provider>
       {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );

@@ -18,6 +18,7 @@ export interface IGalleryQuery extends ParsedUrlQuery {
   order?: TQueryParam<TOrder>;
   page?: TQueryParam;
   tag?: TQueryParam;
+  title?: TQueryParam;
   trip?: TQueryParam;
   year?: TQueryParam;
 }

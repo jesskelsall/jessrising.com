@@ -41,6 +41,7 @@ interface IProps {
   pagination: IPagination;
   query: IGalleryQuery;
   tags: TagTitle[];
+  title: string | null;
   trips: TripSlug[];
   year: number | null;
 }
@@ -56,6 +57,7 @@ export const getServerSideProps: GetServerSideProps<
   let page = queryParamToIntegers(query.page)[0] || 1;
   const locations = queryParamToStrings(query.location);
   const tags = queryParamToStrings(query.tag).map((tag) => TagTitle.parse(tag));
+  const title = queryParamToStrings(query.title)[0] || null;
   const trips = queryParamToStrings(query.trip).map((trip) =>
     TripSlug.parse(trip)
   );
@@ -63,8 +65,8 @@ export const getServerSideProps: GetServerSideProps<
     queryParamToStrings<TOrder>(query.order)[0] || trips.length > 0
       ? "oldest"
       : "newest";
-  const year: number | null = queryParamToIntegers(query.year)[0] || null;
-  let month: number | null = queryParamToIntegers(query.month)[0] || null;
+  const year = queryParamToIntegers(query.year)[0] || null;
+  let month = queryParamToIntegers(query.month)[0] || null;
   if (month && (month < 1 || month > 12)) month = null;
 
   // Apply sorting
@@ -113,6 +115,9 @@ export const getServerSideProps: GetServerSideProps<
       },
     ]);
   }
+  if (title) {
+    filters.push([[true], (photo) => [photo.slug.startsWith(title)]]);
+  }
 
   filters.push([
     [true],
@@ -145,6 +150,7 @@ export const getServerSideProps: GetServerSideProps<
       },
       query,
       tags,
+      title,
       trips,
       year,
     },
@@ -159,6 +165,7 @@ const GalleryPage: NextPage<IProps> = ({
   pagination,
   query,
   tags,
+  title,
   trips,
   year,
 }) => {
@@ -180,9 +187,9 @@ const GalleryPage: NextPage<IProps> = ({
     ? DateTime.fromObject({ month }).toFormat("LLLL")
     : "";
   const displayTrips = trips.map((trip) => {
-    const { emoji, title } = allTripsDict[trip];
-    if (!title) return trip;
-    return `${emoji ? `${emoji} ` : ""}${title}`;
+    const { emoji, title: tripTitle } = allTripsDict[trip];
+    if (!tripTitle) return trip;
+    return `${emoji ? `${emoji} ` : ""}${tripTitle}`;
   });
 
   const trip = trips.length === 1 ? allTripsDict[trips[0]] : undefined;
@@ -202,6 +209,9 @@ const GalleryPage: NextPage<IProps> = ({
         <div className="gallery-heading">
           <div>
             <h1>Gallery</h1>
+            {title && (
+              <h2>Title: {galleryPhotos[0]?.title || titleCase(title)}</h2>
+            )}
             {showFilter(locations.map(titleCase), "Location", "Locations")}
             {showFilter(tags.map(titleCase), "Tag", "Tags")}
             {showFilter(displayTrips, "Trip", "Trips")}
