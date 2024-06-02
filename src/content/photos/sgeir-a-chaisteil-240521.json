@@ -1,0 +1,29 @@
+{
+  "title": "Sgeir a' Chaisteil",
+  "meta": {
+    "location": "Lunga",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T10:44:12.000+01:00",
+    "dimensions": {
+      "height": 6332,
+      "width": 9499
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 31,
+        "fStop": 20,
+        "ISO": 160
+      }
+    }
+  }
+}

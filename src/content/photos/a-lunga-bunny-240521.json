@@ -1,0 +1,26 @@
+{
+  "title": "A Lunga Bunny",
+  "meta": {
+    "location": "Lunga",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T11:17:54.000+01:00",
+    "dimensions": {
+      "height": 3648,
+      "width": 5472
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 250
+      }
+    }
+  }
+}

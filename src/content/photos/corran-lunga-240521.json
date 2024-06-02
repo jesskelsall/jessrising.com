@@ -1,0 +1,29 @@
+{
+  "title": "Corran Lunga",
+  "meta": {
+    "location": "Lunga",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T10:35:41.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 34,
+        "fStop": 8,
+        "ISO": 100
+      }
+    }
+  }
+}

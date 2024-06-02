@@ -1,0 +1,29 @@
+{
+  "title": "Puffins of Lunga",
+  "meta": {
+    "location": "Lunga",
+    "tags": [
+      "Landscape",
+      "Bird"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T11:18:22.000+01:00",
+    "dimensions": {
+      "height": 5817,
+      "width": 8726
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 114,
+        "fStop": 10,
+        "ISO": 250
+      }
+    }
+  }
+}

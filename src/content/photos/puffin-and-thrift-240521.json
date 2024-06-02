@@ -1,0 +1,29 @@
+{
+  "title": "Puffin and Thrift",
+  "meta": {
+    "location": "Lunga",
+    "tags": [
+      "Bird",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T11:34:32.000+01:00",
+    "dimensions": {
+      "height": 6271,
+      "width": 9407
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 318,
+        "fStop": 9,
+        "ISO": 500
+      }
+    }
+  }
+}

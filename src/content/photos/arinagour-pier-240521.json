@@ -1,0 +1,28 @@
+{
+  "title": "Arinagour Pier",
+  "meta": {
+    "location": "Arinagour",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T13:08:25.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 200
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Bluebells on Lunga",
+  "meta": {
+    "location": "Lunga",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T11:53:54.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 47,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    }
+  }
+}

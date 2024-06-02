@@ -1,0 +1,29 @@
+{
+  "title": "Machair at Balephetrish",
+  "meta": {
+    "location": "Balephetrish",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T18:05:43.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 50
+      }
+    }
+  }
+}

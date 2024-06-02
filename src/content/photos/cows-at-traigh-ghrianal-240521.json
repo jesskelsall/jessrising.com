@@ -1,0 +1,28 @@
+{
+  "title": "Cows at Tràigh Ghrianal",
+  "meta": {
+    "location": "Kilkenneth",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-21T20:01:08.000+01:00",
+    "dimensions": {
+      "height": 5878,
+      "width": 8817
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 42,
+        "fStop": 14,
+        "ISO": 640
+      }
+    }
+  }
+}

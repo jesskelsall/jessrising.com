@@ -438,6 +438,9 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Inner Hebrides": {
+        "🏝️ Coll": {
+          Arinagour: {},
+        },
         "🏝️ Islay": {
           "Loch Finlaggan": {},
           "Port Askaig": {},
