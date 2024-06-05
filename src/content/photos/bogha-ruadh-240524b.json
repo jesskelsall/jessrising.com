@@ -1,5 +1,5 @@
 {
-  "title": "Corr-eilean",
+  "title": "Bogha Ruadh",
   "meta": {
     "location": "Balephuil",
     "tags": [
@@ -9,19 +9,19 @@
     "trip": null
   },
   "exif": {
-    "date": "2024-05-18T13:20:08.000+01:00",
+    "date": "2024-05-24T19:23:55.000+01:00",
     "dimensions": {
-      "height": 6298,
-      "width": 9448
+      "height": 6264,
+      "width": 9397
     },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
-        "exposureTime": 0.025,
-        "focalLength": 33,
-        "fStop": 20,
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 48,
+        "fStop": 8,
         "ISO": 320
       }
     }

@@ -1,0 +1,29 @@
+{
+  "title": "Ceann a' Mhara Flowers",
+  "meta": {
+    "location": "Balephuil",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-24T19:51:21.000+01:00",
+    "dimensions": {
+      "height": 5995,
+      "width": 8992
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 67,
+        "fStop": 4,
+        "ISO": 250
+      }
+    }
+  }
+}

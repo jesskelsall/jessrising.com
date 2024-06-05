@@ -502,6 +502,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "🏝️ Tiree": {
           Balephetrish: {},
+          Balephuil: {},
           Caolas: {},
           Hough: {},
           Hynish: {},

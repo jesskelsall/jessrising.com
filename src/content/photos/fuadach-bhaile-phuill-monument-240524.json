@@ -1,5 +1,5 @@
 {
-  "title": "Corr-eilean",
+  "title": "Fuadach Bhaile Phuill Monument",
   "meta": {
     "location": "Balephuil",
     "tags": [
@@ -9,20 +9,20 @@
     "trip": null
   },
   "exif": {
-    "date": "2024-05-18T13:20:08.000+01:00",
+    "date": "2024-05-24T18:33:23.000+01:00",
     "dimensions": {
-      "height": 6298,
-      "width": 9448
+      "height": 6336,
+      "width": 9504
     },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
+        "exposureBias": 0,
         "exposureTime": 0.025,
-        "focalLength": 33,
-        "fStop": 20,
-        "ISO": 320
+        "focalLength": 34,
+        "fStop": 16,
+        "ISO": 500
       }
     }
   }
