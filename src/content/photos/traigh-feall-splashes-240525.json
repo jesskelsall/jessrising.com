@@ -1,0 +1,29 @@
+{
+  "title": "Tràigh Feall Splashes",
+  "meta": {
+    "location": "Crossapol",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T16:42:52.000+01:00",
+    "dimensions": {
+      "height": 5773,
+      "width": 8658
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

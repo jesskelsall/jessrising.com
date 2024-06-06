@@ -1,0 +1,30 @@
+{
+  "title": "Crossapol",
+  "meta": {
+    "location": "Crossapol",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "White House"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T14:18:05.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 9,
+        "ISO": 100
+      }
+    }
+  }
+}

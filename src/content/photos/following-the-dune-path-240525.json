@@ -1,0 +1,30 @@
+{
+  "title": "Following the Dune Path",
+  "meta": {
+    "location": "Crossapol",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T17:12:09.000+01:00",
+    "dimensions": {
+      "height": 6108,
+      "width": 9162
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 100
+      }
+    }
+  }
+}

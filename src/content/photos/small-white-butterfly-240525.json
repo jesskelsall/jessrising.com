@@ -1,0 +1,28 @@
+{
+  "title": "Small White Butterfly",
+  "meta": {
+    "location": "Crossapol",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T14:31:43.000+01:00",
+    "dimensions": {
+      "height": 2811,
+      "width": 4216
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 320
+      }
+    }
+  }
+}

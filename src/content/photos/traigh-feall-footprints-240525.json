@@ -1,0 +1,29 @@
+{
+  "title": "Tràigh Feall Footprints",
+  "meta": {
+    "location": "Crossapol",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T16:59:42.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 37,
+        "fStop": 5,
+        "ISO": 50
+      }
+    }
+  }
+}

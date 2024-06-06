@@ -1,0 +1,29 @@
+{
+  "title": "Port Mìne Waves",
+  "meta": {
+    "location": "Crossapol",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T16:28:29.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0015625,
+        "focalLength": 324,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

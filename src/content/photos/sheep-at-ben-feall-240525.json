@@ -1,0 +1,28 @@
+{
+  "title": "Sheep at Ben Feall",
+  "meta": {
+    "location": "Ben Feall",
+    "tags": [
+      "Beach"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T20:57:00.000+01:00",
+    "dimensions": {
+      "height": 5991,
+      "width": 8987
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 145,
+        "fStop": 5,
+        "ISO": 400
+      }
+    }
+  }
+}

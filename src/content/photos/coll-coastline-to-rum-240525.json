@@ -1,0 +1,29 @@
+{
+  "title": "Coll Coastline to Rùm",
+  "meta": {
+    "location": "Ben Feall",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T20:30:33.000+01:00",
+    "dimensions": {
+      "height": 5954,
+      "width": 8931
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 175,
+        "fStop": 5.6,
+        "ISO": 250
+      }
+    }
+  }
+}

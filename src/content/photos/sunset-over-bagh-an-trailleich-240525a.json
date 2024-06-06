@@ -1,0 +1,30 @@
+{
+  "title": "Sunset over Bàgh an Trailleich",
+  "meta": {
+    "location": "Torastan",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-05-25T21:38:31.000+01:00",
+    "dimensions": {
+      "height": 6044,
+      "width": 9065
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}
