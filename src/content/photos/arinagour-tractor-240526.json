@@ -1,0 +1,29 @@
+{
+  "title": "Arinagour Tractor",
+  "meta": {
+    "location": "Arinagour",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2024-05-17-coll-tiree"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 47,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2024-05-26T15:06:51.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

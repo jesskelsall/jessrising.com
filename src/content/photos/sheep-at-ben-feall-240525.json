@@ -1,18 +1,13 @@
 {
   "title": "Sheep at Ben Feall",
   "meta": {
-    "location": "Ben Feall",
+    "location": "Arileod",
     "tags": [
       "Beach"
     ],
-    "trip": null
+    "trip": "2024-05-17-coll-tiree"
   },
   "exif": {
-    "date": "2024-05-25T20:57:00.000+01:00",
-    "dimensions": {
-      "height": 5991,
-      "width": 8987
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -23,6 +18,11 @@
         "fStop": 5,
         "ISO": 400
       }
+    },
+    "date": "2024-05-25T20:57:00.000+01:00",
+    "dimensions": {
+      "height": 5991,
+      "width": 8987
     }
   }
 }

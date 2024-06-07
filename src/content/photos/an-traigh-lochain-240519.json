@@ -7,14 +7,9 @@
       "Beach",
       "Coast"
     ],
-    "trip": null
+    "trip": "2024-05-17-coll-tiree"
   },
   "exif": {
-    "date": "2024-05-19T15:17:56.000+01:00",
-    "dimensions": {
-      "height": 6276,
-      "width": 9415
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 4,
         "ISO": 50
       }
+    },
+    "date": "2024-05-19T15:17:56.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9415
     }
   }
 }

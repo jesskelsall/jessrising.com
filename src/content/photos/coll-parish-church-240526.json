@@ -1,0 +1,29 @@
+{
+  "title": "Coll Parish Church",
+  "meta": {
+    "location": "Arinagour",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-05-17-coll-tiree"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 46,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2024-05-26T14:37:05.000+01:00",
+    "dimensions": {
+      "height": 6212,
+      "width": 9320
+    }
+  }
+}

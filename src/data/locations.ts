@@ -439,9 +439,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Inner Hebrides": {
         "🏝️ Coll": {
+          Arileod: {},
           Arinagour: {},
           Crossapol: {},
-          "Ben Feall": {},
           Torastan: {},
         },
         "🏝️ Islay": {

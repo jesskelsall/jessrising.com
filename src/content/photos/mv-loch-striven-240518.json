@@ -6,14 +6,9 @@
       "Landscape",
       "Boat"
     ],
-    "trip": null
+    "trip": "2024-05-17-coll-tiree"
   },
   "exif": {
-    "date": "2024-05-18T06:55:43.000+01:00",
-    "dimensions": {
-      "height": 5670,
-      "width": 8505
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -24,6 +19,11 @@
         "fStop": 16,
         "ISO": 200
       }
+    },
+    "date": "2024-05-18T06:55:43.000+01:00",
+    "dimensions": {
+      "height": 5670,
+      "width": 8505
     }
   }
 }
