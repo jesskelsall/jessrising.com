@@ -1,0 +1,28 @@
+{
+  "title": "High Scawdel from Rosthwaite",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-06-08-castle-crag-little-great-mell-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 60,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2024-06-08T11:25:02.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

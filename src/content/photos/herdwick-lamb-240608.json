@@ -1,0 +1,28 @@
+{
+  "title": "Herdwick Lamb",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2024-06-08-castle-crag-little-great-mell-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 200,
+        "fStop": 6.300000190736682,
+        "ISO": 200
+      }
+    },
+    "date": "2024-06-08T10:49:17.000+01:00",
+    "dimensions": {
+      "height": 5059,
+      "width": 7588
+    }
+  }
+}

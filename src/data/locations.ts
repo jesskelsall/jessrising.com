@@ -29,6 +29,11 @@ export const locationHierarchy: LocationHierarchy = {
           "Lakes Central": {
             Lodore: {},
           },
+          "Lakes East": {
+            Matterdale: {
+              "Great Mell Fell": {},
+            },
+          },
           "Lakes North": {
             Blencathra: {
               "Blease Fell": {},
@@ -70,7 +75,8 @@ export const locationHierarchy: LocationHierarchy = {
             Wythop: {},
           },
           "Birker Fell": {},
-          "Borrowdale Fells": {
+          Borrowdale: {
+            "Castle Crag": {},
             Seathwaite: {
               "Base Brown": {},
               "Sty Head": {},

@@ -1,0 +1,33 @@
+{
+  "title": "Castle Crag",
+  "meta": {
+    "location": "Castle Crag",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Wainwright"
+    ],
+    "trip": "2024-06-08-castle-crag-little-great-mell-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 40,
+        "fStop": 16,
+        "ISO": 125
+      }
+    },
+    "date": "2024-06-08T09:42:16.000+01:00",
+    "dimensions": {
+      "height": 6205,
+      "width": 9307
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

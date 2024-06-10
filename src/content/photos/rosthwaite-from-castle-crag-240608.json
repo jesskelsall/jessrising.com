@@ -1,0 +1,28 @@
+{
+  "title": "Rosthwaite from Castle Crag",
+  "meta": {
+    "location": "Castle Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-06-08-castle-crag-little-great-mell-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 39,
+        "fStop": 16,
+        "ISO": 200
+      }
+    },
+    "date": "2024-06-08T10:16:05.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

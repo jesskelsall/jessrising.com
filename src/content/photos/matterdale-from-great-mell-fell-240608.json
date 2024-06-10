@@ -1,0 +1,28 @@
+{
+  "title": "Matterdale from Great Mell Fell",
+  "meta": {
+    "location": "Great Mell Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-06-08-castle-crag-little-great-mell-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-06-08T15:17:49.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
