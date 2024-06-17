@@ -1,0 +1,29 @@
+{
+  "title": "The Cairngorm Reindeer Herd",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "Landscape",
+      "Reindeer"
+    ],
+    "trip": "2024-06-09-the-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 200
+      }
+    },
+    "date": "2024-06-09T15:24:38.000+01:00",
+    "dimensions": {
+      "height": 5977,
+      "width": 8966
+    }
+  }
+}
