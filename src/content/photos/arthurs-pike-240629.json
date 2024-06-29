@@ -1,0 +1,28 @@
+{
+  "title": "Arthur's Pike",
+  "meta": {
+    "location": "Bampton Common",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-06-29T11:09:22.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 32,
+        "fStop": 16,
+        "ISO": 250
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Loadpot Hill",
+  "meta": {
+    "location": "Bampton Common",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.55546666666666,
+      "long": -2.8413194444444447
+    }
+  },
+  "exif": {
+    "date": "2024-06-29T10:01:48.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Wether Hill",
+  "meta": {
+    "location": "Bampton Common",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.543391666666665,
+      "long": -2.8428583333333335
+    }
+  },
+  "exif": {
+    "date": "2024-06-29T09:37:29.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    },
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78"
+    }
+  }
+}

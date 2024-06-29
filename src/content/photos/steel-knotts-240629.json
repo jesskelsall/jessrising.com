@@ -1,0 +1,32 @@
+{
+  "title": "Steel Knotts",
+  "meta": {
+    "location": "Steel Knotts",
+    "tags": [
+      "Landscape",
+      "Wainwright"
+    ],
+    "trip": "2024-06-29-fusedale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 42,
+        "fStop": 8,
+        "ISO": 400
+      }
+    },
+    "date": "2024-06-29T07:33:39.000+01:00",
+    "dimensions": {
+      "height": 6034,
+      "width": 9051
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

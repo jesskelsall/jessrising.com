@@ -34,6 +34,13 @@ export const locationHierarchy: LocationHierarchy = {
               "Great Mell Fell": {},
             },
           },
+          "Lakes Far East": {
+            "Bampton Common": {},
+            "Martindale Common": {
+              "Bonscale Pike": {},
+              "Steel Knotts": {},
+            },
+          },
           "Lakes North": {
             Blencathra: {
               "Blease Fell": {},
