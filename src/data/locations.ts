@@ -225,6 +225,7 @@ export const locationHierarchy: LocationHierarchy = {
         Bamburgh: {},
         Cragside: {},
         "Dunstanburgh Castle": {},
+        "Farne Islands": {},
         "Hadrian's Wall": {},
         "Kielder Water": {},
         "🏝️ Lindisfarne": {},

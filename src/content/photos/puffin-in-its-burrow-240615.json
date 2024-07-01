@@ -1,0 +1,28 @@
+{
+  "title": "Puffin in Its Burrow",
+  "meta": {
+    "location": "Farne Islands",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2024-06-15-farne-islands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 400,
+        "fStop": 6.300000190736682,
+        "ISO": 400
+      }
+    },
+    "date": "2024-06-15T14:06:02.000+01:00",
+    "dimensions": {
+      "height": 5168,
+      "width": 7752
+    }
+  }
+}

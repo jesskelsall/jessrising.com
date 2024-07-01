@@ -1,0 +1,30 @@
+{
+  "title": "Longstone Lighthouse Seals",
+  "meta": {
+    "location": "Farne Islands",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse"
+    ],
+    "trip": "2024-06-15-farne-islands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 100,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2024-06-15T12:43:24.000+01:00",
+    "dimensions": {
+      "height": 5971,
+      "width": 8956
+    }
+  }
+}

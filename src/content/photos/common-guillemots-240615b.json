@@ -1,0 +1,28 @@
+{
+  "title": "Common Guillemots",
+  "meta": {
+    "location": "Farne Islands",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2024-06-15-farne-islands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2024-06-15T12:15:11.000+01:00",
+    "dimensions": {
+      "height": 5780,
+      "width": 8670
+    }
+  }
+}

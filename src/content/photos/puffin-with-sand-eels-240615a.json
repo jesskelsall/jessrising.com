@@ -1,0 +1,28 @@
+{
+  "title": "Puffin with Sand Eels",
+  "meta": {
+    "location": "Farne Islands",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2024-06-15-farne-islands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 400,
+        "fStop": 8,
+        "ISO": 400
+      }
+    },
+    "date": "2024-06-15T13:38:51.000+01:00",
+    "dimensions": {
+      "height": 3769,
+      "width": 5653
+    }
+  }
+}
