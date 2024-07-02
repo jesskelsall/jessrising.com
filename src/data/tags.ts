@@ -8,6 +8,7 @@ export const allTags: TagRaw[] = [
   { title: "Light Painting", emoji: "🖌️" },
   // Other
   { title: "Aurora", emoji: "🌌" },
+  { title: "Aviation", emoji: "✈️" },
   { title: "Beach", emoji: "🏝️" },
   { title: "Bird", emoji: "🦅" },
   { title: "Boat", emoji: "🛥️" },
