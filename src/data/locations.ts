@@ -549,6 +549,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Water of Leith": {},
         },
         Haddington: {},
+        "Tantallon Castle": {},
       },
       "🗺️ Moray": {
         "Bow Fiddle Rock": {},

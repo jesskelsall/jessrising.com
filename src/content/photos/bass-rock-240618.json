@@ -1,0 +1,31 @@
+{
+  "title": "Bass Rock",
+  "meta": {
+    "location": "Tantallon Castle",
+    "tags": [
+      "Landscape",
+      "Bird",
+      "Boat",
+      "Lighthouse"
+    ],
+    "trip": "2024-06-18-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 244,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2024-06-18T13:57:15.000+01:00",
+    "dimensions": {
+      "height": 5861,
+      "width": 8792
+    }
+  }
+}

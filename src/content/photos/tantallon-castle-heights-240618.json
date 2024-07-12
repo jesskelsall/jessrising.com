@@ -1,0 +1,31 @@
+{
+  "title": "Tantallon Castle Heights",
+  "meta": {
+    "location": "Tantallon Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast",
+      "Ruin"
+    ],
+    "trip": "2024-06-18-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 27,
+        "fStop": 10,
+        "ISO": 200
+      }
+    },
+    "date": "2024-06-18T14:02:56.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}
