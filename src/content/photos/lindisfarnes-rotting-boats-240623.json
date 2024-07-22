@@ -1,0 +1,29 @@
+{
+  "title": "Lindisfarne's Rotting Boats",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 238,
+        "fStop": 10,
+        "ISO": 200
+      }
+    },
+    "date": "2024-06-23T10:53:24.000+01:00",
+    "dimensions": {
+      "height": 5800,
+      "width": 8700
+    }
+  }
+}

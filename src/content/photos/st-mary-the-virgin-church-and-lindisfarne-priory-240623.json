@@ -1,0 +1,30 @@
+{
+  "title": "St Mary the Virgin Church and Lindisfarne Priory",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 125,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-06-23T12:58:17.000+01:00",
+    "dimensions": {
+      "height": 6147,
+      "width": 9220
+    }
+  }
+}

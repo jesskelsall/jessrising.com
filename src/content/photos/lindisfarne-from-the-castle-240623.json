@@ -1,0 +1,28 @@
+{
+  "title": "Lindisfarne from the Castle",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 209,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2024-06-23T11:38:20.000+01:00",
+    "dimensions": {
+      "height": 5859,
+      "width": 8788
+    }
+  }
+}

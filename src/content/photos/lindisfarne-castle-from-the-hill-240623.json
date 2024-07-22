@@ -1,0 +1,30 @@
+{
+  "title": "Lindisfarne Castle from the Hill",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 10,
+        "ISO": 160
+      }
+    },
+    "date": "2024-06-23T13:00:11.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9411
+    }
+  }
+}

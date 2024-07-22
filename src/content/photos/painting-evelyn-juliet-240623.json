@@ -1,0 +1,29 @@
+{
+  "title": "Painting Evelyn Juliet",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Boat",
+      "People"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 218,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    },
+    "date": "2024-06-23T10:47:28.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

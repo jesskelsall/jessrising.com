@@ -1,0 +1,29 @@
+{
+  "title": "Lindisfarne Castle Door",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 54,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-06-23T11:49:39.000+01:00",
+    "dimensions": {
+      "height": 5882,
+      "width": 8823
+    }
+  }
+}

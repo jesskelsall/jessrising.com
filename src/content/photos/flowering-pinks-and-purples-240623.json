@@ -1,0 +1,28 @@
+{
+  "title": "Flowering Pinks and Purples",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 400,
+        "fStop": 9,
+        "ISO": 800
+      }
+    },
+    "date": "2024-06-23T12:26:01.000+01:00",
+    "dimensions": {
+      "height": 6211,
+      "width": 9318
+    }
+  }
+}

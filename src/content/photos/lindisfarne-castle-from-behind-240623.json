@@ -1,0 +1,29 @@
+{
+  "title": "Lindisfarne Castle from Behind",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": "2024-06-23-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 152,
+        "fStop": 5,
+        "ISO": 125
+      }
+    },
+    "date": "2024-06-23T12:10:23.000+01:00",
+    "dimensions": {
+      "height": 5915,
+      "width": 8871
+    }
+  }
+}
