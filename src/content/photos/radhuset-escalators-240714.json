@@ -1,0 +1,28 @@
+{
+  "title": "Rådhuset Escalators",
+  "meta": {
+    "location": "Stockholms Tunnelbana",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T07:43:24.000+01:00",
+    "dimensions": {
+      "height": 6215,
+      "width": 9322
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.1,
+        "focalLength": 29,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    }
+  }
+}

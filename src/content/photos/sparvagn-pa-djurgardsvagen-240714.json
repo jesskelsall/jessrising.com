@@ -1,0 +1,30 @@
+{
+  "title": "Spårvagn på Djurgårdsvägen",
+  "meta": {
+    "location": "Djurgården",
+    "tags": [
+      "Landscape",
+      "People",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T16:08:03.000+01:00",
+    "dimensions": {
+      "height": 4979,
+      "width": 7469
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.004,
+        "focalLength": 226,
+        "fStop": 5.6,
+        "ISO": 320
+      }
+    }
+  }
+}

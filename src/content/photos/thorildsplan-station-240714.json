@@ -1,0 +1,28 @@
+{
+  "title": "Thorildsplan Station",
+  "meta": {
+    "location": "Stockholms Tunnelbana",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T04:48:53.000+01:00",
+    "dimensions": {
+      "height": 6218,
+      "width": 9327
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.125,
+        "focalLength": 70,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    }
+  }
+}

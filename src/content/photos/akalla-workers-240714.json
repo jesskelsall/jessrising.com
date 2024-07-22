@@ -1,0 +1,28 @@
+{
+  "title": "Akalla Workers",
+  "meta": {
+    "location": "Stockholms Tunnelbana",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T06:02:59.000+01:00",
+    "dimensions": {
+      "height": 6008,
+      "width": 9012
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 52,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    }
+  }
+}

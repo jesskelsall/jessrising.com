@@ -1,0 +1,29 @@
+{
+  "title": "Vasa Stern",
+  "meta": {
+    "location": "Vasamuseet",
+    "tags": [
+      "Interior",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T11:52:16.000+01:00",
+    "dimensions": {
+      "height": 6228,
+      "width": 9342
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.05,
+        "focalLength": 24,
+        "fStop": 2.8,
+        "ISO": 4000
+      }
+    }
+  }
+}

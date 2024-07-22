@@ -697,7 +697,7 @@ export const locationHierarchy: LocationHierarchy = {
   },
   "🇫🇮 Finland": {
     "🏙️ Helsinki": {
-      "Helsinki Metro": {},
+      "Helsingin Metro": {},
       Kaivopuisto: {},
       Katajanokka: {},
       Kauppatori: {},
@@ -707,6 +707,19 @@ export const locationHierarchy: LocationHierarchy = {
       },
       Töölö: {},
       Ullanlinna: {},
+    },
+  },
+  "🇸🇪 Sweden": {
+    "🏙️ Stockholm": {
+      Djurgården: {
+        Skansen: {},
+        Vasamuseet: {},
+      },
+      "Gamla Stan": {},
+      "Kvarteret Kattörat": {},
+      Riddarholmen: {},
+      "Stockholms Stadshus": {},
+      "Stockholms Tunnelbana": {},
     },
   },
 };

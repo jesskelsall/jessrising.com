@@ -1,0 +1,29 @@
+{
+  "title": "Solna Strand Arrival",
+  "meta": {
+    "location": "Stockholms Tunnelbana",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T06:48:09.000+01:00",
+    "dimensions": {
+      "height": 6084,
+      "width": 9126
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 57,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    }
+  }
+}

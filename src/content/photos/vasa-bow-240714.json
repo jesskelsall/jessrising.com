@@ -1,14 +1,20 @@
 {
-  "title": "Keilaniemi Station and Trains",
+  "title": "Vasa Bow",
   "meta": {
-    "location": "Helsingin Metro",
+    "location": "Vasamuseet",
     "tags": [
       "Interior",
-      "Rail"
+      "Boat",
+      "People"
     ],
-    "trip": "2024-03-22-helsinki"
+    "trip": null
   },
   "exif": {
+    "date": "2024-07-14T12:00:00.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -16,14 +22,9 @@
         "exposureBias": 0,
         "exposureTime": 0.03333333333333333,
         "focalLength": 24,
-        "fStop": 8,
+        "fStop": 4,
         "ISO": 4000
       }
-    },
-    "date": "2024-03-22T22:02:51.000+00:00",
-    "dimensions": {
-      "height": 6306,
-      "width": 9459
     }
   }
 }

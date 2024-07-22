@@ -1,0 +1,29 @@
+{
+  "title": "Kungsträdgården Gates",
+  "meta": {
+    "location": "Stockholms Tunnelbana",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T07:57:26.000+01:00",
+    "dimensions": {
+      "height": 6272,
+      "width": 9409
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 28,
+        "fStop": 4,
+        "ISO": 400
+      }
+    }
+  }
+}

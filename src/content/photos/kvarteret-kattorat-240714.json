@@ -1,0 +1,28 @@
+{
+  "title": "Kvarteret Kattörat",
+  "meta": {
+    "location": "Riddarholmen",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T19:38:25.000+01:00",
+    "dimensions": {
+      "height": 6035,
+      "width": 9051
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 51,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

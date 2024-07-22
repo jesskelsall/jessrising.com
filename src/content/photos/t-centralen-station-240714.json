@@ -1,0 +1,30 @@
+{
+  "title": "T-Centralen Station",
+  "meta": {
+    "location": "Stockholms Tunnelbana",
+    "tags": [
+      "Interior",
+      "People",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-14T07:50:54.000+01:00",
+    "dimensions": {
+      "height": 6254,
+      "width": 9381
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 26,
+        "fStop": 2.8,
+        "ISO": 500
+      }
+    }
+  }
+}
