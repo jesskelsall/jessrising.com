@@ -1,0 +1,28 @@
+{
+  "title": "Brända Tomten",
+  "meta": {
+    "location": "Gamla Stan",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-15T06:26:48.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 30,
+        "fStop": 4,
+        "ISO": 200
+      }
+    }
+  }
+}

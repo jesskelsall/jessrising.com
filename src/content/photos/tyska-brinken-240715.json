@@ -1,0 +1,29 @@
+{
+  "title": "Tyska Brinken",
+  "meta": {
+    "location": "Gamla Stan",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-15T07:42:47.000+01:00",
+    "dimensions": {
+      "height": 6188,
+      "width": 9283
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 69,
+        "fStop": 8,
+        "ISO": 160
+      }
+    }
+  }
+}

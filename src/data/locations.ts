@@ -715,7 +715,9 @@ export const locationHierarchy: LocationHierarchy = {
         Skansen: {},
         Vasamuseet: {},
       },
-      "Gamla Stan": {},
+      "Gamla Stan": {
+        Storkyrkan: {},
+      },
       "Kvarteret Kattörat": {},
       Riddarholmen: {},
       "Stockholms Stadshus": {},

@@ -1,0 +1,29 @@
+{
+  "title": "Storkyrkan from Slottsbacken",
+  "meta": {
+    "location": "Gamla Stan",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-15T06:13:46.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 54,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}

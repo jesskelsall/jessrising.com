@@ -1,0 +1,29 @@
+{
+  "title": "Storkyrkan Crown",
+  "meta": {
+    "location": "Storkyrkan",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-15T08:30:40.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.04,
+        "focalLength": 31,
+        "fStop": 3.5,
+        "ISO": 4000
+      }
+    }
+  }
+}

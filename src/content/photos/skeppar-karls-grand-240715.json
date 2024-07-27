@@ -1,0 +1,29 @@
+{
+  "title": "Skeppar Karls Gränd",
+  "meta": {
+    "location": "Gamla Stan",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-15T05:41:07.000+01:00",
+    "dimensions": {
+      "height": 6094,
+      "width": 9143
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 49,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}
