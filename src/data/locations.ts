@@ -697,7 +697,7 @@ export const locationHierarchy: LocationHierarchy = {
   },
   "🇫🇮 Finland": {
     "🏙️ Helsinki": {
-      "Helsingin Metro": {},
+      "Helsinki Metro": {},
       Kaivopuisto: {},
       Katajanokka: {},
       Kauppatori: {},
@@ -719,7 +719,7 @@ export const locationHierarchy: LocationHierarchy = {
       "Kvarteret Kattörat": {},
       Riddarholmen: {},
       "Stockholms Stadshus": {},
-      "Stockholms Tunnelbana": {},
+      "Stockholm Metro": {},
     },
   },
 };
