@@ -1,0 +1,29 @@
+{
+  "title": "Värdshuset Lindgården Walkway",
+  "meta": {
+    "location": "Värdshuset Lindgården",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T12:48:22.000+01:00",
+    "dimensions": {
+      "height": 6098,
+      "width": 9147
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 16,
+        "ISO": 320
+      }
+    }
+  }
+}

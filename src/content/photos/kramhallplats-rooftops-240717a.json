@@ -1,0 +1,29 @@
+{
+  "title": "Kramhållplats Rooftops",
+  "meta": {
+    "location": "Kramhållplats",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T14:04:02.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}

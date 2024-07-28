@@ -1,0 +1,31 @@
+{
+  "title": "Fiskargränd View",
+  "meta": {
+    "location": "Fiskargränd",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Flowers & Insects",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T16:03:16.000+01:00",
+    "dimensions": {
+      "height": 6218,
+      "width": 9327
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 70,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}

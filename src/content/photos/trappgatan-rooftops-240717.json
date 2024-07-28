@@ -1,0 +1,29 @@
+{
+  "title": "Trappgatan Rooftops",
+  "meta": {
+    "location": "Trappgatan",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T13:53:52.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 100,
+        "fStop": 14,
+        "ISO": 100
+      }
+    }
+  }
+}

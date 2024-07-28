@@ -1,0 +1,28 @@
+{
+  "title": "Adelsgatan Rooftops",
+  "meta": {
+    "location": "Södra Kyrkogatan",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T13:42:06.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 63,
+        "fStop": 5,
+        "ISO": 50
+      }
+    }
+  }
+}

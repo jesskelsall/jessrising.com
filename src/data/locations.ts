@@ -712,19 +712,19 @@ export const locationHierarchy: LocationHierarchy = {
   "🇸🇪 Sweden": {
     "🏝️ Gotland": {
       Visby: {
-        Nygatan: { // UPPER ROAD
-          Kramhållplats: {}, // above cathedral
-          Trappgatan: {}, // viewpoint street
+        Nygatan: {
+          Kramhållplats: {},
+          Trappgatan: {},
         },
-        "Södra Kyrkogatan": { // MIDDLE ROAD
-          "S:ta Karins Kyrkoruin": {}, // ruins in marketplace
+        "Södra Kyrkogatan": {
+          "S:ta Karins Kyrkoruin": {},
         },
-        Strandgatan: { // LOWER ROAD
-          Fiskargränd: {}, // rose alley
-          Specksgränd: {}, // kiki curved street
+        Strandgatan: {
+          Fiskargränd: {},
+          Specksgränd: {},
           "Värdshuset Lindgården": {},
         },
-        "Visby Ringmur": {}, // wall
+        "Visby Ringmur": {},
       },
     },
     "🏙️ Stockholm": {

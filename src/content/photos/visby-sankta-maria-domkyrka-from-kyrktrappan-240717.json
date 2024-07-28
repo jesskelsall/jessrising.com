@@ -1,0 +1,30 @@
+{
+  "title": "Visby Sankta Maria Domkyrka from Kyrktrappan",
+  "meta": {
+    "location": "Kramhållplats",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T20:36:15.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 25,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    }
+  }
+}

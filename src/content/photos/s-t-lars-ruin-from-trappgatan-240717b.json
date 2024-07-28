@@ -1,0 +1,30 @@
+{
+  "title": "S-t Lars Ruin from Trappgatan",
+  "meta": {
+    "location": "Trappgatan",
+    "tags": [
+      "Landscape",
+      "Ruin",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-17T20:18:02.000+01:00",
+    "dimensions": {
+      "height": 5694,
+      "width": 8541
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    }
+  }
+}
