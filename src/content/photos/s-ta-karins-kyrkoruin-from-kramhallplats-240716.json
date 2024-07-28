@@ -1,0 +1,29 @@
+{
+  "title": "S-ta Karins Kyrkoruin from Kramhållplats",
+  "meta": {
+    "location": "Kramhållplats",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-16T07:16:30.000+01:00",
+    "dimensions": {
+      "height": 5904,
+      "width": 8856
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 65,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

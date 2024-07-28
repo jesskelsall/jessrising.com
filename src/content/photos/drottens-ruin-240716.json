@@ -1,0 +1,30 @@
+{
+  "title": "Drottens Ruin",
+  "meta": {
+    "location": "Visby",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-16T08:55:13.000+01:00",
+    "dimensions": {
+      "height": 6058,
+      "width": 9087
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 31,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    }
+  }
+}

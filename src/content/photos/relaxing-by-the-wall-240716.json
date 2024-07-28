@@ -1,0 +1,30 @@
+{
+  "title": "Relaxing by the Wall",
+  "meta": {
+    "location": "Visby",
+    "tags": [
+      "Landscape",
+      "People",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-16T12:25:47.000+01:00",
+    "dimensions": {
+      "height": 6121,
+      "width": 9182
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 69,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    }
+  }
+}
