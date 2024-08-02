@@ -1,0 +1,28 @@
+{
+  "title": "Beda Fell",
+  "meta": {
+    "location": "Beda Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-07-28T07:31:28.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 35,
+        "fStop": 16,
+        "ISO": 160
+      }
+    }
+  }
+}

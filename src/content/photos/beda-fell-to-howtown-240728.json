@@ -1,0 +1,30 @@
+{
+  "title": "Beda Fell to Howtown",
+  "meta": {
+    "location": "Beda Fell",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2024-07-28-boredale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 34,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-07-28T06:03:10.000+01:00",
+    "dimensions": {
+      "height": 5809,
+      "width": 8713
+    }
+  }
+}

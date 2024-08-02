@@ -1,0 +1,30 @@
+{
+  "title": "Beda Head Cairn",
+  "meta": {
+    "location": "Beda Fell",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Mist"
+    ],
+    "trip": "2024-07-28-boredale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 36,
+        "fStop": 22,
+        "ISO": 400
+      }
+    },
+    "date": "2024-07-28T07:01:26.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

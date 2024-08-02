@@ -1,0 +1,29 @@
+{
+  "title": "Kirkstone Pass from Place Fell",
+  "meta": {
+    "location": "Place Fell",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2024-07-28-boredale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-07-28T09:50:42.000+01:00",
+    "dimensions": {
+      "height": 6026,
+      "width": 9039
+    }
+  }
+}

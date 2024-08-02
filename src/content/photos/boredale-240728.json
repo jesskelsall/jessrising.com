@@ -1,0 +1,28 @@
+{
+  "title": "Boredale",
+  "meta": {
+    "location": "Beda Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-07-28-boredale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 62,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-07-28T08:11:23.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
