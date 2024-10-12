@@ -6,24 +6,24 @@
       "Astro",
       "Aurora"
     ],
-    "trip": null
+    "trip": "2024-10-10-aurora-at-north-charlton"
   },
   "exif": {
-    "date": "2024-04-17T00:53:57.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24mm F1.4",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 4,
+        "exposureTime": 1,
         "focalLength": 24,
-        "fStop": 1.6,
+        "fStop": 1.4,
         "ISO": 500
       }
+    },
+    "date": "2024-10-11T00:23:20.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

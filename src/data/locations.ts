@@ -231,6 +231,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Hadrian's Wall": {},
         "Kielder Water": {},
         "🏝️ Lindisfarne": {},
+        "North Charlton": {},
         Seahouses: {},
       },
       "🗺️ Somerset": {
