@@ -1,0 +1,28 @@
+{
+  "title": "Parcel for Number Ten",
+  "meta": {
+    "location": "Stockbridge",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-09-13-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 42,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-13T13:03:55.000+01:00",
+    "dimensions": {
+      "height": 6310,
+      "width": 9465
+    }
+  }
+}

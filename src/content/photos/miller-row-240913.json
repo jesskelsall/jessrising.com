@@ -1,0 +1,29 @@
+{
+  "title": "Miller Row",
+  "meta": {
+    "location": "Water of Leith",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2024-09-13-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 320
+      }
+    },
+    "date": "2024-09-13T12:46:36.000+01:00",
+    "dimensions": {
+      "height": 6262,
+      "width": 9394
+    }
+  }
+}
