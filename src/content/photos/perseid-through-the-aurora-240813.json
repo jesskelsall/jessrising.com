@@ -1,0 +1,30 @@
+{
+  "title": "Perseid Through the Aurora",
+  "meta": {
+    "location": "Sleat",
+    "tags": [
+      "Astro",
+      "Aurora",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-13T00:29:41.000+01:00",
+    "dimensions": {
+      "height": 5287,
+      "width": 7931
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 6,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1000
+      }
+    }
+  }
+}
