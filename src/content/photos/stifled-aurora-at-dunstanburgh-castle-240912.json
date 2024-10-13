@@ -1,0 +1,32 @@
+{
+  "title": "Stifled Aurora at Dunstanburgh Castle",
+  "meta": {
+    "location": "Dunstanburgh Castle",
+    "tags": [
+      "Astro",
+      "Aurora",
+      "Castle",
+      "Clouds",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-12T22:19:47.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 4,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 2000
+      }
+    }
+  }
+}
