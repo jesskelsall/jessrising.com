@@ -1,0 +1,29 @@
+{
+  "title": "Rha Waterfalls Detail",
+  "meta": {
+    "location": "Uig",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-10T11:16:25.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 100,
+        "fStop": 10,
+        "ISO": 50
+      }
+    }
+  }
+}
