@@ -1,0 +1,26 @@
+{
+  "title": "Seal on Eilean Glas",
+  "meta": {
+    "location": "Loch Coruisk",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-11T09:59:29.000+01:00",
+    "dimensions": {
+      "height": 4780,
+      "width": 7170
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 1000
+      }
+    }
+  }
+}

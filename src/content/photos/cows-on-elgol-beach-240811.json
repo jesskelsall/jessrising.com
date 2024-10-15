@@ -1,0 +1,32 @@
+{
+  "title": "Cows on Elgol Beach",
+  "meta": {
+    "location": "Elgol",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Boat",
+      "Clouds",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-11T08:55:45.000+01:00",
+    "dimensions": {
+      "height": 5849,
+      "width": 8774
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 55,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}

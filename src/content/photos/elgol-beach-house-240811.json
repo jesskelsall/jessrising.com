@@ -1,0 +1,32 @@
+{
+  "title": "Elgol Beach House",
+  "meta": {
+    "location": "Elgol",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Clouds",
+      "Coast",
+      "White House"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-11T08:38:39.000+01:00",
+    "dimensions": {
+      "height": 6269,
+      "width": 9404
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 59,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}
