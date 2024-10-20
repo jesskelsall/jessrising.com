@@ -1,4 +1,4 @@
-import { identity, orderBy, shuffle } from "lodash/fp";
+import { orderBy } from "lodash/fp";
 import { DateTime } from "luxon";
 import { GetServerSideProps, NextPage } from "next";
 import Link from "next/link";
@@ -56,19 +56,29 @@ export const getServerSideProps: GetServerSideProps<IProps> = async () => {
     ];
 
   // On this day photo
-  const isBestCameraPhoto = (photo: GalleryPhoto) =>
-    photo.exif.camera?.name === "Sony ɑ7R V";
+  // Displays the closest photo to the current time of day
+  let onThisDayPhoto: GalleryPhoto | null = null;
   const thisDay = DateTime.now().toFormat("MM-dd");
   const onThisDayPhotos = allGalleryPhotosList.filter(
     (photo) => photo.exif.date?.slice(5, 10) === thisDay
   );
-  let onThisDayPhoto: GalleryPhoto | null = null;
+  const getRelativeSeconds = (date: DateTime): number => {
+    const { hour, minute, second } = date.toObject();
+    const relativeDate = DateTime.fromObject({ hour, minute, second });
+    return relativeDate.diffNow().as("seconds");
+  };
   if (onThisDayPhotos.length) {
-    const hasBestCameraPhotos = onThisDayPhotos.some(isBestCameraPhoto);
-    const cameraFilterMethod = hasBestCameraPhotos
-      ? isBestCameraPhoto
-      : identity;
-    [onThisDayPhoto] = shuffle(onThisDayPhotos.filter(cameraFilterMethod));
+    [onThisDayPhoto] = onThisDayPhotos.sort((photoA, photoB) => {
+      const deltaA = Math.abs(
+        getRelativeSeconds(DateTime.fromISO(photoA.exif.date as string))
+      );
+      const deltaB = Math.abs(
+        getRelativeSeconds(DateTime.fromISO(photoB.exif.date as string))
+      );
+      if (deltaA > deltaB) return 1;
+      if (deltaA < deltaB) return -1;
+      return 0;
+    });
   }
 
   return {
