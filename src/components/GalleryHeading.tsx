@@ -10,6 +10,7 @@ import { dateFromString } from "../functions/date";
 import { getImageSrcFromSlug } from "../functions/image";
 import { getLocationHierarchy } from "../functions/locationsDict";
 import { parsePhotoSlug } from "../functions/photo";
+import { stripSlugDateSuffix } from "../functions/slug";
 import { pluralise } from "../functions/title";
 import { TagTitle } from "../types/tag";
 import { MarkdownGPS } from "./MarkdownGPS";
@@ -41,8 +42,9 @@ export const GalleryHeading = () => {
 
   const photoSlugPrefix = parsePhotoSlug(title);
   const matchingTitlesCount =
-    galleryPhotoSlugs.filter((eachSlug) => eachSlug.startsWith(photoSlugPrefix))
-      .length - 1;
+    galleryPhotoSlugs.filter(
+      (eachSlug) => stripSlugDateSuffix(eachSlug) === photoSlugPrefix
+    ).length - 1;
 
   return (
     <>

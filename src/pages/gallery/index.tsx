@@ -19,6 +19,7 @@ import {
   queryParamToStrings,
 } from "../../functions/params";
 import { isPhotoShown } from "../../functions/photo";
+import { stripSlugDateSuffix } from "../../functions/slug";
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
 import { TripSlug } from "../../types/brand";
@@ -116,7 +117,10 @@ export const getServerSideProps: GetServerSideProps<
     ]);
   }
   if (title) {
-    filters.push([[true], (photo) => [photo.slug.startsWith(title)]]);
+    filters.push([
+      [true],
+      (photo) => [stripSlugDateSuffix(photo.slug) === title],
+    ]);
   }
 
   filters.push([
