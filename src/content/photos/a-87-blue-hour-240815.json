@@ -1,0 +1,29 @@
+{
+  "title": "A87 Blue Hour",
+  "meta": {
+    "location": "Skye",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-15T21:21:15.000+01:00",
+    "dimensions": {
+      "height": 6067,
+      "width": 9101
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -2.3,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 64,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    }
+  }
+}

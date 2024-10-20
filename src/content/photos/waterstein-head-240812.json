@@ -1,0 +1,29 @@
+{
+  "title": "Waterstein Head",
+  "meta": {
+    "location": "Neist Point",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-12T18:57:41.000+01:00",
+    "dimensions": {
+      "height": 6268,
+      "width": 9402
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0006249999860301484,
+        "focalLength": 68,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

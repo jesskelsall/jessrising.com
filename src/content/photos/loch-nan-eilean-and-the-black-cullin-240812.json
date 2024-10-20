@@ -1,0 +1,28 @@
+{
+  "title": "Loch nan Eilean and the Black Cullin",
+  "meta": {
+    "location": "Sligachan",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-12T21:09:28.000+01:00",
+    "dimensions": {
+      "height": 6053,
+      "width": 9080
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 62,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "An t-Aigeach and Neist Point Lighthouse",
+  "meta": {
+    "location": "Neist Point",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-12T19:32:29.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    }
+  }
+}

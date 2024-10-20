@@ -1,0 +1,30 @@
+{
+  "title": "Neist Point",
+  "meta": {
+    "location": "Neist Point",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-12T19:18:29.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9415
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 42,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    }
+  }
+}

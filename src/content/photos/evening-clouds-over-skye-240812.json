@@ -1,0 +1,28 @@
+{
+  "title": "Evening Clouds Over Skye",
+  "meta": {
+    "location": "Sligachan",
+    "tags": [
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-12T21:14:13.000+01:00",
+    "dimensions": {
+      "height": 6321,
+      "width": 9482
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 58,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    }
+  }
+}

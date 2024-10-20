@@ -1,0 +1,29 @@
+{
+  "title": "Cliffs of the Storr",
+  "meta": {
+    "location": "The Storr",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-17T08:34:32.000+01:00",
+    "dimensions": {
+      "height": 6173,
+      "width": 9260
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.04,
+        "focalLength": 33,
+        "fStop": 4,
+        "ISO": 100
+      }
+    }
+  }
+}
