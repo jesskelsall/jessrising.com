@@ -1,0 +1,29 @@
+{
+  "title": "The Storr From Loch Fada",
+  "meta": {
+    "location": "Loch Fada",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-17T09:34:33.000+01:00",
+    "dimensions": {
+      "height": 5890,
+      "width": 8835
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 119,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}

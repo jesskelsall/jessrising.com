@@ -1,0 +1,26 @@
+{
+  "title": "Glenelg Ferry Dog",
+  "meta": {
+    "location": "Glenelg",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-17T17:57:25.000+01:00",
+    "dimensions": {
+      "height": 5865,
+      "width": 8798
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 3.5,
+        "ISO": 160
+      }
+    }
+  }
+}

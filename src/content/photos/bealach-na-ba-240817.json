@@ -1,0 +1,29 @@
+{
+  "title": "Bealach na Bà",
+  "meta": {
+    "location": "Bealach na Bà",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-17T14:01:11.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0015625,
+        "focalLength": 31,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

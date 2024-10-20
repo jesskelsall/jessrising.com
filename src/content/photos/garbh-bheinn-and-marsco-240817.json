@@ -1,0 +1,29 @@
+{
+  "title": "Garbh-bheinn and Marsco",
+  "meta": {
+    "location": "Sligachan",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-17T11:37:24.000+01:00",
+    "dimensions": {
+      "height": 4491,
+      "width": 6737
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}
