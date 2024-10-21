@@ -7,14 +7,9 @@
       "Bridge",
       "White House"
     ],
-    "trip": null
+    "trip": "2024-08-10-isle-of-skye"
   },
   "exif": {
-    "date": "2024-08-10T13:46:00.000+01:00",
-    "dimensions": {
-      "height": 6015,
-      "width": 9023
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 5.6,
         "ISO": 100
       }
+    },
+    "date": "2024-08-10T13:46:00.000+01:00",
+    "dimensions": {
+      "height": 6015,
+      "width": 9023
     }
   }
 }

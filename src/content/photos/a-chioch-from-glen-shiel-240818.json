@@ -1,11 +1,9 @@
 {
-  "title": "The Quiraing",
+  "title": "A' Chioch from Glen Shiel",
   "meta": {
-    "location": "The Quiraing",
+    "location": "Glenshiel",
     "tags": [
-      "Landscape",
-      "Bird",
-      "Clouds"
+      "Landscape"
     ],
     "trip": "2024-08-10-isle-of-skye"
   },
@@ -15,16 +13,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.3,
-        "exposureTime": 0.002,
-        "focalLength": 33,
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
         "fStop": 2.8,
         "ISO": 100
       }
     },
-    "date": "2024-08-10T08:36:04.000+01:00",
+    "date": "2024-08-18T08:43:30.000+01:00",
     "dimensions": {
-      "height": 5909,
-      "width": 8863
+      "height": 6009,
+      "width": 8848
     }
   }
 }

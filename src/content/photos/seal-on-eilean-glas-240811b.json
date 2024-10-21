@@ -3,14 +3,9 @@
   "meta": {
     "location": "Loch Coruisk",
     "tags": [],
-    "trip": null
+    "trip": "2024-08-10-isle-of-skye"
   },
   "exif": {
-    "date": "2024-08-11T09:59:29.000+01:00",
-    "dimensions": {
-      "height": 4780,
-      "width": 7170
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -21,6 +16,11 @@
         "fStop": 5.6,
         "ISO": 1000
       }
+    },
+    "date": "2024-08-11T09:59:29.000+01:00",
+    "dimensions": {
+      "height": 4780,
+      "width": 7170
     }
   }
 }

@@ -1,11 +1,10 @@
 {
-  "title": "Neist Point",
+  "title": "Loch Cluanie Dam",
   "meta": {
-    "location": "Neist Point",
+    "location": "Glenshiel",
     "tags": [
       "Landscape",
-      "Coast",
-      "Lighthouse"
+      "Loch"
     ],
     "trip": "2024-08-10-isle-of-skye"
   },
@@ -15,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.7,
-        "exposureTime": 0.0007999999797890487,
-        "focalLength": 42,
-        "fStop": 2.8,
-        "ISO": 200
+        "exposureTime": 0.001,
+        "focalLength": 29,
+        "fStop": 4,
+        "ISO": 100
       }
     },
-    "date": "2024-08-12T19:18:29.000+01:00",
+    "date": "2024-08-18T09:01:33.000+01:00",
     "dimensions": {
-      "height": 6276,
-      "width": 9415
+      "height": 5539,
+      "width": 8308
     }
   }
 }

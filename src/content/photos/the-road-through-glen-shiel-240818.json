@@ -1,10 +1,10 @@
 {
-  "title": "The Old Man of Storr",
+  "title": "The Road Through Glen Shiel",
   "meta": {
-    "location": "The Storr",
+    "location": "Glenshiel",
     "tags": [
       "Landscape",
-      "Loch"
+      "Road"
     ],
     "trip": "2024-08-10-isle-of-skye"
   },
@@ -13,14 +13,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.025,
-        "focalLength": 40,
-        "fStop": 2.8,
-        "ISO": 50
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 55,
+        "fStop": 4,
+        "ISO": 100
       }
     },
-    "date": "2024-08-17T08:08:55.000+01:00",
+    "date": "2024-08-18T08:34:51.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

@@ -6,14 +6,9 @@
       "Landscape",
       "Clouds"
     ],
-    "trip": null
+    "trip": "2024-08-10-isle-of-skye"
   },
   "exif": {
-    "date": "2024-08-17T08:34:32.000+01:00",
-    "dimensions": {
-      "height": 6173,
-      "width": 9260
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -24,6 +19,11 @@
         "fStop": 4,
         "ISO": 100
       }
+    },
+    "date": "2024-08-17T08:34:32.000+01:00",
+    "dimensions": {
+      "height": 6173,
+      "width": 9260
     }
   }
 }

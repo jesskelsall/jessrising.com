@@ -5,14 +5,9 @@
     "tags": [
       "Landscape"
     ],
-    "trip": null
+    "trip": "2024-08-10-isle-of-skye"
   },
   "exif": {
-    "date": "2024-08-17T08:25:50.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 8,
         "ISO": 100
       }
+    },
+    "date": "2024-08-17T08:25:50.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

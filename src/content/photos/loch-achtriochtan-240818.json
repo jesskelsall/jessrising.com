@@ -1,13 +1,10 @@
 {
-  "title": "Cows on Elgol Beach",
+  "title": "Loch Achtriochtan",
   "meta": {
-    "location": "Elgol",
+    "location": "Loch Achtriochtan",
     "tags": [
       "Landscape",
-      "Beach",
-      "Boat",
-      "Clouds",
-      "People"
+      "Loch"
     ],
     "trip": "2024-08-10-isle-of-skye"
   },
@@ -16,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": -0.3,
         "exposureTime": 0.005,
-        "focalLength": 55,
-        "fStop": 4,
+        "focalLength": 24,
+        "fStop": 7.1,
         "ISO": 100
       }
     },
-    "date": "2024-08-11T08:55:45.000+01:00",
+    "date": "2024-08-18T10:38:07.000+01:00",
     "dimensions": {
-      "height": 5849,
-      "width": 8774
+      "height": 6196,
+      "width": 9295
     }
   }
 }
