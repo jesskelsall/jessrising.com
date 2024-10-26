@@ -218,6 +218,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "Penshaw Monument": {},
         "St Mary's Lighthouse": {},
+        "Tanfield Railway": {},
       },
       "🗺️ Northumberland": {
         Alnwick: {

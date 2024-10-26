@@ -1,0 +1,31 @@
+{
+  "title": "No.2 from the Viewpoint",
+  "meta": {
+    "location": "Tanfield Railway",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Rail",
+      "Steam"
+    ],
+    "trip": "2024-10-20-tanfield-railway-run-it-weekend-gala"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.003125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2024-10-20T14:53:13.000+01:00",
+    "dimensions": {
+      "height": 6108,
+      "width": 9162
+    }
+  }
+}
