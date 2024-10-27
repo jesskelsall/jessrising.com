@@ -1,0 +1,29 @@
+{
+  "title": "Riggindale Lone Tree",
+  "meta": {
+    "location": "Rough Crag",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-10-26T08:34:38.000+01:00",
+    "dimensions": {
+      "height": 5068,
+      "width": 7602
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.1,
+        "focalLength": 69,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

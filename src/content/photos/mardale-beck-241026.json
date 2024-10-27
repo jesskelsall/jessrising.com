@@ -1,0 +1,30 @@
+{
+  "title": "Mardale Beck",
+  "meta": {
+    "location": "Haweswater Reservoir",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-10-26T08:12:07.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.625,
+        "focalLength": 30,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    }
+  }
+}

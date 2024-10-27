@@ -1,0 +1,28 @@
+{
+  "title": "High Raise (Martindale)",
+  "meta": {
+    "location": "High Street",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-10-26T13:04:04.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 53,
+        "fStop": 13,
+        "ISO": 200
+      }
+    }
+  }
+}
