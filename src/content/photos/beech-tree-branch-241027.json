@@ -1,0 +1,28 @@
+{
+  "title": "Beech Tree Branch",
+  "meta": {
+    "location": "Bowlees",
+    "tags": [
+      "Forest"
+    ],
+    "trip": "2024-10-27-summerhill-force-low-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 5,
+        "ISO": 160
+      }
+    },
+    "date": "2024-10-27T11:20:17.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
