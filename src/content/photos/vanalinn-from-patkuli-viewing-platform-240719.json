@@ -1,0 +1,29 @@
+{
+  "title": "Vanalinn from Patkuli Viewing Platform",
+  "meta": {
+    "location": "Patkuli Viewing Platform",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-07-14-baltic-sea"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 48,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-07-19T11:13:01.000+01:00",
+    "dimensions": {
+      "height": 6252,
+      "width": 9378
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Niguliste Muuseum from Pikk Tanav",
+  "meta": {
+    "location": "Vanalinn",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-07-14-baltic-sea"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-07-20T07:16:09.000+01:00",
+    "dimensions": {
+      "height": 6302,
+      "width": 9453
+    }
+  }
+}

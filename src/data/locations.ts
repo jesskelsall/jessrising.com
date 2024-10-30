@@ -703,6 +703,14 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
   },
+  "🇪🇪 Estonia": {
+    "🏙️ Tallinn": {
+      Vanalinn: {
+        "Niguliste Muuseum": {},
+        "Patkuli Viewing Platform": {},
+      },
+    },
+  },
   "🇫🇮 Finland": {
     "🏙️ Helsinki": {
       "Helsinki Metro": {},

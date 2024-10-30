@@ -3,14 +3,9 @@
   "meta": {
     "location": "Gamla Stan",
     "tags": [],
-    "trip": null
+    "trip": "2024-07-14-baltic-sea"
   },
   "exif": {
-    "date": "2024-07-15T06:09:19.000+01:00",
-    "dimensions": {
-      "height": 5730,
-      "width": 8595
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -21,6 +16,11 @@
         "fStop": 4.5,
         "ISO": 2500
       }
+    },
+    "date": "2024-07-15T06:09:19.000+01:00",
+    "dimensions": {
+      "height": 5730,
+      "width": 8595
     }
   }
 }

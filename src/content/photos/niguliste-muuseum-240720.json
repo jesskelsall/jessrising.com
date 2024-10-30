@@ -1,0 +1,29 @@
+{
+  "title": "Niguliste Muuseum",
+  "meta": {
+    "location": "Niguliste Muuseum",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-07-14-baltic-sea"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.125,
+        "focalLength": 24,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2024-07-20T08:40:47.000+01:00",
+    "dimensions": {
+      "height": 6151,
+      "width": 9227
+    }
+  }
+}

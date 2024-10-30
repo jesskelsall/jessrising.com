@@ -1,0 +1,28 @@
+{
+  "title": "Toom-Kooli House",
+  "meta": {
+    "location": "Vanalinn",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-07-14-baltic-sea"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 56,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-07-19T11:01:05.000+01:00",
+    "dimensions": {
+      "height": 6134,
+      "width": 9201
+    }
+  }
+}

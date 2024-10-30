@@ -6,14 +6,9 @@
       "Landscape",
       "Street"
     ],
-    "trip": null
+    "trip": "2024-07-14-baltic-sea"
   },
   "exif": {
-    "date": "2024-07-16T08:30:25.000+01:00",
-    "dimensions": {
-      "height": 6266,
-      "width": 9399
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -24,6 +19,11 @@
         "fStop": 5,
         "ISO": 100
       }
+    },
+    "date": "2024-07-16T08:30:25.000+01:00",
+    "dimensions": {
+      "height": 6266,
+      "width": 9399
     }
   }
 }

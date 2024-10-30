@@ -7,14 +7,9 @@
       "Flowers & Insects",
       "Street"
     ],
-    "trip": null
+    "trip": "2024-07-14-baltic-sea"
   },
   "exif": {
-    "date": "2024-07-16T08:47:53.000+01:00",
-    "dimensions": {
-      "height": 6303,
-      "width": 9456
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 8,
         "ISO": 100
       }
+    },
+    "date": "2024-07-16T08:47:53.000+01:00",
+    "dimensions": {
+      "height": 6303,
+      "width": 9456
     }
   }
 }

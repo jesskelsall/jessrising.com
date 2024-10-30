@@ -1,0 +1,29 @@
+{
+  "title": "Vanalinn from Oleviste Kogudus",
+  "meta": {
+    "location": "Niguliste Muuseum",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-07-14-baltic-sea"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 47,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    },
+    "date": "2024-07-20T10:02:30.000+01:00",
+    "dimensions": {
+      "height": 6318,
+      "width": 9477
+    }
+  }
+}
