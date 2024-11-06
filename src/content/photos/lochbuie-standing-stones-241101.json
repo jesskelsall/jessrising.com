@@ -1,0 +1,30 @@
+{
+  "title": "Lochbuie Standing Stones",
+  "meta": {
+    "location": "Lochbuie",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-11-01T11:40:50.000+00:00",
+    "dimensions": {
+      "height": 5831,
+      "width": 8746
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 65,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

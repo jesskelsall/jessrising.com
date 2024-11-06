@@ -1,0 +1,26 @@
+{
+  "title": "Otters Swimming Together",
+  "meta": {
+    "location": "Loch Spelve",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-11-01T10:18:38.000+00:00",
+    "dimensions": {
+      "height": 2731,
+      "width": 4096
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 1000
+      }
+    }
+  }
+}

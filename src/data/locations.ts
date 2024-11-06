@@ -478,11 +478,14 @@ export const locationHierarchy: LocationHierarchy = {
           },
         },
         "🏝️ Mull": {
+          Aros: {},
           "Calgary Bay": {},
+          Croggan: {},
           Fionnphort: {},
           "🏝️ Iona": {
             "Iona Abbey": {},
           },
+          "Loch na Keal": {},
           Lochbuie: {},
           "Loch Spelve": {},
           "Sound of Mull": {},

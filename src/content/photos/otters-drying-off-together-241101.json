@@ -1,0 +1,26 @@
+{
+  "title": "Otters Drying Off Together",
+  "meta": {
+    "location": "Loch Spelve",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-11-01T10:19:08.000+00:00",
+    "dimensions": {
+      "height": 2459,
+      "width": 3688
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 2000
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Salen Old Ship",
+  "meta": {
+    "location": "Aros",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-11-01T13:52:12.000+00:00",
+    "dimensions": {
+      "height": 5813,
+      "width": 8720
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.2,
+        "focalLength": 47,
+        "fStop": 8,
+        "ISO": 100
+      }
+    }
+  }
+}
