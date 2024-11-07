@@ -1,0 +1,30 @@
+{
+  "title": "MV Loch Riddon Disembarkment at Iona",
+  "meta": {
+    "location": "Iona",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-11-02T12:59:55.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 114,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

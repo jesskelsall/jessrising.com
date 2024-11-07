@@ -482,6 +482,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Calgary Bay": {},
           Croggan: {},
           Fionnphort: {},
+          "Glen More": {},
           "🏝️ Iona": {
             "Iona Abbey": {},
           },

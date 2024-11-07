@@ -1,0 +1,29 @@
+{
+  "title": "Be Still",
+  "meta": {
+    "location": "Iona Abbey",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-11-02T11:21:56.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.625,
+        "focalLength": 30,
+        "fStop": 2.8,
+        "ISO": 500
+      }
+    }
+  }
+}
