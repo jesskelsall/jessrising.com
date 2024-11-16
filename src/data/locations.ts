@@ -734,7 +734,12 @@ export const locationHierarchy: LocationHierarchy = {
     "🏙️ Hamburg": {
       "Elbphilharmonie Hamburg": {},
       Landungsbrücken: {},
-      "Miniatur Wunderland": {},
+      "Miniatur Wunderland": {
+        "MW Italien": {},
+        "MW Knuffingen Airport": {},
+        "MW Monaco & die Provence": {},
+        "MW Schweiz": {},
+      },
       Speicherstadt: {},
       "St. Peter's Church": {},
     },

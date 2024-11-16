@@ -1,0 +1,26 @@
+{
+  "title": "MW Monaco Apartments",
+  "meta": {
+    "location": "MW Monaco & die Provence",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T10:27:35.000+01:00",
+    "dimensions": {
+      "height": 6139,
+      "width": 9209
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 36,
+        "fStop": 5.6,
+        "ISO": 640
+      }
+    }
+  }
+}

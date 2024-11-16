@@ -1,0 +1,26 @@
+{
+  "title": "MW Monaco Pit Straight",
+  "meta": {
+    "location": "MW Monaco & die Provence",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T10:24:52.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 70,
+        "fStop": 9,
+        "ISO": 800
+      }
+    }
+  }
+}

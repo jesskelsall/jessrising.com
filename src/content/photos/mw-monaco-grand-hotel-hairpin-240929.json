@@ -1,0 +1,26 @@
+{
+  "title": "MW Monaco Grand Hotel Hairpin",
+  "meta": {
+    "location": "MW Monaco & die Provence",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T10:12:28.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 135,
+        "fStop": 5,
+        "ISO": 1000
+      }
+    }
+  }
+}

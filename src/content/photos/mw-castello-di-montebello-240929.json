@@ -1,0 +1,29 @@
+{
+  "title": "MW Castello di Montebello",
+  "meta": {
+    "location": "MW Schweiz",
+    "tags": [
+      "People",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T08:28:42.000+01:00",
+    "dimensions": {
+      "height": 5959,
+      "width": 8939
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 500
+      }
+    }
+  }
+}

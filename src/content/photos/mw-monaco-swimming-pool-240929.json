@@ -1,0 +1,26 @@
+{
+  "title": "MW Monaco Swimming Pool",
+  "meta": {
+    "location": "MW Monaco & die Provence",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T10:01:38.000+01:00",
+    "dimensions": {
+      "height": 6107,
+      "width": 9161
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 24,
+        "fStop": 5,
+        "ISO": 500
+      }
+    }
+  }
+}

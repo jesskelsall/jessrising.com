@@ -1,0 +1,28 @@
+{
+  "title": "MW Knuffingen Airport Arrival",
+  "meta": {
+    "location": "MW Knuffingen Airport",
+    "tags": [
+      "Aviation"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T07:49:17.000+01:00",
+    "dimensions": {
+      "height": 5597,
+      "width": 8395
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 1000
+      }
+    }
+  }
+}
