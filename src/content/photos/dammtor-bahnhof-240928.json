@@ -1,0 +1,29 @@
+{
+  "title": "Dammtor Bahnhof",
+  "meta": {
+    "location": "Hamburg",
+    "tags": [
+      "Landscape",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-28T15:54:17.000+01:00",
+    "dimensions": {
+      "height": 6204,
+      "width": 9307
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 30,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

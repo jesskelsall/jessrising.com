@@ -479,7 +479,6 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "🏝️ Mull": {
           Aros: {},
-          "Calgary Bay": {},
           Croggan: {},
           Fionnphort: {},
           "Glen More": {},
@@ -489,6 +488,8 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch na Keal": {},
           Lochbuie: {},
           "Loch Spelve": {},
+          Mishnish: {},
+          Mornish: {},
           "Sound of Mull": {},
           Tobermory: {},
         },
@@ -727,6 +728,27 @@ export const locationHierarchy: LocationHierarchy = {
       },
       Töölö: {},
       Ullanlinna: {},
+    },
+  },
+  "🇩🇪 Germany": {
+    "🏙️ Hamburg": {
+      "Elbphilharmonie Hamburg": {},
+      Landungsbrücken: {},
+      "Miniatur Wunderland": {},
+      Speicherstadt: {},
+      "St. Peter's Church": {},
+    },
+  },
+  "🇳🇱 Netherlands": {
+    "🗺️ Friesland": {},
+    "🗺️ Overijssel": {
+      Giethoorn: {},
+    },
+    "🗺️ South Holland": {
+      Kinderdijk: {},
+    },
+    "🗺️ Utrecht": {
+      Amersfoort: {},
     },
   },
   "🇸🇪 Sweden": {

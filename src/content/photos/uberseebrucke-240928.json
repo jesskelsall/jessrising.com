@@ -1,0 +1,29 @@
+{
+  "title": "Überseebrücke",
+  "meta": {
+    "location": "Elbphilharmonie Hamburg",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-28T19:27:26.000+01:00",
+    "dimensions": {
+      "height": 5798,
+      "width": 8697
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.05,
+        "focalLength": 66,
+        "fStop": 2.8,
+        "ISO": 500
+      }
+    }
+  }
+}

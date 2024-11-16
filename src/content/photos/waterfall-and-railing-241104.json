@@ -1,0 +1,30 @@
+{
+  "title": "Waterfall and Railing",
+  "meta": {
+    "location": "Puck's Glen",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Waterfall"
+    ],
+    "trip": "2024-10-31-isle-of-mull"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.5,
+        "focalLength": 26,
+        "fStop": 4.5,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-04T14:38:32.000+00:00",
+    "dimensions": {
+      "height": 6078,
+      "width": 9117
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Windpark Fryslân",
+  "meta": {
+    "location": "Friesland",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-22T15:56:19.000+01:00",
+    "dimensions": {
+      "height": 6324,
+      "width": 9486
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 318,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    }
+  }
+}

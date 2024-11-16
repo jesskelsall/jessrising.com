@@ -1,0 +1,28 @@
+{
+  "title": "Amersfoort Canal",
+  "meta": {
+    "location": "Amersfoort",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-22T18:58:33.000+01:00",
+    "dimensions": {
+      "height": 6161,
+      "width": 9241
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 44,
+        "fStop": 8,
+        "ISO": 400
+      }
+    }
+  }
+}

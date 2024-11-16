@@ -1,0 +1,28 @@
+{
+  "title": "Overwaard Molen No.2",
+  "meta": {
+    "location": "Kinderdijk",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-21T16:47:45.000+01:00",
+    "dimensions": {
+      "height": 5952,
+      "width": 8929
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 34,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

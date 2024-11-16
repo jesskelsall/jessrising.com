@@ -1,0 +1,30 @@
+{
+  "title": "Louisiana Star Sunset",
+  "meta": {
+    "location": "Landungsbrücken",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-28T18:33:00.000+01:00",
+    "dimensions": {
+      "height": 4483,
+      "width": 6725
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00019999999494630462,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

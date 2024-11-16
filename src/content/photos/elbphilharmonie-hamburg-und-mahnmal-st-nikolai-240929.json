@@ -1,0 +1,28 @@
+{
+  "title": "Elbphilharmonie Hamburg und Mahnmal St. Nikolai",
+  "meta": {
+    "location": "St. Peter's Church",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-29T14:20:44.000+01:00",
+    "dimensions": {
+      "height": 5957,
+      "width": 8936
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

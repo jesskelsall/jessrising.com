@@ -1,0 +1,26 @@
+{
+  "title": "Highland Cow at Burg",
+  "meta": {
+    "location": "Loch na Keal",
+    "tags": [],
+    "trip": "2024-10-31-isle-of-mull"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 206,
+        "fStop": 5.6,
+        "ISO": 500
+      }
+    },
+    "date": "2024-11-03T11:28:17.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Windmills and Lily Pads",
+  "meta": {
+    "location": "Kinderdijk",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-21T16:18:05.000+01:00",
+    "dimensions": {
+      "height": 6232,
+      "width": 9348
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 36,
+        "fStop": 8,
+        "ISO": 100
+      }
+    }
+  }
+}

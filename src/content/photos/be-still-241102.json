@@ -6,14 +6,9 @@
       "Interior",
       "Church/Cathedral"
     ],
-    "trip": null
+    "trip": "2024-10-31-isle-of-mull"
   },
   "exif": {
-    "date": "2024-11-02T11:21:56.000+00:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -24,6 +19,11 @@
         "fStop": 2.8,
         "ISO": 500
       }
+    },
+    "date": "2024-11-02T11:21:56.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

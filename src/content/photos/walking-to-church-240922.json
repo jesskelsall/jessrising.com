@@ -1,0 +1,29 @@
+{
+  "title": "Walking to Church",
+  "meta": {
+    "location": "Amersfoort",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-22T18:36:41.000+01:00",
+    "dimensions": {
+      "height": 6253,
+      "width": 9379
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 6.300000190736682,
+        "ISO": 400
+      }
+    }
+  }
+}

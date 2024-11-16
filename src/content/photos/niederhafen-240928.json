@@ -1,0 +1,29 @@
+{
+  "title": "Niederhafen",
+  "meta": {
+    "location": "Hamburg",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-28T19:00:28.000+01:00",
+    "dimensions": {
+      "height": 5981,
+      "width": 8972
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 42,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    }
+  }
+}

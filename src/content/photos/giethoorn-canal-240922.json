@@ -1,0 +1,31 @@
+{
+  "title": "Giethoorn Canal",
+  "meta": {
+    "location": "Giethoorn",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Bridge",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-22T12:01:54.000+01:00",
+    "dimensions": {
+      "height": 6290,
+      "width": 9435
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.008,
+        "focalLength": 62,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}

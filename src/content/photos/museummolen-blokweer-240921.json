@@ -1,0 +1,29 @@
+{
+  "title": "Museummolen Blokweer",
+  "meta": {
+    "location": "Kinderdijk",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-21T16:07:15.000+01:00",
+    "dimensions": {
+      "height": 5866,
+      "width": 8799
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 135,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}
