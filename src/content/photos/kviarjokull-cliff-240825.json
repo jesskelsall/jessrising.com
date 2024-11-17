@@ -1,0 +1,29 @@
+{
+  "title": "Kvíárjökull Cliff",
+  "meta": {
+    "location": "Öræfajökull",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T15:01:15.000+01:00",
+    "dimensions": {
+      "height": 5939,
+      "width": 8908
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

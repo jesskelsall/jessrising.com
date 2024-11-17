@@ -1,0 +1,29 @@
+{
+  "title": "Kvíárárlón",
+  "meta": {
+    "location": "Öræfajökull",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T15:34:24.000+01:00",
+    "dimensions": {
+      "height": 4855,
+      "width": 7282
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 212,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Stjórnarfoss",
+  "meta": {
+    "location": "Skaftárhreppur",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T10:34:15.000+01:00",
+    "dimensions": {
+      "height": 5789,
+      "width": 8684
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

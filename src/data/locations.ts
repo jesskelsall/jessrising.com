@@ -744,6 +744,26 @@ export const locationHierarchy: LocationHierarchy = {
       "St. Peter's Church": {},
     },
   },
+  "🇮🇸 Iceland": {
+    "🗺️ Austurland": {},
+    "🗺️ Norðurland vestra": {},
+    "🗺️ Norðurland eystra": {
+      "🏙️ Akureyri": {},
+    },
+    "🏙️ Reykjavík": {},
+    "🗺️ Suðurland": {
+      "🗺️ Hornafjörður": {},
+      "🗺️ Skaftárhreppur": {},
+      "🏔️ Vatnajökull": {
+        Öræfajökull: {},
+        Jökulsárlón: {},
+      },
+    },
+    "🗺️ Suðurnes": {},
+    "🗺️ Vesturland": {
+      Snæfellsnes: {},
+    },
+  },
   "🇳🇱 Netherlands": {
     "🗺️ Friesland": {},
     "🗺️ Overijssel": {

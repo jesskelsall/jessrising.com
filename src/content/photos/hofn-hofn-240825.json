@@ -1,0 +1,29 @@
+{
+  "title": "Höfn Höfn",
+  "meta": {
+    "location": "Hornafjörður",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T19:05:34.000+01:00",
+    "dimensions": {
+      "height": 5905,
+      "width": 8974
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 52,
+        "fStop": 8,
+        "ISO": 100
+      }
+    }
+  }
+}

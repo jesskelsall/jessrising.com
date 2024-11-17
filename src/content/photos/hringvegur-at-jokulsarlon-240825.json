@@ -1,0 +1,30 @@
+{
+  "title": "Hringvegur at Jökulsárlón",
+  "meta": {
+    "location": "Jökulsárlón",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T16:37:37.000+01:00",
+    "dimensions": {
+      "height": 6135,
+      "width": 9203
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

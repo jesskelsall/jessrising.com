@@ -8,7 +8,7 @@ import { Emoji } from "../types/emoji";
 export const splitEmojiFromTitle = (
   text: string
 ): { emoji?: Emoji; title: string } => {
-  const startIsText = /^[A-Z]/i;
+  const startIsText = /^[A-ZÖ]/i;
   if (startIsText.test(text)) return { title: text };
 
   const textParts = text.split(" ");

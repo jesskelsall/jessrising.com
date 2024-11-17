@@ -1,0 +1,28 @@
+{
+  "title": "Vestrahorn from Below",
+  "meta": {
+    "location": "Hornafjörður",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T19:38:33.000+01:00",
+    "dimensions": {
+      "height": 6032,
+      "width": 9048
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 36,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}

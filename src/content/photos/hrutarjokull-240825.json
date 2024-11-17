@@ -1,0 +1,29 @@
+{
+  "title": "Hrútárjökull",
+  "meta": {
+    "location": "Öræfajökull",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-25T15:35:31.000+01:00",
+    "dimensions": {
+      "height": 6063,
+      "width": 9094
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    }
+  }
+}
