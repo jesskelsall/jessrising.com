@@ -1,0 +1,29 @@
+{
+  "title": "Kirkjufjara Waves",
+  "meta": {
+    "location": "Dyrhólaey",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-26T12:46:56.000+01:00",
+    "dimensions": {
+      "height": 6212,
+      "width": 9318
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.001,
+        "focalLength": 46,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

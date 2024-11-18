@@ -1,0 +1,29 @@
+{
+  "title": "Reynisfjara Surf",
+  "meta": {
+    "location": "Reynisfjara",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-26T09:09:55.000+01:00",
+    "dimensions": {
+      "height": 5832,
+      "width": 8748
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00015624999650578762,
+        "focalLength": 268,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

@@ -753,6 +753,12 @@ export const locationHierarchy: LocationHierarchy = {
     "🏙️ Reykjavík": {},
     "🗺️ Suðurland": {
       "🗺️ Hornafjörður": {},
+      "🗺️ Mýrdalshreppur": {
+        Dyrhólaey: {},
+        Reynisfjara: {},
+        Sólheimajökull: {},
+        "Vík í Mýrdal": {},
+      },
       "🗺️ Skaftárhreppur": {},
       "🏔️ Vatnajökull": {
         Öræfajökull: {},

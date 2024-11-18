@@ -1,0 +1,30 @@
+{
+  "title": "Walking on the Glacier",
+  "meta": {
+    "location": "Sólheimajökull",
+    "tags": [
+      "Landscape",
+      "People",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-26T17:21:07.000+01:00",
+    "dimensions": {
+      "height": 5801,
+      "width": 8701
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 1000
+      }
+    }
+  }
+}

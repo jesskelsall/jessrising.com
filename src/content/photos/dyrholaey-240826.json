@@ -1,0 +1,29 @@
+{
+  "title": "Dyrhólaey",
+  "meta": {
+    "location": "Dyrhólaey",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-26T11:56:47.000+01:00",
+    "dimensions": {
+      "height": 5828,
+      "width": 8742
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.001,
+        "focalLength": 26,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}
