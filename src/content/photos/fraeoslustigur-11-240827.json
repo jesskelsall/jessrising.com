@@ -1,0 +1,28 @@
+{
+  "title": "Fræoslustígur 11",
+  "meta": {
+    "location": "Nesjavellir",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-27T12:40:02.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.008,
+        "focalLength": 45,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    }
+  }
+}

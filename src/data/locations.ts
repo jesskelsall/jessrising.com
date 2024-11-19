@@ -752,12 +752,22 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🏙️ Reykjavík": {},
     "🗺️ Suðurland": {
+      "Golden Circle": {
+        Skálholt: {},
+        Þingvallavatn: {
+          Nesjavellir: {},
+          Þingvellir: {},
+        },
+      },
       "🗺️ Hornafjörður": {},
       "🗺️ Mýrdalshreppur": {
         Dyrhólaey: {},
         Reynisfjara: {},
         Sólheimajökull: {},
         "Vík í Mýrdal": {},
+      },
+      "🗺️ Rangárþing eystra": {
+        Skógar: {},
       },
       "🗺️ Skaftárhreppur": {},
       "🏔️ Vatnajökull": {

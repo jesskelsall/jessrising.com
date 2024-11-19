@@ -1,0 +1,29 @@
+{
+  "title": "Öxarárfoss",
+  "meta": {
+    "location": "Þingvellir",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-27T09:12:14.000+01:00",
+    "dimensions": {
+      "height": 5994,
+      "width": 8991
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.125,
+        "focalLength": 38,
+        "fStop": 11,
+        "ISO": 50
+      }
+    }
+  }
+}

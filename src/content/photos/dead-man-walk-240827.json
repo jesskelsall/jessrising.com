@@ -1,0 +1,28 @@
+{
+  "title": "Dead Man Walk",
+  "meta": {
+    "location": "Þingvellir",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-27T08:47:16.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 500
+      }
+    }
+  }
+}

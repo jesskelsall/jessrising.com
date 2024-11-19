@@ -1,0 +1,29 @@
+{
+  "title": "Rútshellir",
+  "meta": {
+    "location": "Skógar",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-27T18:32:41.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

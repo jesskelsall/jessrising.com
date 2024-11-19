@@ -1,0 +1,28 @@
+{
+  "title": "Þingvellir National Park",
+  "meta": {
+    "location": "Þingvellir",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-27T09:57:14.000+01:00",
+    "dimensions": {
+      "height": 6186,
+      "width": 9280
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 45,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}
