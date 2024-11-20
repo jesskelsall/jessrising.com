@@ -750,9 +750,16 @@ export const locationHierarchy: LocationHierarchy = {
     "🗺️ Norðurland eystra": {
       "🏙️ Akureyri": {},
     },
-    "🏙️ Reykjavík": {},
+    "🏙️ Reykjavík": {
+      Perlan: {},
+    },
     "🗺️ Suðurland": {
       "Golden Circle": {
+        "🚗 Route 37": {
+          Brúarfoss: {},
+          "Geysir Hot Springs": {},
+          Gullfoss: {},
+        },
         Skálholt: {},
         Þingvallavatn: {
           Nesjavellir: {},
@@ -770,6 +777,7 @@ export const locationHierarchy: LocationHierarchy = {
         Skógar: {},
       },
       "🗺️ Skaftárhreppur": {},
+      "🚗 Route 32": {},
       "🏔️ Vatnajökull": {
         Öræfajökull: {},
         Jökulsárlón: {},

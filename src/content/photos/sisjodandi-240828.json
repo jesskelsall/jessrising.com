@@ -1,0 +1,28 @@
+{
+  "title": "Sísjóðandi",
+  "meta": {
+    "location": "Geysir Hot Springs",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-28T09:41:44.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 128,
+        "fStop": 5,
+        "ISO": 200
+      }
+    }
+  }
+}
