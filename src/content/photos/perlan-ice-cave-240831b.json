@@ -1,0 +1,28 @@
+{
+  "title": "Perlan Ice Cave",
+  "meta": {
+    "location": "Perlan",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-31T12:45:30.000+01:00",
+    "dimensions": {
+      "height": 6037,
+      "width": 9056
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 41,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    }
+  }
+}

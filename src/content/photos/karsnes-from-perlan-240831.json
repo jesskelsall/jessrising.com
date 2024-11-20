@@ -1,0 +1,28 @@
+{
+  "title": "Karsnes from Perlan",
+  "meta": {
+    "location": "Perlan",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-31T13:22:37.000+01:00",
+    "dimensions": {
+      "height": 5462,
+      "width": 8193
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 288,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    }
+  }
+}
