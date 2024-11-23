@@ -13,6 +13,7 @@
     "addtrip": "ts-node -P ./scripts/tsconfig.json ./scripts/addTrip.ts",
     "build": "next build",
     "dev": "npm run prebuild && next dev",
+    "insta:story": "bash ./scripts/insta-story.sh",
     "lint": "next lint --fix",
     "prebuild": "ts-node -P ./scripts/tsconfig.json ./scripts/prebuild.ts",
     "prepare": "husky install",
