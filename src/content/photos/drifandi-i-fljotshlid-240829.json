@@ -1,0 +1,29 @@
+{
+  "title": "Drífandi í Fljótshlíð",
+  "meta": {
+    "location": "Rangárþing eystra",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T11:00:14.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

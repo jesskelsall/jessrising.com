@@ -1,0 +1,28 @@
+{
+  "title": "House on Skógavegur",
+  "meta": {
+    "location": "Skógar",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T16:08:20.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 47,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

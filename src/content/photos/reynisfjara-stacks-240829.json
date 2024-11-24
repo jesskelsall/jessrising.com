@@ -1,5 +1,5 @@
 {
-  "title": "Reynisfjara Columns",
+  "title": "Reynisfjara Stacks",
   "meta": {
     "location": "Reynisfjara",
     "tags": [
@@ -10,19 +10,19 @@
     "trip": null
   },
   "exif": {
-    "date": "2024-08-26T08:54:07.000+01:00",
+    "date": "2024-08-29T06:41:08.000+01:00",
     "dimensions": {
-      "height": 6334,
-      "width": 9502
+      "height": 6053,
+      "width": 9079
     },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0.7,
-        "exposureTime": 0.0012499999720602967,
-        "focalLength": 41,
-        "fStop": 5,
+        "exposureTime": 0.0025,
+        "focalLength": 70,
+        "fStop": 2.8,
         "ISO": 100
       }
     }

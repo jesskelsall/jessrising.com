@@ -1,0 +1,29 @@
+{
+  "title": "Kvernufoss from Below",
+  "meta": {
+    "location": "Skógar",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T15:38:56.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0015625,
+        "focalLength": 43,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    }
+  }
+}

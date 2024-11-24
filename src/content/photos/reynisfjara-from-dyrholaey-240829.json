@@ -1,0 +1,29 @@
+{
+  "title": "Reynisfjara from Dyrhólaey",
+  "meta": {
+    "location": "Dyrhólaey",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T07:12:57.000+01:00",
+    "dimensions": {
+      "height": 5453,
+      "width": 8180
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0003124999930150742,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}

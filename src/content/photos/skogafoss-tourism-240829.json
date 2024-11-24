@@ -1,0 +1,30 @@
+{
+  "title": "Skógafoss Tourism",
+  "meta": {
+    "location": "Skógafoss",
+    "tags": [
+      "Landscape",
+      "People",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T13:43:47.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.5,
+        "focalLength": 41,
+        "fStop": 2.8,
+        "ISO": 50
+      }
+    }
+  }
+}

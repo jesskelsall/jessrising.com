@@ -774,7 +774,13 @@ export const locationHierarchy: LocationHierarchy = {
         "Vík í Mýrdal": {},
       },
       "🗺️ Rangárþing eystra": {
-        Skógar: {},
+        "🚗 Route 249": {
+          Seljalandsfoss: {},
+        },
+        "🚗 Route 261": {},
+        Skógar: {
+          Skógafoss: {},
+        },
       },
       "🗺️ Skaftárhreppur": {},
       "🚗 Route 32": {},

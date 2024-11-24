@@ -1,0 +1,28 @@
+{
+  "title": "Dyrhólaós to Reynisfjara",
+  "meta": {
+    "location": "Dyrhólaey",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T07:55:10.000+01:00",
+    "dimensions": {
+      "height": 6170,
+      "width": 9255
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 46,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    }
+  }
+}

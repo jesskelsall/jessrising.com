@@ -1,0 +1,28 @@
+{
+  "title": "An Icelandic Raven",
+  "meta": {
+    "location": "Dyrhólaey",
+    "tags": [
+      "Bird"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-29T07:46:05.000+01:00",
+    "dimensions": {
+      "height": 5663,
+      "width": 8495
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}
