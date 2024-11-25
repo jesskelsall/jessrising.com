@@ -1,0 +1,29 @@
+{
+  "title": "Háafossvegur",
+  "meta": {
+    "location": "Háifoss",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-30T14:09:05.000+01:00",
+    "dimensions": {
+      "height": 5529,
+      "width": 8294
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 5,
+        "ISO": 100
+      }
+    }
+  }
+}

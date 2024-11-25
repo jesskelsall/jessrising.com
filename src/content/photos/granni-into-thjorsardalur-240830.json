@@ -1,0 +1,29 @@
+{
+  "title": "Granni into Þjórsárdalur",
+  "meta": {
+    "location": "Háifoss",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-30T13:50:37.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 48,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

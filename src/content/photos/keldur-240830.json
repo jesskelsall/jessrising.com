@@ -1,0 +1,29 @@
+{
+  "title": "Keldur",
+  "meta": {
+    "location": "Suðurland",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-08-30T09:53:17.000+01:00",
+    "dimensions": {
+      "height": 5863,
+      "width": 8794
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 47,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

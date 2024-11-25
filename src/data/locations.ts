@@ -783,7 +783,11 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Skaftárhreppur": {},
-      "🚗 Route 32": {},
+      "🚗 Route 32": {
+        Gjáin: {},
+        Háifoss: {},
+        Þjóðveldisbærinn: {},
+      },
       "🏔️ Vatnajökull": {
         Öræfajökull: {},
         Jökulsárlón: {},
