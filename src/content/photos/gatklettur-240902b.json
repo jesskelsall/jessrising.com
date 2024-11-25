@@ -1,0 +1,29 @@
+{
+  "title": "Gatklettur",
+  "meta": {
+    "location": "Arnarstapi",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-02T15:40:39.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 43,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Lóndrangar from the East",
+  "meta": {
+    "location": "Lóndrangar",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-02T14:06:51.000+01:00",
+    "dimensions": {
+      "height": 6251,
+      "width": 9377
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 28,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    }
+  }
+}

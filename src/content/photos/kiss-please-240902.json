@@ -1,0 +1,29 @@
+{
+  "title": "Kiss Please",
+  "meta": {
+    "location": "Ólafsvík",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-02T10:35:05.000+01:00",
+    "dimensions": {
+      "height": 6123,
+      "width": 9185
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 36,
+        "fStop": 16,
+        "ISO": 400
+      }
+    }
+  }
+}

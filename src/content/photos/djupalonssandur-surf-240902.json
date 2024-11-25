@@ -1,0 +1,30 @@
+{
+  "title": "Djúpalónssandur Surf",
+  "meta": {
+    "location": "Djúpalónssandur",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-02T12:39:46.000+01:00",
+    "dimensions": {
+      "height": 5888,
+      "width": 8832
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    }
+  }
+}

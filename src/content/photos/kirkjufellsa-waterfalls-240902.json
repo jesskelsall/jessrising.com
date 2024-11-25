@@ -1,0 +1,29 @@
+{
+  "title": "Kirkjufellsá Waterfalls",
+  "meta": {
+    "location": "Kirkjufell",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "date": "2024-09-02T07:46:57.000+01:00",
+    "dimensions": {
+      "height": 5593,
+      "width": 8390
+    },
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 168,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    }
+  }
+}

@@ -791,7 +791,21 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🗺️ Suðurnes": {},
     "🗺️ Vesturland": {
-      Snæfellsnes: {},
+      Snæfellsnes: {
+        "Snæfellsnes North Coast": {
+          Hellissandur: {},
+          Kirkjufell: {},
+          Ólafsvík: {},
+        },
+        "Snæfellsnes South Coast": {
+          Arnarstapi: {},
+          Búðir: {},
+        },
+        "🏞️ Snæfellsjökulsþjóðgarður": {
+          Djúpalónssandur: {},
+          Lóndrangar: {},
+        },
+      },
     },
   },
   "🇳🇱 Netherlands": {
