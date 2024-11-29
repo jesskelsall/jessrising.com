@@ -9,7 +9,7 @@ import {
 import ExifReader from "exifreader";
 import fs from "fs";
 import { convert } from "imagemagick";
-import { cloneDeep, orderBy, uniq } from "lodash/fp";
+import { cloneDeep, kebabCase, orderBy, uniq } from "lodash/fp";
 import path from "path";
 import util from "util";
 import { DIR_CONTENT, S3_BUCKET_NAME } from "../src/consts/app";
@@ -17,9 +17,9 @@ import { cameras } from "../src/data/cameras";
 import galleryPhotosJSON from "../src/data/galleryPhotos.json";
 import { allTags } from "../src/data/tags";
 import {
+  buildPhotoSlug,
+  fileNameToPhotoTitle,
   parsePhoto,
-  parsePhotoSlug,
-  parsePhotoTitle,
 } from "../src/functions/photo";
 import { GalleryPhotoSlug } from "../src/types/brand";
 import { GalleryPhotoData } from "../src/types/galleryPhoto";
@@ -136,7 +136,7 @@ const getGalleryPhotos = async (
   const getGalleryPhotoDetails = async (
     photoFile: string
   ): Promise<GalleryPhotoDetails> => {
-    const title = parsePhotoTitle(photoFile);
+    const title = fileNameToPhotoTitle(photoFile);
 
     // Extract EXIF data from file
 
@@ -147,7 +147,7 @@ const getGalleryPhotos = async (
     // Create gallery photo data
 
     const data = parsePhoto({ cameras, title, exif });
-    const slug = parsePhotoSlug(data.title, data.exif.date);
+    const slug = buildPhotoSlug(data.title, new Date(data.exif.date));
 
     return { fileName: photoFile, slug, data };
   };
@@ -201,7 +201,7 @@ const getGalleryPhotos = async (
   )
     .sort()
     .reduce((prev, title) => {
-      const photoSlug = parsePhotoSlug(title);
+      const photoSlug = kebabCase(title);
       const legacySlugs = allGalleryPhotoSlugs.filter(
         (slug) => slug.startsWith(photoSlug) && !/\d{6}[a-z]{0,1}$/.test(slug)
       );
@@ -256,9 +256,7 @@ const enrichGalleryPhoto = async (
     message: "Location",
     default: previousData?.meta.location || undefined,
   });
-  updatedData.meta.location = locationString
-    ? LocationTitle.parse(locationString)
-    : null;
+  updatedData.meta.location = LocationTitle.parse(locationString ?? "Unknown");
 
   // Tags
 

@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 
 module.exports = {
+  eslint: {
+    dirs: ["src", "tests"]
+  },
   experimental: { scrollRestoration: true },
   images: {
     remotePatterns: [

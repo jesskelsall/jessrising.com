@@ -1,16 +1,13 @@
 import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
+// Photo: Clunes Forest
 export const a7rvZoom = {
   "Bits Per Sample": { value: 8, description: "8" },
-  "Image Height": { value: 6336, description: "6336px" },
-  "Image Width": { value: 9504, description: "9504px" },
+  "Image Height": { value: 6246, description: "6246px" },
+  "Image Width": { value: 9370, description: "9370px" },
   "Color Components": { value: 3, description: "3" },
   Subsampling: {
-    value: [
-      [1, 34, 0],
-      [2, 17, 1],
-      [3, 17, 1],
-    ],
+    value: [[Array], [Array], [Array]],
     description: "YCbCr4:2:0 (2 2)",
   },
   PhotometricInterpretation: { id: 262, value: 32803, description: 32803 },
@@ -53,9 +50,9 @@ export const a7rvZoom = {
     value: ["2023:07:30 08:41:16"],
     description: "2023:07:30 08:41:16",
   },
-  OffsetTime: { id: 36880, value: ["+01:00"], description: "+01:00" },
-  OffsetTimeOriginal: { id: 36881, value: ["+01:00"], description: "+01:00" },
-  OffsetTimeDigitized: { id: 36882, value: ["+01:00"], description: "+01:00" },
+  OffsetTime: { id: 36880, value: ["+00:00"], description: "+00:00" },
+  OffsetTimeOriginal: { id: 36881, value: ["+00:00"], description: "+00:00" },
+  OffsetTimeDigitized: { id: 36882, value: ["+00:00"], description: "+00:00" },
   ComponentsConfiguration: { id: 37121, value: [1, 2, 3, 0], description: "" },
   CompressedBitsPerPixel: { id: 37122, value: [1, 1], description: "1" },
   BrightnessValue: {
@@ -97,12 +94,7 @@ export const a7rvZoom = {
   Sharpness: { id: 41994, value: 0, description: "Normal" },
   LensSpecification: {
     id: 42034,
-    value: [
-      [24, 1],
-      [70, 1],
-      [14, 5],
-      [14, 5],
-    ],
+    value: [[Array], [Array], [Array], [Array]],
     description: "24-70 mm f/2.8",
   },
   LensModel: {
@@ -122,6 +114,11 @@ export const a7rvZoom = {
     value: [50, 48, 50, 51, 48, 55, 51, 48],
     description: "2023-07-30",
   },
+  "Object Name": {
+    id: 517,
+    value: [67, 108, 117, 110, 101, 115, 32, 70, 111, 114, 101, 115, 116],
+    description: "Clunes Forest",
+  },
   "Date Created": {
     id: 567,
     value: [50, 48, 50, 51, 48, 55, 51, 48],
@@ -133,6 +130,7 @@ export const a7rvZoom = {
     description: "08:41:16+01:00",
   },
   about: { value: "", attributes: {}, description: "" },
+  title: { value: [[Object]], attributes: {}, description: "Clunes Forest" },
   FlashCompensation: { value: "0/1", attributes: {}, description: "0/1" },
   LensInfo: {
     value: "24/1 70/1 14/5 14/5",
@@ -182,8 +180,8 @@ export const a7rvZoom = {
   "Primary Platform": { value: "APPL", description: "Apple" },
   "Device Manufacturer": { value: "APPL", description: "Apple" },
   "Device Model Number": {
-    value: "\u0000\u0000\u0000\u0000",
-    description: "\u0000\u0000\u0000\u0000",
+    value: "\x00\x00\x00\x00",
+    description: "\x00\x00\x00\x00",
   },
   "Rendering Intent": { value: 0, description: "Perceptual" },
   "Profile Creator": { value: "appl", description: "appl" },
@@ -195,4 +193,5 @@ export const a7rvZoom = {
     value: "Copyright Apple Inc., 2016",
     description: "Copyright Apple Inc., 2016",
   },
+  FileType: { value: "jpeg", description: "JPEG" },
 } as unknown as EXIFLoaded;

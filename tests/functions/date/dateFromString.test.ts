@@ -6,22 +6,6 @@ describe("dateFromString", () => {
   const customDate = "07-03-2023";
   const customFormat = "dd-MM-yyyy";
 
-  test("returns undefined when dateString is null", () => {
-    expect(dateFromString(null)).toBeUndefined();
-  });
-
-  test("returns undefined when dateString is undefined", () => {
-    expect(dateFromString(undefined)).toBeUndefined();
-  });
-
-  test("returns undefined when date doesn't match default format", () => {
-    expect(dateFromString(customDate)).toBeUndefined();
-  });
-
-  test("returns undefined when date doesn't match custom format", () => {
-    expect(dateFromString(ISO_DATE_STRING, customFormat)).toBeUndefined();
-  });
-
   test("returns a DateTime for the default format", () => {
     const date = dateFromString(ISO_DATE_STRING);
 
@@ -47,5 +31,17 @@ describe("dateFromString", () => {
 
   test("returns DateTime with the en-GB locale", () => {
     expect(dateFromString(ISO_DATE_STRING)?.locale).toBe("en-GB");
+  });
+
+  test("throws an error when date doesn't match default format", () => {
+    expect(() => dateFromString(customDate)).toThrow(
+      "Date could not be parsed"
+    );
+  });
+
+  test("throws an error when date doesn't match custom format", () => {
+    expect(() => dateFromString(ISO_DATE_STRING, customFormat)).toThrow(
+      "Date could not be parsed"
+    );
   });
 });

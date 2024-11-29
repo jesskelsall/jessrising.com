@@ -1,18 +1,8 @@
-export type Device = {
-  displayName: string;
-  displaySettings?: boolean;
-  make?: string;
-  model: string;
-};
-
-export type Camera = Device & {
-  lenses: Device[];
-};
+import { Camera } from "../types/camera";
 
 /**
- * Gallery photo tests will fail on cameras not defined here
+ * Any camera and lens used to take photos must be defined here
  * displaySettings is off by default. Lens value overrides camera value.
- * Lenses that are not defined will be displayed as their EXIF LensModel value
  */
 export const cameras: Camera[] = [
   {
@@ -35,6 +25,19 @@ export const cameras: Camera[] = [
         displayName: "Telephoto Camera",
         make: "Apple",
         model: "iPhone 11 Pro Max back triple camera 6mm f/2",
+      },
+    ],
+  },
+  {
+    displayName: "Apple iPhone 14 Pro Max",
+    displaySettings: false,
+    make: "Apple",
+    model: "iPhone 14 Pro Max",
+    lenses: [
+      {
+        displayName: "Main Camera",
+        make: "Apple",
+        model: "iPhone 14 Pro Max back triple camera 6.86mm f/1.78",
       },
     ],
   },

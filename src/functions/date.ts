@@ -1,33 +1,30 @@
 import { DateTime } from "luxon";
 
 /**
- * Parses a date in the provided format.
- * @param dateString ISO compliant date string.
+ * Parses a date in the provided format or throws an error.
+ * @param dateString Date string to format.
  * @param format Luxon date parse format. Defaults to ISO.
- * @returns Parsed date or undefined if the date is invalid or cannot be parsed.
+ * @returns Parsed DateTime object.
  */
 export const dateFromString = (
-  dateString: string | undefined | null,
+  dateString: string,
   format?: string
-): DateTime | undefined => {
-  if (!dateString) return undefined;
-
+): DateTime => {
   const date = format
     ? DateTime.fromFormat(dateString, format)
     : DateTime.fromISO(dateString);
-  if (!date.isValid) return undefined;
 
-  return date.setLocale("en-GB");
+  if (!date.isValid) throw new Error(`Date could not be parsed: ${dateString}`);
+  return date;
 };
 
 /**
  * Calls dateFromString with the EXIF date format.
- * @param dateString ISO compliant date string.
- * @returns Parsed date or undefined if the date is invalid or cannot be parsed.
+ * @param dateString EXIF date string to be parsed.
+ * @returns Parsed DateTime object.
  */
-export const dateFromEXIFString = (
-  dateString: string | undefined
-): DateTime | undefined => dateFromString(dateString, "yyyy:MM:dd HH:mm:ss");
+export const dateFromEXIFString = (dateString: string): DateTime =>
+  dateFromString(dateString, "yyyy:MM:dd HH:mm:ss");
 
 /**
  * Extract a date prefixed to a slug, if one is present.
@@ -35,8 +32,11 @@ export const dateFromEXIFString = (
  * @returns Parsed date or undefined if a valid ISO date is not present at the start of the slug.
  */
 export const dateFromSlug = (slug: string): DateTime | undefined => {
-  const dateString = slug.slice(0, 10);
-  return dateFromString(dateString);
+  const prefixRegExp = /^(\d{4}-\d{2}-\d{2})/;
+  const prefixMatch = slug.match(prefixRegExp);
+
+  if (prefixMatch === null) return undefined;
+  return dateFromString(prefixMatch[0]);
 };
 
 /**

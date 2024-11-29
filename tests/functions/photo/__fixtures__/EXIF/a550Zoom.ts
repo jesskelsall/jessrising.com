@@ -1,5 +1,6 @@
 import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
+// Photo: Class 802 at Shap Summit
 export const a550Zoom = {
   "Bits Per Sample": { value: 8, description: "8" },
   "Image Height": { value: 3056, description: "3056px" },
@@ -47,6 +48,9 @@ export const a550Zoom = {
     value: ["2023:01:28 11:42:39"],
     description: "2023:01:28 11:42:39",
   },
+  OffsetTime: { id: 36880, value: ["+00:00"], description: "+00:00" },
+  OffsetTimeOriginal: { id: 36881, value: ["+00:00"], description: "+00:00" },
+  OffsetTimeDigitized: { id: 36882, value: ["+00:00"], description: "+00:00" },
   ComponentsConfiguration: { id: 37121, value: [1, 2, 3, 0], description: "" },
   CompressedBitsPerPixel: { id: 37122, value: [4, 1], description: "4" },
   BrightnessValue: { id: 37379, value: [33, 4], description: "8.25" },
@@ -157,4 +161,5 @@ export const a550Zoom = {
     attributes: {},
     description: "DSLR-A550 v1.00",
   },
+  FileType: { value: "jpeg", description: "JPEG" },
 } as unknown as EXIFLoaded;

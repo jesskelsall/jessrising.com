@@ -1,3 +1,4 @@
+import { kebabCase } from "lodash/fp";
 import { DateTime } from "luxon";
 import Link from "next/link";
 import { APP_AUTHOR } from "../consts/app";
@@ -9,7 +10,6 @@ import { allTripsDict } from "../data/trips";
 import { dateFromString } from "../functions/date";
 import { getImageSrcFromSlug } from "../functions/image";
 import { getLocationHierarchy } from "../functions/locationsDict";
-import { parsePhotoSlug } from "../functions/photo";
 import { stripSlugDateSuffix } from "../functions/slug";
 import { pluralise } from "../functions/title";
 import { TagTitle } from "../types/tag";
@@ -40,7 +40,7 @@ export const GalleryHeading = () => {
 
   const hasForYouTag = meta.tags.includes(TagTitle.parse("For You"));
 
-  const photoSlugPrefix = parsePhotoSlug(title);
+  const photoSlugPrefix = kebabCase(title);
   const matchingTitlesCount =
     galleryPhotoSlugs.filter(
       (eachSlug) => stripSlugDateSuffix(eachSlug) === photoSlugPrefix

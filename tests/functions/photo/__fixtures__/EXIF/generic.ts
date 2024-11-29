@@ -1,7 +1,7 @@
-import { Camera } from "../../../../../src/data/cameras";
+import { Camera } from "../../../../../src/types/camera";
 import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
-export const generic = {
+export const genericEXIF = {
   DateTime: {
     id: 0,
     value: ["2023:01:01 00:00:00"],
@@ -11,12 +11,16 @@ export const generic = {
   ExposureTime: { id: 0, value: [1, 1], description: "1" },
   FNumber: { id: 0, value: [22, 1], description: "f/22" },
   FocalLength: { id: 0, value: [40, 1], description: "40 mm" },
-  "Image Height": { value: 0, description: "4000px" },
-  "Image Width": { value: 0, description: "3000px" },
+  "Image Height": { value: 4000, description: "4000px" },
+  "Image Width": { value: 3000, description: "3000px" },
   ISOSpeedRatings: { id: 0, value: 100, description: 100 },
-  Lens: { id: 0, value: "Lens", description: "Lens" },
-  Make: { id: 0, value: ["Make"], description: "Make" },
-  Model: { id: 0, value: ["Model"], description: "Model" },
+  Lens: {
+    value: "Sony FE 24-70mm F2.8 II",
+    attributes: {},
+    description: "Sony FE 24-70mm F2.8 II",
+  },
+  Make: { id: 271, value: ["SONY"], description: "SONY" },
+  Model: { id: 272, value: ["ILCE-7RM5"], description: "ILCE-7RM5" },
 } as unknown as EXIFLoaded;
 
 export const genericCameras: Camera[] = [

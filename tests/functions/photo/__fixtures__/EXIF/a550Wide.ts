@@ -1,16 +1,13 @@
 import { EXIFLoaded } from "../../../../../src/types/EXIF";
 
+// Photo: Northern Lights Over Strathy Point Lighthouse
 export const a550Wide = {
   "Bits Per Sample": { value: 8, description: "8" },
   "Image Height": { value: 3012, description: "3012px" },
   "Image Width": { value: 4526, description: "4526px" },
   "Color Components": { value: 3, description: "3" },
   Subsampling: {
-    value: [
-      [1, 34, 0],
-      [2, 17, 1],
-      [3, 17, 1],
-    ],
+    value: [[Array], [Array], [Array]],
     description: "YCbCr4:2:0 (2 2)",
   },
   PhotometricInterpretation: { id: 262, value: 32803, description: 32803 },
@@ -52,9 +49,9 @@ export const a550Wide = {
     value: ["2023:04:21 23:31:27"],
     description: "2023:04:21 23:31:27",
   },
-  OffsetTime: { id: 36880, value: ["+01:00"], description: "+01:00" },
-  OffsetTimeOriginal: { id: 36881, value: ["+01:00"], description: "+01:00" },
-  OffsetTimeDigitized: { id: 36882, value: ["+01:00"], description: "+01:00" },
+  OffsetTime: { id: 36880, value: ["+00:00"], description: "+00:00" },
+  OffsetTimeOriginal: { id: 36881, value: ["+00:00"], description: "+00:00" },
+  OffsetTimeDigitized: { id: 36882, value: ["+00:00"], description: "+00:00" },
   ComponentsConfiguration: { id: 37121, value: [1, 2, 3, 0], description: "" },
   CompressedBitsPerPixel: { id: 37122, value: [8, 1], description: "8" },
   BrightnessValue: { id: 37379, value: [-8, 1], description: "-8" },
@@ -130,24 +127,12 @@ export const a550Wide = {
   },
   about: { value: "", attributes: {}, description: "" },
   title: {
-    value: [
-      {
-        value: "Northern Lights Over Strathy Point Lighthouse",
-        attributes: { lang: "x-default" },
-        description: "Northern Lights Over Strathy Point Lighthouse",
-      },
-    ],
+    value: [[Object]],
     attributes: {},
     description: "Northern Lights Over Strathy Point Lighthouse",
   },
   description: {
-    value: [
-      {
-        value: "SONY DSC                       ",
-        attributes: { lang: "x-default" },
-        description: "SONY DSC                       ",
-      },
-    ],
+    value: [[Object]],
     attributes: {},
     description: "SONY DSC                       ",
   },
@@ -194,8 +179,8 @@ export const a550Wide = {
   "Primary Platform": { value: "APPL", description: "Apple" },
   "Device Manufacturer": { value: "APPL", description: "Apple" },
   "Device Model Number": {
-    value: "\u0000\u0000\u0000\u0000",
-    description: "\u0000\u0000\u0000\u0000",
+    value: "\x00\x00\x00\x00",
+    description: "\x00\x00\x00\x00",
   },
   "Rendering Intent": { value: 0, description: "Perceptual" },
   "Profile Creator": { value: "appl", description: "appl" },
@@ -207,4 +192,5 @@ export const a550Wide = {
     value: "Copyright Apple Inc., 2016",
     description: "Copyright Apple Inc., 2016",
   },
+  FileType: { value: "jpeg", description: "JPEG" },
 } as unknown as EXIFLoaded;

@@ -115,21 +115,26 @@ export const getAllContent = async <Content extends ContentSchema>(
       path.join(contentDirectory, `${slug}.json`)
     );
 
-    const contentData = dataSchema.parse(
-      JSON.parse(jsonBuffer.toString())
-    ) as Content;
-    contentData.slug = slugSchema.parse(slug);
+    try {
+      const contentData = dataSchema.parse(
+        JSON.parse(jsonBuffer.toString())
+      ) as Content;
+      contentData.slug = slugSchema.parse(slug);
 
-    if (hasMarkdown) {
-      const markdownBuffer = await readFile(
-        path.join(contentDirectory, `${slug}.md`)
-      );
-      contentData.markdown = MarkdownString.parse(
-        markdownBuffer.toString().trim()
-      );
+      if (hasMarkdown) {
+        const markdownBuffer = await readFile(
+          path.join(contentDirectory, `${slug}.md`)
+        );
+        contentData.markdown = MarkdownString.parse(
+          markdownBuffer.toString().trim()
+        );
+      }
+
+      return contentData;
+    } catch (error) {
+      console.error(`Unable to parse content: ${contentType}/${slug}`);
+      throw error;
     }
-
-    return contentData;
   };
 
   return Promise.all<Content>(

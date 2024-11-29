@@ -14,33 +14,29 @@ export const GalleryPhotoData = z.object({
         long: z.number(),
       })
       .optional(),
-    location: LocationTitle.nullable(),
+    location: LocationTitle,
     tags: z.array(TagTitle),
     trip: TripSlug.nullable(),
   }),
   exif: z.object({
-    camera: z
-      .object({
-        name: z.string(),
-        lens: z.string().optional(),
-        settings: z
-          .object({
-            exposureBias: z.number().optional(),
-            exposureTime: z.number().optional(),
-            focalLength: z.number().optional(),
-            fStop: z.number().optional(),
-            ISO: z.number().optional(),
-          })
-          .optional(),
-      })
-      .optional(),
-    date: ISODateString.optional(),
-    dimensions: z
-      .object({
-        height: z.number(),
-        width: z.number(),
-      })
-      .optional(),
+    camera: z.object({
+      name: z.string(),
+      lens: z.string().optional(),
+      settings: z
+        .object({
+          exposureBias: z.number().optional(),
+          exposureTime: z.number().optional(),
+          focalLength: z.number().optional(),
+          fStop: z.number().optional(),
+          ISO: z.number().optional(),
+        })
+        .optional(),
+    }),
+    date: ISODateString,
+    dimensions: z.object({
+      height: z.number(),
+      width: z.number(),
+    }),
   }),
   settings: z
     .object({
