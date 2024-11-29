@@ -180,7 +180,7 @@ export const parseMarkdown = (
   const summaryImageSlug = parseMarkdownCoverImageSlug(markdownLines);
   const summaryParagraph = parseMarkdownFirstParagraph(markdownLines);
 
-  if (date) markdownData.date = date.toISODate();
+  if (date) markdownData.date = date.toISODate() as string;
   if (summaryHeading) markdownData.summary.heading = summaryHeading;
   if (summaryImageSlug) markdownData.summary.imageSlug = summaryImageSlug;
   if (summaryParagraph) markdownData.summary.paragraph = summaryParagraph;
