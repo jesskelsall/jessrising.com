@@ -280,6 +280,10 @@ a:visited {
   max-height: 375px;
 }
 
+.gallery-grid img {
+  background-color: hsla(0 0% 50% / 0.5);
+}
+
 .gallery-grid img.landscape {
   width: 500px;
   max-width: 100%;

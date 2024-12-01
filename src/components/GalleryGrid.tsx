@@ -11,10 +11,10 @@ interface IGalleryGridProps {
 export const GalleryGrid = ({ galleryPhotos }: IGalleryGridProps) => (
   <div className="gallery-grid">
     {galleryPhotos.map(({ exif, slug, title }) => {
-      const { dimensions } = exif;
-      const isLandscape = dimensions
-        ? dimensions.width >= dimensions.height
-        : true;
+      const { height, width } = exif.dimensions;
+      const ratio = width / height;
+      const isLandscape = ratio >= 1;
+      const otherDimension = Math.round(500 / ratio);
 
       return (
         <Link href={`/gallery/p/${slug}`} key={slug}>
@@ -22,8 +22,8 @@ export const GalleryGrid = ({ galleryPhotos }: IGalleryGridProps) => (
             alt={title}
             className={isLandscape ? "landscape" : "portrait"}
             src={getImageSrcFromSlug(slug, PHOTO_SIZE_SUFFIX.SMALL)}
-            height="375"
-            width="500"
+            height={isLandscape ? otherDimension : 500}
+            width={isLandscape ? 500 : otherDimension}
           />
         </Link>
       );
