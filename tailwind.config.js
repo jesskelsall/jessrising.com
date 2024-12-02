@@ -26,7 +26,9 @@ module.exports = {
     colors: {
       mono: {
         50: "#111111",
+        100: "#222222",
         500: "#808080",
+        800: "#f1f1f1",
         900: "#fefefe",
       },
       rising: {

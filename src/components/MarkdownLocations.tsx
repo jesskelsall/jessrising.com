@@ -1,21 +1,18 @@
-import { Location } from "../types/location";
-import { BlogListItem } from "./BlogList";
+import { getLocationHierarchy } from "@/functions/locationsDict";
+import { LocationTitle } from "../types/location";
 import { PillRow } from "./PillRow";
 
-type MarkdownLocationsProps = {
-  locations: Location[];
-};
-
-export const MarkdownLocations = ({ locations }: MarkdownLocationsProps) => {
+export const MarkdownLocations = ({
+  location,
+}: {
+  location: LocationTitle;
+}) => {
+  const locations = getLocationHierarchy(location);
   const pills = locations.map(({ emoji, slug, title }) => ({
     emoji,
     href: `/gallery?location=${slug}`,
     title,
   }));
 
-  return (
-    <BlogListItem>
-      Location: <PillRow pills={pills} />
-    </BlogListItem>
-  );
+  return <PillRow pills={pills} />;
 };
