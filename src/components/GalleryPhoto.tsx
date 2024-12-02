@@ -11,16 +11,16 @@ export const GalleryPhoto = () => {
   const imagePath = getImageSrcFromSlug(slug, PHOTO_SIZE_SUFFIX.LARGE);
 
   return (
-    <main className="content-area photo">
-      <div className="photo">
-        <img alt={startCase(slug)} src={imagePath} />
+    <main className="mx-auto w-full px-2 md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl">
+      <div className="mx-auto flex justify-center md:mt-10">
+        <img
+          className="max-h-[90vh] max-w-full"
+          alt={startCase(slug)}
+          src={imagePath}
+        />
       </div>
       <GalleryHeading />
-      {markdown && (
-        <div className="gallery-body">
-          <Markdown>{markdown}</Markdown>
-        </div>
-      )}
+      {markdown && <Markdown>{markdown}</Markdown>}
     </main>
   );
 };

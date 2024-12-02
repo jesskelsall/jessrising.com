@@ -1,8 +1,6 @@
 import { orderBy } from "lodash/fp";
 import { GetStaticProps, NextPage } from "next";
-import { Newsletter } from "../../components/Newsletter";
 import { TripPreview } from "../../components/Preview";
-import { CONFIG } from "../../consts/config";
 import { allTripsList } from "../../data/trips";
 import { Trip } from "../../types/trip";
 
@@ -21,17 +19,14 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
 };
 
 const TripsPage: NextPage<PageProps> = ({ trips }) => (
-  <>
-    <main className="content-area blog">
-      <h1>Trips</h1>
-      <ul className="blog-list">
-        {trips.map((trip) => (
-          <TripPreview key={trip.slug} trip={trip} />
-        ))}
-      </ul>
-    </main>
-    {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
-  </>
+  <main className="mx-auto max-w-screen-md px-2">
+    <h1>Trips</h1>
+    <ul className="flex flex-col gap-8 sm:gap-14">
+      {trips.map((trip) => (
+        <TripPreview key={trip.slug} trip={trip} />
+      ))}
+    </ul>
+  </main>
 );
 
 export default TripsPage;

@@ -25,25 +25,31 @@ export const Preview = ({
   imageSlug?: string;
   title: string;
 }) => (
-  <li>
-    <div>
-      <h2>
-        {emoji && <span className="emoji">{emoji}&nbsp;</span>}
+  <li className="flex gap-4">
+    <div className="flex grow flex-col">
+      <h2 className="m-0">
+        {emoji && (
+          <span className="cursor-default select-none">{emoji}&nbsp;</span>
+        )}
         <Link href={href}>{title}</Link>
       </h2>
       {date && (
-        <p className="date">
+        <p className="my-4 italic">
           {formatDateRange(
             DateTime.fromISO(date),
             dateEnd ? DateTime.fromISO(dateEnd) : undefined
           )}
         </p>
       )}
-      {description && <p className="summary">{description}</p>}
+      {description && <p className="m-0">{description}</p>}
     </div>
     {imageSlug && (
       <Link href={href}>
-        <img src={imageSlug} alt={title} />
+        <img
+          alt={title}
+          className="max-h-full w-[200px] max-w-none"
+          src={imageSlug}
+        />
       </Link>
     )}
   </li>

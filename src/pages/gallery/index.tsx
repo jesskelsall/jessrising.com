@@ -4,9 +4,7 @@ import { GetServerSideProps, NextPage } from "next";
 import { GalleryGrid } from "../../components/GalleryGrid";
 import { GalleryPagination } from "../../components/GalleryPagination";
 import { TContentArea } from "../../components/Header";
-import { Newsletter } from "../../components/Newsletter";
 import { OpenGraphHeaders } from "../../components/OpenGraphHeaders";
-import { CONFIG } from "../../consts/config";
 import { GALLERY_PHOTOS_PER_PAGE } from "../../consts/gallery";
 import { allGalleryPhotosList } from "../../data/galleryPhotos";
 import { tagsDict } from "../../data/tagsDict";
@@ -181,7 +179,7 @@ const GalleryPage: NextPage<IProps> = ({
     const valueList = values.sort().join(", ");
 
     return (
-      <h2>
+      <h2 className="mb-3 mt-0">
         {name}: {valueList}
       </h2>
     );
@@ -209,8 +207,8 @@ const GalleryPage: NextPage<IProps> = ({
           title={`Trip: ${trip.title}`}
         />
       )}
-      <main className="content-area gallery">
-        <div className="gallery-heading">
+      <main className="mx-auto w-full max-w-grid-1 px-2 grid-2:max-w-grid-2 grid-3:max-w-grid-3 grid-4:max-w-grid-4">
+        <div className="grid-2:flex grid-2:items-end grid-2:justify-between">
           <div>
             <h1>Gallery</h1>
             {title && (
@@ -225,12 +223,10 @@ const GalleryPage: NextPage<IProps> = ({
               </h2>
             )}
           </div>
-          <div>
-            <p>
-              {total} {pluralise("Photo", "Photos", total)} / {pages}{" "}
-              {pluralise("Page", "Pages", pages)}
-            </p>
-          </div>
+          <p className="grid-2:mb-3 grid-2:mt-0">
+            {total} {pluralise("Photo", "Photos", total)} / {pages}{" "}
+            {pluralise("Page", "Pages", pages)}
+          </p>
         </div>
         <GalleryGrid galleryPhotos={galleryPhotos} />
         <GalleryPagination
@@ -240,7 +236,6 @@ const GalleryPage: NextPage<IProps> = ({
           query={query}
         />
       </main>
-      {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );
 };

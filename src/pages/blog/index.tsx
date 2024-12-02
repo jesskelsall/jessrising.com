@@ -1,8 +1,6 @@
 import { DateTime } from "luxon";
 import { GetStaticProps, NextPage } from "next";
-import { Newsletter } from "../../components/Newsletter";
 import { BlogPreview } from "../../components/Preview";
-import { CONFIG } from "../../consts/config";
 import { GalleryPhotoSlugsContext } from "../../context/galleryPhotoSlugs";
 import blogPostsJSON from "../../data/blogPosts.json";
 import { allGalleryPhotoSlugs } from "../../data/galleryPhotos";
@@ -37,15 +35,14 @@ export const getStaticProps: GetStaticProps<IProps> = async () => {
 
 const BlogPage: NextPage<IProps> = ({ blogPosts, galleryPhotoSlugs }) => (
   <GalleryPhotoSlugsContext.Provider value={galleryPhotoSlugs}>
-    <main className="content-area blog">
+    <main className="mx-auto max-w-screen-md px-2">
       <h1>Blog</h1>
-      <ul className="blog-list">
+      <ul className="flex flex-col gap-8 sm:gap-14">
         {blogPosts.map((blogPost) => (
           <BlogPreview key={blogPost.slug} blogPost={blogPost} />
         ))}
       </ul>
     </main>
-    {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
   </GalleryPhotoSlugsContext.Provider>
 );
 

@@ -9,8 +9,8 @@ export const Footer = () => {
     copyrightFrom + (copyrightTo !== copyrightFrom ? `-${copyrightTo}` : "");
 
   return (
-    <footer>
-      <p>
+    <footer className="mt-14 flex justify-center">
+      <p className="mt-0 text-center italic">
         All content of this website &copy; {APP_AUTHOR} {copyrightRange} unless
         otherwise stated.
         <br />

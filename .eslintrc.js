@@ -7,6 +7,7 @@ module.exports = {
     "plugin:@next/next/recommended",
     "next/core-web-vitals",
     "plugin:@typescript-eslint/recommended",
+    "plugin:tailwindcss/recommended",
   ],
   parser: "@typescript-eslint/parser",
   plugins: ["prettier", "security"],

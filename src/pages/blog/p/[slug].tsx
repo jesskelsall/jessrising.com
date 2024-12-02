@@ -4,9 +4,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { BlogPost } from "../../../components/BlogPost";
-import { Newsletter } from "../../../components/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders";
-import { CONFIG } from "../../../consts/config";
 import { BlogPostContext } from "../../../context/blogPost";
 import { BlogPostsContext } from "../../../context/blogPosts";
 import { GalleryPhotoSlugsContext } from "../../../context/galleryPhotoSlugs";
@@ -97,7 +95,6 @@ export const BlogPostPage: NextPage<IProps> = ({
           </BlogPostContext.Provider>
         </BlogPostsContext.Provider>
       </GalleryPhotoSlugsContext.Provider>
-      {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );
 };

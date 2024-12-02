@@ -98,7 +98,7 @@ const HomePage: NextPage<IProps> = ({
   recentPhoto,
 }) => (
   <GalleryPhotoSlugsContext.Provider value={galleryPhotoSlugs}>
-    <main className="content-area blog">
+    <main className="mx-auto max-w-screen-sm px-2 md:max-w-screen-md">
       <h1>Featured Photos</h1>
       <h2>
         Recent:{" "}
@@ -128,7 +128,7 @@ const HomePage: NextPage<IProps> = ({
       {CONFIG.SHOW_FEATURED_BLOG_POST && (
         <>
           <h1>Featured Blog Post</h1>
-          <ul className="blog-list">
+          <ul className="flex flex-col gap-8 sm:gap-12">
             <BlogPreview blogPost={blogPost} />
           </ul>
         </>

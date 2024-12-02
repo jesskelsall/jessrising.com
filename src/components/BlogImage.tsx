@@ -27,14 +27,7 @@ export const BlogImage = ({
   const imageSrcSuffix = isGalleryPhoto ? PHOTO_SIZE_SUFFIX.LARGE : "";
 
   const image = (
-    <img
-      src={getImageSrcFromSlug(photoSlug, imageSrcSuffix)}
-      alt={alt}
-      style={{
-        width: 800,
-        maxWidth: "100%",
-      }}
-    />
+    <img src={getImageSrcFromSlug(photoSlug, imageSrcSuffix)} alt={alt} />
   );
 
   return (

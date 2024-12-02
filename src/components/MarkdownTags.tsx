@@ -2,6 +2,7 @@ import { kebabCase, orderBy } from "lodash/fp";
 import { tagsDict } from "../data/tagsDict";
 import { applyFilterQueries } from "../functions/filter";
 import { Tag } from "../types/tag";
+import { BlogListItem } from "./BlogList";
 import { PillRow } from "./PillRow";
 
 interface IMarkdownTagsProps {
@@ -28,8 +29,8 @@ export const MarkdownTags = ({ tags }: IMarkdownTagsProps) => {
   }));
 
   return (
-    <li>
+    <BlogListItem>
       Tags: <PillRow pills={pills} />
-    </li>
+    </BlogListItem>
   );
 };

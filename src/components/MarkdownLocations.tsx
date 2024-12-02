@@ -1,4 +1,5 @@
 import { Location } from "../types/location";
+import { BlogListItem } from "./BlogList";
 import { PillRow } from "./PillRow";
 
 type MarkdownLocationsProps = {
@@ -13,8 +14,8 @@ export const MarkdownLocations = ({ locations }: MarkdownLocationsProps) => {
   }));
 
   return (
-    <li>
+    <BlogListItem>
       Location: <PillRow pills={pills} />
-    </li>
+    </BlogListItem>
   );
 };

@@ -27,23 +27,49 @@ const HEADER_LINKS: HeaderLink[] = [
   },
 ];
 
-export const Header = ({ contentArea }: IHeaderProps) => (
-  <header>
-    <ul className={`content-area ${contentArea || "blog"}`}>
-      <li className="website">
-        <Image
-          alt="Photo of Jess Rising"
-          src="/avatar.jpeg"
-          height="64"
-          width="64"
-        />
-        <Link href="/">Jess Rising</Link>
-      </li>
-      {HEADER_LINKS.map(({ title, url }) => (
-        <li key={url}>
-          <Link href={url}>{title}</Link>
+export const Header = ({ contentArea }: IHeaderProps) => {
+  let breakpoints = "max-w-screen-sm md:max-w-screen-md";
+  if (contentArea === "photo") {
+    breakpoints = "md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl";
+  }
+  if (contentArea === "gallery") {
+    breakpoints =
+      "max-w-grid-1 px-2 grid-2:max-w-grid-2 grid-3:max-w-grid-3 grid-4:max-w-grid-4";
+  }
+
+  return (
+    <header className="w-full bg-rising-600 text-2xl">
+      <ul
+        className={`mx-auto flex flex-row items-center gap-4 p-2 ${breakpoints}`}
+      >
+        <li>
+          <Image
+            alt="Photo of Jess Rising"
+            className="rounded-full"
+            src="/avatar.jpeg"
+            height="64"
+            width="64"
+          />
         </li>
-      ))}
-    </ul>
-  </header>
-);
+        <li className="grow">
+          <Link
+            className="text-mono-900 no-underline visited:text-mono-900 hover:underline"
+            href="/"
+          >
+            Jess Rising
+          </Link>
+        </li>
+        {HEADER_LINKS.map(({ title, url }) => (
+          <li key={url}>
+            <Link
+              className="text-mono-900 no-underline visited:text-mono-900 hover:underline"
+              href={url}
+            >
+              {title}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </header>
+  );
+};

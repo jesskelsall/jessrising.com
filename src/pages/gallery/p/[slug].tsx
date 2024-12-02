@@ -3,9 +3,7 @@ import Head from "next/head";
 import { ParsedUrlQuery } from "querystring";
 import { GalleryPhoto as GalleryPhotoComponent } from "../../../components/GalleryPhoto";
 import { TContentArea } from "../../../components/Header";
-import { Newsletter } from "../../../components/Newsletter";
 import { OpenGraphHeaders } from "../../../components/OpenGraphHeaders";
-import { CONFIG } from "../../../consts/config";
 import { GalleryPhotoContext } from "../../../context/galleryPhoto";
 import { GalleryPhotoSlugsContext } from "../../../context/galleryPhotoSlugs";
 import {
@@ -82,7 +80,6 @@ const GalleryPhotoPage: NextPage<IProps> = ({
           <GalleryPhotoComponent />
         </GalleryPhotoContext.Provider>
       </GalleryPhotoSlugsContext.Provider>
-      {CONFIG.SHOW_NEWSLETTER_SIGN_UP && <Newsletter />}
     </>
   );
 };

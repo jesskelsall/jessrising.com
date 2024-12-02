@@ -1,6 +1,5 @@
 import { kebabCase } from "lodash/fp";
 import { DateTime } from "luxon";
-import Link from "next/link";
 import { APP_AUTHOR } from "../consts/app";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { SEPARATOR } from "../consts/text";
@@ -13,6 +12,8 @@ import { getLocationHierarchy } from "../functions/locationsDict";
 import { stripSlugDateSuffix } from "../functions/slug";
 import { pluralise } from "../functions/title";
 import { TagTitle } from "../types/tag";
+import { BlogListItem, BlogUnorderedList } from "./BlogList";
+import { LinkButton } from "./LinkButton";
 import { MarkdownGPS } from "./MarkdownGPS";
 import { MarkdownLocations } from "./MarkdownLocations";
 import { MarkdownTags } from "./MarkdownTags";
@@ -49,15 +50,15 @@ export const GalleryHeading = () => {
   return (
     <>
       <h1>{title}</h1>
-      <ul>
+      <BlogUnorderedList>
         {date && (
-          <li>
+          <BlogListItem>
             Taken:{" "}
             {date.toLocaleString({
               ...DateTime.DATETIME_FULL,
               timeZoneName: undefined,
             })}
-          </li>
+          </BlogListItem>
         )}
         {meta.location && (
           <MarkdownLocations locations={getLocationHierarchy(meta.location)} />
@@ -65,10 +66,10 @@ export const GalleryHeading = () => {
         {meta.gps && <MarkdownGPS gps={meta.gps} />}
         {meta.tags && <MarkdownTags tags={meta.tags} />}
         {meta.trip && <MarkdownTrip trip={allTripsDict[meta.trip]} />}
-        {camera && <li>Camera: {camera.name}</li>}
-        {camera?.lens && <li>Lens: {camera?.lens}</li>}
+        {camera && <BlogListItem>Camera: {camera.name}</BlogListItem>}
+        {camera?.lens && <BlogListItem>Lens: {camera?.lens}</BlogListItem>}
         {camera?.settings && (
-          <li>
+          <BlogListItem>
             {"Settings: "}
             {[
               renderSetting(
@@ -87,9 +88,9 @@ export const GalleryHeading = () => {
             ]
               .filter((setting) => setting)
               .join(SEPARATOR)}
-          </li>
+          </BlogListItem>
         )}
-      </ul>
+      </BlogUnorderedList>
       {matchingTitlesCount > 0 && (
         <p>
           <Pill
@@ -103,12 +104,12 @@ export const GalleryHeading = () => {
         </p>
       )}
       {settings?.downloadOriginal && (
-        <Link className="button" href={originalImagePath}>
+        <LinkButton href={originalImagePath}>
           Download high resolution photo
-        </Link>
+        </LinkButton>
       )}
       {hasForYouTag && (
-        <p className="disclaimer">
+        <p className="italic">
           Photo by {APP_AUTHOR}. Free to use in any way. If using this photo
           commercially, please credit by name.
         </p>
