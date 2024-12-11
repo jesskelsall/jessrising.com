@@ -15,7 +15,9 @@ import { Pill } from "./Pill";
 
 const Row = ({ children, label }: { label: string } & PropsWithChildren) => (
   <tr className="odd:bg-mono-800 dark:odd:bg-mono-100">
-    <td className="p-2 pr-6 font-sans-bold font-bold md:pr-10">{label}</td>
+    <td className="max-w-20 p-2 pr-6 font-sans-bold font-bold md:pr-10">
+      {label}
+    </td>
     <td className="p-2">{children}</td>
   </tr>
 );
@@ -45,7 +47,7 @@ export const GalleryPhotoDetails = () => {
 
   return (
     <>
-      <table className="mx-[-8px] md:mx-0">
+      <table className="mx-[-8px] w-full md:mx-0">
         <tbody>
           {date && (
             <Row label="Taken">
