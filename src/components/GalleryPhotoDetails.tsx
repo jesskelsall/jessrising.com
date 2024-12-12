@@ -73,7 +73,7 @@ export const GalleryPhotoDetails = () => {
               <MarkdownLocations location={meta.location} />
             </Row>
           )}
-          {meta.tags.length > 1 && (
+          {meta.tags.length > 0 && (
             <Row label="Tags">
               <MarkdownTags tags={meta.tags} />
             </Row>
