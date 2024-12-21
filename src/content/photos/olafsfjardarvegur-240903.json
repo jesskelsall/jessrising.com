@@ -1,0 +1,30 @@
+{
+  "title": "Ólafsfjarðarvegur",
+  "meta": {
+    "location": "Norðurland eystra",
+    "tags": [
+      "Landscape",
+      "Road",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-03T19:13:44.000+01:00",
+    "dimensions": {
+      "height": 5054,
+      "width": 7581
+    }
+  }
+}

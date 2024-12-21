@@ -1,0 +1,29 @@
+{
+  "title": "Holtastaðir Church",
+  "meta": {
+    "location": "Norðurland vestra",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 51,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-03T13:54:19.000+01:00",
+    "dimensions": {
+      "height": 6005,
+      "width": 9009
+    }
+  }
+}

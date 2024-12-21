@@ -746,9 +746,14 @@ export const locationHierarchy: LocationHierarchy = {
   },
   "🇮🇸 Iceland": {
     "🗺️ Austurland": {},
-    "🗺️ Norðurland vestra": {},
+    "🗺️ Norðurland vestra": {
+      Flóðið: {},
+      Grafarkirkja: {},
+      Kolugljúfur: {},
+    },
     "🗺️ Norðurland eystra": {
       "🏙️ Akureyri": {},
+      Siglufjörður: {},
     },
     "🏙️ Reykjavík": {
       Perlan: {},

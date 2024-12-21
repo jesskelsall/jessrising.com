@@ -1,0 +1,29 @@
+{
+  "title": "Siglufjörður Höfn from Below",
+  "meta": {
+    "location": "Siglufjörður",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 32,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-03T18:19:41.000+01:00",
+    "dimensions": {
+      "height": 6097,
+      "width": 9145
+    }
+  }
+}

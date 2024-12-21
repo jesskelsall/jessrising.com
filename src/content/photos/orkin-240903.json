@@ -1,0 +1,29 @@
+{
+  "title": "Örkin",
+  "meta": {
+    "location": "Siglufjörður",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 52,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-03T18:27:05.000+01:00",
+    "dimensions": {
+      "height": 6073,
+      "width": 9109
+    }
+  }
+}

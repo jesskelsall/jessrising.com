@@ -1,0 +1,28 @@
+{
+  "title": "Grafarkirkja from the Gate",
+  "meta": {
+    "location": "Grafarkirkja",
+    "tags": [
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 28,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-03T16:24:08.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9456
+    }
+  }
+}
