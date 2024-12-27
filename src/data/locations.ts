@@ -757,6 +757,7 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🏙️ Reykjavík": {
       Perlan: {},
+      Skólavörðustígur: {},
     },
     "🗺️ Suðurland": {
       "Golden Circle": {
@@ -805,6 +806,7 @@ export const locationHierarchy: LocationHierarchy = {
           Hellissandur: {},
           Kirkjufell: {},
           Ólafsvík: {},
+          Stykkishólmur: {},
         },
         "Snæfellsnes South Coast": {
           Arnarstapi: {},

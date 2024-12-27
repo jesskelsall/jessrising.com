@@ -1,0 +1,29 @@
+{
+  "title": "Snæfellsnesvegur",
+  "meta": {
+    "location": "Snæfellsnes North Coast",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-01T13:52:05.000+01:00",
+    "dimensions": {
+      "height": 5477,
+      "width": 8215
+    }
+  }
+}

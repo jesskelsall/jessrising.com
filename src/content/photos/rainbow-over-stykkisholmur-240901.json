@@ -1,0 +1,30 @@
+{
+  "title": "Rainbow Over Stykkishólmur",
+  "meta": {
+    "location": "Stykkishólmur",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Rainbow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.0015625,
+        "focalLength": 65,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-01T15:13:11.000+01:00",
+    "dimensions": {
+      "height": 6001,
+      "width": 9001
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Breiðabólsstaðarkirkja",
+  "meta": {
+    "location": "Snæfellsnes North Coast",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-01T16:16:21.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9460
+    }
+  }
+}

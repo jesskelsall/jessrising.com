@@ -1,0 +1,31 @@
+{
+  "title": "Skólavörðustígur Regnbogagatan",
+  "meta": {
+    "location": "Skólavörðustígur",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "People",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 148,
+        "fStop": 5,
+        "ISO": 400
+      }
+    },
+    "date": "2024-09-01T09:08:25.000+01:00",
+    "dimensions": {
+      "height": 6193,
+      "width": 9289
+    }
+  }
+}
