@@ -1,0 +1,29 @@
+{
+  "title": "Ásbyrgi Forest",
+  "meta": {
+    "location": "Ásbyrgi",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.00625,
+        "focalLength": 28,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-05T10:50:00.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

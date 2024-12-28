@@ -1,0 +1,29 @@
+{
+  "title": "Ásbyrgi Eyjan",
+  "meta": {
+    "location": "Ásbyrgi",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0015625,
+        "focalLength": 61,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-05T11:18:23.000+01:00",
+    "dimensions": {
+      "height": 5959,
+      "width": 8938
+    }
+  }
+}

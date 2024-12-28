@@ -758,6 +758,12 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🗺️ Norðurland eystra": {
       "🏙️ Akureyri": {},
+      "🗺️ Norðurþing": {
+        "Jökulsá á Fjöllum": {
+          Ásbyrgi: {},
+          Dettifoss: {},
+        },
+      },
       Siglufjörður: {},
       "🗺️ Þingeyjarsveit": {
         "Námafjall Hverir": {},

@@ -1,0 +1,28 @@
+{
+  "title": "Rauðhólar and Hafrafell",
+  "meta": {
+    "location": "Jökulsá á Fjöllum",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 158,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-05T10:06:45.000+01:00",
+    "dimensions": {
+      "height": 6101,
+      "width": 9152
+    }
+  }
+}
