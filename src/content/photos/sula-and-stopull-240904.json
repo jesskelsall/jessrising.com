@@ -1,0 +1,29 @@
+{
+  "title": "Súla and Stöpull",
+  "meta": {
+    "location": "Route 925",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.004,
+        "focalLength": 154,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T15:06:56.000+01:00",
+    "dimensions": {
+      "height": 5943,
+      "width": 8914
+    }
+  }
+}

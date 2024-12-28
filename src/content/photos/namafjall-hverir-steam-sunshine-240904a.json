@@ -1,0 +1,28 @@
+{
+  "title": "Námafjall Hverir Steam Sunshine",
+  "meta": {
+    "location": "Námafjall Hverir",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0005,
+        "focalLength": 54,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T06:26:52.000+01:00",
+    "dimensions": {
+      "height": 5262,
+      "width": 7893
+    }
+  }
+}

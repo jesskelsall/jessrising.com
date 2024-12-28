@@ -1,0 +1,29 @@
+{
+  "title": "Stuðlagil Sightseeing",
+  "meta": {
+    "location": "Stuðlagil",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 44,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T09:35:58.000+01:00",
+    "dimensions": {
+      "height": 5478,
+      "width": 8218
+    }
+  }
+}

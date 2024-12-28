@@ -1,0 +1,29 @@
+{
+  "title": "Kirkjubæjarkirkja",
+  "meta": {
+    "location": "Route 925",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 59,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T15:33:30.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

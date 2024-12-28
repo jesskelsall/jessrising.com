@@ -1,0 +1,29 @@
+{
+  "title": "Akureyri from Across Eyjafjörður",
+  "meta": {
+    "location": "Akureyri",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 6,
+        "focalLength": 146,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T04:57:33.000+01:00",
+    "dimensions": {
+      "height": 5829,
+      "width": 8743
+    }
+  }
+}

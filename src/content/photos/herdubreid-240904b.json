@@ -1,0 +1,28 @@
+{
+  "title": "Herðubreið",
+  "meta": {
+    "location": "Svartfell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T17:00:37.000+01:00",
+    "dimensions": {
+      "height": 5361,
+      "width": 8042
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Seyðisfjörður from Tvísöngur",
+  "meta": {
+    "location": "Seyðisfjörður",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 38,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-04T12:35:23.000+01:00",
+    "dimensions": {
+      "height": 5849,
+      "width": 8773
+    }
+  }
+}
