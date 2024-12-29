@@ -7,14 +7,9 @@
       "Snow",
       "Sunrise/Sunset"
     ],
-    "trip": null
+    "trip": "2024-08-24-iceland"
   },
   "exif": {
-    "date": "2024-08-25T20:26:01.000+01:00",
-    "dimensions": {
-      "height": 5158,
-      "width": 7737
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -25,6 +20,11 @@
         "fStop": 5.6,
         "ISO": 500
       }
+    },
+    "date": "2024-08-25T20:26:01.000+01:00",
+    "dimensions": {
+      "height": 5158,
+      "width": 7737
     }
   }
 }

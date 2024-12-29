@@ -6,14 +6,9 @@
       "Landscape",
       "Waterfall"
     ],
-    "trip": null
+    "trip": "2024-08-24-iceland"
   },
   "exif": {
-    "date": "2024-08-29T13:21:52.000+01:00",
-    "dimensions": {
-      "height": 6306,
-      "width": 9459
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -24,6 +19,11 @@
         "fStop": 5.6,
         "ISO": 100
       }
+    },
+    "date": "2024-08-29T13:21:52.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
     }
   }
 }

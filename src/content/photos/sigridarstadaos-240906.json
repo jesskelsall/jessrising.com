@@ -1,0 +1,29 @@
+{
+  "title": "Sigríðarstaðaós",
+  "meta": {
+    "location": "Hvítserkur",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2024-08-24-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-06T09:00:34.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

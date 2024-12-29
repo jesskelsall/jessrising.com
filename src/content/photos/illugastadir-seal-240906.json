@@ -1,0 +1,26 @@
+{
+  "title": "Illugastaðir Seal",
+  "meta": {
+    "location": "Route 711",
+    "tags": [],
+    "trip": "2024-08-24-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.003125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 1000
+      }
+    },
+    "date": "2024-09-06T09:54:22.000+01:00",
+    "dimensions": {
+      "height": 4563,
+      "width": 6844
+    }
+  }
+}

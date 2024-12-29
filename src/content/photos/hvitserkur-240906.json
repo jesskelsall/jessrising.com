@@ -1,0 +1,29 @@
+{
+  "title": "Hvítserkur",
+  "meta": {
+    "location": "Hvítserkur",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2024-08-24-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-06T08:58:40.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    }
+  }
+}

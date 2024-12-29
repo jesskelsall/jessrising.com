@@ -1,0 +1,28 @@
+{
+  "title": "Grábrók Crater",
+  "meta": {
+    "location": "Grábrók",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-08-24-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 49,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-09-06T12:19:26.000+01:00",
+    "dimensions": {
+      "height": 5374,
+      "width": 8061
+    }
+  }
+}

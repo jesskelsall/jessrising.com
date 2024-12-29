@@ -753,7 +753,12 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🗺️ Norðurland vestra": {
       Flóðið: {},
-      Grafarkirkja: {},
+      "🚗 Route 76": {
+        Grafarkirkja: {},
+      },
+      "🚗 Route 711": {
+        Hvítserkur: {},
+      },
       Kolugljúfur: {},
     },
     "🗺️ Norðurland eystra": {
@@ -815,6 +820,7 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🗺️ Suðurnes": {},
     "🗺️ Vesturland": {
+      Grábrók: {},
       Snæfellsnes: {
         "Snæfellsnes North Coast": {
           Hellissandur: {},
