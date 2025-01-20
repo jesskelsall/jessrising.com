@@ -1,0 +1,28 @@
+{
+  "title": "Miradouro de São Pedro de Alcântara",
+  "meta": {
+    "location": "Miradouro de São Pedro de Alcântara",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-11T13:23:40.000+00:00",
+    "dimensions": {
+      "height": 5654,
+      "width": 8481
+    }
+  }
+}

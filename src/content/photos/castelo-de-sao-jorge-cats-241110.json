@@ -1,0 +1,26 @@
+{
+  "title": "Castelo de São Jorge Cats",
+  "meta": {
+    "location": "Castelo de São Jorge",
+    "tags": [],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-10T09:58:40.000+00:00",
+    "dimensions": {
+      "height": 5369,
+      "width": 8054
+    }
+  }
+}

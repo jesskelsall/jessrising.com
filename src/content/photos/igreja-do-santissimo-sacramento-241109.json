@@ -1,0 +1,29 @@
+{
+  "title": "Igreja do Santíssimo Sacramento",
+  "meta": {
+    "location": "Baixa",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 29,
+        "fStop": 3.5,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-09T15:08:22.000+00:00",
+    "dimensions": {
+      "height": 6162,
+      "width": 9243
+    }
+  }
+}

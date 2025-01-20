@@ -1,0 +1,29 @@
+{
+  "title": "Big Raccoon by Bordalo II",
+  "meta": {
+    "location": "Belém",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 60,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-10T13:06:16.000+00:00",
+    "dimensions": {
+      "height": 5851,
+      "width": 8776
+    }
+  }
+}

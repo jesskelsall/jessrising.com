@@ -1,0 +1,29 @@
+{
+  "title": "Igreja de Santa Maria de Belém Vaulting",
+  "meta": {
+    "location": "Igreja de Santa Maria de Belém",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 51,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-10T15:54:33.000+00:00",
+    "dimensions": {
+      "height": 6070,
+      "width": 9105
+    }
+  }
+}

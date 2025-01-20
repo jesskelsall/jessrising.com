@@ -1,0 +1,30 @@
+{
+  "title": "Igreja de Santa Maria de Belém Choir",
+  "meta": {
+    "location": "Igreja de Santa Maria de Belém",
+    "tags": [
+      "Interior",
+      "Church/Cathedral",
+      "People"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.5,
+        "focalLength": 24,
+        "fStop": 4,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-10T15:51:10.000+00:00",
+    "dimensions": {
+      "height": 6270,
+      "width": 9405
+    }
+  }
+}

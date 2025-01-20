@@ -1,0 +1,29 @@
+{
+  "title": "Igreja de Santa Catarina Organ",
+  "meta": {
+    "location": "Igreja de Santa Catarina",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.2,
+        "focalLength": 33,
+        "fStop": 5,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-11T15:44:55.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

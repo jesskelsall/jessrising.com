@@ -1,0 +1,29 @@
+{
+  "title": "Museu Arqueológico do Carmo Stones",
+  "meta": {
+    "location": "Museu Arqueológico do Carmo",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.8,
+        "focalLength": 39,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-09T14:58:49.000+00:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Castelo de São Jorge from Miradouro da Nossa Senhora do Monte",
+  "meta": {
+    "location": "Graça",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Castle"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-10T08:28:02.000+00:00",
+    "dimensions": {
+      "height": 5845,
+      "width": 8767
+    }
+  }
+}

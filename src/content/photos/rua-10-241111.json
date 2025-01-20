@@ -1,0 +1,30 @@
+{
+  "title": "Rua 10",
+  "meta": {
+    "location": "Campolide",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Street"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2024-11-11T09:23:03.000+00:00",
+    "dimensions": {
+      "height": 5568,
+      "width": 8352
+    }
+  }
+}

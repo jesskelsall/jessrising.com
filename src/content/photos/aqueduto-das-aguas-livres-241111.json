@@ -1,0 +1,30 @@
+{
+  "title": "Aqueduto das Águas Livres",
+  "meta": {
+    "location": "Campolide",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Rail"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0015625,
+        "focalLength": 59,
+        "fStop": 7.1,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-11T09:45:11.000+00:00",
+    "dimensions": {
+      "height": 6077,
+      "width": 9115
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Rua do Espírito Santo",
+  "meta": {
+    "location": "Alfama",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 53,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-10T10:36:04.000+00:00",
+    "dimensions": {
+      "height": 6197,
+      "width": 9295
+    }
+  }
+}

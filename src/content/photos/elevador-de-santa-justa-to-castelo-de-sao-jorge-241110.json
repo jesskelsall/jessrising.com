@@ -1,0 +1,29 @@
+{
+  "title": "Elevador de Santa Justa to Castelo de São Jorge",
+  "meta": {
+    "location": "Elevador de Santa Justa",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 1,
+        "focalLength": 61,
+        "fStop": 2.8,
+        "ISO": 500
+      }
+    },
+    "date": "2024-11-10T20:43:05.000+00:00",
+    "dimensions": {
+      "height": 5737,
+      "width": 8606
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Elevador de Santa Justa",
+  "meta": {
+    "location": "Elevador de Santa Justa",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.625,
+        "focalLength": 69,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    },
+    "date": "2024-11-10T20:18:39.000+00:00",
+    "dimensions": {
+      "height": 6262,
+      "width": 9393
+    }
+  }
+}

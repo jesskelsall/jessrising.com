@@ -851,6 +851,34 @@ export const locationHierarchy: LocationHierarchy = {
       Amersfoort: {},
     },
   },
+  "🇵🇹 Portugal": {
+    "🏙️ Lisboa": {
+      Alfama: {
+        "🏰 Castelo de São Jorge": {},
+        "⛪️ Panteão Nacional": {},
+        "Portas do Sol": {},
+      },
+      "Bairro Alto": {
+        "⛪️ Igreja de Santa Catarina": {},
+        "⛪️ Igreja de São Roque": {},
+        "Miradouro de São Pedro de Alcântara": {},
+      },
+      Baixa: {
+        "Arco da Rua Augusta": {},
+        "Elevador de Santa Justa": {},
+        "Museu Arqueológico do Carmo": {},
+      },
+      Belém: {
+        "⛪️ Igreja de Santa Maria de Belém": {},
+        "⛪️ Mosteiro dos Jerónimos": {},
+        "🏰 Torre de Belém": {},
+      },
+      Campolide: {
+        "Fundação das Casas Fronteira e Alorna": {},
+      },
+      Graça: {},
+    },
+  },
   "🇸🇪 Sweden": {
     "🏝️ Gotland": {
       Visby: {

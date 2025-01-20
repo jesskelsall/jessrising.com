@@ -1,0 +1,28 @@
+{
+  "title": "Estátua de São Vicente",
+  "meta": {
+    "location": "Portas do Sol",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-10T07:37:22.000+00:00",
+    "dimensions": {
+      "height": 5707,
+      "width": 8561
+    }
+  }
+}

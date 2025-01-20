@@ -1,0 +1,28 @@
+{
+  "title": "Rua de São Domingos de Benfica Flats",
+  "meta": {
+    "location": "Campolide",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 45,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-11T10:51:35.000+00:00",
+    "dimensions": {
+      "height": 5504,
+      "width": 8256
+    }
+  }
+}

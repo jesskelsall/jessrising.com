@@ -1,0 +1,28 @@
+{
+  "title": "Praça do Comércio from Castelo de São Jorge",
+  "meta": {
+    "location": "Castelo de São Jorge",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 46,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-11-10T09:50:32.000+00:00",
+    "dimensions": {
+      "height": 5754,
+      "width": 8631
+    }
+  }
+}

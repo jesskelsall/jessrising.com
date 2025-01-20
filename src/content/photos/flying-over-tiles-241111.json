@@ -1,0 +1,28 @@
+{
+  "title": "Flying Over Tiles",
+  "meta": {
+    "location": "Campolide",
+    "tags": [
+      "Aviation"
+    ],
+    "trip": "2024-11-09-lisbon"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 67,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2024-11-11T09:37:17.000+00:00",
+    "dimensions": {
+      "height": 5959,
+      "width": 8939
+    }
+  }
+}
