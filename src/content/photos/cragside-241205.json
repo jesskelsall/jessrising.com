@@ -1,0 +1,29 @@
+{
+  "title": "Cragside",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2024-12-05-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-05T12:08:25.000+00:00",
+    "dimensions": {
+      "height": 6150,
+      "width": 9226
+    }
+  }
+}

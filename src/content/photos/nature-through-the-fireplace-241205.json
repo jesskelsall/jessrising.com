@@ -1,0 +1,28 @@
+{
+  "title": "Nature Through the Fireplace",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Interior"
+    ],
+    "trip": "2024-12-05-cragside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.625,
+        "focalLength": 24,
+        "fStop": 3.5,
+        "ISO": 640
+      }
+    },
+    "date": "2024-12-05T12:33:53.000+00:00",
+    "dimensions": {
+      "height": 6147,
+      "width": 9221
+    }
+  }
+}
