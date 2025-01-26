@@ -14,6 +14,7 @@ export const locationHierarchy: LocationHierarchy = {
         Tintagel: {},
       },
       "🗺️ County Durham": {
+        Beamish: {},
         "🏙️ Durham": {
           "Durham Cathedral": {},
         },
