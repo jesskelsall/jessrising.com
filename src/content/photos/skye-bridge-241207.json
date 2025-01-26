@@ -1,0 +1,29 @@
+{
+  "title": "Skye Bridge",
+  "meta": {
+    "location": "Kyle of Lochalsh",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 320
+      }
+    },
+    "date": "2024-12-07T15:39:19.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

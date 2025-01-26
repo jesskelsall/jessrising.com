@@ -1,0 +1,28 @@
+{
+  "title": "Talisker Campfire Bar",
+  "meta": {
+    "location": "Mingnish",
+    "tags": [
+      "Interior"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 48,
+        "fStop": 7.1,
+        "ISO": 400
+      }
+    },
+    "date": "2024-12-07T10:48:46.000+00:00",
+    "dimensions": {
+      "height": 6047,
+      "width": 9071
+    }
+  }
+}

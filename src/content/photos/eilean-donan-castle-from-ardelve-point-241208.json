@@ -1,0 +1,31 @@
+{
+  "title": "Eilean Donan Castle From Ardelve Point",
+  "meta": {
+    "location": "Eilean Donan Castle",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Castle",
+      "Snow"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 126,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-08T14:51:45.000+00:00",
+    "dimensions": {
+      "height": 6120,
+      "width": 9181
+    }
+  }
+}

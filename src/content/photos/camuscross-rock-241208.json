@@ -1,0 +1,30 @@
+{
+  "title": "Camuscross Rock",
+  "meta": {
+    "location": "Isleornsay",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Snow"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 61,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-08T13:12:51.000+00:00",
+    "dimensions": {
+      "height": 6298,
+      "width": 9448
+    }
+  }
+}

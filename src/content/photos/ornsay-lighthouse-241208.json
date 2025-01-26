@@ -1,0 +1,30 @@
+{
+  "title": "Ornsay Lighthouse",
+  "meta": {
+    "location": "Isleornsay",
+    "tags": [
+      "Landscape",
+      "Lighthouse",
+      "Snow"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-08T12:53:45.000+00:00",
+    "dimensions": {
+      "height": 6152,
+      "width": 9228
+    }
+  }
+}

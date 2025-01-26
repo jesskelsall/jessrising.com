@@ -1,0 +1,31 @@
+{
+  "title": "Eilean Donan Castle From Above",
+  "meta": {
+    "location": "Eilean Donan Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 61,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-08T14:59:21.000+00:00",
+    "dimensions": {
+      "height": 6191,
+      "width": 9287
+    }
+  }
+}

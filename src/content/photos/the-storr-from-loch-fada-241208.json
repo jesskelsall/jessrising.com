@@ -1,0 +1,30 @@
+{
+  "title": "The Storr From Loch Fada",
+  "meta": {
+    "location": "Loch Fada",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Loch"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 50,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-08T09:18:07.000+00:00",
+    "dimensions": {
+      "height": 4752,
+      "width": 7128
+    }
+  }
+}

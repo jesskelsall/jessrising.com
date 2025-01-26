@@ -1,12 +1,12 @@
 {
-  "title": "Road Through the Lavender",
+  "title": "The Road to Uig",
   "meta": {
     "location": "Uig",
     "tags": [
       "Landscape",
       "Road"
     ],
-    "trip": "2024-08-10-isle-of-skye"
+    "trip": "2024-12-06-isle-of-skye"
   },
   "exif": {
     "camera": {
@@ -14,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.003125,
+        "exposureTime": 0.008,
         "focalLength": 70,
-        "fStop": 4.5,
+        "fStop": 4,
         "ISO": 100
       }
     },
-    "date": "2024-08-10T09:42:54.000+01:00",
+    "date": "2024-12-08T10:48:01.000+00:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 6161,
+      "width": 9242
     }
   }
 }

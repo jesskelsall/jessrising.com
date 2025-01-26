@@ -55,7 +55,7 @@ Two staff and a volunteer rounded the tour group up before explaining the plan -
 
 The journey was steady, allowing everyone (including children) to traverse the dirt and rocky trail carefully. At the bottom of the valley, a bridge with views across the purple birch and peak beyond.
 
-<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/stream-and-snowy-peak-230107-lg.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/allt-mor-from-utsis-bridge-241130-lg.jpeg" />
 
 Rising sharply on the other side, we were met with a wire fence - the 80-kilometre fence demarcating this enclosure, currently containing mothers and calves from the latest birthing season. Further safety instructions before entering - don't touch, watch the antlers, reindeer don't have top teeth so you can't be bitten, move together and we'll soon be part of the pack!
 

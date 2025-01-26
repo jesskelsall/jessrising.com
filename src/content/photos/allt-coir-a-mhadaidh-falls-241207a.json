@@ -1,0 +1,30 @@
+{
+  "title": "Allt Coir' a' Mhadaidh Falls",
+  "meta": {
+    "location": "Fairy Pools",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.1,
+        "focalLength": 24,
+        "fStop": 5,
+        "ISO": 50
+      }
+    },
+    "date": "2024-12-07T12:34:32.000+00:00",
+    "dimensions": {
+      "height": 5525,
+      "width": 8287
+    }
+  }
+}

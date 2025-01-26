@@ -1,0 +1,32 @@
+{
+  "title": "Elgol Beach House",
+  "meta": {
+    "location": "Elgol",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast",
+      "Snow",
+      "White House"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 33,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-07T14:36:05.000+00:00",
+    "dimensions": {
+      "height": 5353,
+      "width": 8029
+    }
+  }
+}

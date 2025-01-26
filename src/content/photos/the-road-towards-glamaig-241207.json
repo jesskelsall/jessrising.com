@@ -1,0 +1,30 @@
+{
+  "title": "The Road Towards Glamaig",
+  "meta": {
+    "location": "Sligachan",
+    "tags": [
+      "Landscape",
+      "Road",
+      "Snow"
+    ],
+    "trip": "2024-12-06-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 177,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2024-12-07T13:26:00.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
