@@ -1,0 +1,29 @@
+{
+  "title": "Corrie Bank",
+  "meta": {
+    "location": "Loch Awe",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.05,
+        "focalLength": 42,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-30T14:04:48.000+00:00",
+    "dimensions": {
+      "height": 6201,
+      "width": 9302
+    }
+  }
+}

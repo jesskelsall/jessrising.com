@@ -1,0 +1,29 @@
+{
+  "title": "St Bride's Chapel Ornaments",
+  "meta": {
+    "location": "St Conan's Kirk",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 52,
+        "fStop": 4,
+        "ISO": 320
+      }
+    },
+    "date": "2024-12-30T13:31:33.000+00:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    }
+  }
+}

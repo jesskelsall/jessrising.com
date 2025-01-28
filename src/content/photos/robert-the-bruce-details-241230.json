@@ -1,0 +1,29 @@
+{
+  "title": "Robert the Bruce Details",
+  "meta": {
+    "location": "St Conan's Kirk",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.1,
+        "focalLength": 200,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2024-12-30T13:50:05.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Kilchurn Castle",
+  "meta": {
+    "location": "Kilchurn Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Clouds",
+      "Ruin"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2024-12-30T13:17:14.000+00:00",
+    "dimensions": {
+      "height": 6026,
+      "width": 9039
+    }
+  }
+}
