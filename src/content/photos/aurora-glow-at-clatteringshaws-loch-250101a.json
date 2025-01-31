@@ -1,29 +1,30 @@
 {
-  "title": "Moon Over Sea",
+  "title": "Aurora Glow at Clatteringshaws Loch",
   "meta": {
-    "location": "Seahouses",
+    "location": "Clatteringshaws Loch",
     "tags": [
       "Astro",
-      "Beach"
+      "Aurora",
+      "Loch"
     ],
     "trip": null
   },
   "exif": {
-    "date": "2023-11-01T22:17:21.000+00:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24mm F1.4 GM",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 2,
+        "exposureTime": 0.8,
         "focalLength": 24,
         "fStop": 1.4,
-        "ISO": 200
+        "ISO": 6400
       }
+    },
+    "date": "2025-01-01T21:17:38.000+00:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
     }
   }
 }

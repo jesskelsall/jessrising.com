@@ -68,6 +68,10 @@ export const cameras: Camera[] = [
         model: "Sony FE 24-70mm F2.8 II",
       },
       {
+        displayName: "Sony FE 24mm F1.4 GM",
+        model: "Sony FE 24mm F1.4",
+      },
+      {
         displayName: "Sony FE 100-400mm GM",
         model: "Sony FE 100-400mm F4.5-5.6 OSS",
       },
