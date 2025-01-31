@@ -1,30 +1,31 @@
 {
-  "title": "Lagangarbh Hut",
+  "title": "Walter Elliot's House",
   "meta": {
-    "location": "Lagangarbh",
+    "location": "Loch Achtriochtan",
     "tags": [
       "Landscape",
       "Snow",
+      "Waterfall",
       "White House"
     ],
-    "trip": "2024-01-12-kingshouse-hotel"
+    "trip": "2024-12-30-new-years-away"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
-        "exposureTime": 0.00625,
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
         "focalLength": 45,
         "fStop": 2.8,
-        "ISO": 50
+        "ISO": 100
       }
     },
-    "date": "2024-01-13T12:46:58.000+00:00",
+    "date": "2025-01-01T10:10:14.000+00:00",
     "dimensions": {
-      "height": 6304,
-      "width": 9457
+      "height": 6015,
+      "width": 9023
     }
   }
 }

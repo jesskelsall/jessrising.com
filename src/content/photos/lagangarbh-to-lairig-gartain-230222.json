@@ -1,23 +1,22 @@
 {
-  "title": "Lagangarbh Hut",
+  "title": "Lagangarbh to Lairig Gartain",
   "meta": {
     "gps": {
       "lat": 56.663977777777774,
-      "long": -4.904719444444445
+      "long": -4.904691666666667
     },
     "location": "Lagangarbh",
     "tags": [
       "Landscape",
-      "White House"
+      "Snow"
     ],
-    "trip": "2022-08-12-isle-of-skye"
+    "trip": "2023-02-18-glen-etive-schoolhouse"
   },
   "exif": {
     "camera": {
-      "name": "Apple iPhone 11 Pro Max",
-      "lens": "Telephoto Camera"
+      "name": "Apple iPhone 14 Pro Max"
     },
-    "date": "2022-08-12T11:02:57.000+01:00",
+    "date": "2023-02-22T11:44:26.000+00:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

@@ -1,9 +1,9 @@
 {
-  "title": "Lagangarbh Hut and Buachaille Etive Mòr",
+  "title": "Lagangarbh Hut and Stob Dearg",
   "meta": {
     "gps": {
-      "lat": 56.66280833333333,
-      "long": -4.902997222222223
+      "lat": 56.663977777777774,
+      "long": -4.904719444444445
     },
     "location": "Lagangarbh",
     "tags": [
@@ -15,12 +15,12 @@
   "exif": {
     "camera": {
       "name": "Apple iPhone 11 Pro Max",
-      "lens": "Main Camera"
+      "lens": "Telephoto Camera"
     },
-    "date": "2022-08-12T11:11:17.000+01:00",
+    "date": "2022-08-12T11:02:57.000+01:00",
     "dimensions": {
-      "height": 2936,
-      "width": 3915
+      "height": 3024,
+      "width": 4032
     }
   }
 }
