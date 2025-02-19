@@ -5,14 +5,9 @@
     "tags": [
       "Annual Shortlist"
     ],
-    "trip": null
+    "trip": "2024-09-28-hamburg-miniatur-wunderland"
   },
   "exif": {
-    "date": "2024-09-29T10:12:28.000+01:00",
-    "dimensions": {
-      "height": 6306,
-      "width": 9459
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
@@ -23,6 +18,11 @@
         "fStop": 5,
         "ISO": 1000
       }
+    },
+    "date": "2024-09-29T10:12:28.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
     }
   }
 }

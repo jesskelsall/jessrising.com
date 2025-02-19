@@ -5,14 +5,9 @@
     "tags": [
       "Rail"
     ],
-    "trip": null
+    "trip": "2024-09-28-hamburg-miniatur-wunderland"
   },
   "exif": {
-    "date": "2024-09-29T08:22:35.000+01:00",
-    "dimensions": {
-      "height": 5304,
-      "width": 7956
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -23,6 +18,11 @@
         "fStop": 2.8,
         "ISO": 500
       }
+    },
+    "date": "2024-09-29T08:22:35.000+01:00",
+    "dimensions": {
+      "height": 5304,
+      "width": 7956
     }
   }
 }

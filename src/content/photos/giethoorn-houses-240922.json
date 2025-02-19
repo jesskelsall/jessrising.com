@@ -7,14 +7,9 @@
       "Boat",
       "People"
     ],
-    "trip": null
+    "trip": "2024-09-21-staying-with-sheycara"
   },
   "exif": {
-    "date": "2024-09-22T12:13:31.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 7.1,
         "ISO": 100
       }
+    },
+    "date": "2024-09-22T12:13:31.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
     }
   }
 }

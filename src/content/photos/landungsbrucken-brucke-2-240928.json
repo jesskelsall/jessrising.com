@@ -7,14 +7,9 @@
       "Boat",
       "People"
     ],
-    "trip": null
+    "trip": "2024-09-28-hamburg-miniatur-wunderland"
   },
   "exif": {
-    "date": "2024-09-28T18:38:32.000+01:00",
-    "dimensions": {
-      "height": 6057,
-      "width": 9086
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -25,6 +20,11 @@
         "fStop": 4,
         "ISO": 100
       }
+    },
+    "date": "2024-09-28T18:38:32.000+01:00",
+    "dimensions": {
+      "height": 6057,
+      "width": 9086
     }
   }
 }

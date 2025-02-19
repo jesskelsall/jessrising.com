@@ -3,14 +3,9 @@
   "meta": {
     "location": "MW Italien",
     "tags": [],
-    "trip": null
+    "trip": "2024-09-28-hamburg-miniatur-wunderland"
   },
   "exif": {
-    "date": "2024-09-29T10:56:25.000+01:00",
-    "dimensions": {
-      "height": 6154,
-      "width": 9232
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
@@ -21,6 +16,11 @@
         "fStop": 8,
         "ISO": 500
       }
+    },
+    "date": "2024-09-29T10:56:25.000+01:00",
+    "dimensions": {
+      "height": 6154,
+      "width": 9232
     }
   }
 }
