@@ -1,0 +1,29 @@
+{
+  "title": "Öræfajökull from Kalfafellsstadur",
+  "meta": {
+    "location": "Hornafjörður",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 192,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-01-05T12:43:37.000+00:00",
+    "dimensions": {
+      "height": 5142,
+      "width": 7713
+    }
+  }
+}

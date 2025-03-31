@@ -792,7 +792,13 @@ export const locationHierarchy: LocationHierarchy = {
           Þingvellir: {},
         },
       },
-      "🗺️ Hornafjörður": {},
+      "🗺️ Hornafjörður": {
+        Höfn: {},
+        Vestrahorn: {
+          Almannaskarð: {},
+          Stokksnes: {},
+        },
+      },
       "🗺️ Mýrdalshreppur": {
         Dyrhólaey: {},
         Reynisfjara: {},
@@ -816,7 +822,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🏔️ Vatnajökull": {
         Öræfajökull: {},
-        Jökulsárlón: {},
+        Jökulsárlón: {
+          Breiðamerkursandur: {},
+        },
       },
     },
     "🗺️ Suðurnes": {},

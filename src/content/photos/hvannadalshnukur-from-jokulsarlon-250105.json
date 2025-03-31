@@ -1,0 +1,29 @@
+{
+  "title": "Hvannadalshnúkur from Jökulsárlón",
+  "meta": {
+    "location": "Jökulsárlón",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 152,
+        "fStop": 5,
+        "ISO": 320
+      }
+    },
+    "date": "2025-01-05T11:17:28.000+00:00",
+    "dimensions": {
+      "height": 6129,
+      "width": 9193
+    }
+  }
+}

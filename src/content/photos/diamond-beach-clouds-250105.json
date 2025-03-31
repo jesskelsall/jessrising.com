@@ -1,12 +1,12 @@
 {
-  "title": "Diamond Beach Ice",
+  "title": "Diamond Beach Clouds",
   "meta": {
     "location": "Breiðamerkursandur",
     "tags": [
       "Landscape",
-      "Beach"
+      "Clouds"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
@@ -14,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.00039999998989452437,
-        "focalLength": 58,
-        "fStop": 4.5,
-        "ISO": 200
+        "exposureTime": 0.0025,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
       }
     },
-    "date": "2024-08-25T16:21:56.000+01:00",
+    "date": "2025-01-05T10:31:17.000+00:00",
     "dimensions": {
-      "height": 6304,
-      "width": 9457
+      "height": 5505,
+      "width": 8257
     }
   }
 }

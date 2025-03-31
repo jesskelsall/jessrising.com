@@ -1,0 +1,30 @@
+{
+  "title": "Fagurhólslækur",
+  "meta": {
+    "location": "Hornafjörður",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 114,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-05T13:24:12.000+00:00",
+    "dimensions": {
+      "height": 6019,
+      "width": 9028
+    }
+  }
+}

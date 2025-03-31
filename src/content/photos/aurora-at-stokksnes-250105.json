@@ -1,0 +1,30 @@
+{
+  "title": "Aurora at Stokksnes",
+  "meta": {
+    "location": "Stokksnes",
+    "tags": [
+      "Astro",
+      "Aurora",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4 GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 2,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1600
+      }
+    },
+    "date": "2025-01-05T18:03:07.000+00:00",
+    "dimensions": {
+      "height": 6188,
+      "width": 9283
+    }
+  }
+}
