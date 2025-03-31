@@ -24,7 +24,7 @@ const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
 export const FEATURED_BLOG_POST = "2023-12-21-2023-in-a-nutshell";
-export const FEATURED_PHOTO = "";
+export const FEATURED_PHOTO = "jokulsarlon-icebergs-250105a";
 
 interface IProps {
   blogPost: IMarkdownData;
