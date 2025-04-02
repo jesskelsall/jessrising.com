@@ -1,12 +1,13 @@
 {
-  "title": "Seyðisfjörður Rainbow Street",
+  "title": "Seyðisfjarðarvegur Silence",
   "meta": {
-    "location": "Seyðisfjörður",
+    "location": "Route 93",
     "tags": [
       "Landscape",
-      "Church/Cathedral"
+      "Road",
+      "Snow"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
@@ -14,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.003125,
-        "focalLength": 40,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 48,
         "fStop": 5,
         "ISO": 100
       }
     },
-    "date": "2024-09-04T11:51:29.000+01:00",
+    "date": "2025-01-07T13:57:40.000+00:00",
     "dimensions": {
-      "height": 6007,
-      "width": 9010
+      "height": 6336,
+      "width": 9504
     }
   }
 }

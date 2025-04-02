@@ -1,0 +1,31 @@
+{
+  "title": "Seyðisfjörður Snow Plow",
+  "meta": {
+    "location": "Seyðisfjörður",
+    "tags": [
+      "Landscape",
+      "People",
+      "Snow",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 126,
+        "fStop": 5,
+        "ISO": 250
+      }
+    },
+    "date": "2025-01-07T11:46:43.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -748,7 +748,11 @@ export const locationHierarchy: LocationHierarchy = {
   "🇮🇸 Iceland": {
     "🗺️ Austurland": {
       "🚗 Route 925": {},
-      Seyðisfjörður: {},
+      Seyðisfjörður: {
+        "🚗 Route 93": {},
+        "🚗 Route 951": {},
+        "🚗 Route 952": {},
+      },
       Stuðlagil: {},
       Svartfell: {},
     },
@@ -794,6 +798,7 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Hornafjörður": {
         Höfn: {},
+        Hvalnes: {},
         Vestrahorn: {
           Almannaskarð: {},
           Stokksnes: {},

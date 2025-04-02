@@ -1,0 +1,31 @@
+{
+  "title": "Breiðdalsvík",
+  "meta": {
+    "location": "Austurland",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Snow",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.04,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-07T16:16:06.000+00:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9456
+    }
+  }
+}

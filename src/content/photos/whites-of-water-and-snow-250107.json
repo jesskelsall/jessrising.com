@@ -1,29 +1,30 @@
 {
-  "title": "Gufufoss",
+  "title": "Whites of Water and Snow",
   "meta": {
-    "location": "Route 93",
+    "location": "Route 952",
     "tags": [
       "Landscape",
+      "Snow",
       "Waterfall"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.002,
-        "focalLength": 70,
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 61,
         "fStop": 2.8,
         "ISO": 100
       }
     },
-    "date": "2024-09-04T13:26:57.000+01:00",
+    "date": "2025-01-07T12:42:55.000+00:00",
     "dimensions": {
-      "height": 6156,
-      "width": 9234
+      "height": 6336,
+      "width": 9504
     }
   }
 }

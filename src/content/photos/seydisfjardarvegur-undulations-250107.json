@@ -1,12 +1,13 @@
 {
-  "title": "Seyðisfjörður from Neðri-Staf",
+  "title": "Seyðisfjarðarvegur Undulations",
   "meta": {
     "location": "Route 93",
     "tags": [
       "Landscape",
-      "Boat"
+      "Road",
+      "Snow"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
@@ -14,16 +15,16 @@
       "lens": "Sony FE 100-400mm GM",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.003125,
-        "focalLength": 152,
-        "fStop": 5,
+        "exposureTime": 0.02,
+        "focalLength": 154,
+        "fStop": 5.6,
         "ISO": 100
       }
     },
-    "date": "2024-09-04T13:42:48.000+01:00",
+    "date": "2025-01-07T13:57:41.000+00:00",
     "dimensions": {
-      "height": 5944,
-      "width": 8916
+      "height": 6124,
+      "width": 9186
     }
   }
 }

@@ -1,0 +1,30 @@
+{
+  "title": "FV Jóna Eðvalds",
+  "meta": {
+    "location": "Höfn",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 156,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-06T11:44:09.000+00:00",
+    "dimensions": {
+      "height": 5818,
+      "width": 8727
+    }
+  }
+}

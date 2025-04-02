@@ -1,0 +1,30 @@
+{
+  "title": "FV Sigurður Ólafsson",
+  "meta": {
+    "location": "Höfn",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 135,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-06T11:43:35.000+00:00",
+    "dimensions": {
+      "height": 6122,
+      "width": 9183
+    }
+  }
+}
