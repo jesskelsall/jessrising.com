@@ -8,6 +8,7 @@ import { GalleryPhoto, GalleryPhotoData } from "../types/galleryPhoto";
 import { LocationTitle } from "../types/location";
 import { Tag, TagsDict } from "../types/tag";
 import { dateFromEXIFString } from "./date";
+import { getLocationHierarchy } from "./locationsDict";
 
 /**
  * Parses a file name into a photo title
@@ -205,15 +206,28 @@ export const parsePhoto = ({
 /**
  * Determine if a photo should be shown based on its show/hide settings
  * Shown by default
+ * Photos are always shown when filtered to their exact location
  * hidePhotos: true can hide photos, but can be overriden by showPhoto: true setting
  */
-export const isPhotoShown = (
-  tagsDict: TagsDict,
-  appliedTagSlugs: string[],
-  photo: GalleryPhoto
-): boolean => {
+export const isPhotoShown = ({
+  appliedLocationSlug,
+  appliedTagSlugs,
+  photo,
+  tagsDict,
+}: {
+  appliedLocationSlug: string | null;
+  appliedTagSlugs: string[];
+  photo: GalleryPhoto;
+  tagsDict: TagsDict;
+}): boolean => {
   // hidePhotos: true overrides all other settings
   if (photo.settings?.showPhoto) return true;
+
+  // Show if the location is exact
+  if (appliedLocationSlug) {
+    const locationHierarchy = getLocationHierarchy(photo.meta.location);
+    if (locationHierarchy[0].slug === appliedLocationSlug) return true;
+  }
 
   const hidePhotoTagsOnPhoto = photo.meta.tags.reduce<Tag[]>(
     (tags, tagTitle) => {

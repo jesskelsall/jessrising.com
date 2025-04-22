@@ -1,3 +1,4 @@
+import { isPhotoShown } from "@/functions/photo";
 import _, { kebabCase } from "lodash/fp";
 import { DateTime } from "luxon";
 import { GetServerSideProps, NextPage } from "next";
@@ -16,7 +17,6 @@ import {
   queryParamToIntegers,
   queryParamToStrings,
 } from "../../functions/params";
-import { isPhotoShown } from "../../functions/photo";
 import { stripSlugDateSuffix } from "../../functions/slug";
 import { sortGalleryPhotosByDate } from "../../functions/sort";
 import { pluralise, titleCase } from "../../functions/title";
@@ -34,11 +34,12 @@ interface IPagination {
 interface IProps {
   contentArea: TContentArea;
   galleryPhotos: GalleryPhoto[];
-  locations: string[];
+  location: string | null;
   month: number | null;
   order: TOrder;
   pagination: IPagination;
   query: IGalleryQuery;
+  strict: boolean;
   tags: TagTitle[];
   title: string | null;
   trips: TripSlug[];
@@ -54,7 +55,7 @@ export const getServerSideProps: GetServerSideProps<
   const query = context.query as IGalleryQuery;
 
   let page = queryParamToIntegers(query.page)[0] || 1;
-  const locations = queryParamToStrings(query.location);
+  const location = queryParamToStrings(query.location)[0] || null;
   const strict = queryParamToStrings(query.strict).length > 0;
   const tags = queryParamToStrings(query.tag).map((tag) => TagTitle.parse(tag));
   const title = queryParamToStrings(query.title)[0] || null;
@@ -79,12 +80,12 @@ export const getServerSideProps: GetServerSideProps<
 
   const filters: TModelFilter<GalleryPhoto>[] = [];
 
-  if (locations.length) {
+  if (location) {
     filters.push([
-      locations,
+      [location],
       (photo) => {
         const locationSlugs = getLocationHierarchy(photo.meta.location).map(
-          (location) => location.slug
+          (loc) => loc.slug
         );
         return strict ? locationSlugs.slice(0, 1) : locationSlugs;
       },
@@ -124,9 +125,18 @@ export const getServerSideProps: GetServerSideProps<
     ]);
   }
 
+  // TODO always show a photo
+
   filters.push([
     [true],
-    (photo) => [isPhotoShown(tagsDict, tags || [], photo)],
+    (photo) => [
+      isPhotoShown({
+        appliedLocationSlug: location,
+        appliedTagSlugs: tags || [],
+        photo,
+        tagsDict,
+      }),
+    ],
   ]);
 
   const filteredPhotos = applyFilterQueries<GalleryPhoto>(
@@ -145,7 +155,7 @@ export const getServerSideProps: GetServerSideProps<
     props: {
       contentArea: "gallery",
       galleryPhotos: galleryPage,
-      locations,
+      location,
       month,
       order,
       pagination: {
@@ -154,6 +164,7 @@ export const getServerSideProps: GetServerSideProps<
         total: filteredPhotos.length,
       },
       query,
+      strict,
       tags,
       title,
       trips,
@@ -164,11 +175,12 @@ export const getServerSideProps: GetServerSideProps<
 
 const GalleryPage: NextPage<IProps> = ({
   galleryPhotos,
-  locations,
+  location,
   month,
   order,
   pagination,
   query,
+  strict,
   tags,
   title,
   trips,
@@ -217,7 +229,12 @@ const GalleryPage: NextPage<IProps> = ({
             {title && (
               <h2>Title: {galleryPhotos[0]?.title || titleCase(title)}</h2>
             )}
-            {showFilter(locations.map(titleCase), "Location", "Locations")}
+            {location && (
+              <h2>
+                Location: {titleCase(location)}
+                {strict && " (only)"}
+              </h2>
+            )}
             {showFilter(tags.map(titleCase), "Tag", "Tags")}
             {showFilter(displayTrips, "Trip", "Trips")}
             {(month || year) && (
