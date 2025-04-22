@@ -55,6 +55,7 @@ export const getServerSideProps: GetServerSideProps<
 
   let page = queryParamToIntegers(query.page)[0] || 1;
   const locations = queryParamToStrings(query.location);
+  const strict = queryParamToStrings(query.strict).length > 0;
   const tags = queryParamToStrings(query.tag).map((tag) => TagTitle.parse(tag));
   const title = queryParamToStrings(query.title)[0] || null;
   const trips = queryParamToStrings(query.trip).map((trip) =>
@@ -81,10 +82,12 @@ export const getServerSideProps: GetServerSideProps<
   if (locations.length) {
     filters.push([
       locations,
-      (photo) =>
-        getLocationHierarchy(photo.meta.location).map(
+      (photo) => {
+        const locationSlugs = getLocationHierarchy(photo.meta.location).map(
           (location) => location.slug
-        ),
+        );
+        return strict ? locationSlugs.slice(0, 1) : locationSlugs;
+      },
     ]);
   }
   if (tags.length) {
