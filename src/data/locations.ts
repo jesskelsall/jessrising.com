@@ -27,171 +27,258 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Cumbria": {
         Brampton: {},
         "🏞️ Lake District": {
-          "Lakes Central": {
-            Lodore: {},
+          "📒 Central Fells": {
+            "🪨 Castlerigg Stone Circle": {},
+            Borrowdale: {
+              "⛰️ Castle Crag": {},
+              "🏘️ Seathwaite": {},
+            },
+            "Grasmere to Loughrigg": {
+              "🏘️ Grasmere Village": {},
+              "Rydal Cave": {},
+              "White Moss Common": {},
+            },
+            "💧 Derwent Water": {},
           },
-          "Lakes East": {
+          "📒 Eastern Fells": {
+            "🏘️ Glenridding": {},
+            "Kirkstone Pass": {},
             Matterdale: {
-              "Great Mell Fell": {},
+              "💦 Aira Force": {},
+              "⛰️ Gowbarrow Fell": {},
+              "⛰️ Great Mell Fell": {},
             },
+            "Rydal Fell": {
+              "⛰️ Dove Crag": {},
+              "⛰️ Fairfield": {},
+              "⛰️ Great Rigg": {},
+              "⛰️ Hart Crag": {},
+              "⛰️ Heron Pike": {},
+              "⛰️ High Pike (Scandale)": {},
+              "⛰️ Low Pike": {},
+              "⛰️ Nab Scar": {},
+            },
+            "💧 Ullswater": {},
           },
-          "Lakes Far East": {
-            "Bampton Common": {},
-            "Haweswater Reservoir": {},
-            "High Street": {},
+          "📒 Far Eastern Fells": {
+            "Bampton Common": {
+              "⛰️ Arthur's Pike": {},
+              "⛰️ Bonscale Pike": {},
+              "⛰️ Loadpot Hill": {},
+              "⛰️ Wether Hill": {},
+            },
+            "High Street Ridge": {
+              "⛰️ High Raise (Martindale)": {},
+              "⛰️ High Street": {},
+              "⛰️ Rampsgill Head": {},
+              "⛰️ The Knott": {},
+            },
             "Martindale Common": {
-              "Beda Fell": {},
-              "Bonscale Pike": {},
-              "Kidsty Pike": {},
-              "Place Fell": {},
+              "⛰️ Beda Fell": {},
+              "⛰️ Place Fell": {},
+              "⛰️ Steel Knotts": {},
+            },
+            Riggindale: {
+              "⛰️ Kidsty Pike": {},
               "Rough Crag": {},
-              "Steel Knotts": {},
             },
           },
-          "Lakes North": {
-            Blencathra: {
+          "📒 Northern Fells": {
+            Bannerdale: {
+              "⛰️ Bannerdale Crags": {},
+              "⛰️ Bowscale Fell": {},
+              "⛰️ Souther Fell": {},
+            },
+            "Blencathra Fells": {
+              "⛰️ Blencathra": {},
               "Blease Fell": {},
+              "⛰️ Mungrisdale Common": {},
             },
             "Caldbeck Fells": {
-              "Carrock Fell": {},
-              "Great Calva": {},
+              "⛰️ Carrock Fell": {},
+              "⛰️ Great Calva": {},
+              "⛰️ Knott": {},
+              "⛰️ High Pike (Caldbeck)": {},
             },
-            "Dodd Wood": {
-              "Longside Edge": {},
-              "White Stones": {},
+            "🌲 Dodd Wood": {
+              "⛰️ Dodd": {},
             },
-            Mungrisdale: {
-              "Bannerdale Crags": {},
+            "⛰️ Latrigg": {},
+            "Skiddaw Fells": {
+              "⛰️ Bakestall": {},
+              "Longside Edge Ridge": {
+                "⛰️ Carl Side": {},
+                "⛰️ Longside Edge": {},
+                "⛰️ Ullock Pike": {},
+                "White Stones": {},
+              },
+              "⛰️ Lonscale Fell": {},
+              "⛰️ Skiddaw Little Man": {},
+              "⛰️ Skiddaw": {},
             },
-            "Skiddaw Forest": {
-              Latrigg: {},
-              "Lonscale Fell": {},
-              Skiddaw: {},
-            },
-            "Uldale Fells": {},
-          },
-          "Lakes Northwest": {
-            "Lorton Fells": {
-              Whinlatter: {},
-            },
-            "Whinlatter Forest": {},
-          },
-          "Lakes South": {
-            Ambleside: {},
-            Grasmere: {},
-            "Rydal Fells": {
-              Fairfield: {},
-              "Hart Crag": {},
-              "Low Pike": {},
+            "Uldale Fells": {
+              "⛰️ Binsey": {},
+              "⛰️ Brae Fell": {},
+              "⛰️ Great Cockup": {},
+              "⛰️ Great Sca Fell": {},
+              "⛰️ Longlands Fell": {},
+              "⛰️ Meal Fell": {},
             },
           },
-          "Bassenthwaite Lake": {
-            Wythop: {},
-          },
-          "Birker Fell": {},
-          Borrowdale: {
-            "Castle Crag": {},
-            Seathwaite: {
-              "Base Brown": {},
-              "Sty Head": {},
-            },
-          },
-          Buttermere: {
-            "Buttermere Fell": {
-              Haystacks: {},
-              "High Crag": {},
-              "High Stile": {},
-              "Scarth Gap Pass": {},
-            },
-          },
-          "Coniston Water": {
-            Coniston: {
-              "The Old Man of Coniston": {},
-              "Yew Tree Farm": {},
-            },
-          },
-          "Copeland Forest": {
-            Buckbarrow: {},
-            "Dore Head": {},
-            "Middle Fell": {},
-          },
-          "Crummock Water": {
-            "Brackenthwaite Fell": {
-              "Crag Hill": {},
-              Grasmoor: {},
-              "Hopegill Head": {},
-              Whiteside: {},
-            },
-            Mellbreak: {},
-            "Rannerdale Knotts": {},
-            "Scale Beck": {},
-          },
-          "Derwent Water": {
+          "📒 Northwestern Fells": {
+            "💧 Crummock Water": {},
             "Derwent Fells": {
-              "Ard Crags": {},
-              Barrow: {},
-              "Cat Bells": {},
-              "Dale Head": {},
-              "Grisedale Pike": {},
-              "Knott Rigg": {},
-              "Maiden Moor": {},
-              Robinson: {},
-              Sail: {},
+              "⛰️ Cat Bells": {},
+              "⛰️ Dale Head": {},
+              "⛰️ High Spy": {},
+              "⛰️ Hindscarth": {},
+              "⛰️ Maiden Moor": {},
+              "💦 Moss Force": {},
+              "⛰️ Robinson": {},
             },
-            Newlands: {},
-          },
-          "Ennerdale Water": {
-            "Ennerdale Fell": {
-              "Caw Fell": {},
-              "Scoat Fell": {},
-              Steeple: {},
-            },
-            "Ennerdale Forest": {},
-            "Gale Fell": {
-              "Great Borne": {},
-              Herdus: {},
-            },
-          },
-          Eskdale: {
-            "Hardknott Pass": {},
-            "Lingcove Beck": {},
-          },
-          Fleetwith: {
-            Brandreth: {},
-            "Fleetwith Pike": {},
-            "Grey Knotts": {},
-          },
-          Keswick: {
-            "Castlerigg Stone Circle": {},
-          },
-          "Kirkstone Pass": {},
-          Loweswater: {
-            Fellbarrow: {},
-            "Holme Wood": {},
-            "Low Fell": {},
-            "Loweswater Fell": {
-              "Burnbank Fell": {},
-              "Hen Comb": {},
-            },
-          },
-          Rydal: {
-            "Rydal Cave": {},
-          },
-          Ullswater: {
-            "Aira Force": {},
-            Glenridding: {},
-          },
-          "Wast Water": {
-            "Eskdale Fell": {},
-            "Wasdale Head": {
-              "Great Gable": {},
-              Mosedale: {
-                Pillar: {},
+            "Grasmoor Fells": {
+              "Grasmoor Massiff": {
+                "⛰️ Crag Hill": {},
+                "⛰️ Grasmoor": {},
+                "⛰️ Sail": {},
+                "⛰️ Wandope": {},
+                "⛰️ Whiteless Pike": {},
+              },
+              "Hopegill Head Ridge": {
+                "⛰️ Grisedale Pike": {},
+                "⛰️ Hopegill Head": {},
+                "⛰️ Whiteside": {},
+              },
+              "Keskdale Fells": {
+                "⛰️ Ard Crags": {},
+                "⛰️ Knott Rigg": {},
+              },
+              "Stoneycroft Fells": {
+                "⛰️ Barrow": {},
+                "⛰️ Causey Pike": {},
+                "⛰️ Outerside": {},
+                "⛰️ Scar Crags": {},
               },
             },
-            Yewbarrow: {},
+            Lingholm: {},
+            "Lorton Fells": {
+              "⛰️ Barf": {},
+              "⛰️ Broom Fell": {},
+              "⛰️ Graystones": {},
+              "⛰️ Lord's Seat": {},
+              "⛰️ Whinlatter": {},
+            },
+            Newlands: {},
+            Rannerdale: {
+              "⛰️ Rannerdale Knotts": {},
+            },
+            "🌲 Whinlatter Forest": {},
+            Wythop: {
+              "⛰️ Ling Fell": {},
+              "⛰️ Sale Fell": {},
+            },
           },
-          Wrynose: {},
+          "📒 Southern Fells": {
+            "Coniston Fells": {
+              "⛰️ The Old Man of Coniston": {},
+            },
+            Eskdale: {
+              "Eskdale Fell": {},
+              "Hardknott Pass": {},
+              "Lingcove Beck": {},
+            },
+            Langdale: {},
+            "Stockley Bridge": {},
+          },
+          "📒 Western Fells": {
+            "Buttermere Valley": {
+              "💧 Buttermere": {},
+              "🏘️ Buttermere Village": {},
+              "Buttermere Ridge": {
+                "⛰️ High Crag": {},
+                "⛰️ High Stile": {},
+                "⛰️ Red Pike (Buttermere)": {},
+                "Scale Beck": {},
+                "Scarth Gap Pass": {},
+              },
+              "Gale Fell": {
+                "⛰️ Great Borne": {},
+                "⛰️ Starling Dodd": {},
+              },
+              "Gatesgarth Farm": {},
+              "Warnscale Bottom": {},
+            },
+            "Ennerdale Valley": {
+              "Ennerdale Fell": {
+                "⛰️ Caw Fell": {},
+                "⛰️ Haycock": {},
+                "⛰️ Scoat Fell": {},
+                "⛰️ Steeple": {},
+              },
+              "🌲 Ennerdale Forest": {},
+              "💧 Ennerdale Water": {},
+              "Kinniside Common": {
+                "⛰️ Crag Fell": {},
+                "⛰️ Grike": {},
+                "⛰️ Lank Rigg": {},
+              },
+            },
+            Fleetwith: {
+              "Aaron Slack": {},
+              "Brandreth Rise": {
+                "⛰️ Base Brown": {},
+                "⛰️ Brandreth": {},
+                "⛰️ Green Gable": {},
+                "⛰️ Grey Knotts": {},
+              },
+              "Dubs Quarry": {},
+              "⛰️ Fleetwith Pike": {},
+              "⛰️ Haystacks": {},
+              "Sty Head": {},
+            },
+            "Loweswater Valley": {
+              "🌲 Holme Wood": {},
+              "💧 Loweswater": {},
+              "Loweswater Fell": {
+                "⛰️ Blake Fell": {},
+                "⛰️ Burnbank Fell": {},
+                "⛰️ Gavel Fell": {},
+                "⛰️ Hen Comb": {},
+                "⛰️ Mellbreak": {},
+              },
+              "Mosser Fell": {
+                "⛰️ Fellbarrow": {},
+                "⛰️ Low Fell": {},
+              },
+            },
+            "Wasdale Valley": {
+              "Copeland Forest": {
+                "Dore Head": {},
+                "⛰️ Buckbarrow": {},
+                "⛰️ Middle Fell": {},
+                "⛰️ Seatallan": {},
+                "⛰️ Yewbarrow": {},
+              },
+              "Mosedale Fells": {
+                "⛰️ Pillar": {},
+                "⛰️ Red Pike (Wasdale)": {},
+              },
+              "Wasdale Head": {},
+              "Wasdale Fell": {
+                "⛰️ Kirk Fell": {},
+                "⛰️ Great Gable": {},
+              },
+              "💧 Wast Water": {},
+            },
+          },
+          "South Lakes": {
+            "Coniston Valley": {
+              "🐑 Yew Tree Farm": {},
+            },
+            "Windermere Valley": {
+              "🏘️ Ambleside": {},
+            },
+          },
         },
         Shap: {},
       },

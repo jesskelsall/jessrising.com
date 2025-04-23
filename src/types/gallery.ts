@@ -20,6 +20,7 @@ export interface IGalleryQuery extends ParsedUrlQuery {
   tag?: TQueryParam;
   title?: TQueryParam;
   trip?: TQueryParam;
+  strict?: TQueryParam;
   year?: TQueryParam;
 }
 
