@@ -1,0 +1,28 @@
+{
+  "title": "Lingholm Walled Garden",
+  "meta": {
+    "location": "Lingholm",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-28-hallin-fell-herdys-at-seathwaite"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.01,
+        "focalLength": 45,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-28T11:22:49.000+00:00",
+    "dimensions": {
+      "height": 6200,
+      "width": 9300
+    }
+  }
+}

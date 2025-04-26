@@ -1,0 +1,28 @@
+{
+  "title": "Grisedale Tarn from St Sunday Crag",
+  "meta": {
+    "location": "St Sunday Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-29-st-sunday-crag-via-grisedale-tarn"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 42,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-29T09:33:14.000+00:00",
+    "dimensions": {
+      "height": 6228,
+      "width": 9342
+    }
+  }
+}

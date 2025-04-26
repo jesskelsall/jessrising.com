@@ -1,0 +1,29 @@
+{
+  "title": "Penshaw Monument from the A1(M)",
+  "meta": {
+    "location": "County Durham",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": "2025-03-28-hallin-fell-herdys-at-seathwaite"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 291,
+        "fStop": 10,
+        "ISO": 50
+      }
+    },
+    "date": "2025-03-28T14:12:50.000+00:00",
+    "dimensions": {
+      "height": 5556,
+      "width": 8334
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Wanthwaite from Clough Head",
+  "meta": {
+    "location": "Clough Head",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-04-the-dodds-and-clough-head"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 294,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-04-04T11:28:03.000+01:00",
+    "dimensions": {
+      "height": 6070,
+      "width": 9105
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Low Birk Fell from Hallin Fell",
+  "meta": {
+    "location": "Hallin Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-28-hallin-fell-herdys-at-seathwaite"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.001,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-28T08:37:49.000+00:00",
+    "dimensions": {
+      "height": 5262,
+      "width": 7893
+    }
+  }
+}

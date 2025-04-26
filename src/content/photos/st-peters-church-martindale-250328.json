@@ -1,0 +1,29 @@
+{
+  "title": "St Peter's Church, Martindale",
+  "meta": {
+    "location": "Martindale Common",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-03-28-hallin-fell-herdys-at-seathwaite"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 24,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-28T09:09:40.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

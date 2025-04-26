@@ -1,0 +1,28 @@
+{
+  "title": "Sticks Pass to Grasmere Common",
+  "meta": {
+    "location": "Sticks Pass",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-04-the-dodds-and-clough-head"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 45,
+        "fStop": 7.1,
+        "ISO": 200
+      }
+    },
+    "date": "2025-04-04T07:12:44.000+01:00",
+    "dimensions": {
+      "height": 6019,
+      "width": 9028
+    }
+  }
+}

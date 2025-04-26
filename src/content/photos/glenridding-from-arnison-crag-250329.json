@@ -1,0 +1,28 @@
+{
+  "title": "Glenridding from Arnison Crag",
+  "meta": {
+    "location": "Arnison Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-29-st-sunday-crag-via-grisedale-tarn"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 27,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-03-29T05:42:40.000+00:00",
+    "dimensions": {
+      "height": 5989,
+      "width": 8983
+    }
+  }
+}

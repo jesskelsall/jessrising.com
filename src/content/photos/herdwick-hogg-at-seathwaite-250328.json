@@ -1,0 +1,28 @@
+{
+  "title": "Herdwick Hogg at Seathwaite",
+  "meta": {
+    "location": "Seathwaite",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2025-03-28-hallin-fell-herdys-at-seathwaite"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.01,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-03-28T10:24:37.000+00:00",
+    "dimensions": {
+      "height": 5943,
+      "width": 8914
+    }
+  }
+}

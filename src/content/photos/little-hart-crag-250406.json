@@ -1,0 +1,33 @@
+{
+  "title": "Little Hart Crag",
+  "meta": {
+    "location": "Little Hart Crag",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Wainwright"
+    ],
+    "trip": "2025-04-06-dovedale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 40,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-06T12:25:56.000+01:00",
+    "dimensions": {
+      "height": 6035,
+      "width": 9052
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "St John's in the Vale",
+  "meta": {
+    "location": "St John's-in-the-Vale",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2025-04-04-the-dodds-and-clough-head"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 62,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-04T14:22:47.000+01:00",
+    "dimensions": {
+      "height": 5941,
+      "width": 8911
+    }
+  }
+}

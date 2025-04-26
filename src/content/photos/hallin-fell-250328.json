@@ -1,0 +1,33 @@
+{
+  "title": "Hallin Fell",
+  "meta": {
+    "location": "Hallin Fell",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Wainwright"
+    ],
+    "trip": "2025-03-28-hallin-fell-herdys-at-seathwaite"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 42,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-28T08:28:26.000+00:00",
+    "dimensions": {
+      "height": 6043,
+      "width": 9065
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

@@ -33,16 +33,58 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ Castle Crag": {},
               "🏘️ Seathwaite": {},
             },
+            "💧 Derwent Water": {},
             "Grasmere to Loughrigg": {
               "🏘️ Grasmere Village": {},
               "Rydal Cave": {},
               "White Moss Common": {},
             },
-            "💧 Derwent Water": {},
+            "St John's-in-the-Vale": {},
           },
           "📒 Eastern Fells": {
-            "🏘️ Glenridding": {},
-            "Kirkstone Pass": {},
+            "Deepdale Common": {
+              "⛰️ Arnison Crag": {},
+              "⛰️ Birks": {},
+              "⛰️ St Sunday Crag": {},
+            },
+            Dovedale: {
+              "💧 Brothers Water": {},
+              "⛰️ Hartsop Above How": {},
+              "⛰️ High Hartsop Dodd": {},
+              "⛰️ Little Hart Crag": {},
+            },
+            Glencoyne: {
+              "⛰️ Hart Side": {},
+            },
+            "Glenridding Common": {
+              "⛰️ Birkhouse Moor": {},
+              "⛰️ Catseye Cam": {},
+              "🏘️ Glenridding": {},
+              "⛰️ Glenridding Dodd": {},
+              "⛰️ Sheffield Pike": {},
+            },
+            Grisedale: {
+              "💧 Grisedale Tarn": {},
+            },
+            "Helvellyn Ridge": {
+              "⛰️ Clough Head": {},
+              "⛰️ Dollywaggon Pike": {},
+              "⛰️ Helvellyn": {},
+              "⛰️ Nethermost Pike": {},
+              "⛰️ Raise": {},
+              "Sticks Pass": {},
+              "The Dodds": {
+                "⛰️ Great Dodd": {},
+                "⛰️ Stybarrow Dodd": {},
+                "⛰️ Watson's Dodd": {},
+              },
+              "Threlkeld Common": {},
+              "⛰️ White Side": {},
+            },
+            "Kirkstone Pass": {
+              "⛰️ Middle Dodd": {},
+              "⛰️ Red Screes": {},
+            },
             Matterdale: {
               "💦 Aira Force": {},
               "⛰️ Gowbarrow Fell": {},
@@ -57,6 +99,8 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ High Pike (Scandale)": {},
               "⛰️ Low Pike": {},
               "⛰️ Nab Scar": {},
+              "⛰️ Seat Sandal": {},
+              "⛰️ Stone Arthur": {},
             },
             "💧 Ullswater": {},
           },
@@ -80,6 +124,7 @@ export const locationHierarchy: LocationHierarchy = {
             },
             "Martindale Common": {
               "⛰️ Beda Fell": {},
+              "⛰️ Hallin Fell": {},
               "⛰️ Place Fell": {},
               "⛰️ Steel Knotts": {},
             },

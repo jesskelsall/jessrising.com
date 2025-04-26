@@ -1,0 +1,28 @@
+{
+  "title": "Keswick from Clough Head",
+  "meta": {
+    "location": "Clough Head",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-04-the-dodds-and-clough-head"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.001,
+        "focalLength": 64,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-04T11:26:31.000+01:00",
+    "dimensions": {
+      "height": 5699,
+      "width": 8548
+    }
+  }
+}

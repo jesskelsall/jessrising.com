@@ -1,0 +1,28 @@
+{
+  "title": "Blencathra from Wanthwaite",
+  "meta": {
+    "location": "St John's-in-the-Vale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-04-the-dodds-and-clough-head"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 11,
+        "ISO": 160
+      }
+    },
+    "date": "2025-04-04T13:13:23.000+01:00",
+    "dimensions": {
+      "height": 5676,
+      "width": 8514
+    }
+  }
+}

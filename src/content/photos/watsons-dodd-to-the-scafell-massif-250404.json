@@ -1,0 +1,28 @@
+{
+  "title": "Watson's Dodd to the Scafell Massif",
+  "meta": {
+    "location": "Watson's Dodd",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-04-the-dodds-and-clough-head"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 44,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-04T09:23:55.000+01:00",
+    "dimensions": {
+      "height": 5419,
+      "width": 8128
+    }
+  }
+}

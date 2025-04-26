@@ -1,0 +1,29 @@
+{
+  "title": "Kirkstone Pass",
+  "meta": {
+    "location": "High Hartsop Dodd",
+    "tags": [
+      "Landscape",
+      "Road"
+    ],
+    "trip": "2025-04-06-dovedale-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-06T13:50:47.000+01:00",
+    "dimensions": {
+      "height": 3833,
+      "width": 5750
+    }
+  }
+}
