@@ -72,15 +72,36 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ High Street": {},
               "⛰️ Rampsgill Head": {},
               "⛰️ The Knott": {},
+              "⛰️ Thornthwaite Crag": {},
+            },
+            "Mardale Common": {
+              "⛰️ Branstree": {},
+              "⛰️ Selside Pike": {},
             },
             "Martindale Common": {
               "⛰️ Beda Fell": {},
               "⛰️ Place Fell": {},
               "⛰️ Steel Knotts": {},
             },
+            "Pasture Beck": {
+              "⛰️ Gray Crag": {},
+              "🏘️ Hartsop": {},
+              "⛰️ Hartsop Dodd": {},
+              "⛰️ Stony Cove Pike": {},
+            },
             Riggindale: {
               "⛰️ Kidsty Pike": {},
-              "Rough Crag": {},
+              "⛰️ Rough Crag": {},
+            },
+            "Sleddale Fell": {
+              "⛰️ Grey Crag": {},
+              "⛰️ Tarn Crag (Sleddale)": {},
+            },
+            Troutbeck: {
+              "⛰️ Sallows": {},
+              "⛰️ Sour Howes": {},
+              "⛰️ Troutbeck Tongue": {},
+              "⛰️ Wansfell": {},
             },
           },
           "📒 Northern Fells": {

@@ -1,0 +1,25 @@
+{
+  "title": "Stony Cove Pike",
+  "meta": {
+    "location": "Stony Cove Pike",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.48123888888889,
+      "long": -2.899461111111111
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-01-18T10:09:09.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

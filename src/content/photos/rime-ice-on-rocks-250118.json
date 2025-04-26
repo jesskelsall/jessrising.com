@@ -1,0 +1,30 @@
+{
+  "title": "Rime Ice on Rocks",
+  "meta": {
+    "location": "Thornthwaite Crag",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Snow"
+    ],
+    "trip": "2025-01-18-pasture-beck-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 44,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-18T12:57:54.000+00:00",
+    "dimensions": {
+      "height": 5748,
+      "width": 8622
+    }
+  }
+}

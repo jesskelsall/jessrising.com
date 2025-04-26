@@ -1,0 +1,25 @@
+{
+  "title": "Hartsop Dodd",
+  "meta": {
+    "location": "Hartsop Dodd",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.49879166666667,
+      "long": -2.9109055555555554
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-01-18T08:55:07.000+00:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

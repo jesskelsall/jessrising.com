@@ -1,0 +1,29 @@
+{
+  "title": "Swaledales at Hartsop",
+  "meta": {
+    "location": "Hartsop",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2025-01-18-pasture-beck-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-18T15:15:40.000+00:00",
+    "dimensions": {
+      "height": 5555,
+      "width": 8333
+    }
+  }
+}

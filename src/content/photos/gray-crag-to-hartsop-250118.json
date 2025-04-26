@@ -1,0 +1,29 @@
+{
+  "title": "Gray Crag to Hartsop",
+  "meta": {
+    "location": "Gray Crag",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-01-18-pasture-beck-round"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 37,
+        "fStop": 8,
+        "ISO": 320
+      }
+    },
+    "date": "2025-01-18T14:10:59.000+00:00",
+    "dimensions": {
+      "height": 6281,
+      "width": 9421
+    }
+  }
+}
