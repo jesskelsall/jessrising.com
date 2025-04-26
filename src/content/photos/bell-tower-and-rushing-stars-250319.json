@@ -1,0 +1,29 @@
+{
+  "title": "Bell Tower and Rushing Stars",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Astro",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-03-19-astro-at-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 30,
+        "focalLength": 63,
+        "fStop": 5,
+        "ISO": 2000
+      }
+    },
+    "date": "2025-03-19T23:46:33.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

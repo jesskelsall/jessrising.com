@@ -1,0 +1,28 @@
+{
+  "title": "Lindisfarne Boat Sheds",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Astro"
+    ],
+    "trip": "2025-03-19-astro-at-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 20,
+        "focalLength": 24,
+        "fStop": 2.8,
+        "ISO": 1600
+      }
+    },
+    "date": "2025-03-20T00:35:06.000+00:00",
+    "dimensions": {
+      "height": 5619,
+      "width": 8428
+    }
+  }
+}

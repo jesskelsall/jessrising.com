@@ -1,0 +1,29 @@
+{
+  "title": "Lindisfarne Observation Tower",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Astro",
+      "Boat"
+    ],
+    "trip": "2025-03-19-astro-at-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 10,
+        "focalLength": 54,
+        "fStop": 2.8,
+        "ISO": 640
+      }
+    },
+    "date": "2025-03-20T00:03:20.000+00:00",
+    "dimensions": {
+      "height": 6050,
+      "width": 9075
+    }
+  }
+}

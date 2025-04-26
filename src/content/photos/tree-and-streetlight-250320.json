@@ -1,0 +1,28 @@
+{
+  "title": "Tree and Streetlight",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-19-astro-at-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 8,
+        "focalLength": 30,
+        "fStop": 3.5,
+        "ISO": 500
+      }
+    },
+    "date": "2025-03-20T00:59:24.000+00:00",
+    "dimensions": {
+      "height": 6187,
+      "width": 9280
+    }
+  }
+}

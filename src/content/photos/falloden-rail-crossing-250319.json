@@ -1,0 +1,29 @@
+{
+  "title": "Falloden Rail Crossing",
+  "meta": {
+    "location": "Northumberland",
+    "tags": [
+      "Landscape",
+      "Rail"
+    ],
+    "trip": "2025-03-19-astro-at-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 5,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 50
+      }
+    },
+    "date": "2025-03-19T22:33:32.000+00:00",
+    "dimensions": {
+      "height": 5971,
+      "width": 8957
+    }
+  }
+}

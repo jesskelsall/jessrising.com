@@ -1,0 +1,28 @@
+{
+  "title": "Gap in the Graveyard Wall",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Astro"
+    ],
+    "trip": "2025-03-19-astro-at-lindisfarne"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 30,
+        "focalLength": 41,
+        "fStop": 3.5,
+        "ISO": 800
+      }
+    },
+    "date": "2025-03-19T23:38:49.000+00:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    }
+  }
+}
