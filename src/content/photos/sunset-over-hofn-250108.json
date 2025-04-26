@@ -1,0 +1,29 @@
+{
+  "title": "Sunset Over Höfn",
+  "meta": {
+    "location": "Almannaskarð",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.2,
+        "focalLength": 229,
+        "fStop": 5.6,
+        "ISO": 500
+      }
+    },
+    "date": "2025-01-08T16:55:27.000+00:00",
+    "dimensions": {
+      "height": 5863,
+      "width": 8795
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Ice Cave Glow",
+  "meta": {
+    "location": "Breiðamerkurjökull Ice Caves",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 2,
+        "focalLength": 39,
+        "fStop": 2.8,
+        "ISO": 1000
+      }
+    },
+    "date": "2025-01-08T11:52:35.000+00:00",
+    "dimensions": {
+      "height": 5868,
+      "width": 8802
+    }
+  }
+}

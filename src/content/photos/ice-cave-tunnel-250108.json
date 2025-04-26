@@ -1,0 +1,28 @@
+{
+  "title": "Ice Cave Tunnel",
+  "meta": {
+    "location": "Breiðamerkurjökull Ice Caves",
+    "tags": [
+      "Interior"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 1,
+        "focalLength": 24,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-08T12:11:13.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

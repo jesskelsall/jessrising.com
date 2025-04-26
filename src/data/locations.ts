@@ -979,10 +979,13 @@ export const locationHierarchy: LocationHierarchy = {
         Þjóðveldisbærinn: {},
       },
       "🏔️ Vatnajökull": {
-        Öræfajökull: {},
-        Jökulsárlón: {
+        Breiðamerkurjökull: {
           Breiðamerkursandur: {},
+          "Breiðamerkurjökull Ice Caves": {},
+          Jökulsárlón: {},
         },
+        Öræfajökull: {},
+        Reynivellir: {},
       },
     },
     "🗺️ Suðurnes": {},
