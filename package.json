@@ -26,6 +26,7 @@
   "dependencies": {
     "joi": "^17.8.3",
     "lodash": "^4.17.21",
+    "lucide-react": "^0.503.0",
     "luxon": "^3.1.1",
     "markdown-to-jsx": "^7.1.8",
     "next": "^15.0.3",
