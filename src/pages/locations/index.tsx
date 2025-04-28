@@ -95,7 +95,9 @@ const CollapsibleLocation = ({ location }: { location: Location }) => {
     <div className="">
       <div className="flex">
         <button
-          className={`flex ${hasChildLocations ? "cursor-pointer" : ""}`}
+          className={`flex ${
+            hasChildLocations ? "cursor-pointer" : "cursor-default"
+          }`}
           onClick={hasChildLocations ? onCollapse : undefined}
           type="button"
         >
@@ -111,8 +113,6 @@ const CollapsibleLocation = ({ location }: { location: Location }) => {
             />
           </div>
           <div className="w-5">{location.emoji}</div>
-        </button>
-        <div>
           <span
             className={
               focusLocation === location.title
@@ -122,17 +122,17 @@ const CollapsibleLocation = ({ location }: { location: Location }) => {
           >
             {location.title}
           </span>
-          <a
-            className="px-2 text-mono-500 no-underline visited:text-mono-500 hover:underline"
-            href={`/gallery?location=${location.slug}${
-              isOpen ? "&strict=1" : ""
-            }`}
-            target="_blank"
-            rel="noreferrer"
-          >
-            {isOpen ? counts.self : counts.total}
-          </a>
-        </div>
+        </button>
+        <a
+          className="ml-2 pr-2 text-mono-500 no-underline visited:text-mono-500 hover:underline"
+          href={`/gallery?location=${location.slug}${
+            isOpen ? "&strict=1" : ""
+          }`}
+          target="_blank"
+          rel="noreferrer"
+        >
+          {isOpen ? counts.self : counts.total}
+        </a>
       </div>
       {hasChildLocations && isOpen && (
         <LocationList locations={childLocations} />
