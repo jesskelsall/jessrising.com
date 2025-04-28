@@ -693,7 +693,7 @@ export const locationHierarchy: LocationHierarchy = {
           Kilkenneth: {},
           Scarinish: {},
         },
-        "Treshnish Isles": {
+        "🗺️ Treshnish Isles": {
           "🏝️ Lunga": {},
           "🏝️ Staffa": {},
         },
@@ -724,16 +724,18 @@ export const locationHierarchy: LocationHierarchy = {
         "Elgin Cathedral": {},
       },
       "🗺️ Outer Hebrides": {
-        "🏝️ Barra": {
-          Ardmhor: {},
-          Borve: {},
-          Castlebay: {
-            Heabhal: {},
+        "🗺️ Barra & Vatersay": {
+          "🏝️ Barra": {
+            Ardmhor: {},
+            Borve: {},
+            "🏘️ Castlebay": {
+              Heabhal: {},
+            },
+            "Dùn Bàn": {},
+            Earsary: {},
+            Eoligarry: {},
           },
-          "Dùn Bàn": {},
-          Earsary: {},
-          Eoligarry: {},
-          Vatersay: {},
+          "🏝️ Vatersay": {},
         },
         "🏝️ Lewis & Harris": {
           Harris: {
@@ -756,7 +758,7 @@ export const locationHierarchy: LocationHierarchy = {
             Stornoway: {},
           },
         },
-        "St Kilda": {
+        "🗺️ St Kilda": {
           "🏝️ Boreray": {},
           "🏝️ Hirta": {},
         },
@@ -793,7 +795,7 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Scottish Borders": {},
       "🗺️ Shetland": {
-        Mainland: {
+        "🏝️ Mainland (Shetland)": {
           "Esha Ness": {
             "Eshaness Lighthouse": {},
           },
@@ -809,11 +811,11 @@ export const locationHierarchy: LocationHierarchy = {
           "Weisdale & Whiteness": {},
           "West Burra": {},
         },
-        Unst: {
+        "🏝️ Unst": {
           Haroldswick: {},
           "Herma Ness": {},
         },
-        Yell: {},
+        "🏝️ Yell": {},
       },
     },
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {
@@ -865,20 +867,20 @@ export const locationHierarchy: LocationHierarchy = {
   "🇪🇪 Estonia": {
     "🏙️ Tallinn": {
       Vanalinn: {
-        "Niguliste Muuseum": {},
+        "⛪️ Niguliste Muuseum": {},
         "Patkuli Viewing Platform": {},
       },
     },
   },
   "🇫🇮 Finland": {
     "🏙️ Helsinki": {
-      "Helsinki Metro": {},
+      "🚇 Helsinki Metro": {},
       Kaivopuisto: {},
       Katajanokka: {},
       Kauppatori: {},
       Kluuvi: {},
       Kruununhaka: {
-        "Helsinki Cathedral": {},
+        "⛪️ Helsinki Cathedral": {},
       },
       Töölö: {},
       Ullanlinna: {},
@@ -895,13 +897,13 @@ export const locationHierarchy: LocationHierarchy = {
         "MW Schweiz": {},
       },
       Speicherstadt: {},
-      "St. Peter's Church": {},
+      "⛪️ St. Peter's Church": {},
     },
   },
   "🇮🇸 Iceland": {
     "🗺️ Austurland": {
       "🚗 Route 925": {},
-      Seyðisfjörður: {
+      "🏘️ Seyðisfjörður": {
         "🚗 Route 93": {},
         "🚗 Route 951": {},
         "🚗 Route 952": {},
@@ -909,28 +911,28 @@ export const locationHierarchy: LocationHierarchy = {
       Stuðlagil: {},
       Svartfell: {},
     },
-    "🗺️ Norðurland vestra": {
-      Flóðið: {},
-      "🚗 Route 76": {
-        Grafarkirkja: {},
-      },
-      "🚗 Route 711": {
-        Hvítserkur: {},
-      },
-      Kolugljúfur: {},
-    },
     "🗺️ Norðurland eystra": {
       "🏙️ Akureyri": {},
       "🗺️ Norðurþing": {
         "Jökulsá á Fjöllum": {
           Ásbyrgi: {},
-          Dettifoss: {},
+          "💦 Dettifoss": {},
         },
       },
       Siglufjörður: {},
       "🗺️ Þingeyjarsveit": {
         "Námafjall Hverir": {},
       },
+    },
+    "🗺️ Norðurland vestra": {
+      Flóðið: {},
+      "🚗 Route 76": {
+        "⛪️ Grafarkirkja": {},
+      },
+      "🚗 Route 711": {
+        Hvítserkur: {},
+      },
+      Kolugljúfur: {},
     },
     "🏙️ Reykjavík": {
       Perlan: {},
@@ -939,18 +941,18 @@ export const locationHierarchy: LocationHierarchy = {
     "🗺️ Suðurland": {
       "Golden Circle": {
         "🚗 Route 37": {
-          Brúarfoss: {},
-          "Geysir Hot Springs": {},
-          Gullfoss: {},
+          "💦 Brúarfoss": {},
+          "💦 Geysir Hot Springs": {},
+          "💦 Gullfoss": {},
         },
-        Skálholt: {},
+        "🏘️ Skálholt": {},
         Þingvallavatn: {
           Nesjavellir: {},
-          Þingvellir: {},
+          "🏞️ Þingvellir": {},
         },
       },
       "🗺️ Hornafjörður": {
-        Höfn: {},
+        "🏘️ Höfn": {},
         Hvalnes: {},
         Vestrahorn: {
           Almannaskarð: {},
