@@ -1,0 +1,29 @@
+{
+  "title": "Kistufell",
+  "meta": {
+    "location": "Fjarðabyggð",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.008,
+        "focalLength": 119,
+        "fStop": 5,
+        "ISO": 125
+      }
+    },
+    "date": "2025-01-09T14:05:05.000+00:00",
+    "dimensions": {
+      "height": 6001,
+      "width": 9002
+    }
+  }
+}

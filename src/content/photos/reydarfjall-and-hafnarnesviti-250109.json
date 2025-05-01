@@ -1,0 +1,31 @@
+{
+  "title": "Reyðarfjall and Hafnarnesviti",
+  "meta": {
+    "location": "Fjarðabyggð",
+    "tags": [
+      "Landscape",
+      "Lighthouse",
+      "Snow",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 128,
+        "fStop": 5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-09T15:10:10.000+00:00",
+    "dimensions": {
+      "height": 5581,
+      "width": 8372
+    }
+  }
+}

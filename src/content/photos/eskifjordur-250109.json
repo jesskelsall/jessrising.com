@@ -1,0 +1,29 @@
+{
+  "title": "Eskifjörður",
+  "meta": {
+    "location": "Eskifjörður",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-09T12:34:03.000+00:00",
+    "dimensions": {
+      "height": 5631,
+      "width": 8447
+    }
+  }
+}

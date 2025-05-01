@@ -1,0 +1,30 @@
+{
+  "title": "Kirkjumiðstöð Eskifjarðar",
+  "meta": {
+    "location": "Eskifjörður",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 48,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-09T11:34:54.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

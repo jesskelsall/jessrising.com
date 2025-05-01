@@ -1,0 +1,30 @@
+{
+  "title": "Hólmanes to Skrúður",
+  "meta": {
+    "location": "Hólmanes",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-09T12:37:45.000+00:00",
+    "dimensions": {
+      "height": 5874,
+      "width": 8811
+    }
+  }
+}

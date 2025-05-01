@@ -1,0 +1,29 @@
+{
+  "title": "Eyvindarhólakirkja",
+  "meta": {
+    "location": "Rangárþing eystra",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00039999998989452437,
+        "focalLength": 121,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-10T13:56:22.000+00:00",
+    "dimensions": {
+      "height": 5921,
+      "width": 8882
+    }
+  }
+}

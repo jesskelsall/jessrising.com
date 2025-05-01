@@ -1,0 +1,28 @@
+{
+  "title": "An Icelandic Raven",
+  "meta": {
+    "location": "Reyðarfjörður",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-09T13:22:25.000+00:00",
+    "dimensions": {
+      "height": 4341,
+      "width": 6511
+    }
+  }
+}

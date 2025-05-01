@@ -1,0 +1,29 @@
+{
+  "title": "Moonrise at Reyðarfjörður",
+  "meta": {
+    "location": "Reyðarfjörður",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 137,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-09T13:41:17.000+00:00",
+    "dimensions": {
+      "height": 6091,
+      "width": 9136
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Kvernufoss",
+  "meta": {
+    "location": "Kvernufoss",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 2,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 50
+      }
+    },
+    "date": "2025-01-10T13:19:39.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

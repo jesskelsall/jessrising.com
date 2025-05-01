@@ -1,0 +1,30 @@
+{
+  "title": "Norðfjarðarviti",
+  "meta": {
+    "location": "Neskaupstaður",
+    "tags": [
+      "Landscape",
+      "Lighthouse",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 250
+      }
+    },
+    "date": "2025-01-09T10:16:18.000+00:00",
+    "dimensions": {
+      "height": 5660,
+      "width": 8490
+    }
+  }
+}

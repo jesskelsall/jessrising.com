@@ -1,0 +1,31 @@
+{
+  "title": "Víkurkirkja",
+  "meta": {
+    "location": "Vík í Mýrdal",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Coast",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.1,
+        "focalLength": 62,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-10T10:42:28.000+00:00",
+    "dimensions": {
+      "height": 6015,
+      "width": 9023
+    }
+  }
+}

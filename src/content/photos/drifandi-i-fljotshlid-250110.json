@@ -1,0 +1,30 @@
+{
+  "title": "Drífandi í Fljótshlíð",
+  "meta": {
+    "location": "Rangárþing eystra",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 156,
+        "fStop": 5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-10T14:25:50.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

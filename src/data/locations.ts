@@ -902,6 +902,13 @@ export const locationHierarchy: LocationHierarchy = {
   },
   "🇮🇸 Iceland": {
     "🗺️ Austurland": {
+      "🗺️ Fjarðabyggð": {
+        "🏘️ Eskifjörður": {},
+        "🏞️ Hólmanes": {},
+        "🏘️ Fáskrúðsfjörður": {},
+        "🏘️ Neskaupstaður": {},
+        "🏘️ Reyðarfjörður": {},
+      },
       "🚗 Route 925": {},
       "🏘️ Seyðisfjörður": {
         "🚗 Route 93": {},
@@ -971,10 +978,14 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "🚗 Route 261": {},
         Skógar: {
-          Skógafoss: {},
+          "💦 Kvernufoss": {},
+          Rútshellir: {},
+          "💦 Skógafoss": {},
         },
       },
-      "🗺️ Skaftárhreppur": {},
+      "🗺️ Skaftárhreppur": {
+        "🏘️ Kirkjubæjarklaustur": {},
+      },
       "🚗 Route 32": {
         Gjáin: {},
         Háifoss: {},

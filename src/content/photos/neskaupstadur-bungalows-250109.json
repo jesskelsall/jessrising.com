@@ -1,0 +1,29 @@
+{
+  "title": "Neskaupstaður Bungalows",
+  "meta": {
+    "location": "Neskaupstaður",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-09T10:24:46.000+00:00",
+    "dimensions": {
+      "height": 5632,
+      "width": 8448
+    }
+  }
+}

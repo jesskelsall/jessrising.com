@@ -1,0 +1,29 @@
+{
+  "title": "Fáskrúðsfjörður Wall Art",
+  "meta": {
+    "location": "Fáskrúðsfjörður",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.01,
+        "focalLength": 70,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-09T14:31:21.000+00:00",
+    "dimensions": {
+      "height": 5893,
+      "width": 8839
+    }
+  }
+}

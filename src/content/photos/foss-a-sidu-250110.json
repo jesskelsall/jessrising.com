@@ -1,0 +1,30 @@
+{
+  "title": "Foss á Síðu",
+  "meta": {
+    "location": "Skaftárhreppur",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 8,
+        "focalLength": 53,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-10T08:48:14.000+00:00",
+    "dimensions": {
+      "height": 5943,
+      "width": 8915
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Fáskrúðsfjörður Edge",
+  "meta": {
+    "location": "Fáskrúðsfjörður",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 40,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-01-09T14:46:35.000+00:00",
+    "dimensions": {
+      "height": 5513,
+      "width": 8270
+    }
+  }
+}

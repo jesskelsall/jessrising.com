@@ -1,0 +1,31 @@
+{
+  "title": "Víkurfjara",
+  "meta": {
+    "location": "Vík í Mýrdal",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast",
+      "Snow"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 28,
+        "fStop": 4,
+        "ISO": 400
+      }
+    },
+    "date": "2025-01-10T10:57:13.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
