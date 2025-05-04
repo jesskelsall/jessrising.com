@@ -1,0 +1,26 @@
+{
+  "title": "Ghosts For Sale",
+  "meta": {
+    "location": "York",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 24,
+        "fStop": 5.6,
+        "ISO": 640
+      }
+    },
+    "date": "2025-01-24T11:42:07.000+00:00",
+    "dimensions": {
+      "height": 6278,
+      "width": 9417
+    }
+  }
+}
