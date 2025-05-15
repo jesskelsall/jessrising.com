@@ -39,8 +39,14 @@ allGalleryPhotosList.forEach((photo) => {
     tagsDict,
   });
 
-  locationCountsDict[location].self += 1;
-  locationCountsDict[location].total += 1;
+  try {
+    locationCountsDict[location].self += 1;
+    locationCountsDict[location].total += 1;
+  } catch (_error) {
+    throw new Error(
+      `Invalid location: "${photo.meta.location}", "${photo.slug}"`
+    );
+  }
 
   if (photoIsShown) {
     nestedLocations.forEach((loc) => {
