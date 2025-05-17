@@ -1,6 +1,7 @@
 import { BlogImage } from "@/components/BlogImage";
 import { PHOTO_SIZE_SUFFIX } from "@/consts/photo";
 import { allGalleryPhotosList } from "@/data/galleryPhotos";
+import { getImageSrcFromSlug } from "@/functions/image";
 import { GalleryPhoto } from "@/types/galleryPhoto";
 import _ from "lodash";
 import { DateTime } from "luxon";
@@ -108,7 +109,7 @@ const ThisSecondPage: NextPage<IProps> = ({ galleryPhotosBySecond }) => {
   const secondsUntilChange = changeSeconds - secondsNow + 1;
 
   return (
-    <main className="mx-auto max-w-screen-sm px-2 md:max-w-screen-md">
+    <main className="mx-auto w-full px-2 md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl">
       <h1>This Second • {secondsToTime(secondsNow)}</h1>
       <h2>
         <Link href={`/gallery/p/${galleryPhoto.slug}`}>
@@ -125,7 +126,7 @@ const ThisSecondPage: NextPage<IProps> = ({ galleryPhotosBySecond }) => {
       </h2>
       <BlogImage
         alt={galleryPhoto.title}
-        src={`${galleryPhoto.slug}${PHOTO_SIZE_SUFFIX.LARGE}`}
+        src={getImageSrcFromSlug(galleryPhoto.slug, PHOTO_SIZE_SUFFIX.LARGE)}
         forceGallery
       />
       <p>Next photo • {secondsToTime(secondsUntilChange)}</p>
