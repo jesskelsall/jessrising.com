@@ -1,13 +1,12 @@
 {
-  "title": "Summerhill Force from Behind",
+  "title": "Hardraw Force",
   "meta": {
-    "location": "Summerhill Force",
+    "location": "Hardraw",
     "tags": [
       "Landscape",
-      "Forest",
       "Waterfall"
     ],
-    "trip": "2024-10-27-summerhill-force-low-force"
+    "trip": "2025-02-01-yorkshire-dales"
   },
   "exif": {
     "camera": {
@@ -15,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.3333333333333333,
+        "exposureTime": 0.625,
         "focalLength": 24,
-        "fStop": 7.1,
+        "fStop": 4.5,
         "ISO": 50
       }
     },
-    "date": "2024-10-27T09:12:48.000+00:00",
+    "date": "2025-02-01T12:32:17.000+00:00",
     "dimensions": {
-      "height": 6201,
-      "width": 9301
+      "height": 5158,
+      "width": 7737
     }
   }
 }

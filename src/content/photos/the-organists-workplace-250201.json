@@ -1,0 +1,28 @@
+{
+  "title": "The Organist's Workplace",
+  "meta": {
+    "location": "Aysgarth",
+    "tags": [
+      "Church/Cathedral"
+    ],
+    "trip": "2025-02-01-yorkshire-dales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 46,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    },
+    "date": "2025-02-01T10:28:21.000+00:00",
+    "dimensions": {
+      "height": 5765,
+      "width": 8647
+    }
+  }
+}

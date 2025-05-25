@@ -1,13 +1,12 @@
 {
-  "title": "Druid's Temple",
+  "title": "Cauldron Falls Up Close",
   "meta": {
-    "location": "Druid's Temple",
+    "location": "Aysgarth",
     "tags": [
       "Landscape",
-      "Forest",
-      "Ruin"
+      "Waterfall"
     ],
-    "trip": "2023-09-15-yorkshire-dales"
+    "trip": "2025-02-01-yorkshire-dales"
   },
   "exif": {
     "camera": {
@@ -15,13 +14,13 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -1,
-        "exposureTime": 0.025,
-        "focalLength": 32,
-        "fStop": 5.6,
-        "ISO": 800
+        "exposureTime": 0.625,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 50
       }
     },
-    "date": "2023-09-16T16:45:23.000+01:00",
+    "date": "2025-02-01T09:36:24.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

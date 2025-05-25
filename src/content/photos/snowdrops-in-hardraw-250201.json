@@ -1,9 +1,11 @@
 {
-  "title": "Bowlees Squeeze Stile",
+  "title": "Snowdrops in Hardraw",
   "meta": {
-    "location": "Low Force",
-    "tags": [],
-    "trip": "2024-10-27-summerhill-force-low-force"
+    "location": "Hardraw",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-02-01-yorkshire-dales"
   },
   "exif": {
     "camera": {
@@ -13,14 +15,14 @@
         "exposureBias": 0,
         "exposureTime": 0.0125,
         "focalLength": 70,
-        "fStop": 3.5,
+        "fStop": 11,
         "ISO": 200
       }
     },
-    "date": "2024-10-27T10:09:43.000+00:00",
+    "date": "2025-02-01T12:08:31.000+00:00",
     "dimensions": {
-      "height": 6290,
-      "width": 9436
+      "height": 6010,
+      "width": 9015
     }
   }
 }

@@ -1,0 +1,28 @@
+{
+  "title": "Swaledale at Cotter Force",
+  "meta": {
+    "location": "Cotter Force",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2025-02-01-yorkshire-dales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 320
+      }
+    },
+    "date": "2025-02-01T11:13:10.000+00:00",
+    "dimensions": {
+      "height": 3391,
+      "width": 5086
+    }
+  }
+}

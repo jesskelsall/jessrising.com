@@ -19,13 +19,18 @@ export const locationHierarchy: LocationHierarchy = {
           "Durham Cathedral": {},
         },
         Home: {},
-        "Raby Castle": {},
-        Teesdale: {
-          Bowlees: {},
+        "🏞️ North Pennines": {
+          Teesdale: {
+            "💦 Low Force": {},
+            "💦 Summerhill Force": {},
+            Bowlees: {},
+          },
         },
+        "Raby Castle": {},
       },
       "🗺️ Cumbria": {
-        Brampton: {},
+        "🏘️ Brampton": {},
+        "🏘️ Brough": {},
         "🏞️ Lake District": {
           "📒 Central Fells": {
             "🪨 Castlerigg Stone Circle": {},
@@ -417,6 +422,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Yorkshire": {
+        "🪨 Druid's Temple": {},
         Knaresborough: {},
         "🏞️ North York Moors": {
           Whitby: {},
@@ -432,15 +438,29 @@ export const locationHierarchy: LocationHierarchy = {
           "York Minster": {},
         },
         "🏞️ Yorkshire Dales": {
-          "Blea Moor": {},
-          Clapham: {},
-          "Howgill Fells": {},
-          Ingleborough: {
+          "Ash Fell": {},
+          "🏘️ Clapham": {},
+          "Ingleborough Common": {
             "Gaping Gill": {},
+            "White Scar Cave": {},
           },
-          "Ribblehead Viaduct": {},
-          Whernside: {},
-          "White Scar Cave": {},
+          "🏘️ Malham": {
+            "Gordale Scar": {},
+          },
+          Ribblehead: {
+            "Blea Moor": {},
+            "Ribblehead Viaduct": {},
+            "⛰️ Whernside": {},
+          },
+          "🗺️ Wensleydale": {
+            "🏘️ Aysgarth": {},
+            "💦 Cotter Force": {},
+            "🏘️ Hardraw": {},
+            "🏘️ Hawes": {},
+          },
+          "🗺️ Wharfedale": {
+            "🏘️ Appletreewick": {},
+          },
         },
       },
     },

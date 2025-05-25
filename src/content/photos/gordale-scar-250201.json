@@ -1,0 +1,28 @@
+{
+  "title": "Gordale Scar",
+  "meta": {
+    "location": "Gordale Scar",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-02-01-yorkshire-dales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 34,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-02-01T16:04:40.000+00:00",
+    "dimensions": {
+      "height": 5596,
+      "width": 8394
+    }
+  }
+}
