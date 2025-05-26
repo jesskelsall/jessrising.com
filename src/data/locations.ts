@@ -63,7 +63,7 @@ export const locationHierarchy: LocationHierarchy = {
             },
             "Glenridding Common": {
               "⛰️ Birkhouse Moor": {},
-              "⛰️ Catseye Cam": {},
+              "⛰️ Catstye Cam": {},
               "🏘️ Glenridding": {},
               "⛰️ Glenridding Dodd": {},
               "⛰️ Sheffield Pike": {},
@@ -74,7 +74,10 @@ export const locationHierarchy: LocationHierarchy = {
             "Helvellyn Ridge": {
               "⛰️ Clough Head": {},
               "⛰️ Dollywaggon Pike": {},
-              "⛰️ Helvellyn": {},
+              "⛰️ Helvellyn": {
+                "Striding Edge": {},
+                "Swirral Edge": {},
+              },
               "⛰️ Nethermost Pike": {},
               "⛰️ Raise": {},
               "Sticks Pass": {},

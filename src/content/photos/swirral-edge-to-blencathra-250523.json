@@ -1,0 +1,28 @@
+{
+  "title": "Swirral Edge to Blencathra",
+  "meta": {
+    "location": "Helvellyn",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-23-helvellyn-ridges"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-23T11:12:34.000+01:00",
+    "dimensions": {
+      "height": 6018,
+      "width": 9027
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Catstye Cam",
+  "meta": {
+    "location": "Catstye Cam",
+    "tags": [
+      "Landscape",
+      "Wainwright"
+    ],
+    "trip": "2025-05-23-helvellyn-ridges"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 32,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-23T12:45:14.000+01:00",
+    "dimensions": {
+      "height": 5999,
+      "width": 8998
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}

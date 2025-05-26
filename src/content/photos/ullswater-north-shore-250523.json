@@ -1,0 +1,28 @@
+{
+  "title": "Ullswater North Shore",
+  "meta": {
+    "location": "Ullswater",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-23-helvellyn-ridges"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 32,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-23T05:20:51.000+01:00",
+    "dimensions": {
+      "height": 5900,
+      "width": 8850
+    }
+  }
+}

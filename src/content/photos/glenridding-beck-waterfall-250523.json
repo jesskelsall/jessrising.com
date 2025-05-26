@@ -1,0 +1,29 @@
+{
+  "title": "Glenridding Beck Waterfall",
+  "meta": {
+    "location": "Glenridding Common",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-05-23-helvellyn-ridges"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 24,
+        "fStop": 14,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-23T14:12:30.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

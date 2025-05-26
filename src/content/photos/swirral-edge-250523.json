@@ -1,0 +1,28 @@
+{
+  "title": "Swirral Edge",
+  "meta": {
+    "location": "Swirral Edge",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-23-helvellyn-ridges"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0025,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-23T12:19:26.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
