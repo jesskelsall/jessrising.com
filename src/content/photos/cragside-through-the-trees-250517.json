@@ -1,0 +1,29 @@
+{
+  "title": "Cragside Through the Trees",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2025-05-17-belsay-hall"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.005,
+        "focalLength": 63,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-17T10:05:32.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9502
+    }
+  }
+}

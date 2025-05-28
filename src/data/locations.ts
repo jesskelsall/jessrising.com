@@ -391,6 +391,7 @@ export const locationHierarchy: LocationHierarchy = {
           "Alnwick Garden": {},
           "Barter Books": {},
         },
+        "Belsay Hall": {},
         Bamburgh: {},
         Cragside: {},
         "Dunstanburgh Castle": {},

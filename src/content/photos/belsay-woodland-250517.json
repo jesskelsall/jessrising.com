@@ -1,0 +1,29 @@
+{
+  "title": "Belsay Woodland",
+  "meta": {
+    "location": "Belsay Hall",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2025-05-17-belsay-hall"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 58,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-05-17T12:03:14.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

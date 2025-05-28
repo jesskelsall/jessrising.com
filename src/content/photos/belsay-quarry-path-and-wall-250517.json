@@ -1,0 +1,28 @@
+{
+  "title": "Belsay Quarry Path and Wall",
+  "meta": {
+    "location": "Belsay Hall",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-17-belsay-hall"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 39,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-17T12:08:25.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

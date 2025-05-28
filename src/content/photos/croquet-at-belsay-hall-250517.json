@@ -1,0 +1,29 @@
+{
+  "title": "Croquet at Belsay Hall",
+  "meta": {
+    "location": "Belsay Hall",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": "2025-05-17-belsay-hall"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 38,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-17T11:50:30.000+01:00",
+    "dimensions": {
+      "height": 6118,
+      "width": 9177
+    }
+  }
+}
