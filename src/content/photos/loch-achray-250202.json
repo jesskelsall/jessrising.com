@@ -1,0 +1,31 @@
+{
+  "title": "Loch Achray",
+  "meta": {
+    "location": "Loch Lomond & The Trossachs",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Mist",
+      "Snow"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 141,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-02T13:49:40.000+00:00",
+    "dimensions": {
+      "height": 5815,
+      "width": 8722
+    }
+  }
+}

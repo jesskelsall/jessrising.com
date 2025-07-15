@@ -1,0 +1,29 @@
+{
+  "title": "Dalness",
+  "meta": {
+    "location": "Glen Etive",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 48,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-05T10:15:50.000+00:00",
+    "dimensions": {
+      "height": 6009,
+      "width": 9014
+    }
+  }
+}

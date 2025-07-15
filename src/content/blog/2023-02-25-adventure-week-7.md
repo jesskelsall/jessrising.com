@@ -34,7 +34,7 @@ Deeper yet, Glen Etive Forest appears. Much of the trees here are non-native pin
 
 The forest also provides the first habitat for deer, the glen's most populous inhabitants. At this time of year towards the end of winter, deer are still found in the valley where the temperature is more forgiving. In spring they will return to higher climbs. We would often spot deer near the road or treeline while driving the worn road here.
 
-<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/deer-below-stob-dubh-230222-lg.jpeg" />
+<img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/stob-dubh-and-loch-etive-forest-230222-lg.jpeg" />
 
 Just a bit further on, the road ascends suddenly, clinging to the hillside above Lochan Urr. This "little lake" provides an exquisite vantage point for the backsides of Buachaille Etive Beag and Buachaille Etive Mòr to the north, and a complete view of Ben Starav to the south. Midweek these peaks were snow-capped.
 

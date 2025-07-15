@@ -1,0 +1,29 @@
+{
+  "title": "Silver Strand",
+  "meta": {
+    "location": "Loch Katrine",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 320
+      }
+    },
+    "date": "2025-02-02T14:48:18.000+00:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9411
+    }
+  }
+}

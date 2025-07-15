@@ -1,0 +1,29 @@
+{
+  "title": "Ben Venue from Loch Katrine",
+  "meta": {
+    "location": "Loch Katrine",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 65,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-02T14:54:43.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

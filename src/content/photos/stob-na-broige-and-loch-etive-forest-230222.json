@@ -1,14 +1,13 @@
 {
-  "title": "Lochan Urr Viewpoint",
+  "title": "Stob na Bròige and Loch Etive Forest",
   "meta": {
     "gps": {
-      "lat": 56.59943888888889,
-      "long": -5.017361111111111
+      "lat": 56.600975,
+      "long": -5.018761111111111
     },
     "location": "Lochan Urr",
     "tags": [
-      "Landscape",
-      "Clouds"
+      "Landscape"
     ],
     "trip": "2023-02-18-glen-etive-schoolhouse"
   },
@@ -16,7 +15,7 @@
     "camera": {
       "name": "Apple iPhone 14 Pro Max"
     },
-    "date": "2023-02-18T17:01:49.000+00:00",
+    "date": "2023-02-22T10:00:58.000+00:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

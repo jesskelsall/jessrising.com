@@ -1,16 +1,14 @@
 {
-  "title": "Deer Below Stob Dubh",
+  "title": "Stob Dubh and Loch Etive Forest",
   "meta": {
     "gps": {
-      "lat": 56.599586111111115,
-      "long": -5.017275
+      "lat": 56.59943888888889,
+      "long": -5.017361111111111
     },
     "location": "Lochan Urr",
     "tags": [
       "Landscape",
-      "Snow",
-      "Waterfall",
-      "Deer"
+      "Clouds"
     ],
     "trip": "2023-02-18-glen-etive-schoolhouse"
   },
@@ -18,7 +16,7 @@
     "camera": {
       "name": "Apple iPhone 14 Pro Max"
     },
-    "date": "2023-02-22T08:48:58.000+00:00",
+    "date": "2023-02-18T17:01:49.000+00:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

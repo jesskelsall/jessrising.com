@@ -548,12 +548,11 @@ export const locationHierarchy: LocationHierarchy = {
             "The Three Sisters": {},
           },
           "Glen Etive": {
-            Dalness: {},
             "Glen Etive Forest": {},
             "Loch Etive": {},
             "Lochan Urr": {},
-            "View to Skyfall": {},
           },
+          "🏘️ Kinlochleven": {},
           "Rannoch Moor": {},
         },
         "🏞️ Caithness": {
@@ -724,6 +723,7 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🏞️ Loch Lomond & The Trossachs": {
         "Falls of Falloch": {},
+        "Loch Katrine": {},
         "Loch Lomond": {
           Inveruglas: {},
         },
@@ -840,6 +840,9 @@ export const locationHierarchy: LocationHierarchy = {
           "Herma Ness": {},
         },
         "🏝️ Yell": {},
+      },
+      "🗺️ Stirling Council": {
+        "🏘️ Dunblane": {},
       },
     },
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {

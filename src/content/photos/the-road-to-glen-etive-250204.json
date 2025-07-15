@@ -1,0 +1,30 @@
+{
+  "title": "The Road to Glen Etive",
+  "meta": {
+    "location": "Glen Etive",
+    "tags": [
+      "Landscape",
+      "Road",
+      "Snow"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 51,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-04T12:23:24.000+00:00",
+    "dimensions": {
+      "height": 5814,
+      "width": 8721
+    }
+  }
+}

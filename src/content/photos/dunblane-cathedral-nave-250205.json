@@ -1,0 +1,29 @@
+{
+  "title": "Dunblane Cathedral Nave",
+  "meta": {
+    "location": "Dunblane",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 44,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-05T14:12:35.000+00:00",
+    "dimensions": {
+      "height": 6257,
+      "width": 9386
+    }
+  }
+}

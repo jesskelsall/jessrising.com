@@ -1,0 +1,28 @@
+{
+  "title": "Deer in the Car Park",
+  "meta": {
+    "location": "Kingshouse Hotel",
+    "tags": [
+      "Deer"
+    ],
+    "trip": "2025-02-02-kingshouse-hotel"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 166,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-02-04T10:09:29.000+00:00",
+    "dimensions": {
+      "height": 3961,
+      "width": 5942
+    }
+  }
+}
