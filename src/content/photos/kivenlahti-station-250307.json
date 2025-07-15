@@ -1,0 +1,29 @@
+{
+  "title": "Kivenlahti Station",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 24,
+        "fStop": 3.5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-03-07T19:51:39.000+00:00",
+    "dimensions": {
+      "height": 6107,
+      "width": 9161
+    }
+  }
+}

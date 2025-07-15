@@ -1,0 +1,29 @@
+{
+  "title": "Kamppi Station",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 33,
+        "fStop": 4.5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-03-07T19:20:31.000+00:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    }
+  }
+}

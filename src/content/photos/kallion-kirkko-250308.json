@@ -1,0 +1,29 @@
+{
+  "title": "Kallion Kirkko",
+  "meta": {
+    "location": "Kallio",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.05,
+        "focalLength": 25,
+        "fStop": 3.5,
+        "ISO": 250
+      }
+    },
+    "date": "2025-03-08T11:30:44.000+00:00",
+    "dimensions": {
+      "height": 6196,
+      "width": 9294
+    }
+  }
+}

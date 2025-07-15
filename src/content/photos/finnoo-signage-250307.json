@@ -1,0 +1,29 @@
+{
+  "title": "Finnoo Signage",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 69,
+        "fStop": 7.1,
+        "ISO": 320
+      }
+    },
+    "date": "2025-03-07T20:39:03.000+00:00",
+    "dimensions": {
+      "height": 5912,
+      "width": 8868
+    }
+  }
+}

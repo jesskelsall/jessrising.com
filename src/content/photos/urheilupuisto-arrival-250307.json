@@ -1,0 +1,29 @@
+{
+  "title": "Urheilupuisto Arrival",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 31,
+        "fStop": 6.300000190736682,
+        "ISO": 320
+      }
+    },
+    "date": "2025-03-07T21:01:06.000+00:00",
+    "dimensions": {
+      "height": 6171,
+      "width": 9257
+    }
+  }
+}

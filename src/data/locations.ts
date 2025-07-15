@@ -903,12 +903,15 @@ export const locationHierarchy: LocationHierarchy = {
     "🏙️ Helsinki": {
       "🚇 Helsinki Metro": {},
       Kaivopuisto: {},
+      Kallio: {},
       Katajanokka: {},
       Kauppatori: {},
       Kluuvi: {},
       Kruununhaka: {
-        "⛪️ Helsinki Cathedral": {},
+        "⛪️ Helsingin Tuomiokirkko": {},
+        Senaatintori: {},
       },
+      Punavuori: {},
       Töölö: {},
       Ullanlinna: {},
     },
@@ -1118,7 +1121,7 @@ export const locationHierarchy: LocationHierarchy = {
       "Kvarteret Kattörat": {},
       Riddarholmen: {},
       "Stockholms Stadshus": {},
-      "Stockholm Metro": {},
+      "🚇 Stockholm Metro": {},
     },
   },
 };

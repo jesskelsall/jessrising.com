@@ -1,0 +1,30 @@
+{
+  "title": "Eteläranta",
+  "meta": {
+    "location": "Kaivopuisto",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 156,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-08T08:39:53.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

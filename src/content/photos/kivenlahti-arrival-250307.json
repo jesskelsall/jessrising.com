@@ -1,0 +1,29 @@
+{
+  "title": "Kivenlahti Arrival",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 35,
+        "fStop": 5,
+        "ISO": 500
+      }
+    },
+    "date": "2025-03-07T19:53:17.000+00:00",
+    "dimensions": {
+      "height": 6202,
+      "width": 9304
+    }
+  }
+}

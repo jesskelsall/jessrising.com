@@ -1,0 +1,29 @@
+{
+  "title": "Kaitaa Train",
+  "meta": {
+    "location": "Helsinki Metro",
+    "tags": [
+      "Interior",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 320
+      }
+    },
+    "date": "2025-03-07T20:22:46.000+00:00",
+    "dimensions": {
+      "height": 6140,
+      "width": 9210
+    }
+  }
+}

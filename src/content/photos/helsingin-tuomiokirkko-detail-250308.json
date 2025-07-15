@@ -1,0 +1,28 @@
+{
+  "title": "Helsingin Tuomiokirkko Detail",
+  "meta": {
+    "location": "Senaatintori",
+    "tags": [
+      "Church/Cathedral"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 158,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-08T10:45:17.000+00:00",
+    "dimensions": {
+      "height": 6187,
+      "width": 9282
+    }
+  }
+}

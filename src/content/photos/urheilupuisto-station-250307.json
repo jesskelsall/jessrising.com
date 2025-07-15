@@ -1,12 +1,12 @@
 {
-  "title": "Helsingin Tuomiokirkko Aisle",
+  "title": "Urheilupuisto Station",
   "meta": {
-    "location": "Helsingin Tuomiokirkko",
+    "location": "Helsinki Metro",
     "tags": [
       "Interior",
-      "Church/Cathedral"
+      "Rail"
     ],
-    "trip": "2024-03-22-helsinki"
+    "trip": "2025-03-07-helsinki"
   },
   "exif": {
     "camera": {
@@ -14,16 +14,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.03333333333333333,
+        "exposureTime": 0.1,
         "focalLength": 24,
         "fStop": 5.6,
-        "ISO": 2500
+        "ISO": 320
       }
     },
-    "date": "2024-03-22T16:17:14.000+00:00",
+    "date": "2025-03-07T21:02:31.000+00:00",
     "dimensions": {
-      "height": 6110,
-      "width": 9165
+      "height": 6304,
+      "width": 9456
     }
   }
 }

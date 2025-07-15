@@ -1,0 +1,30 @@
+{
+  "title": "Tehtaankatu",
+  "meta": {
+    "location": "Punavuori",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Rail"
+    ],
+    "trip": "2025-03-07-helsinki"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 43,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-08T09:42:07.000+00:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}
