@@ -1,0 +1,28 @@
+{
+  "title": "A Cairngorm Reindeer's Antlers",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-03-01-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.00625,
+        "focalLength": 339,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-03-01T11:44:18.000+00:00",
+    "dimensions": {
+      "height": 4198,
+      "width": 6297
+    }
+  }
+}

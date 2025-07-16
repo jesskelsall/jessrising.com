@@ -1,0 +1,28 @@
+{
+  "title": "The Cairngorm Reindeer Herd",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-05-05-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 100,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-05T12:05:47.000+01:00",
+    "dimensions": {
+      "height": 5403,
+      "width": 8104
+    }
+  }
+}

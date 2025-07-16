@@ -1,0 +1,28 @@
+{
+  "title": "Reindeer Fighting",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-03-01-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.004,
+        "focalLength": 57,
+        "fStop": 4,
+        "ISO": 125
+      }
+    },
+    "date": "2025-03-01T12:07:10.000+00:00",
+    "dimensions": {
+      "height": 4872,
+      "width": 7308
+    }
+  }
+}

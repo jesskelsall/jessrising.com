@@ -1,0 +1,29 @@
+{
+  "title": "Tarmac Dunbar Plant",
+  "meta": {
+    "location": "Lothian",
+    "tags": [
+      "Landscape",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2025-03-01-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    },
+    "date": "2025-03-01T06:26:15.000+00:00",
+    "dimensions": {
+      "height": 5993,
+      "width": 8990
+    }
+  }
+}

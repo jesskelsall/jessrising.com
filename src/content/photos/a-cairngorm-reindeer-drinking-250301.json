@@ -1,0 +1,28 @@
+{
+  "title": "A Cairngorm Reindeer Drinking",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-03-01-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 125
+      }
+    },
+    "date": "2025-03-01T12:11:54.000+00:00",
+    "dimensions": {
+      "height": 5033,
+      "width": 7550
+    }
+  }
+}

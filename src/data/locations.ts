@@ -508,7 +508,9 @@ export const locationHierarchy: LocationHierarchy = {
           "Loch Mallachie": {},
         },
         Balmoral: {},
-        "Cairngorm Mountains": {},
+        "Cairngorm Mountains": {
+          "🦌 Cairngorm Reindeer Herd": {},
+        },
         Dalwhinnie: {
           "Loch Ericht": {},
         },
@@ -809,6 +811,7 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Perth & Kinross": {
         "🏞️ Loch Rannoch & Glen Lyon": {
           "Dunalasdair Estate": {},
+          "Garry Bridge": {},
           "Loch Rannoch": {},
           "Loch Tay": {
             "Ben Lawers": {},

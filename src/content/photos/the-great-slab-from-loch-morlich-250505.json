@@ -1,0 +1,30 @@
+{
+  "title": "The Great Slab from Loch Morlich",
+  "meta": {
+    "location": "Loch Morlich",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Snow"
+    ],
+    "trip": "2025-05-05-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 112,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-05T13:29:00.000+01:00",
+    "dimensions": {
+      "height": 6086,
+      "width": 9129
+    }
+  }
+}

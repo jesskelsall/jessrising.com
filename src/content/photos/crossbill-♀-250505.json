@@ -1,0 +1,28 @@
+{
+  "title": "Crossbill ♀",
+  "meta": {
+    "location": "Abernethy Forest",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-05-05-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 7.1,
+        "ISO": 400
+      }
+    },
+    "date": "2025-05-05T09:13:44.000+01:00",
+    "dimensions": {
+      "height": 3136,
+      "width": 4704
+    }
+  }
+}

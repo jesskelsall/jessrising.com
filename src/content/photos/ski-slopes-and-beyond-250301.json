@@ -1,0 +1,29 @@
+{
+  "title": "Ski Slopes and Beyond",
+  "meta": {
+    "location": "Cairngorm Mountains",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-03-01-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.01,
+        "focalLength": 57,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    },
+    "date": "2025-03-01T13:57:31.000+00:00",
+    "dimensions": {
+      "height": 5420,
+      "width": 8130
+    }
+  }
+}

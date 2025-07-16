@@ -1,0 +1,29 @@
+{
+  "title": "Feeding the Reindeer",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "People",
+      "Reindeer"
+    ],
+    "trip": "2025-05-05-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.01,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-05T12:02:56.000+01:00",
+    "dimensions": {
+      "height": 5895,
+      "width": 8842
+    }
+  }
+}

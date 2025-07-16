@@ -1,0 +1,30 @@
+{
+  "title": "Loch Morlich Shore",
+  "meta": {
+    "location": "Loch Morlich",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Snow"
+    ],
+    "trip": "2025-05-05-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 45,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-05T10:11:13.000+01:00",
+    "dimensions": {
+      "height": 6262,
+      "width": 9393
+    }
+  }
+}

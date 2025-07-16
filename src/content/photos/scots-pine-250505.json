@@ -1,0 +1,29 @@
+{
+  "title": "Scots Pine",
+  "meta": {
+    "location": "Abernethy Forest",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2025-05-05-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.008,
+        "focalLength": 109,
+        "fStop": 7.1,
+        "ISO": 200
+      }
+    },
+    "date": "2025-05-05T09:12:40.000+01:00",
+    "dimensions": {
+      "height": 5771,
+      "width": 8657
+    }
+  }
+}

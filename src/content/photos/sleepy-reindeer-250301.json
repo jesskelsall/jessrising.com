@@ -1,0 +1,28 @@
+{
+  "title": "Sleepy Reindeer",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-03-01-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 146,
+        "fStop": 8,
+        "ISO": 320
+      }
+    },
+    "date": "2025-03-01T12:18:57.000+00:00",
+    "dimensions": {
+      "height": 5938,
+      "width": 8907
+    }
+  }
+}
