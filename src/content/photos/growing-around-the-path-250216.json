@@ -1,0 +1,28 @@
+{
+  "title": "Growing Around the Path",
+  "meta": {
+    "location": "Dalemain Mansion",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-02-16-snowdrops-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 40,
+        "fStop": 5,
+        "ISO": 250
+      }
+    },
+    "date": "2025-02-16T12:50:11.000+00:00",
+    "dimensions": {
+      "height": 6189,
+      "width": 9284
+    }
+  }
+}

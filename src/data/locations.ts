@@ -29,6 +29,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Raby Castle": {},
       },
       "🗺️ Cumbria": {
+        "🌳 Acorn Bank": {},
         "🏘️ Brampton": {},
         "🏘️ Brough": {},
         "🏞️ Lake District": {
@@ -47,6 +48,7 @@ export const locationHierarchy: LocationHierarchy = {
             "St John's-in-the-Vale": {},
           },
           "📒 Eastern Fells": {
+            "Dalemain Mansion": {},
             "Deepdale Common": {
               "⛰️ Arnison Crag": {},
               "⛰️ Birks": {},

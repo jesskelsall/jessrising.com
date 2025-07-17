@@ -1,0 +1,28 @@
+{
+  "title": "Dalemain Pet Cemetery",
+  "meta": {
+    "location": "Dalemain Mansion",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-02-16-snowdrops-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 173,
+        "fStop": 5.6,
+        "ISO": 250
+      }
+    },
+    "date": "2025-02-16T12:57:32.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
