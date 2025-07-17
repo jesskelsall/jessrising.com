@@ -1,0 +1,28 @@
+{
+  "title": "Sallows",
+  "meta": {
+    "location": "Sallows",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.01,
+        "focalLength": 25,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-14T10:25:07.000+00:00",
+    "dimensions": {
+      "height": 5499,
+      "width": 8249
+    }
+  }
+}

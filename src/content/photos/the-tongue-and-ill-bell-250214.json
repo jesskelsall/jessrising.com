@@ -1,0 +1,29 @@
+{
+  "title": "The Tongue and Ill Bell",
+  "meta": {
+    "location": "Troutbeck Tongue",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-02-14-trout-beck"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 62,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-14T13:16:02.000+00:00",
+    "dimensions": {
+      "height": 6223,
+      "width": 9334
+    }
+  }
+}

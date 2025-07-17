@@ -1,0 +1,28 @@
+{
+  "title": "Sour Howes",
+  "meta": {
+    "location": "Sour Howes",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 24,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-14T09:47:02.000+00:00",
+    "dimensions": {
+      "height": 5351,
+      "width": 8027
+    }
+  }
+}

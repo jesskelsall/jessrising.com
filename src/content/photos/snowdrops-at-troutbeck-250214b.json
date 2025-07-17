@@ -1,0 +1,28 @@
+{
+  "title": "Snowdrops at Troutbeck",
+  "meta": {
+    "location": "Troutbeck",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-02-14-trout-beck"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 146,
+        "fStop": 5,
+        "ISO": 320
+      }
+    },
+    "date": "2025-02-14T15:52:15.000+00:00",
+    "dimensions": {
+      "height": 6205,
+      "width": 9308
+    }
+  }
+}
