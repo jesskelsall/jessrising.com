@@ -1,0 +1,26 @@
+{
+  "title": "The Shoe Tree",
+  "meta": {
+    "location": "Ash Fell",
+    "tags": [],
+    "trip": "2025-05-03-wansfell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 1,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-03T16:46:03.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

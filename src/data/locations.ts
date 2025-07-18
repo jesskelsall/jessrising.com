@@ -353,6 +353,7 @@ export const locationHierarchy: LocationHierarchy = {
             },
             "Windermere Valley": {
               "🏘️ Ambleside": {},
+              Stockghyll: {},
             },
           },
         },

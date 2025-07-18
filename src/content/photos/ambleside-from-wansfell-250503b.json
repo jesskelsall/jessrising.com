@@ -1,0 +1,28 @@
+{
+  "title": "Ambleside from Wansfell",
+  "meta": {
+    "location": "Wansfell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-03-wansfell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 39,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-03T12:07:40.000+01:00",
+    "dimensions": {
+      "height": 5837,
+      "width": 8755
+    }
+  }
+}

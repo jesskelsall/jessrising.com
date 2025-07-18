@@ -1,0 +1,28 @@
+{
+  "title": "Ambleside Rooftops North",
+  "meta": {
+    "location": "Ambleside",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-03-wansfell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 58,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-03T14:14:35.000+01:00",
+    "dimensions": {
+      "height": 6188,
+      "width": 9283
+    }
+  }
+}

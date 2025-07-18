@@ -1,0 +1,29 @@
+{
+  "title": "Ambleside Rooftops West",
+  "meta": {
+    "location": "Ambleside",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-05-03-wansfell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 40,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-03T14:13:52.000+01:00",
+    "dimensions": {
+      "height": 6310,
+      "width": 9466
+    }
+  }
+}
