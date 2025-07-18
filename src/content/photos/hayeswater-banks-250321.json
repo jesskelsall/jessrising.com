@@ -1,0 +1,28 @@
+{
+  "title": "Hayeswater Banks",
+  "meta": {
+    "location": "Pasture Beck",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-21-above-hartsop-via-the-nab"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0025,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-21T08:04:12.000+00:00",
+    "dimensions": {
+      "height": 5415,
+      "width": 8123
+    }
+  }
+}

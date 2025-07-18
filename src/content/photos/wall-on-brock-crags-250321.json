@@ -1,0 +1,28 @@
+{
+  "title": "Wall on Brock Crags",
+  "meta": {
+    "location": "Brock Crags",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-03-21-above-hartsop-via-the-nab"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 37,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-21T11:22:48.000+00:00",
+    "dimensions": {
+      "height": 5631,
+      "width": 8447
+    }
+  }
+}

@@ -133,10 +133,14 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ Selside Pike": {},
             },
             "Martindale Common": {
+              "⛰️ Angletarn Pikes": {},
               "⛰️ Beda Fell": {},
+              "⛰️ Brock Crags": {},
               "⛰️ Hallin Fell": {},
               "⛰️ Place Fell": {},
+              "⛰️ Rest Dodd": {},
               "⛰️ Steel Knotts": {},
+              "⛰️ The Nab": {},
             },
             "Pasture Beck": {
               "⛰️ Gray Crag": {},

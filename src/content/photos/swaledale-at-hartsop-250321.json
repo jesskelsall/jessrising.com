@@ -1,0 +1,28 @@
+{
+  "title": "Swaledale at Hartsop",
+  "meta": {
+    "location": "Hartsop",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2025-03-21-above-hartsop-via-the-nab"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.008,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 400
+      }
+    },
+    "date": "2025-03-21T14:54:18.000+00:00",
+    "dimensions": {
+      "height": 5302,
+      "width": 7953
+    }
+  }
+}

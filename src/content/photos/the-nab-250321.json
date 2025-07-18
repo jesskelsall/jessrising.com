@@ -1,0 +1,28 @@
+{
+  "title": "The Nab",
+  "meta": {
+    "location": "The Nab",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 44,
+        "fStop": 9,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-21T09:55:24.000+00:00",
+    "dimensions": {
+      "height": 5755,
+      "width": 8633
+    }
+  }
+}
