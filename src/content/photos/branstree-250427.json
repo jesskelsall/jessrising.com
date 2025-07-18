@@ -1,0 +1,25 @@
+{
+  "title": "Branstree",
+  "meta": {
+    "location": "Branstree",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.48236388888889,
+      "long": -2.8072305555555555
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-04-27T10:34:15.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

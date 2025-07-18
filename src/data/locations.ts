@@ -150,6 +150,7 @@ export const locationHierarchy: LocationHierarchy = {
             },
             "Sleddale Fell": {
               "⛰️ Grey Crag": {},
+              Longsleddale: {},
               "⛰️ Tarn Crag (Sleddale)": {},
             },
             Troutbeck: {

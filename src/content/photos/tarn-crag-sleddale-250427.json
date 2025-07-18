@@ -1,0 +1,25 @@
+{
+  "title": "Tarn Crag (Sleddale)",
+  "meta": {
+    "location": "Tarn Crag (Sleddale)",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.463455555555555,
+      "long": -2.790588888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-04-27T09:24:20.000+01:00",
+    "dimensions": {
+      "height": 2803,
+      "width": 3737
+    }
+  }
+}

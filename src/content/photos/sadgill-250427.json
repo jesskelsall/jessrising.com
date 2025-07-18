@@ -1,0 +1,28 @@
+{
+  "title": "Sadgill",
+  "meta": {
+    "location": "Longsleddale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-27-above-longsleddale"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0125,
+        "focalLength": 70,
+        "fStop": 6.300000190736682,
+        "ISO": 200
+      }
+    },
+    "date": "2025-04-27T13:49:36.000+01:00",
+    "dimensions": {
+      "height": 6050,
+      "width": 9075
+    }
+  }
+}

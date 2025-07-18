@@ -1,0 +1,25 @@
+{
+  "title": "Grey Crag",
+  "meta": {
+    "location": "Grey Crag",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.45744444444445,
+      "long": -2.777238888888889
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-04-27T08:47:49.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

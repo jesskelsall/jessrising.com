@@ -1,0 +1,29 @@
+{
+  "title": "Upper Longsleddale",
+  "meta": {
+    "location": "Sleddale Fell",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-04-27-above-longsleddale"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 39,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-04-27T07:53:28.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "River Sprint Falls",
+  "meta": {
+    "location": "Sleddale Fell",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-04-27-above-longsleddale"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.25,
+        "focalLength": 31,
+        "fStop": 7.1,
+        "ISO": 50
+      }
+    },
+    "date": "2025-04-27T12:58:25.000+01:00",
+    "dimensions": {
+      "height": 6127,
+      "width": 9191
+    }
+  }
+}
