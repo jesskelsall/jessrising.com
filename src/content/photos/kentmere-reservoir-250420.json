@@ -1,0 +1,28 @@
+{
+  "title": "Kentmere Reservoir",
+  "meta": {
+    "location": "Froswick",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 37,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-20T09:51:49.000+01:00",
+    "dimensions": {
+      "height": 5971,
+      "width": 8956
+    }
+  }
+}

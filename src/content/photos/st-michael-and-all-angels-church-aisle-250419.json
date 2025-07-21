@@ -1,0 +1,29 @@
+{
+  "title": "St Michael and All Angels Church Aisle",
+  "meta": {
+    "location": "Hawkshead",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 43,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-19T15:14:26.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

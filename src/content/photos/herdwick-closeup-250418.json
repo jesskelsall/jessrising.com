@@ -1,0 +1,28 @@
+{
+  "title": "Herdwick Closeup",
+  "meta": {
+    "location": "Yew Tree Farm",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 279,
+        "fStop": 7.1,
+        "ISO": 320
+      }
+    },
+    "date": "2025-04-18T13:11:15.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

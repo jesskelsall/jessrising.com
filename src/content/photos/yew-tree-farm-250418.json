@@ -1,0 +1,29 @@
+{
+  "title": "Yew Tree Farm",
+  "meta": {
+    "location": "Yew Tree Farm",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 49,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-04-18T13:29:49.000+01:00",
+    "dimensions": {
+      "height": 5819,
+      "width": 8728
+    }
+  }
+}

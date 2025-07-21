@@ -1,0 +1,29 @@
+{
+  "title": "Holding a Herdwick Lamb",
+  "meta": {
+    "location": "Yew Tree Farm",
+    "tags": [
+      "People",
+      "Sheep"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.003125,
+        "focalLength": 42,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-18T12:31:32.000+01:00",
+    "dimensions": {
+      "height": 4977,
+      "width": 7466
+    }
+  }
+}

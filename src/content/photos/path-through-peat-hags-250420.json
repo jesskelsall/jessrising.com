@@ -1,0 +1,28 @@
+{
+  "title": "Path Through Peat Hags",
+  "meta": {
+    "location": "High Street Ridge",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 54,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-20T11:18:10.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

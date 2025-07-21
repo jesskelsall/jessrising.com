@@ -1,0 +1,28 @@
+{
+  "title": "A Home for Flowers and Pollinators",
+  "meta": {
+    "location": "Lingholm",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.002,
+        "focalLength": 51,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-04-19T09:56:19.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    }
+  }
+}

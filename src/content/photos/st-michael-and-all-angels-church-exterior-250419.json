@@ -1,0 +1,29 @@
+{
+  "title": "St Michael and All Angels Church Exterior",
+  "meta": {
+    "location": "Hawkshead",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 48,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-19T15:06:28.000+01:00",
+    "dimensions": {
+      "height": 6247,
+      "width": 9370
+    }
+  }
+}

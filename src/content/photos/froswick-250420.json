@@ -1,0 +1,28 @@
+{
+  "title": "Froswick",
+  "meta": {
+    "location": "Froswick",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 49,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-20T09:52:31.000+01:00",
+    "dimensions": {
+      "height": 6122,
+      "width": 9183
+    }
+  }
+}

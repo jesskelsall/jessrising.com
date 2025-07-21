@@ -1,0 +1,28 @@
+{
+  "title": "Windermere from Yoke",
+  "meta": {
+    "location": "Yoke",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-20T08:48:11.000+01:00",
+    "dimensions": {
+      "height": 6030,
+      "width": 9046
+    }
+  }
+}

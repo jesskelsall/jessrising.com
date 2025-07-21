@@ -1,0 +1,28 @@
+{
+  "title": "Yoke",
+  "meta": {
+    "location": "Yoke",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 63,
+        "fStop": 16,
+        "ISO": 400
+      }
+    },
+    "date": "2025-04-20T08:06:14.000+01:00",
+    "dimensions": {
+      "height": 5455,
+      "width": 8183
+    }
+  }
+}

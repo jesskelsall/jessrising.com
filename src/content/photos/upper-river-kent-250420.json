@@ -1,0 +1,28 @@
+{
+  "title": "Upper River Kent",
+  "meta": {
+    "location": "Froswick",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0015625,
+        "focalLength": 59,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-20T10:15:46.000+01:00",
+    "dimensions": {
+      "height": 5757,
+      "width": 8636
+    }
+  }
+}

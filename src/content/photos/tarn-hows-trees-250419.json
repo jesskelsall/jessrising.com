@@ -1,0 +1,28 @@
+{
+  "title": "Tarn Hows Trees",
+  "meta": {
+    "location": "Tarn Hows",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-04-17-lake-district"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 50,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-04-19T12:21:04.000+01:00",
+    "dimensions": {
+      "height": 5815,
+      "width": 8722
+    }
+  }
+}

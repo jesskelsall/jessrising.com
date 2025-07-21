@@ -128,6 +128,15 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ The Knott": {},
               "⛰️ Thornthwaite Crag": {},
             },
+            Kentmere: {
+              "⛰️ Froswick": {},
+              "⛰️ Harter Fell (Mardale)": {},
+              "⛰️ Ill Bell": {},
+              "⛰️ Kentmere Pike": {},
+              "⛰️ Mardale Ill Bell": {},
+              "⛰️ Shipman Knotts": {},
+              "⛰️ Yoke": {},
+            },
             "Mardale Common": {
               "⛰️ Branstree": {},
               "⛰️ Selside Pike": {},
@@ -354,6 +363,8 @@ export const locationHierarchy: LocationHierarchy = {
           },
           "South Lakes": {
             "Coniston Valley": {
+              "🏘️ Hawkshead": {},
+              "Tarn Hows": {},
               "🐑 Yew Tree Farm": {},
             },
             "Windermere Valley": {
