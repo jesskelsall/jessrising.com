@@ -1,5 +1,6 @@
 import { DateTime } from "luxon";
 import Link from "next/link";
+import { DetailedHTMLProps, HTMLAttributes } from "react";
 import { PHOTO_SIZE_SUFFIX } from "../consts/photo";
 import { useGalleryPhotoSlugs } from "../context/galleryPhotoSlugs";
 import { formatDateRange } from "../functions/date";
@@ -7,6 +8,12 @@ import { getImageSrcFromSlug } from "../functions/image";
 import { GalleryPhotoSlug } from "../types/brand";
 import { IMarkdownData } from "../types/markdownOld";
 import { Trip } from "../types/trip";
+
+// Typing workaround pre React 19 support
+const withInert = { inert: "true" } as unknown as DetailedHTMLProps<
+  HTMLAttributes<HTMLParagraphElement>,
+  HTMLParagraphElement
+>;
 
 export const Preview = ({
   date,
@@ -41,7 +48,11 @@ export const Preview = ({
           )}
         </p>
       )}
-      {description && <p className="m-0">{description}</p>}
+      {description && (
+        <p className="m-0" {...withInert}>
+          {description}
+        </p>
+      )}
     </div>
     {imageSlug && (
       <Link href={href}>
