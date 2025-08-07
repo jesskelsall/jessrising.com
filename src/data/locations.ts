@@ -34,18 +34,61 @@ export const locationHierarchy: LocationHierarchy = {
         "🏘️ Brough": {},
         "🏞️ Lake District": {
           "📒 Central Fells": {
-            "🪨 Castlerigg Stone Circle": {},
             Borrowdale: {
               "⛰️ Castle Crag": {},
               "🏘️ Seathwaite": {},
             },
-            "💧 Derwent Water": {},
-            "Grasmere to Loughrigg": {
-              "🏘️ Grasmere Village": {},
-              "Rydal Cave": {},
-              "White Moss Common": {},
+            "Castlerigg Fell": {
+              "⛰️ Bleaberry Fell": {},
+              "⛰️ Raven Crag": {},
+              "⛰️ Walla Crag": {},
             },
-            "St John's-in-the-Vale": {},
+            "🪨 Castlerigg Stone Circle": {},
+            "💧 Derwent Water": {},
+            "Grasmere & Rydal": {
+              "🏘️ Grasmere (Village)": {},
+              "💧 Grasmere (Lake)": {},
+              "⛰️ Loughrigg Fell": {},
+              "Rydal Cave": {},
+              "Rydal Water": {},
+            },
+            "Grasmere Common": {
+              "⛰️ Blea Rigg": {},
+              "⛰️ Calf Crag": {},
+              "⛰️ Gibson Knott": {},
+              "⛰️ Helm Crag": {},
+              "⛰️ High Raise (Langdale)": {},
+              "⛰️ Sergeant Man": {},
+              "⛰️ Silver How": {},
+              "⛰️ Steel Fell": {},
+              "⛰️ Tarn Crag (Easedale)": {},
+              "💧 Easedale Tarn": {},
+            },
+            Greenup: {
+              "⛰️ Eagle Crag": {},
+              "⛰️ Sergeant's Crag": {},
+            },
+            "Langdale Fell": {
+              "⛰️ Harrison Stickle": {},
+              "⛰️ Loft Crag": {},
+              "⛰️ Pavey Ark": {},
+              "⛰️ Pike O'Stickle": {},
+              "💧 Stickle Tarn": {},
+              "⛰️ Thunacar Knott": {},
+            },
+            "St John's-in-the-Vale": {
+              "⛰️ High Rigg": {},
+            },
+            "Watendlath Fell": {
+              "⛰️ Armboth Fell": {},
+              "⛰️ Grange Fell": {},
+              "⛰️ Great Crag": {},
+              "⛰️ High Seat": {},
+              "⛰️ High Tove": {},
+            },
+            "Wythburn Fell": {
+              "⛰️ Ullscarf": {},
+            },
           },
           "📒 Eastern Fells": {
             "Dalemain Mansion": {},

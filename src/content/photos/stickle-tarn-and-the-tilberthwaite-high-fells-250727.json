@@ -1,0 +1,28 @@
+{
+  "title": "Stickle Tarn and the Tilberthwaite High Fells",
+  "meta": {
+    "location": "Blea Rigg",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T13:33:31.000+01:00",
+    "dimensions": {
+      "height": 5945,
+      "width": 8917
+    }
+  }
+}

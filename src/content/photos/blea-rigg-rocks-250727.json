@@ -1,0 +1,28 @@
+{
+  "title": "Blea Rigg Rocks",
+  "meta": {
+    "location": "Blea Rigg",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 56,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T14:50:35.000+01:00",
+    "dimensions": {
+      "height": 5903,
+      "width": 8855
+    }
+  }
+}

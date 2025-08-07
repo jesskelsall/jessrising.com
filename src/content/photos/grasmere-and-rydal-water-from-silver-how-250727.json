@@ -1,0 +1,28 @@
+{
+  "title": "Grasmere and Rydal Water from Silver How",
+  "meta": {
+    "location": "Silver How",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 46,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T16:28:19.000+01:00",
+    "dimensions": {
+      "height": 5962,
+      "width": 8943
+    }
+  }
+}

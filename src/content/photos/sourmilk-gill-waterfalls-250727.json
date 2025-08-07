@@ -1,0 +1,29 @@
+{
+  "title": "Sourmilk Gill Waterfalls",
+  "meta": {
+    "location": "Easedale Tarn",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.025,
+        "focalLength": 28,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T08:38:28.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

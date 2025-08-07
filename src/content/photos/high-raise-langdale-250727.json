@@ -1,0 +1,28 @@
+{
+  "title": "High Raise (Langdale)",
+  "meta": {
+    "location": "High Raise (Langdale)",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 50,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T12:29:38.000+01:00",
+    "dimensions": {
+      "height": 6059,
+      "width": 9089
+    }
+  }
+}

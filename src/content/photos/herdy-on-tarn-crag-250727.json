@@ -1,0 +1,29 @@
+{
+  "title": "Herdy on Tarn Crag",
+  "meta": {
+    "location": "Tarn Crag (Easedale)",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.008,
+        "focalLength": 64,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T10:41:53.000+01:00",
+    "dimensions": {
+      "height": 6104,
+      "width": 9156
+    }
+  }
+}

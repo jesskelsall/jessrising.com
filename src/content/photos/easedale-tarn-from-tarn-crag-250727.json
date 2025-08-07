@@ -1,0 +1,28 @@
+{
+  "title": "Easedale Tarn from Tarn Crag",
+  "meta": {
+    "location": "Tarn Crag (Easedale)",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.003125,
+        "focalLength": 33,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T09:42:08.000+01:00",
+    "dimensions": {
+      "height": 5857,
+      "width": 8785
+    }
+  }
+}

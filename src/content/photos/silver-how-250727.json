@@ -1,28 +1,28 @@
 {
-  "title": "Longside Edge",
+  "title": "Silver How",
   "meta": {
-    "location": "Longside Edge",
+    "location": "Silver How",
     "tags": [
       "Wainwright"
     ],
     "trip": null
   },
   "exif": {
-    "date": "2024-04-27T10:58:35.000+01:00",
-    "dimensions": {
-      "height": 6336,
-      "width": 9504
-    },
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
+        "exposureBias": -0.3,
         "exposureTime": 0.04,
-        "focalLength": 46,
+        "focalLength": 33,
         "fStop": 16,
-        "ISO": 50
+        "ISO": 100
       }
+    },
+    "date": "2025-07-27T16:28:17.000+01:00",
+    "dimensions": {
+      "height": 5829,
+      "width": 8743
     }
   }
 }

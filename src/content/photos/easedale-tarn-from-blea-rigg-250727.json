@@ -1,0 +1,28 @@
+{
+  "title": "Easedale Tarn from Blea Rigg",
+  "meta": {
+    "location": "Blea Rigg",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-07-27-easedale-blea-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 53,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-27T13:55:44.000+01:00",
+    "dimensions": {
+      "height": 5783,
+      "width": 8674
+    }
+  }
+}
