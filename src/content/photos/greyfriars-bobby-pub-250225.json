@@ -1,0 +1,28 @@
+{
+  "title": "Greyfriars Bobby Pub",
+  "meta": {
+    "location": "Greyfriars Kirkyard",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-02-25-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.05,
+        "focalLength": 177,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-02-25T14:30:58.000+00:00",
+    "dimensions": {
+      "height": 5728,
+      "width": 8592
+    }
+  }
+}

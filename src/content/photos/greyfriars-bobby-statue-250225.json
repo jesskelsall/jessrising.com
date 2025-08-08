@@ -1,0 +1,26 @@
+{
+  "title": "Greyfriars Bobby Statue",
+  "meta": {
+    "location": "Greyfriars Kirkyard",
+    "tags": [],
+    "trip": "2025-02-25-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 154,
+        "fStop": 5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-02-25T14:37:14.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

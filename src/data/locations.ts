@@ -796,11 +796,19 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Lothian": {
         "Balgone Estate": {},
         "🏙️ Edinburgh": {
-          "Calton Hill": {},
-          "Princes Street": {},
+          "Edinburgh New Town": {
+            "Calton Hill": {},
+            "Circus Lane": {},
+            "Princes Street": {},
+            "Princes Street Gardens": {},
+          },
+          "Edinburgh Old Town": {
+            "Greyfriars Kirkyard": {},
+            "National Museum of Scotland": {},
+            "⛪️ Old Saint Paul's Scottish Episcopal Church": {},
+            "⛪️ St Giles' Cathedral": {},
+          },
           "Royal Botanic Garden Edinburgh": {},
-          "St Giles' Cathedral": {},
-          Stockbridge: {},
           "Water of Leith": {},
         },
         Haddington: {},

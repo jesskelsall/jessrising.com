@@ -1,0 +1,29 @@
+{
+  "title": "St Giles' Cathedral Construction",
+  "meta": {
+    "location": "St Giles' Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-02-25-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.5,
+        "focalLength": 29,
+        "fStop": 5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-02-25T13:51:29.000+00:00",
+    "dimensions": {
+      "height": 6188,
+      "width": 9283
+    }
+  }
+}
