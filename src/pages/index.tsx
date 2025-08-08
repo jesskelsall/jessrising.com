@@ -23,7 +23,7 @@ import { IMarkdownData, TMarkdownDataFile } from "../types/markdownOld";
 const blogPostsData = blogPostsJSON as TMarkdownDataFile;
 
 // If empty strings, the most recent is used instead
-export const FEATURED_BLOG_POST = "2023-12-21-2023-in-a-nutshell";
+export const FEATURED_BLOG_POST = "2025-02-12-2024-in-statistics";
 export const FEATURED_PHOTO = "";
 
 interface IProps {
