@@ -1,0 +1,28 @@
+{
+  "title": "Great Langdale from Loft Crag",
+  "meta": {
+    "location": "Loft Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-08-02-the-langdale-pikes"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 35,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-02T15:26:07.000+01:00",
+    "dimensions": {
+      "height": 5683,
+      "width": 8525
+    }
+  }
+}

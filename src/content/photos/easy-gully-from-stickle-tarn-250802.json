@@ -1,0 +1,28 @@
+{
+  "title": "Easy Gully from Stickle Tarn",
+  "meta": {
+    "location": "Stickle Tarn",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-08-02-the-langdale-pikes"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.003125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-02T10:22:43.000+01:00",
+    "dimensions": {
+      "height": 4871,
+      "width": 7307
+    }
+  }
+}

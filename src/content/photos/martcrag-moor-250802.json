@@ -1,0 +1,28 @@
+{
+  "title": "Martcrag Moor",
+  "meta": {
+    "location": "Pike O'Stickle",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-08-02-the-langdale-pikes"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 31,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-02T13:46:36.000+01:00",
+    "dimensions": {
+      "height": 5759,
+      "width": 8638
+    }
+  }
+}

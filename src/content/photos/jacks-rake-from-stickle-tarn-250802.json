@@ -1,0 +1,29 @@
+{
+  "title": "Jack's Rake from Stickle Tarn",
+  "meta": {
+    "location": "Stickle Tarn",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": "2025-08-02-the-langdale-pikes"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.003125,
+        "focalLength": 300,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-02T10:22:46.000+01:00",
+    "dimensions": {
+      "height": 5025,
+      "width": 7538
+    }
+  }
+}

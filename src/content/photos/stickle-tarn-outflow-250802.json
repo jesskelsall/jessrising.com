@@ -1,0 +1,29 @@
+{
+  "title": "Stickle Tarn Outflow",
+  "meta": {
+    "location": "Stickle Tarn",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-08-02-the-langdale-pikes"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0005,
+        "focalLength": 27,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-02T10:20:01.000+01:00",
+    "dimensions": {
+      "height": 4925,
+      "width": 7388
+    }
+  }
+}

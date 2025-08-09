@@ -1,0 +1,28 @@
+{
+  "title": "Pike O'Stickle",
+  "meta": {
+    "location": "Pike O'Stickle",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 34,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-02T13:41:54.000+01:00",
+    "dimensions": {
+      "height": 6109,
+      "width": 9164
+    }
+  }
+}
