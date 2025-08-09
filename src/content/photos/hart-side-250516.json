@@ -1,0 +1,25 @@
+{
+  "title": "Hart Side",
+  "meta": {
+    "location": "Hart Side",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.568694444444446,
+      "long": -2.992825
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-05-16T10:53:09.000+01:00",
+    "dimensions": {
+      "height": 2618,
+      "width": 3491
+    }
+  }
+}

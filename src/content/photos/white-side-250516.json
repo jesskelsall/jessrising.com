@@ -1,0 +1,25 @@
+{
+  "title": "White Side",
+  "meta": {
+    "location": "White Side",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null,
+    "gps": {
+      "lat": 54.54087777777777,
+      "long": -3.0249805555555556
+    }
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2025-05-16T12:53:15.000+01:00",
+    "dimensions": {
+      "height": 2939,
+      "width": 3919
+    }
+  }
+}

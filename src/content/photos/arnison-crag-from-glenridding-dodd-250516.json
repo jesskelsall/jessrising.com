@@ -1,0 +1,28 @@
+{
+  "title": "Arnison Crag from Glenridding Dodd",
+  "meta": {
+    "location": "Glenridding Dodd",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-16-glenridding-common-hart-side"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-16T07:36:42.000+01:00",
+    "dimensions": {
+      "height": 5737,
+      "width": 8606
+    }
+  }
+}
