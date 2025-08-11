@@ -6,12 +6,11 @@ export type PillRowProps = {
 };
 
 export const PillRow = ({ pills }: PillRowProps) => (
-  <>
-    {pills.map(({ emoji, href, title }, index) => (
+  <div className="flex flex-wrap gap-1">
+    {pills.map(({ emoji, href, title }) => (
       <React.Fragment key={title}>
-        {index > 0 && <>&nbsp;</>}
         <Pill emoji={emoji} href={href} title={title} />
       </React.Fragment>
     ))}
-  </>
+  </div>
 );
