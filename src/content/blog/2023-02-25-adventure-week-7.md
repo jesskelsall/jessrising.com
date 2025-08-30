@@ -197,7 +197,7 @@ When the road eventually ended at Ardnamurchan Lighthouse, I was not alone, but 
 
 <img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/coastline-to-coll-230224-lg.jpeg" />
 
-The drive back was easy going. At Salen I turned left, heading towards Mallaig via Kinlochmoidart. Here I would enjoy views of Loch Moidart and then the Sound of Arisaig. While scouring the horizon from the shore, I spotted the jagged peaks of the Black Cullin mountain range on the Isle of Skye, barely visible in the clouds behind Arisaig, 32 miles away.
+The drive back was easy going. At Salen I turned left, heading towards Mallaig via Kinlochmoidart. Here I would enjoy views of Loch Moidart and then the Sound of Arisaig. While scouring the horizon from the shore, I spotted the jagged peaks of the Black Cuillin mountain range on the Isle of Skye, barely visible in the clouds behind Arisaig, 32 miles away.
 
 <img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/glen-etive-12.jpeg" />
 

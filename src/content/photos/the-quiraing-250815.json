@@ -1,0 +1,29 @@
+{
+  "title": "The Quiraing",
+  "meta": {
+    "location": "The Quiraing",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 42,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-15T16:18:37.000+01:00",
+    "dimensions": {
+      "height": 5867,
+      "width": 8801
+    }
+  }
+}

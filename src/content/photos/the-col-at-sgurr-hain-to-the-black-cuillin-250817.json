@@ -1,0 +1,29 @@
+{
+  "title": "The Col at Sgùrr Hain to the Black Cuillin",
+  "meta": {
+    "location": "Sgùrr Hain",
+    "tags": [
+      "Landscape",
+      "Cairn"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.04,
+        "focalLength": 39,
+        "fStop": 16,
+        "ISO": 125
+      }
+    },
+    "date": "2025-08-17T14:07:58.000+01:00",
+    "dimensions": {
+      "height": 5987,
+      "width": 8981
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Ratagan Pass",
+  "meta": {
+    "location": "Ratagan Pass",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-15T08:38:14.000+01:00",
+    "dimensions": {
+      "height": 5718,
+      "width": 8577
+    }
+  }
+}

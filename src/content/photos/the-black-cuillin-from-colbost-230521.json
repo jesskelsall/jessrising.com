@@ -1,0 +1,27 @@
+{
+  "title": "The Black Cuillin From Colbost",
+  "meta": {
+    "gps": {
+      "lat": 57.45130833333334,
+      "long": -6.656175
+    },
+    "location": "Duirinish",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "White House"
+    ],
+    "trip": "2023-05-19-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max",
+      "lens": "Telephoto Camera"
+    },
+    "date": "2023-05-21T16:29:38.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

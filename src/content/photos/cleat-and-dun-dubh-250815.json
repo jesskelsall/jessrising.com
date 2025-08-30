@@ -1,0 +1,29 @@
+{
+  "title": "Cleat and Dùn Dubh",
+  "meta": {
+    "location": "The Quiraing",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.001,
+        "focalLength": 36,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-15T16:25:35.000+01:00",
+    "dimensions": {
+      "height": 5699,
+      "width": 8548
+    }
+  }
+}

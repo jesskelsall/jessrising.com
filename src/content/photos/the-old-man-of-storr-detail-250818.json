@@ -1,0 +1,29 @@
+{
+  "title": "The Old Man of Storr Detail",
+  "meta": {
+    "location": "The Storr",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-18T09:37:49.000+01:00",
+    "dimensions": {
+      "height": 6133,
+      "width": 9201
+    }
+  }
+}

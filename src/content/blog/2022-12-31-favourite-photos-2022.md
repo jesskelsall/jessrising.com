@@ -72,7 +72,7 @@ That descent was a nightmare due to boggy conditions, slippery rocks, slick gras
 
 Despite its muted tones and its nature as a by-product of a day photographing waterfalls, I find myself continually drawn to this photo. It is no wonder that it has spent three months as my phone wallpaper, reminding me that inclement weather is merely an excuse to stay away from adventures outdoors.
 
-## #3: Sunset Over the Black Cullin
+## #3: Sunset Over the Black Cuillin
 
 <img src="https://s3.eu-west-2.amazonaws.com/jessrising.com/sunset-over-the-black-cullin-220604-lg.jpeg" />
 
@@ -80,7 +80,7 @@ This year three vistas brought me to tears. Perhaps then unsurprisingly, they al
 
 In June, my friend Rin and I travelled to Loch Alsh and the Isle of Skye - the latter is somewhere I've wanted to visit for a very long time. This day saw us drive eight hours to the edge of the island, only venturing onto it for dinner; the following day we would experience its main draws first hand. This evening saw us wander the area between Kyle of Lochalsh and Shiel Bridge, then over to Sandaig where this photo was taken. Our original goal was a place with views of the Sandaig Islands, but the trail was too overgrown and the daylight waning. After turning back, we checked out further along the road, which climbed the hillside and revealed this view.
 
-It is impossible to resist a sunset this orange, particularly one over your destination. The [Cullin](https://en.wikipedia.org/wiki/Cuillin) is visible on the horizon to the left, jagged mountain peaks signposting Skye's heartland. We got out of the car, took some photos, then allowed the sunset to take us as it developed, capping an unforgettable day wandering the highlands.
+It is impossible to resist a sunset this orange, particularly one over your destination. The [Cuillin](https://en.wikipedia.org/wiki/Cuillin) is visible on the horizon to the left, jagged mountain peaks signposting Skye's heartland. We got out of the car, took some photos, then allowed the sunset to take us as it developed, capping an unforgettable day wandering the highlands.
 
 ## #2: The Jacobite Crosses Glenfinnan Viaduct
 
@@ -100,4 +100,4 @@ With my friend Rin, we spent the Jubilee Bank holiday in the area, only explorin
 
 After a short hike in scarcely believable 20°C sunny weather, we summited a dome-shaped hill overlooking the jagged rock formations and I cried. If I would have had a bucket list, a very cathartic line would have been scored across it.
 
-Beyond the longing and payoff, this photo sells the dramatic nature of this place - the rock formations on one side, and the gorgeous coastlines fading off into the distance on the other. The [Cullin](https://en.wikipedia.org/wiki/Cuillin), my favourite mountain range in the entire United Kingdom, are almost an afterthought - the most well-known peaks are hidden behind the Old Man. A typically uninteresting clear sky does mean an unobscured view across Skye and onto the Scottish mainland, and the colour contrast of blue and green could not be stronger here. It is well composed, though that is not hard considering I took over 200 photos from this spot alone, afraid I might never return to this stunning place and regret bad photos for the rest of my days.
+Beyond the longing and payoff, this photo sells the dramatic nature of this place - the rock formations on one side, and the gorgeous coastlines fading off into the distance on the other. The [Cuillin](https://en.wikipedia.org/wiki/Cuillin), my favourite mountain range in the entire United Kingdom, are almost an afterthought - the most well-known peaks are hidden behind the Old Man. A typically uninteresting clear sky does mean an unobscured view across Skye and onto the Scottish mainland, and the colour contrast of blue and green could not be stronger here. It is well composed, though that is not hard considering I took over 200 photos from this spot alone, afraid I might never return to this stunning place and regret bad photos for the rest of my days.

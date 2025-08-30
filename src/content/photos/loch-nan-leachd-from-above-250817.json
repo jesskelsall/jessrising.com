@@ -1,0 +1,28 @@
+{
+  "title": "Loch nan Leachd from Above",
+  "meta": {
+    "location": "Sgùrr na Strì",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.01,
+        "focalLength": 221,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    },
+    "date": "2025-08-17T12:51:20.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

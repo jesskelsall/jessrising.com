@@ -640,12 +640,12 @@ export const locationHierarchy: LocationHierarchy = {
           Balintore: {},
           "🏞️ Kintail": {
             Balmacara: {},
-            "Eilean Donan Castle": {},
+            "🏰 Eilean Donan Castle": {},
             Glenelg: {},
             Glenshiel: {},
-            "Kyle of Lochalsh": {},
+            "🏘️ Kyle of Lochalsh": {},
             "Ratagan Pass": {},
-            "Strath Croe": {},
+            "⛪️ St Dubhthac's Church": {},
           },
           "Loch Carron": {
             Attadale: {},
@@ -743,6 +743,7 @@ export const locationHierarchy: LocationHierarchy = {
           },
           Dunvegan: {},
           Mingnish: {},
+          Sconser: {},
           Sleat: {
             Armadale: {},
             Isleornsay: {},
@@ -752,10 +753,17 @@ export const locationHierarchy: LocationHierarchy = {
           Strathaird: {
             Elgol: {},
           },
-          "The Cullins": {
-            "Fairy Pools": {},
-            "Loch Coruisk": {},
-            Sligachan: {},
+          "🏞️ The Cuillin Hills": {
+            "Black Cuillin": {
+              "Fairy Pools": {},
+              "Loch Coruisk": {},
+              "⛰️ Sgùrr Hain": {},
+              "⛰️ Sgùrr na Strì": {},
+            },
+            "Red Cuillin": {},
+            "Glen Sligachan": {
+              "Sligachan Old Bridge": {},
+            },
           },
           Trotternish: {
             "Duntulm Castle": {},
@@ -767,9 +775,11 @@ export const locationHierarchy: LocationHierarchy = {
             "Skye Museum of Island Life": {},
             "The Quiraing": {},
             "The Storr": {},
-            Uig: {},
+            "🏘️ Uig": {},
           },
-          Waternish: {},
+          Waternish: {
+            "🏘️ Stein": {},
+          },
         },
         "🏝️ Tiree": {
           Balephetrish: {},

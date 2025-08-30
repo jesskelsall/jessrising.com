@@ -1,0 +1,24 @@
+{
+  "title": "The Cuillin From Bealach na Bà",
+  "meta": {
+    "gps": {
+      "lat": 57.41858611111111,
+      "long": -5.708547222222222
+    },
+    "location": "Bealach na Bà",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2023-04-14-north-coast-500"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-17T17:44:50.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}

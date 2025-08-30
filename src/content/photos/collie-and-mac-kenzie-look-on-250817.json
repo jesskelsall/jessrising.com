@@ -1,0 +1,30 @@
+{
+  "title": "Collie and MacKenzie Look On",
+  "meta": {
+    "location": "Sligachan Old Bridge",
+    "tags": [
+      "Landscape",
+      "Mist",
+      "Sunrise/Sunset"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.05,
+        "focalLength": 49,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-17T06:22:31.000+01:00",
+    "dimensions": {
+      "height": 6062,
+      "width": 9094
+    }
+  }
+}

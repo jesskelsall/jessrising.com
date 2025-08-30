@@ -1,0 +1,30 @@
+{
+  "title": "The Road Through Glen Shiel",
+  "meta": {
+    "location": "Glenshiel",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Road"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-15T08:11:16.000+01:00",
+    "dimensions": {
+      "height": 5747,
+      "width": 8621
+    }
+  }
+}

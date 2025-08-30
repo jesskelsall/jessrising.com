@@ -1,0 +1,25 @@
+{
+  "title": "St Dubhthac's Graveyard 1",
+  "meta": {
+    "gps": {
+      "lat": 57.23392777777778,
+      "long": -5.404341666666667
+    },
+    "location": "St Dubhthac's Church",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-04T23:01:58.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

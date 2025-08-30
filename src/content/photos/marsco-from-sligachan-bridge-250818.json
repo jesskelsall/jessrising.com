@@ -1,0 +1,29 @@
+{
+  "title": "Marsco from Sligachan Bridge",
+  "meta": {
+    "location": "Sligachan Old Bridge",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 51,
+        "fStop": 6.300000190736682,
+        "ISO": 200
+      }
+    },
+    "date": "2025-08-18T20:40:49.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}

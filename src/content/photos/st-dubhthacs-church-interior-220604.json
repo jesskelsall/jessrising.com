@@ -1,0 +1,26 @@
+{
+  "title": "St Dubhthac's Church Interior",
+  "meta": {
+    "gps": {
+      "lat": 57.233891666666665,
+      "long": -5.4043222222222225
+    },
+    "location": "St Dubhthac's Church",
+    "tags": [
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": "2022-06-04-isle-of-skye"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 11 Pro Max",
+      "lens": "Main Camera"
+    },
+    "date": "2022-06-04T22:57:41.000+01:00",
+    "dimensions": {
+      "height": 3024,
+      "width": 4032
+    }
+  }
+}

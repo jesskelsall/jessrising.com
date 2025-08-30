@@ -1,0 +1,28 @@
+{
+  "title": "Rubha Port Sgàile",
+  "meta": {
+    "location": "Sgùrr na Strì",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 32,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-17T12:38:00.000+01:00",
+    "dimensions": {
+      "height": 6065,
+      "width": 9098
+    }
+  }
+}

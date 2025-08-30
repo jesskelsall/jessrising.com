@@ -1,0 +1,28 @@
+{
+  "title": "Window to the Cuillin",
+  "meta": {
+    "gps": {
+      "lat": 57.35906111111111,
+      "long": -5.555955555555555
+    },
+    "location": "Strome Castle",
+    "tags": [
+      "Landscape",
+      "Castle",
+      "Ruin",
+      "Loch",
+      "Snow"
+    ],
+    "trip": "2023-04-14-north-coast-500"
+  },
+  "exif": {
+    "camera": {
+      "name": "Apple iPhone 14 Pro Max"
+    },
+    "date": "2023-04-15T12:09:12.000+01:00",
+    "dimensions": {
+      "height": 3010,
+      "width": 4014
+    }
+  }
+}
