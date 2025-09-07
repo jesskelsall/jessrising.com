@@ -39,6 +39,7 @@ export const locationHierarchy: LocationHierarchy = {
               "🏘️ Seathwaite": {},
             },
             "Castlerigg Fell": {
+              "Ashness Bridge": {},
               "⛰️ Bleaberry Fell": {},
               "⛰️ Raven Crag": {},
               "⛰️ Walla Crag": {},

@@ -1,0 +1,29 @@
+{
+  "title": "Barroweck",
+  "meta": {
+    "location": "Ashness Bridge",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-09-06-walla-crag-to-armboth-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 29,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-06T07:20:13.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

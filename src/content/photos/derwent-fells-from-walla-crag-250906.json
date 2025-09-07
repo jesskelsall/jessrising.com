@@ -1,0 +1,28 @@
+{
+  "title": "Derwent Fells from Walla Crag",
+  "meta": {
+    "location": "Walla Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-09-06-walla-crag-to-armboth-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 54,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-06T08:36:42.000+01:00",
+    "dimensions": {
+      "height": 6005,
+      "width": 9007
+    }
+  }
+}

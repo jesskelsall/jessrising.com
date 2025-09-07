@@ -1,0 +1,29 @@
+{
+  "title": "Ashness Bridge",
+  "meta": {
+    "location": "Ashness Bridge",
+    "tags": [
+      "Landscape",
+      "Bridge"
+    ],
+    "trip": "2025-09-06-walla-crag-to-armboth-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 33,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-06T07:15:34.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

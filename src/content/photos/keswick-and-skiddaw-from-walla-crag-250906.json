@@ -1,0 +1,28 @@
+{
+  "title": "Keswick and Skiddaw from Walla Crag",
+  "meta": {
+    "location": "Walla Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-09-06-walla-crag-to-armboth-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 70,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-06T08:30:03.000+01:00",
+    "dimensions": {
+      "height": 6080,
+      "width": 9120
+    }
+  }
+}

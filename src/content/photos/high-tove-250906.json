@@ -1,0 +1,33 @@
+{
+  "title": "High Tove",
+  "meta": {
+    "location": "High Tove",
+    "tags": [
+      "Landscape",
+      "Cairn",
+      "Wainwright"
+    ],
+    "trip": "2025-09-06-walla-crag-to-armboth-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 67,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-06T11:11:17.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}
