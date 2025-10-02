@@ -1,0 +1,29 @@
+{
+  "title": "Boat Below the Black Cuillin",
+  "meta": {
+    "location": "Elgol",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 200,
+        "fStop": 9,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-16T18:19:34.000+01:00",
+    "dimensions": {
+      "height": 6001,
+      "width": 9002
+    }
+  }
+}

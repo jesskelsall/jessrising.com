@@ -1,14 +1,14 @@
 {
-  "title": "Glenelg Ferry Departing",
+  "title": "The Five Sisters of Kintail",
   "meta": {
     "gps": {
-      "lat": 57.22967222222223,
-      "long": -5.654619444444445
+      "lat": 57.22170555555556,
+      "long": -5.472997222222222
     },
-    "location": "Glenelg",
+    "location": "Ratagan Pass",
     "tags": [
       "Landscape",
-      "Boat"
+      "Loch"
     ],
     "trip": "2023-05-19-isle-of-skye"
   },
@@ -17,7 +17,7 @@
       "name": "Apple iPhone 14 Pro Max",
       "lens": "Main Camera"
     },
-    "date": "2023-05-22T10:48:14.000+01:00",
+    "date": "2023-05-22T11:16:56.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

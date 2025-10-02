@@ -1,0 +1,29 @@
+{
+  "title": "MV Glenachulish From the Café",
+  "meta": {
+    "location": "Glenelg Ferry",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-16T16:32:16.000+01:00",
+    "dimensions": {
+      "height": 6065,
+      "width": 9098
+    }
+  }
+}

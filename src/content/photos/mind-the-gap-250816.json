@@ -1,12 +1,9 @@
 {
-  "title": "St Dubhthac's Church Eastward",
+  "title": "Mind the Gap",
   "meta": {
-    "location": "St Dubhthac's Church",
+    "location": "Attadale",
     "tags": [
-      "Landscape",
-      "Church/Cathedral",
-      "Clouds",
-      "Ruin"
+      "Landscape"
     ],
     "trip": null
   },
@@ -15,14 +12,14 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.3,
+        "exposureBias": 0,
         "exposureTime": 0.04,
         "focalLength": 31,
-        "fStop": 7.1,
+        "fStop": 16,
         "ISO": 100
       }
     },
-    "date": "2025-08-15T08:58:50.000+01:00",
+    "date": "2025-08-16T09:28:41.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

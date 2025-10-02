@@ -1,0 +1,29 @@
+{
+  "title": "The Black Cuillin From Sandaig",
+  "meta": {
+    "location": "Sandaig",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.04,
+        "focalLength": 70,
+        "fStop": 22,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-16T15:28:59.000+01:00",
+    "dimensions": {
+      "height": 6073,
+      "width": 9110
+    }
+  }
+}

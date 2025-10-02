@@ -1,0 +1,31 @@
+{
+  "title": "Eilean Donan Castle From the Car Park",
+  "meta": {
+    "location": "Eilean Donan Castle",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Castle",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 50,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-16T13:29:05.000+01:00",
+    "dimensions": {
+      "height": 6334,
+      "width": 9501
+    }
+  }
+}

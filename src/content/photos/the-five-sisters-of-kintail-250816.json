@@ -1,0 +1,28 @@
+{
+  "title": "The Five Sisters of Kintail",
+  "meta": {
+    "location": "Ratagan Pass",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 65,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-16T14:49:33.000+01:00",
+    "dimensions": {
+      "height": 6254,
+      "width": 9381
+    }
+  }
+}

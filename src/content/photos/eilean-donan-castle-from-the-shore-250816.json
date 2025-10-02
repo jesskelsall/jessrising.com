@@ -1,0 +1,31 @@
+{
+  "title": "Eilean Donan Castle From the Shore",
+  "meta": {
+    "location": "Eilean Donan Castle",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Castle",
+      "Loch"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 39,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-16T13:23:08.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    }
+  }
+}

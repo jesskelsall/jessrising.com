@@ -1,12 +1,12 @@
 {
-  "title": "The Five Sisters",
+  "title": "North Strome",
   "meta": {
-    "location": "Ratagan Pass",
+    "location": "Strome Castle",
     "tags": [
       "Landscape",
-      "Snow"
+      "White House"
     ],
-    "trip": "2024-12-06-isle-of-skye"
+    "trip": null
   },
   "exif": {
     "camera": {
@@ -14,13 +14,13 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.3,
-        "exposureTime": 0.01,
-        "focalLength": 41,
-        "fStop": 2.8,
+        "exposureTime": 0.005,
+        "focalLength": 65,
+        "fStop": 5,
         "ISO": 100
       }
     },
-    "date": "2024-12-08T15:18:01.000+00:00",
+    "date": "2025-08-16T10:17:50.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

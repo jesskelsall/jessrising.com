@@ -624,7 +624,9 @@ export const locationHierarchy: LocationHierarchy = {
           "Duncansby Head": {},
           "Noss Head": {},
         },
-        "🏞️ Knoydart": {},
+        "🏞️ Knoydart": {
+          Sandaig: {},
+        },
         "🏞️ Loch Shiel": {
           Glenfinnan: {},
         },
@@ -642,7 +644,7 @@ export const locationHierarchy: LocationHierarchy = {
           "🏞️ Kintail": {
             Balmacara: {},
             "🏰 Eilean Donan Castle": {},
-            Glenelg: {},
+            "⛴️ Glenelg Ferry": {},
             Glenshiel: {},
             "🏘️ Kyle of Lochalsh": {},
             "Ratagan Pass": {},
@@ -753,6 +755,7 @@ export const locationHierarchy: LocationHierarchy = {
           },
           Strathaird: {
             Elgol: {},
+            "Loch Slapin": {},
           },
           "🏞️ The Cuillin Hills": {
             "Black Cuillin": {

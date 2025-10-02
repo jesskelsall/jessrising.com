@@ -4,9 +4,10 @@
     "location": "Loch Slapin",
     "tags": [
       "Landscape",
-      "Loch"
+      "Loch",
+      "White House"
     ],
-    "trip": "2024-08-10-isle-of-skye"
+    "trip": null
   },
   "exif": {
     "camera": {
@@ -14,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.7,
-        "exposureTime": 0.005,
-        "focalLength": 45,
-        "fStop": 2.8,
-        "ISO": 100
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 160
       }
     },
-    "date": "2024-08-11T19:04:33.000+01:00",
+    "date": "2025-08-16T17:48:34.000+01:00",
     "dimensions": {
-      "height": 5991,
-      "width": 8986
+      "height": 5935,
+      "width": 8902
     }
   }
 }

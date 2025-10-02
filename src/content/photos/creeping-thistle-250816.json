@@ -1,0 +1,28 @@
+{
+  "title": "Creeping Thistle",
+  "meta": {
+    "location": "Kyle of Lochalsh",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.02,
+        "focalLength": 400,
+        "fStop": 10,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-16T12:46:12.000+01:00",
+    "dimensions": {
+      "height": 5733,
+      "width": 8599
+    }
+  }
+}
