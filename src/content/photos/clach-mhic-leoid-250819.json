@@ -1,0 +1,29 @@
+{
+  "title": "Clach Mhic Leòid",
+  "meta": {
+    "location": "Horgabost",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 57,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-19T13:37:40.000+01:00",
+    "dimensions": {
+      "height": 6246,
+      "width": 9370
+    }
+  }
+}

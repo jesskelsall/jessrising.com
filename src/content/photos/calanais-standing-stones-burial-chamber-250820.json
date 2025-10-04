@@ -1,0 +1,29 @@
+{
+  "title": "Calanais Standing Stones Burial Chamber",
+  "meta": {
+    "location": "Callanish",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.05,
+        "focalLength": 44,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-08-20T06:13:02.000+01:00",
+    "dimensions": {
+      "height": 6139,
+      "width": 9209
+    }
+  }
+}

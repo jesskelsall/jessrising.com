@@ -1,0 +1,29 @@
+{
+  "title": "Craobhag",
+  "meta": {
+    "location": "Tarbert (Harris)",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 190,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-08-19T11:05:34.000+01:00",
+    "dimensions": {
+      "height": 5454,
+      "width": 8181
+    }
+  }
+}

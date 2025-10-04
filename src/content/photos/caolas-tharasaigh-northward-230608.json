@@ -1,0 +1,29 @@
+{
+  "title": "Caolas Tharasaigh Northward",
+  "meta": {
+    "location": "Seilebost",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2023-06-03-outer-hebrides"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 29,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2023-06-08T12:42:54.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Mànais",
+  "meta": {
+    "location": "Mànais",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "White House"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-20T09:57:45.000+01:00",
+    "dimensions": {
+      "height": 6051,
+      "width": 9076
+    }
+  }
+}

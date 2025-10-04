@@ -1,28 +1,26 @@
 {
-  "title": "Uig",
+  "title": "MV Hebrides Boarding",
   "meta": {
     "location": "Uig",
     "tags": [
       "Landscape",
-      "Clouds",
-      "Coast",
-      "Annual Top 100"
+      "Boat"
     ],
-    "trip": "2024-12-06-isle-of-skye"
+    "trip": "2025-08-15-skye-lewis-harris"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
-        "exposureTime": 0.001,
-        "focalLength": 29,
-        "fStop": 2.8,
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 32,
+        "fStop": 7.1,
         "ISO": 100
       }
     },
-    "date": "2024-12-08T10:57:56.000+00:00",
+    "date": "2025-08-19T09:25:40.000+01:00",
     "dimensions": {
       "height": 6304,
       "width": 9457

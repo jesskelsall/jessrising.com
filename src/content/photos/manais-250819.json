@@ -1,12 +1,13 @@
 {
-  "title": "Caolas Tharasaigh",
+  "title": "Mànais",
   "meta": {
-    "location": "Seilebost",
+    "location": "Mànais",
     "tags": [
       "Landscape",
-      "Coast"
+      "Coast",
+      "White House"
     ],
-    "trip": "2023-06-03-outer-hebrides"
+    "trip": "2025-08-15-skye-lewis-harris"
   },
   "exif": {
     "camera": {
@@ -15,15 +16,15 @@
       "settings": {
         "exposureBias": 0,
         "exposureTime": 0.003125,
-        "focalLength": 29,
-        "fStop": 8,
+        "focalLength": 70,
+        "fStop": 4,
         "ISO": 100
       }
     },
-    "date": "2023-06-08T12:42:54.000+01:00",
+    "date": "2025-08-19T16:11:44.000+01:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 5968,
+      "width": 8952
     }
   }
 }

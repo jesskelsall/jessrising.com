@@ -1,0 +1,30 @@
+{
+  "title": "Mealasta Bay",
+  "meta": {
+    "location": "Mealasta",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.004,
+        "focalLength": 42,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-21T13:48:56.000+01:00",
+    "dimensions": {
+      "height": 6054,
+      "width": 9081
+    }
+  }
+}

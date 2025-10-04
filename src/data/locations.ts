@@ -849,22 +849,38 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "🏝️ Lewis & Harris": {
           Harris: {
-            "North Harris": {},
+            "North Harris": {
+              "Aird a' Mhulaidh": {},
+              "🚗 B887": {
+                Hushinish: {},
+              },
+            },
+            "🏝️ Scalpay": {
+              "Eilean Glas Lighthouse": {},
+            },
             "South Harris": {
-              Hushinish: {},
+              Fionnsabhagh: {},
+              "🚗 Harris Golden Road": {},
+              Horgabost: {},
               Luskentyre: {},
+              Mànais: {},
+              Roghadal: {},
               Seilebost: {},
             },
             "Sound of Harris": {},
             "Tarbert (Harris)": {},
           },
           Lewis: {
+            "🚗 B8011": {
+              Mangarstadh: {},
+              Mealasta: {},
+              "Uig Bay": {},
+            },
             "Butt of Lewis": {},
             Callanish: {},
             Carloway: {},
-            Crowlista: {},
             "Eye Peninsula": {},
-            "Great Bernera": {},
+            "🏝️ Great Bernera": {},
             Stornoway: {},
           },
         },

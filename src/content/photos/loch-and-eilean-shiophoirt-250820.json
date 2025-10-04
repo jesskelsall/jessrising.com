@@ -1,0 +1,29 @@
+{
+  "title": "Loch and Eilean Shìophoirt",
+  "meta": {
+    "location": "Aird a' Mhulaidh",
+    "tags": [
+      "Landscape",
+      "Loch"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 128,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-20T07:45:07.000+01:00",
+    "dimensions": {
+      "height": 5975,
+      "width": 8963
+    }
+  }
+}

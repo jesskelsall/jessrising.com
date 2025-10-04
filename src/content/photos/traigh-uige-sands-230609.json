@@ -1,0 +1,29 @@
+{
+  "title": "Tràigh Ùige Sands",
+  "meta": {
+    "location": "Uig Bay",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": "2023-06-03-outer-hebrides"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 69,
+        "fStop": 22,
+        "ISO": 125
+      }
+    },
+    "date": "2023-06-09T13:15:35.000+01:00",
+    "dimensions": {
+      "height": 6094,
+      "width": 9141
+    }
+  }
+}

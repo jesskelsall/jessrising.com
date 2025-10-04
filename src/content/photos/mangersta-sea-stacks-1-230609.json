@@ -1,9 +1,11 @@
 {
-  "title": "Where Lewis and Harris Meet",
+  "title": "Mangersta Sea Stacks 1",
   "meta": {
-    "location": "North Harris",
+    "location": "Mangarstadh",
     "tags": [
-      "Landscape"
+      "Landscape",
+      "Coast",
+      "Annual Top 100"
     ],
     "trip": "2023-06-03-outer-hebrides"
   },
@@ -13,16 +15,16 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.02,
-        "focalLength": 47,
+        "exposureTime": 0.025,
+        "focalLength": 32,
         "fStop": 22,
-        "ISO": 160
+        "ISO": 200
       }
     },
-    "date": "2023-06-08T18:57:42.000+01:00",
+    "date": "2023-06-09T12:39:58.000+01:00",
     "dimensions": {
-      "height": 6033,
-      "width": 9050
+      "height": 6336,
+      "width": 9504
     }
   }
 }

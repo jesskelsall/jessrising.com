@@ -1,0 +1,30 @@
+{
+  "title": "Calanais Standing Stones Southward",
+  "meta": {
+    "location": "Callanish",
+    "tags": [
+      "Landscape",
+      "Loch",
+      "Ruin"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 67,
+        "fStop": 16,
+        "ISO": 200
+      }
+    },
+    "date": "2025-08-20T06:27:46.000+01:00",
+    "dimensions": {
+      "height": 6020,
+      "width": 9030
+    }
+  }
+}

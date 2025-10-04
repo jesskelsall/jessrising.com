@@ -1,0 +1,30 @@
+{
+  "title": "Tràigh Iar Dunes",
+  "meta": {
+    "location": "Horgabost",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-19T14:02:52.000+01:00",
+    "dimensions": {
+      "height": 6100,
+      "width": 9150
+    }
+  }
+}

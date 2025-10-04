@@ -1,0 +1,30 @@
+{
+  "title": "Ceann a' Bhaigh",
+  "meta": {
+    "location": "Scalpay",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Ruin"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-20T13:17:25.000+01:00",
+    "dimensions": {
+      "height": 3099,
+      "width": 4649
+    }
+  }
+}

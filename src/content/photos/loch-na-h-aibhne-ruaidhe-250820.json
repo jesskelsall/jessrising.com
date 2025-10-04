@@ -1,0 +1,30 @@
+{
+  "title": "Loch na h-Aibhne Ruaidhe",
+  "meta": {
+    "location": "Lewis",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Loch"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 43,
+        "fStop": 13,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-20T13:54:10.000+01:00",
+    "dimensions": {
+      "height": 6211,
+      "width": 9317
+    }
+  }
+}

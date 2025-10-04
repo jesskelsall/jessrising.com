@@ -1,0 +1,29 @@
+{
+  "title": "Tràigh Rosamol Sands",
+  "meta": {
+    "location": "Luskentyre",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-19T12:33:09.000+01:00",
+    "dimensions": {
+      "height": 5478,
+      "width": 8217
+    }
+  }
+}

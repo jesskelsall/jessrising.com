@@ -1,0 +1,29 @@
+{
+  "title": "House at Roghadal",
+  "meta": {
+    "location": "Roghadal",
+    "tags": [
+      "Landscape",
+      "White House"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-19T14:59:06.000+01:00",
+    "dimensions": {
+      "height": 6098,
+      "width": 9147
+    }
+  }
+}

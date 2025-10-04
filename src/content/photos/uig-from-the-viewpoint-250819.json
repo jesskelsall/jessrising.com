@@ -1,0 +1,28 @@
+{
+  "title": "Uig From the Viewpoint",
+  "meta": {
+    "location": "Uig",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-08-15-skye-lewis-harris"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.01,
+        "focalLength": 132,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-19T08:04:50.000+01:00",
+    "dimensions": {
+      "height": 5778,
+      "width": 8667
+    }
+  }
+}
