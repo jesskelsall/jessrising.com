@@ -1,0 +1,29 @@
+{
+  "title": "Fingal's Cauldron Seat",
+  "meta": {
+    "location": "Machrie Moor",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-09T17:36:46.000+01:00",
+    "dimensions": {
+      "height": 5660,
+      "width": 8490
+    }
+  }
+}

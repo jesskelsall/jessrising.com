@@ -1,0 +1,30 @@
+{
+  "title": "Corrie Sheep Harbour Cleats",
+  "meta": {
+    "location": "Corrie",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Sheep"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-10T13:27:45.000+01:00",
+    "dimensions": {
+      "height": 4755,
+      "width": 7133
+    }
+  }
+}

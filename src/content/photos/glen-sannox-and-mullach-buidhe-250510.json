@@ -1,0 +1,28 @@
+{
+  "title": "Glen Sannox and Mullach Buidhe",
+  "meta": {
+    "location": "North Goatfell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 24,
+        "fStop": 11,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-10T08:50:15.000+01:00",
+    "dimensions": {
+      "height": 6073,
+      "width": 9110
+    }
+  }
+}

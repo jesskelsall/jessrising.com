@@ -1,0 +1,31 @@
+{
+  "title": "A Land of Gorse",
+  "meta": {
+    "location": "Lochranza",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Gorse",
+      "White House"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 150,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-09T15:49:09.000+01:00",
+    "dimensions": {
+      "height": 5198,
+      "width": 7797
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Blackface at Machrie Moor",
+  "meta": {
+    "location": "Machrie Moor",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-09T17:02:21.000+01:00",
+    "dimensions": {
+      "height": 3097,
+      "width": 4646
+    }
+  }
+}

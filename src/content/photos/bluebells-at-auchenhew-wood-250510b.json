@@ -1,0 +1,28 @@
+{
+  "title": "Bluebells at Auchenhew Wood",
+  "meta": {
+    "location": "Auchenhew Wood",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 400,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-10T17:30:52.000+01:00",
+    "dimensions": {
+      "height": 5862,
+      "width": 8793
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Brodick Castle Hut Interior",
+  "meta": {
+    "location": "Brodick Castle",
+    "tags": [
+      "Interior"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 28,
+        "fStop": 4.5,
+        "ISO": 400
+      }
+    },
+    "date": "2025-05-09T11:46:22.000+01:00",
+    "dimensions": {
+      "height": 6161,
+      "width": 9241
+    }
+  }
+}

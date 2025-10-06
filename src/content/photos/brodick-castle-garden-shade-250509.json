@@ -1,0 +1,28 @@
+{
+  "title": "Brodick Castle Garden Shade",
+  "meta": {
+    "location": "Brodick Castle",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.025,
+        "focalLength": 38,
+        "fStop": 16,
+        "ISO": 250
+      }
+    },
+    "date": "2025-05-09T12:03:30.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

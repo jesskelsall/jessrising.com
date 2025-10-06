@@ -1,0 +1,29 @@
+{
+  "title": "Wild Garlic in Auchenhew Wood",
+  "meta": {
+    "location": "Auchenhew Wood",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 46,
+        "fStop": 7.1,
+        "ISO": 400
+      }
+    },
+    "date": "2025-05-10T16:56:08.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

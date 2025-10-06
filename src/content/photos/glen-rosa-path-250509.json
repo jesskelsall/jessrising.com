@@ -1,0 +1,28 @@
+{
+  "title": "Glen Rosa Path",
+  "meta": {
+    "location": "Glen Rosa",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.008,
+        "focalLength": 33,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-09T08:27:42.000+01:00",
+    "dimensions": {
+      "height": 5868,
+      "width": 8802
+    }
+  }
+}

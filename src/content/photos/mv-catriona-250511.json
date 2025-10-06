@@ -1,0 +1,29 @@
+{
+  "title": "MV Catriona",
+  "meta": {
+    "location": "Lochranza",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.005,
+        "focalLength": 50,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-11T08:48:59.000+01:00",
+    "dimensions": {
+      "height": 6018,
+      "width": 9027
+    }
+  }
+}

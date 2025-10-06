@@ -1,0 +1,30 @@
+{
+  "title": "Sunrise Over Lamlash Bay",
+  "meta": {
+    "location": "Lamlash",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 164,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-05-11T05:27:15.000+01:00",
+    "dimensions": {
+      "height": 6246,
+      "width": 9370
+    }
+  }
+}

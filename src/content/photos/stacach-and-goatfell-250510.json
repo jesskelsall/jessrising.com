@@ -1,0 +1,28 @@
+{
+  "title": "Stacach and Goatfell",
+  "meta": {
+    "location": "North Goatfell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.003125,
+        "focalLength": 54,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-10T09:28:30.000+01:00",
+    "dimensions": {
+      "height": 6053,
+      "width": 9080
+    }
+  }
+}

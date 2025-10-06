@@ -1,0 +1,28 @@
+{
+  "title": "Fishing Boat Boxes",
+  "meta": {
+    "location": "Tarbert (Kintyre)",
+    "tags": [
+      "Boat"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 40,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-11T11:15:32.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

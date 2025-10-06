@@ -1,0 +1,28 @@
+{
+  "title": "Brodick and Holy Island From Goatfell",
+  "meta": {
+    "location": "Goatfell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 123,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-10T10:47:32.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

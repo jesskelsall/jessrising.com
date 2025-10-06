@@ -537,6 +537,23 @@ export const locationHierarchy: LocationHierarchy = {
         Crovie: {},
         "Rattray Head": {},
       },
+      "🗺️ Ayrshire": {
+        "🏝️ Arran": {
+          "🌲 Auchenhew Wood": {},
+          "🏘️ Brodick": {},
+          "🏰 Brodick Castle": {},
+          "🏘️ Corrie": {},
+          "🏘️ Lamlash": {},
+          "🏘️ Lochranza": {},
+          "Machrie Moor": {},
+          "🏞️ North Arran": {
+            "Glen Rosa": {},
+            "Glen Sannox": {},
+            "⛰️ Goatfell": {},
+            "⛰️ North Goatfell": {},
+          },
+        },
+      },
       "🗺️ Argyll & Bute": {
         Appin: {},
         Cowal: {

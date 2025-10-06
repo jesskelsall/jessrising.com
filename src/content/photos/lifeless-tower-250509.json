@@ -1,0 +1,28 @@
+{
+  "title": "Lifeless Tower",
+  "meta": {
+    "location": "Brodick Castle",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-08-isle-of-arran"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 29,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-09T11:52:02.000+01:00",
+    "dimensions": {
+      "height": 6058,
+      "width": 9087
+    }
+  }
+}
