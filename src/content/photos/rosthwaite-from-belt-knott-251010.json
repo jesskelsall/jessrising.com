@@ -1,0 +1,28 @@
+{
+  "title": "Rosthwaite From Belt Knott",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-10-10-watendlath-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 31,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-10T16:12:01.000+01:00",
+    "dimensions": {
+      "height": 5767,
+      "width": 8650
+    }
+  }
+}

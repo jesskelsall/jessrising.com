@@ -1,0 +1,29 @@
+{
+  "title": "Lingy End",
+  "meta": {
+    "location": "Great Crag",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2025-10-10-watendlath-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.02,
+        "focalLength": 42,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-10-10T10:49:17.000+01:00",
+    "dimensions": {
+      "height": 6156,
+      "width": 9234
+    }
+  }
+}

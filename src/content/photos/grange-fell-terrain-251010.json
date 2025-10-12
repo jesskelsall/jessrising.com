@@ -1,0 +1,28 @@
+{
+  "title": "Grange Fell Terrain",
+  "meta": {
+    "location": "Grange Fell",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-10-10-watendlath-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 40,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-10T15:22:39.000+01:00",
+    "dimensions": {
+      "height": 6093,
+      "width": 9139
+    }
+  }
+}

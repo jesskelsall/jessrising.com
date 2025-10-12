@@ -86,6 +86,8 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ Great Crag": {},
               "⛰️ High Seat": {},
               "⛰️ High Tove": {},
+              "🌳 Huddleston's Shop": {},
+              "🏘️ Watendlath": {},
             },
             "Wythburn Fell": {
               "⛰️ Ullscarf": {},
@@ -529,6 +531,7 @@ export const locationHierarchy: LocationHierarchy = {
             "🏘️ Appletreewick": {},
           },
         },
+        "Yorkshire Lavender": {},
       },
     },
     "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland": {
@@ -1097,6 +1100,7 @@ export const locationHierarchy: LocationHierarchy = {
     },
     "🗺️ Suðurland": {
       "Golden Circle": {
+        "💦 Faxafoss": {},
         "🚗 Route 37": {
           "💦 Brúarfoss": {},
           "💦 Geysir Hot Springs": {},
@@ -1140,6 +1144,7 @@ export const locationHierarchy: LocationHierarchy = {
         Gjáin: {},
         Háifoss: {},
         Þjóðveldisbærinn: {},
+        Stöng: {},
       },
       "🏔️ Vatnajökull": {
         Breiðamerkurjökull: {

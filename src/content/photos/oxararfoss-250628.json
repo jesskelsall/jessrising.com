@@ -1,26 +1,26 @@
 {
-  "title": "Gjáin Pool",
+  "title": "Öxarárfoss",
   "meta": {
-    "location": "Gjáin",
+    "location": "Þingvellir",
     "tags": [
       "Landscape",
       "Waterfall"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
-        "exposureTime": 0.03333333333333333,
-        "focalLength": 55,
-        "fStop": 2.8,
-        "ISO": 100
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 24,
+        "fStop": 7.1,
+        "ISO": 50
       }
     },
-    "date": "2024-08-30T14:35:20.000+01:00",
+    "date": "2025-06-28T10:45:04.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

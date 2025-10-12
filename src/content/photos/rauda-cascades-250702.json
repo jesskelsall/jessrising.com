@@ -1,0 +1,29 @@
+{
+  "title": "Rauðá Cascades",
+  "meta": {
+    "location": "Gjáin",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.2,
+        "focalLength": 63,
+        "fStop": 13,
+        "ISO": 50
+      }
+    },
+    "date": "2025-07-02T12:37:10.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

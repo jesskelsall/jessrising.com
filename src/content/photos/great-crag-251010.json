@@ -1,0 +1,28 @@
+{
+  "title": "Great Crag",
+  "meta": {
+    "location": "Great Crag",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.125,
+        "focalLength": 70,
+        "fStop": 16,
+        "ISO": 160
+      }
+    },
+    "date": "2025-10-10T12:07:31.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

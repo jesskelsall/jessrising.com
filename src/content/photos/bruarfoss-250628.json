@@ -1,0 +1,29 @@
+{
+  "title": "Brúarfoss",
+  "meta": {
+    "location": "Brúarfoss",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 48,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-28T12:29:28.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

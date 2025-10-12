@@ -1,0 +1,28 @@
+{
+  "title": "Lavender Field Details",
+  "meta": {
+    "location": "Yorkshire Lavender",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-08-10-yorkshire-lavender"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.01,
+        "focalLength": 185,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-08-10T14:22:59.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

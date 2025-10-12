@@ -1,26 +1,26 @@
 {
-  "title": "Faxafoss",
+  "title": "Gjáin Waterfall",
   "meta": {
-    "location": "Golden Circle",
+    "location": "Gjáin",
     "tags": [
       "Landscape",
       "Waterfall"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0.3,
-        "exposureTime": 0.002,
-        "focalLength": 70,
-        "fStop": 2.8,
-        "ISO": 100
+        "exposureBias": -0.7,
+        "exposureTime": 0.05,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 50
       }
     },
-    "date": "2024-08-28T12:45:46.000+01:00",
+    "date": "2025-07-02T12:51:34.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

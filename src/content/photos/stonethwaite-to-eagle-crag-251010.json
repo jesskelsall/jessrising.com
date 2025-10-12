@@ -1,0 +1,28 @@
+{
+  "title": "Stonethwaite to Eagle Crag",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-10-10-watendlath-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 59,
+        "fStop": 7.1,
+        "ISO": 200
+      }
+    },
+    "date": "2025-10-10T09:38:49.000+01:00",
+    "dimensions": {
+      "height": 6075,
+      "width": 9113
+    }
+  }
+}

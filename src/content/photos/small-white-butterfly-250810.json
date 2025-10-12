@@ -1,0 +1,28 @@
+{
+  "title": "Small White Butterfly",
+  "meta": {
+    "location": "Yorkshire Lavender",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-08-10-yorkshire-lavender"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.003125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 250
+      }
+    },
+    "date": "2025-08-10T14:12:14.000+01:00",
+    "dimensions": {
+      "height": 2856,
+      "width": 4284
+    }
+  }
+}
