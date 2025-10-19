@@ -1094,9 +1094,12 @@ export const locationHierarchy: LocationHierarchy = {
       },
       Kolugljúfur: {},
     },
-    "🏙️ Reykjavík": {
-      Perlan: {},
-      Skólavörðustígur: {},
+    "🗺️ Höfuðborgarsvæðið": {
+      "🌊 Faxaflói": {},
+      "🏙️ Reykjavík": {
+        Perlan: {},
+        Skólavörðustígur: {},
+      },
     },
     "🗺️ Suðurland": {
       "Golden Circle": {
@@ -1147,13 +1150,19 @@ export const locationHierarchy: LocationHierarchy = {
         Stöng: {},
       },
       "🏔️ Vatnajökull": {
-        Breiðamerkurjökull: {
-          Breiðamerkursandur: {},
-          "Breiðamerkurjökull Ice Caves": {},
-          Jökulsárlón: {},
+        "🧊 Breiðamerkurjökull": {
+          "🌊 Breiðamerkursandur": {},
+          "🧊 Breiðamerkurjökull Ice Caves": {},
+          "💧 Jökulsárlón": {},
         },
-        Öræfajökull: {},
-        Reynivellir: {},
+        "🏔️ Öræfajökull": {
+          "💧 Fjallsárlón": {},
+          "🏘️ Hof": {},
+          "🧊 Kvíárjökull": {},
+          "⛰️ Skaftafellsheiði": {},
+          "🧊 Svínafellsjökull": {},
+        },
+        "🏘️ Reynivellir": {},
       },
     },
     "🗺️ Suðurnes": {},

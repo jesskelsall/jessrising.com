@@ -1,12 +1,12 @@
 {
-  "title": "Hofskirkja",
+  "title": "Hundafoss",
   "meta": {
-    "location": "Hof",
+    "location": "Skaftafellsheiði",
     "tags": [
       "Landscape",
-      "Church/Cathedral"
+      "Waterfall"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
@@ -14,13 +14,13 @@
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
         "exposureBias": -0.7,
-        "exposureTime": 0.0015625,
-        "focalLength": 39,
-        "fStop": 2.8,
-        "ISO": 100
+        "exposureTime": 0.25,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 50
       }
     },
-    "date": "2024-08-25T14:24:07.000+01:00",
+    "date": "2025-06-29T09:43:32.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

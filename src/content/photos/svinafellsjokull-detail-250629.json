@@ -1,26 +1,25 @@
 {
-  "title": "Svínafellsjökull",
+  "title": "Svínafellsjökull Detail",
   "meta": {
     "location": "Svínafellsjökull",
     "tags": [
-      "Landscape",
-      "Snow"
+      "Landscape"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "lens": "Sony FE 100-400mm GM",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.001,
-        "focalLength": 185,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 206,
         "fStop": 5.6,
-        "ISO": 200
+        "ISO": 100
       }
     },
-    "date": "2024-08-25T12:21:58.000+01:00",
+    "date": "2025-06-29T12:04:00.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

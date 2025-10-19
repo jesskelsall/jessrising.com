@@ -1,0 +1,30 @@
+{
+  "title": "Diamond Beach Ice",
+  "meta": {
+    "location": "Breiðamerkursandur",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 50,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T14:48:46.000+01:00",
+    "dimensions": {
+      "height": 5778,
+      "width": 8668
+    }
+  }
+}

@@ -1,26 +1,26 @@
 {
-  "title": "Hofskirkja",
+  "title": "Harpa From the Harbour",
   "meta": {
-    "location": "Hof",
+    "location": "Reykjavík",
     "tags": [
       "Landscape",
-      "Church/Cathedral"
+      "Boat"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
-        "exposureTime": 0.0015625,
-        "focalLength": 39,
-        "fStop": 2.8,
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 64,
+        "fStop": 4.5,
         "ISO": 100
       }
     },
-    "date": "2024-08-25T14:24:07.000+01:00",
+    "date": "2025-07-03T13:09:47.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

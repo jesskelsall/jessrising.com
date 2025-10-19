@@ -1,0 +1,28 @@
+{
+  "title": "Skeiðará",
+  "meta": {
+    "location": "Skaftafellsheiði",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0125,
+        "focalLength": 175,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T10:11:00.000+01:00",
+    "dimensions": {
+      "height": 5665,
+      "width": 8498
+    }
+  }
+}

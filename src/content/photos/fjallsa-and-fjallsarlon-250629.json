@@ -1,0 +1,28 @@
+{
+  "title": "Fjallsá and Fjallsárlón",
+  "meta": {
+    "location": "Fjallsárlón",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 41,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T13:42:34.000+01:00",
+    "dimensions": {
+      "height": 5795,
+      "width": 8693
+    }
+  }
+}

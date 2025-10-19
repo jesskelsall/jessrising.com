@@ -1,29 +1,29 @@
 {
-  "title": "Fjallsjökull",
+  "title": "Breiðamerkurjökull From Jökulsárlón",
   "meta": {
-    "location": "Fjallsárlón",
+    "location": "Jökulsárlón",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "trip": "2024-08-24-iceland"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "lens": "Sony FE 100-400mm GM",
       "settings": {
         "exposureBias": 0,
         "exposureTime": 0.002,
-        "focalLength": 196,
+        "focalLength": 268,
         "fStop": 5.6,
         "ISO": 100
       }
     },
-    "date": "2024-08-25T15:37:41.000+01:00",
+    "date": "2025-06-29T15:26:02.000+01:00",
     "dimensions": {
-      "height": 6115,
-      "width": 9173
+      "height": 6166,
+      "width": 9249
     }
   }
 }

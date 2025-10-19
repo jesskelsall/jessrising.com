@@ -1,0 +1,26 @@
+{
+  "title": "Humpback Whale Tail",
+  "meta": {
+    "location": "Faxaflói",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-07-03T14:10:58.000+01:00",
+    "dimensions": {
+      "height": 4141,
+      "width": 6211
+    }
+  }
+}

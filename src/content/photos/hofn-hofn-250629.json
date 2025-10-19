@@ -1,0 +1,29 @@
+{
+  "title": "Höfn Höfn",
+  "meta": {
+    "location": "Höfn",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.01,
+        "focalLength": 70,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T18:58:42.000+01:00",
+    "dimensions": {
+      "height": 5514,
+      "width": 8271
+    }
+  }
+}

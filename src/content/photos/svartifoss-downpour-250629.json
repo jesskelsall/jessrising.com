@@ -1,0 +1,28 @@
+{
+  "title": "Svartifoss Downpour",
+  "meta": {
+    "location": "Skaftafellsheiði",
+    "tags": [
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 274,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T10:48:29.000+01:00",
+    "dimensions": {
+      "height": 5905,
+      "width": 8858
+    }
+  }
+}

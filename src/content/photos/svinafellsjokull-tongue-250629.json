@@ -1,10 +1,11 @@
 {
-  "title": "Lupins at Faxafoss",
+  "title": "Svínafellsjökull Tongue",
   "meta": {
-    "location": "Faxafoss",
+    "location": "Svínafellsjökull",
     "tags": [
-      "Flowers & Insects",
-      "Waterfall"
+      "Landscape",
+      "Clouds",
+      "Snow"
     ],
     "trip": null
   },
@@ -16,14 +17,14 @@
         "exposureBias": 0,
         "exposureTime": 0.005,
         "focalLength": 100,
-        "fStop": 8,
-        "ISO": 160
+        "fStop": 4.5,
+        "ISO": 100
       }
     },
-    "date": "2025-07-02T10:33:04.000+01:00",
+    "date": "2025-06-29T11:59:57.000+01:00",
     "dimensions": {
-      "height": 6206,
-      "width": 9309
+      "height": 6093,
+      "width": 9139
     }
   }
 }

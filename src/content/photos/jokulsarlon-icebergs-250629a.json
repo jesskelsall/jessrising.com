@@ -1,0 +1,29 @@
+{
+  "title": "Jökulsárlón Icebergs",
+  "meta": {
+    "location": "Jökulsárlón",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 128,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T15:17:17.000+01:00",
+    "dimensions": {
+      "height": 6274,
+      "width": 9412
+    }
+  }
+}

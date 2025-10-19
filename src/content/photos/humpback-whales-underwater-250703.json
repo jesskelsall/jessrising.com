@@ -1,0 +1,26 @@
+{
+  "title": "Humpback Whales Underwater",
+  "meta": {
+    "location": "Faxaflói",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.008,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 125
+      }
+    },
+    "date": "2025-07-03T14:13:24.000+01:00",
+    "dimensions": {
+      "height": 6071,
+      "width": 9107
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Diamond Beach Ice Wave Crash",
+  "meta": {
+    "location": "Breiðamerkursandur",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 150,
+        "fStop": 9,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-29T14:38:38.000+01:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9367
+    }
+  }
+}
