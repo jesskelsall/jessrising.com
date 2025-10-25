@@ -1,0 +1,28 @@
+{
+  "title": "Puffin Wreckage Peekaboo",
+  "meta": {
+    "location": "Vestmannaeyjar",
+    "tags": [
+      "Bird"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 400,
+        "fStop": 7.1,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-30T13:48:38.000+01:00",
+    "dimensions": {
+      "height": 3623,
+      "width": 5434
+    }
+  }
+}

@@ -1164,6 +1164,16 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "🏘️ Reynivellir": {},
       },
+      "🗺️ Vestmannaeyjar": {
+        "⛰️ Heimaklettur": {},
+        "Nýja Hraun": {
+          "⛰️ Eldfell": {},
+        },
+        "⛪️ Stafkirkjan": {},
+        "🏘️ Vestmannaeyjabær": {
+          "⚓️ Vestmannaeyjahöfn": {},
+        },
+      },
     },
     "🗺️ Suðurnes": {},
     "🗺️ Vesturland": {

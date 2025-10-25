@@ -1,0 +1,28 @@
+{
+  "title": "Puffins on Heimaklettur",
+  "meta": {
+    "location": "Heimaklettur",
+    "tags": [
+      "Bird"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-30T09:50:55.000+01:00",
+    "dimensions": {
+      "height": 4451,
+      "width": 6676
+    }
+  }
+}

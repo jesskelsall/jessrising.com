@@ -1,0 +1,28 @@
+{
+  "title": "Stafkirkjan Door",
+  "meta": {
+    "location": "Stafkirkjan",
+    "tags": [
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 56,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-30T10:20:18.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Vestmannaeyjahöfn Boats",
+  "meta": {
+    "location": "Vestmannaeyjahöfn",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 59,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-30T14:17:55.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

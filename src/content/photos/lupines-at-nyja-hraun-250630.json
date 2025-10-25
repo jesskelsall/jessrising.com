@@ -1,0 +1,29 @@
+{
+  "title": "Lupines at Nýja Hraun",
+  "meta": {
+    "location": "Nýja Hraun",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 38,
+        "fStop": 9,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-30T15:49:21.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

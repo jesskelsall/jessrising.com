@@ -1,0 +1,28 @@
+{
+  "title": "Vestmannaeyjabær From Heimaklettur",
+  "meta": {
+    "location": "Heimaklettur",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 107,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-30T09:45:23.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

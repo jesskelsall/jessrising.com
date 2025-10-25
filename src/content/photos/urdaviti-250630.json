@@ -1,0 +1,29 @@
+{
+  "title": "Urðaviti",
+  "meta": {
+    "location": "Nýja Hraun",
+    "tags": [
+      "Landscape",
+      "Lighthouse"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 61,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-30T12:17:04.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Kirkjubæjarbraut",
+  "meta": {
+    "location": "Vestmannaeyjabær",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 33,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-30T12:31:31.000+01:00",
+    "dimensions": {
+      "height": 5206,
+      "width": 7810
+    }
+  }
+}
