@@ -1,0 +1,30 @@
+{
+  "title": "River Allen Cascade",
+  "meta": {
+    "location": "Allen Banks & Staward Gorge",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Waterfall"
+    ],
+    "trip": "2025-10-26-allen-banks-staward-gorge"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.2,
+        "focalLength": 51,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-10-26T08:19:28.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "River Allen From Above",
+  "meta": {
+    "location": "Allen Banks & Staward Gorge",
+    "tags": [
+      "Landscape",
+      "Forest",
+      "Waterfall"
+    ],
+    "trip": "2025-10-26-allen-banks-staward-gorge"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-10-26T08:15:04.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

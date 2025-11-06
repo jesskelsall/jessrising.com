@@ -1,0 +1,29 @@
+{
+  "title": "Durham Cathedral From Wharton Park",
+  "meta": {
+    "location": "Wharton Park",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-10-25-autumn-in-the-lake-district-durham"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 70,
+        "fStop": 5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-10-25T14:21:05.000+01:00",
+    "dimensions": {
+      "height": 4900,
+      "width": 7350
+    }
+  }
+}

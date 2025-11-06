@@ -1,0 +1,28 @@
+{
+  "title": "Gowbarrow Fell",
+  "meta": {
+    "location": "Gowbarrow Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.25,
+        "focalLength": 42,
+        "fStop": 16,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-24T09:49:00.000+01:00",
+    "dimensions": {
+      "height": 5854,
+      "width": 8795
+    }
+  }
+}

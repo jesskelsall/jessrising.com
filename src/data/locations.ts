@@ -16,7 +16,8 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ County Durham": {
         Beamish: {},
         "🏙️ Durham": {
-          "Durham Cathedral": {},
+          "⛪️ Durham Cathedral": {},
+          "🌳 Wharton Park": {},
         },
         Home: {},
         "🏞️ North Pennines": {
@@ -29,7 +30,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Raby Castle": {},
       },
       "🗺️ Cumbria": {
-        "🌳 Acorn Bank": {},
+        "🌲 Acorn Bank": {},
         "🏘️ Brampton": {},
         "🏘️ Brough": {},
         "🏞️ Lake District": {
@@ -80,6 +81,7 @@ export const locationHierarchy: LocationHierarchy = {
             "St John's-in-the-Vale": {
               "⛰️ High Rigg": {},
             },
+            "💧 Thirlmere": {},
             "Watendlath Fell": {
               "⛰️ Armboth Fell": {},
               "⛰️ Grange Fell": {},
@@ -98,6 +100,7 @@ export const locationHierarchy: LocationHierarchy = {
             "Deepdale Common": {
               "⛰️ Arnison Crag": {},
               "⛰️ Birks": {},
+              "🏘️ Patterdale": {},
               "⛰️ St Sunday Crag": {},
             },
             Dovedale: {
@@ -315,6 +318,7 @@ export const locationHierarchy: LocationHierarchy = {
             },
           },
           "📒 Southern Fells": {
+            "💧 Blea Tarn": {},
             "Coniston Fells": {
               "⛰️ The Old Man of Coniston": {},
             },
@@ -324,6 +328,7 @@ export const locationHierarchy: LocationHierarchy = {
               "Lingcove Beck": {},
             },
             Langdale: {},
+            "Little Langdale": {},
             "Stockley Bridge": {},
           },
           "📒 Western Fells": {
@@ -452,6 +457,7 @@ export const locationHierarchy: LocationHierarchy = {
         "Tanfield Railway": {},
       },
       "🗺️ Northumberland": {
+        "🌲 Allen Banks & Staward Gorge": {},
         Alnwick: {
           "Alnwick Garden": {},
           "Barter Books": {},

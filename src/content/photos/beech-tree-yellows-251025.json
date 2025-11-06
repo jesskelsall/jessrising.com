@@ -1,0 +1,26 @@
+{
+  "title": "Beech Tree Yellows",
+  "meta": {
+    "location": "Wharton Park",
+    "tags": [],
+    "trip": "2025-10-25-autumn-in-the-lake-district-durham"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 40,
+        "fStop": 4.5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-10-25T14:06:30.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

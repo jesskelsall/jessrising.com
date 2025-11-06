@@ -1,0 +1,29 @@
+{
+  "title": "Sheep at Dockray",
+  "meta": {
+    "location": "Gowbarrow Fell",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2025-10-24-gowbarrow-fell-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 51,
+        "fStop": 5,
+        "ISO": 125
+      }
+    },
+    "date": "2025-10-24T08:59:48.000+01:00",
+    "dimensions": {
+      "height": 6142,
+      "width": 9214
+    }
+  }
+}

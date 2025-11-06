@@ -1,0 +1,29 @@
+{
+  "title": "St Patrick's Church, Patterdale",
+  "meta": {
+    "location": "Patterdale",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-10-24-gowbarrow-fell-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 51,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-24T12:43:54.000+01:00",
+    "dimensions": {
+      "height": 5720,
+      "width": 8580
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Blea Tarn to the Langdale Pikes",
+  "meta": {
+    "location": "Blea Tarn",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-10-25-autumn-in-the-lake-district-durham"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 42,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-10-25T10:48:36.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

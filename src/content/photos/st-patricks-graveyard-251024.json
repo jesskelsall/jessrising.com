@@ -1,0 +1,28 @@
+{
+  "title": "St Patrick's Graveyard",
+  "meta": {
+    "location": "Patterdale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-10-24-gowbarrow-fell-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.04,
+        "focalLength": 38,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-24T12:46:37.000+01:00",
+    "dimensions": {
+      "height": 6156,
+      "width": 9234
+    }
+  }
+}

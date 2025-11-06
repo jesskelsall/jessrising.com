@@ -1,0 +1,29 @@
+{
+  "title": "Ullswater and Sandwick",
+  "meta": {
+    "location": "Gowbarrow Fell",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-10-24-gowbarrow-fell-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 67,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-24T10:25:58.000+01:00",
+    "dimensions": {
+      "height": 6183,
+      "width": 9275
+    }
+  }
+}

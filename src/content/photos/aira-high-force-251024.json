@@ -1,0 +1,29 @@
+{
+  "title": "Aira High Force",
+  "meta": {
+    "location": "Aira Force",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-10-24-gowbarrow-fell-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.625,
+        "focalLength": 30,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-24T08:24:36.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

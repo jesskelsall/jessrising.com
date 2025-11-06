@@ -1,0 +1,29 @@
+{
+  "title": "Trail Between the Trees",
+  "meta": {
+    "location": "Aira Force",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2025-10-24-gowbarrow-fell-aira-force"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 54,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-10-24T11:50:11.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
