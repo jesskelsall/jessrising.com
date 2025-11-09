@@ -1186,7 +1186,9 @@ export const locationHierarchy: LocationHierarchy = {
       Grábrók: {},
       Snæfellsnes: {
         "Snæfellsnes North Coast": {
-          Hellissandur: {},
+          "🏘️ Hellissandur": {
+            "⛪️ Ingjaldshólskirkja": {},
+          },
           Kirkjufell: {},
           Ólafsvík: {},
           Stykkishólmur: {},
@@ -1198,6 +1200,7 @@ export const locationHierarchy: LocationHierarchy = {
         "🏞️ Snæfellsjökulsþjóðgarður": {
           Djúpalónssandur: {},
           Lóndrangar: {},
+          "🔦 Vatnshellir Lava Caves": {},
         },
       },
     },

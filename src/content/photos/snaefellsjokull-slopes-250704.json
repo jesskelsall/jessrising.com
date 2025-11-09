@@ -1,0 +1,29 @@
+{
+  "title": "Snæfellsjökull Slopes",
+  "meta": {
+    "location": "Snæfellsjökulsþjóðgarður",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 154,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-04T14:37:36.000+01:00",
+    "dimensions": {
+      "height": 6176,
+      "width": 9264
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Snæfellsnes South Coast",
+  "meta": {
+    "location": "Snæfellsnes South Coast",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Coast"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.001,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-04T09:24:19.000+01:00",
+    "dimensions": {
+      "height": 6216,
+      "width": 9324
+    }
+  }
+}
