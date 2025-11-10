@@ -1,0 +1,30 @@
+{
+  "title": "Class 170 at Dunkeld & Birnam",
+  "meta": {
+    "location": "Dunkeld & Birnam",
+    "tags": [
+      "Landscape",
+      "People",
+      "Rail"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.02,
+        "focalLength": 173,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-10-31T13:31:42.000+00:00",
+    "dimensions": {
+      "height": 6055,
+      "width": 9083
+    }
+  }
+}

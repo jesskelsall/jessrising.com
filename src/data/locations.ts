@@ -935,6 +935,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Perth & Kinross": {
+        "🚆 Dunkeld & Birnam": {},
         "🏞️ Loch Rannoch & Glen Lyon": {
           "Dunalasdair Estate": {},
           "Garry Bridge": {},
@@ -971,6 +972,7 @@ export const locationHierarchy: LocationHierarchy = {
         "🏝️ Yell": {},
       },
       "🗺️ Stirling Council": {
+        "🦅 Argaty Red Kites": {},
         "🏘️ Dunblane": {},
       },
     },

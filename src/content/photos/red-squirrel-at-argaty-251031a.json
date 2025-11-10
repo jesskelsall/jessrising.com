@@ -1,0 +1,26 @@
+{
+  "title": "Red Squirrel at Argaty",
+  "meta": {
+    "location": "Argaty Red Kites",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -2,
+        "exposureTime": 0.025,
+        "focalLength": 342,
+        "fStop": 5.6,
+        "ISO": 500
+      }
+    },
+    "date": "2025-10-31T10:09:55.000+00:00",
+    "dimensions": {
+      "height": 4719,
+      "width": 7079
+    }
+  }
+}
