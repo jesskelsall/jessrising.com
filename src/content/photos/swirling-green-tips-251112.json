@@ -1,0 +1,28 @@
+{
+  "title": "Swirling Green Tips",
+  "meta": {
+    "location": "North Charlton",
+    "tags": [
+      "Aurora"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4 GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 1,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 2000
+      }
+    },
+    "date": "2025-11-12T03:04:52.000+00:00",
+    "dimensions": {
+      "height": 6335,
+      "width": 9503
+    }
+  }
+}
