@@ -1,0 +1,29 @@
+{
+  "title": "Kind in the Lupines",
+  "meta": {
+    "location": "Route 261",
+    "tags": [
+      "Flowers & Insects",
+      "Sheep"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0125,
+        "focalLength": 367,
+        "fStop": 10,
+        "ISO": 160
+      }
+    },
+    "date": "2025-07-01T19:03:18.000+01:00",
+    "dimensions": {
+      "height": 5280,
+      "width": 7920
+    }
+  }
+}

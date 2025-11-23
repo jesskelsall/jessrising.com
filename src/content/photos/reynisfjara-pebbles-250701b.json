@@ -1,0 +1,28 @@
+{
+  "title": "Reynisfjara Pebbles",
+  "meta": {
+    "location": "Reynisfjara",
+    "tags": [
+      "Beach"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 400,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-07-01T10:50:42.000+01:00",
+    "dimensions": {
+      "height": 5723,
+      "width": 8585
+    }
+  }
+}

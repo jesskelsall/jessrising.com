@@ -1,0 +1,28 @@
+{
+  "title": "Kirkjufjara Waves",
+  "meta": {
+    "location": "Kirkjufjara",
+    "tags": [
+      "Beach"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.002,
+        "focalLength": 241,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-07-01T12:30:59.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

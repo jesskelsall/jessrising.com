@@ -1132,16 +1132,24 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Mýrdalshreppur": {
-        Dyrhólaey: {},
-        Reynisfjara: {},
-        Sólheimajökull: {},
-        "Vík í Mýrdal": {},
+        Dyrhólaey: {
+          "Dyrhólaey Lighthouse": {},
+          "🏖️ Kirkjufjara": {},
+        },
+        "🏖️ Reynisfjara": {},
+        "🧊 Sólheimajökull": {},
+        "🏘️ Vík í Mýrdal": {
+          "🏖️ Víkurfjara": {},
+          "⛪️ Víkurkirkja": {},
+        },
       },
       "🗺️ Rangárþing eystra": {
         "🚗 Route 249": {
-          Seljalandsfoss: {},
+          "💦 Seljalandsfoss": {},
         },
-        "🚗 Route 261": {},
+        "🚗 Route 261": {
+          "💦 Gluggafoss": {},
+        },
         Skógar: {
           "💦 Kvernufoss": {},
           Rútshellir: {},

@@ -1,0 +1,30 @@
+{
+  "title": "Skógafoss",
+  "meta": {
+    "location": "Skógafoss",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": "2025-01-04-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 41,
+        "fStop": 5,
+        "ISO": 125
+      }
+    },
+    "date": "2025-01-10T12:41:02.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,11 +1,10 @@
 {
-  "title": "Reynisfjara Waves",
+  "title": "Kirkjufjara Waves",
   "meta": {
-    "location": "Dyrhólaey",
+    "location": "Kirkjufjara",
     "tags": [
       "Landscape",
-      "Beach",
-      "Annual Top 100"
+      "Coast"
     ],
     "trip": "2024-08-24-iceland"
   },
@@ -14,17 +13,17 @@
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -0.7,
+        "exposureBias": -0.3,
         "exposureTime": 0.001,
-        "focalLength": 65,
+        "focalLength": 46,
         "fStop": 2.8,
         "ISO": 100
       }
     },
-    "date": "2024-08-26T12:45:21.000+01:00",
+    "date": "2024-08-26T12:46:56.000+01:00",
     "dimensions": {
-      "height": 6157,
-      "width": 9236
+      "height": 6212,
+      "width": 9318
     }
   }
 }

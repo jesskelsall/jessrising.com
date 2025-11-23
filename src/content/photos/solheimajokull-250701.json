@@ -1,0 +1,28 @@
+{
+  "title": "Sólheimajökull",
+  "meta": {
+    "location": "Sólheimajökull",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-01T13:38:22.000+01:00",
+    "dimensions": {
+      "height": 6242,
+      "width": 9363
+    }
+  }
+}

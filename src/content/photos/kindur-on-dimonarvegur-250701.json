@@ -1,0 +1,29 @@
+{
+  "title": "Kindur on Dímonarvegur",
+  "meta": {
+    "location": "Route 261",
+    "tags": [
+      "Landscape",
+      "Sheep"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 171,
+        "fStop": 10,
+        "ISO": 160
+      }
+    },
+    "date": "2025-07-01T19:01:00.000+01:00",
+    "dimensions": {
+      "height": 6129,
+      "width": 9194
+    }
+  }
+}

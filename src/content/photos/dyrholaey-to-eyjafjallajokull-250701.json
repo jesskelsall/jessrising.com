@@ -1,0 +1,29 @@
+{
+  "title": "Dyrhólaey to Eyjafjallajökull",
+  "meta": {
+    "location": "Dyrhólaey Lighthouse",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0015625,
+        "focalLength": 58,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-01T11:25:19.000+01:00",
+    "dimensions": {
+      "height": 6240,
+      "width": 9360
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Lupines at Skógar",
+  "meta": {
+    "location": "Skógafoss",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Waterfall"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 54,
+        "fStop": 22,
+        "ISO": 200
+      }
+    },
+    "date": "2025-07-01T17:26:42.000+01:00",
+    "dimensions": {
+      "height": 6241,
+      "width": 9362
+    }
+  }
+}

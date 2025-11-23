@@ -1,0 +1,28 @@
+{
+  "title": "Sólheimajökull Hills",
+  "meta": {
+    "location": "Sólheimajökull",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-07-01T14:08:45.000+01:00",
+    "dimensions": {
+      "height": 5941,
+      "width": 8911
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Kind on Dímonarvegur",
+  "meta": {
+    "location": "Route 261",
+    "tags": [
+      "Sheep"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.001,
+        "focalLength": 100,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-07-01T19:01:55.000+01:00",
+    "dimensions": {
+      "height": 4373,
+      "width": 6559
+    }
+  }
+}

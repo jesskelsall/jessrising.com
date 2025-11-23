@@ -1,0 +1,29 @@
+{
+  "title": "Kvernufoss Overflow Detail",
+  "meta": {
+    "location": "Kvernufoss",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-06-28-iceland"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 125
+      }
+    },
+    "date": "2025-07-01T16:41:32.000+01:00",
+    "dimensions": {
+      "height": 4665,
+      "width": 6998
+    }
+  }
+}
