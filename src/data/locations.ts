@@ -27,7 +27,8 @@ export const locationHierarchy: LocationHierarchy = {
             Bowlees: {},
           },
         },
-        "Raby Castle": {},
+        "🏘️ Pittington": {},
+        "🏰 Raby Castle": {},
       },
       "🗺️ Cumbria": {
         "🌲 Acorn Bank": {},
@@ -499,6 +500,9 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Yorkshire": {
         "🪨 Druid's Temple": {},
         Knaresborough: {},
+        Middlesbrough: {
+          "Ormesby Hall": {},
+        },
         "🏞️ North York Moors": {
           Whitby: {},
         },

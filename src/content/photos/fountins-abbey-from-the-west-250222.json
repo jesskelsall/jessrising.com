@@ -1,0 +1,30 @@
+{
+  "title": "Fountins Abbey From the West",
+  "meta": {
+    "location": "Fountains Abbey",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects",
+      "Ruin"
+    ],
+    "trip": "2025-02-22-snowdrops-in-yorkshire-the-northeast"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 44,
+        "fStop": 11,
+        "ISO": 100
+      }
+    },
+    "date": "2025-02-22T11:24:10.000+00:00",
+    "dimensions": {
+      "height": 5918,
+      "width": 8877
+    }
+  }
+}
