@@ -29,7 +29,7 @@
     "lucide-react": "^0.503.0",
     "luxon": "^3.1.1",
     "markdown-to-jsx": "^7.1.8",
-    "next": "^15.0.3",
+    "next": "15.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "title-case": "^3.0.3",
