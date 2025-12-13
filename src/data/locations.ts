@@ -443,6 +443,9 @@ export const locationHierarchy: LocationHierarchy = {
         "London Underground": {},
         "St Paul's Cathedral": {},
         Westminster: {},
+        Waterloo: {
+          "The Shard": {},
+        },
       },
       "🗺️ Tyne & Wear": {
         "🏙️ Newcastle": {
@@ -621,7 +624,10 @@ export const locationHierarchy: LocationHierarchy = {
           "Point of Ardnamurchan": {},
         },
         "🏞️ Assynt-Coigach": {
+          "Badcall Bay": {},
           Clashnessie: {},
+          Drumbeg: {},
+          "Fàire nan Càrn": {},
           Inchnadamph: {},
           Kylesku: {},
           "Glencanisp Forest": {

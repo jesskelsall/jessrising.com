@@ -1,16 +1,15 @@
 {
-  "title": "Ardvreck Castle by Day",
+  "title": "Colours Over Loch Assynt",
   "meta": {
     "gps": {
-      "lat": 58.163941666666666,
-      "long": -4.987127777777778
+      "lat": 58.16323055555556,
+      "long": -4.987347222222223
     },
     "location": "Ardvreck Castle",
     "tags": [
       "Landscape",
       "Loch",
-      "Castle",
-      "Ruin"
+      "Sunrise/Sunset"
     ],
     "trip": "2023-04-14-north-coast-500"
   },
@@ -18,7 +17,7 @@
     "camera": {
       "name": "Apple iPhone 14 Pro Max"
     },
-    "date": "2023-04-20T08:04:48.000+01:00",
+    "date": "2023-04-19T20:39:41.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

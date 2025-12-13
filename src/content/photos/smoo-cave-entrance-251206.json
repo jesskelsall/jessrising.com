@@ -1,0 +1,28 @@
+{
+  "title": "Smoo Cave Entrance",
+  "meta": {
+    "location": "Smoo Cave",
+    "tags": [
+      "Cave"
+    ],
+    "trip": "2025-12-05-assynt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.625,
+        "focalLength": 24,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    },
+    "date": "2025-12-06T09:24:36.000+00:00",
+    "dimensions": {
+      "height": 6223,
+      "width": 9334
+    }
+  }
+}

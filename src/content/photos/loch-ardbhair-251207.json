@@ -1,0 +1,29 @@
+{
+  "title": "Loch Ardbhair",
+  "meta": {
+    "location": "Drumbeg",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2025-12-05-assynt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-07T10:26:15.000+00:00",
+    "dimensions": {
+      "height": 6153,
+      "width": 9229
+    }
+  }
+}

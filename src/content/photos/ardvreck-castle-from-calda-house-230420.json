@@ -1,15 +1,16 @@
 {
-  "title": "Sunset Over Loch Assynt",
+  "title": "Ardvreck Castle From Calda House",
   "meta": {
     "gps": {
-      "lat": 58.16323055555556,
-      "long": -4.987347222222223
+      "lat": 58.163941666666666,
+      "long": -4.987127777777778
     },
-    "location": "Loch Assynt",
+    "location": "Ardvreck Castle",
     "tags": [
       "Landscape",
       "Loch",
-      "Sunrise/Sunset"
+      "Castle",
+      "Ruin"
     ],
     "trip": "2023-04-14-north-coast-500"
   },
@@ -17,7 +18,7 @@
     "camera": {
       "name": "Apple iPhone 14 Pro Max"
     },
-    "date": "2023-04-19T20:39:41.000+01:00",
+    "date": "2023-04-20T08:04:48.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

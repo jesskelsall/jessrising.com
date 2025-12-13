@@ -1,0 +1,26 @@
+{
+  "title": "Great Clock of Westminster",
+  "meta": {
+    "location": "Waterloo",
+    "tags": [],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    },
+    "date": "2025-11-25T09:55:01.000+00:00",
+    "dimensions": {
+      "height": 3983,
+      "width": 5974
+    }
+  }
+}

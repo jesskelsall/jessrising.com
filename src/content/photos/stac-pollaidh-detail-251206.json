@@ -1,0 +1,28 @@
+{
+  "title": "Stac Pollaidh Detail",
+  "meta": {
+    "location": "Stac Pollaidh",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-05-assynt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.04,
+        "focalLength": 232,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-06T14:26:23.000+00:00",
+    "dimensions": {
+      "height": 5675,
+      "width": 8512
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Sango Bay Viewpoint",
+  "meta": {
+    "location": "Durness",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2025-12-05-assynt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.06666666666666667,
+        "focalLength": 26,
+        "fStop": 6.300000190736682,
+        "ISO": 200
+      }
+    },
+    "date": "2025-12-06T10:19:15.000+00:00",
+    "dimensions": {
+      "height": 6051,
+      "width": 9077
+    }
+  }
+}

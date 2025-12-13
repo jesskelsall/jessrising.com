@@ -1,14 +1,12 @@
 {
-  "title": "Quinag From Loch Drumbeg",
+  "title": "Suilven From Little Assynt",
   "meta": {
-    "location": "Drumbeg",
+    "location": "Assynt-Coigach",
     "tags": [
       "Landscape",
-      "Clouds",
-      "Loch",
-      "Snow"
+      "Clouds"
     ],
-    "trip": "2023-10-13-durness"
+    "trip": "2025-12-05-assynt"
   },
   "exif": {
     "camera": {
@@ -18,14 +16,14 @@
         "exposureBias": -0.3,
         "exposureTime": 0.0125,
         "focalLength": 70,
-        "fStop": 22,
-        "ISO": 640
+        "fStop": 3.5,
+        "ISO": 160
       }
     },
-    "date": "2023-10-14T12:47:56.000+01:00",
+    "date": "2025-12-07T12:31:09.000+00:00",
     "dimensions": {
-      "height": 5750,
-      "width": 8625
+      "height": 5614,
+      "width": 8421
     }
   }
 }

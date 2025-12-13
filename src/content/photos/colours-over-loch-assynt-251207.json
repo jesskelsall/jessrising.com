@@ -1,15 +1,12 @@
 {
-  "title": "Ardvreck Castle West",
+  "title": "Colours Over Loch Assynt",
   "meta": {
     "location": "Ardvreck Castle",
     "tags": [
       "Landscape",
-      "Castle",
-      "Loch",
-      "Ruin",
-      "Snow"
+      "Sunrise/Sunset"
     ],
-    "trip": "2023-10-13-durness"
+    "trip": "2025-12-05-assynt"
   },
   "exif": {
     "camera": {
@@ -18,15 +15,15 @@
       "settings": {
         "exposureBias": 0,
         "exposureTime": 0.01,
-        "focalLength": 70,
-        "fStop": 3.5,
-        "ISO": 50
+        "focalLength": 51,
+        "fStop": 2.8,
+        "ISO": 100
       }
     },
-    "date": "2023-10-21T11:24:12.000+01:00",
+    "date": "2025-12-07T09:03:22.000+00:00",
     "dimensions": {
-      "height": 5619,
-      "width": 8429
+      "height": 6246,
+      "width": 9370
     }
   }
 }

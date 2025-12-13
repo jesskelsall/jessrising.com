@@ -1,0 +1,29 @@
+{
+  "title": "Cùl Beag and Stac Pollaidh",
+  "meta": {
+    "location": "Assynt-Coigach",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-12-05-assynt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 64,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-06T13:54:13.000+00:00",
+    "dimensions": {
+      "height": 5961,
+      "width": 8942
+    }
+  }
+}

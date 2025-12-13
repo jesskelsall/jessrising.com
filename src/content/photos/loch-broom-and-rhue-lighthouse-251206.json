@@ -1,0 +1,32 @@
+{
+  "title": "Loch Broom and Rhue Lighthouse",
+  "meta": {
+    "location": "Ullapool",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse",
+      "People",
+      "Sunrise/Sunset"
+    ],
+    "trip": "2025-12-05-assynt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-06T15:28:42.000+00:00",
+    "dimensions": {
+      "height": 6016,
+      "width": 9024
+    }
+  }
+}
