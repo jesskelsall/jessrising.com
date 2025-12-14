@@ -1,0 +1,29 @@
+{
+  "title": "Aurora From Lindisfarne Causeway",
+  "meta": {
+    "location": "Lindisfarne",
+    "tags": [
+      "Astro",
+      "Aurora"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24mm F1.4 GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 1.6,
+        "focalLength": 24,
+        "fStop": 1.4,
+        "ISO": 1600
+      }
+    },
+    "date": "2025-12-12T22:20:59.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
