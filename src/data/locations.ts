@@ -606,6 +606,7 @@ export const locationHierarchy: LocationHierarchy = {
         Balmoral: {},
         "Cairngorm Mountains": {
           "🦌 Cairngorm Reindeer Herd": {},
+          "Ptarmigan Station": {},
         },
         Dalwhinnie: {
           "Loch Ericht": {},

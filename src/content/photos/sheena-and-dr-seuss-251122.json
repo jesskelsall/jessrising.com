@@ -1,0 +1,29 @@
+{
+  "title": "Sheena and Dr Seuss",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "People",
+      "Reindeer"
+    ],
+    "trip": "2025-11-22-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 65,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-11-22T11:54:01.000+00:00",
+    "dimensions": {
+      "height": 6123,
+      "width": 9185
+    }
+  }
+}

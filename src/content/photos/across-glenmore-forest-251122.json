@@ -1,29 +1,29 @@
 {
-  "title": "Cairngorm M1 Poma",
+  "title": "Across Glenmore Forest",
   "meta": {
-    "location": "Ptarmigan Station",
+    "location": "Cairngorm Reindeer Herd",
     "tags": [
       "Landscape",
       "Snow"
     ],
-    "trip": "2025-03-01-cairngorm-reindeer-herd"
+    "trip": "2025-11-22-cairngorm-reindeer-herd"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": 0,
+        "exposureBias": 0.3,
         "exposureTime": 0.003125,
-        "focalLength": 35,
+        "focalLength": 58,
         "fStop": 5.6,
-        "ISO": 125
+        "ISO": 100
       }
     },
-    "date": "2025-03-01T13:49:47.000+00:00",
+    "date": "2025-11-22T11:27:13.000+00:00",
     "dimensions": {
-      "height": 5932,
-      "width": 8898
+      "height": 6336,
+      "width": 9504
     }
   }
 }

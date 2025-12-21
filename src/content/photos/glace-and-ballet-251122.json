@@ -1,0 +1,28 @@
+{
+  "title": "Glacé and Ballet",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-11-22-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 212,
+        "fStop": 10,
+        "ISO": 125
+      }
+    },
+    "date": "2025-11-22T12:24:52.000+00:00",
+    "dimensions": {
+      "height": 5178,
+      "width": 7767
+    }
+  }
+}

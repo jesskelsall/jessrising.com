@@ -1,0 +1,28 @@
+{
+  "title": "Calf Crag Peat Bog",
+  "meta": {
+    "location": "Calf Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.01,
+        "focalLength": 42,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-12T10:38:08.000+00:00",
+    "dimensions": {
+      "height": 5630,
+      "width": 8445
+    }
+  }
+}
