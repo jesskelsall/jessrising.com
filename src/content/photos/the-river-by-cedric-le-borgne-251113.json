@@ -1,0 +1,26 @@
+{
+  "title": "The River by Cedric le Borgne",
+  "meta": {
+    "location": "Prebends Bridge",
+    "tags": [],
+    "trip": "2025-11-13-durham-lumiere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.2,
+        "focalLength": 56,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    },
+    "date": "2025-11-13T21:00:09.000+00:00",
+    "dimensions": {
+      "height": 6041,
+      "width": 9061
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Rhizome by BOBOLITO&CO",
+  "meta": {
+    "location": "Durham",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-11-13-durham-lumiere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.25,
+        "focalLength": 26,
+        "fStop": 2.8,
+        "ISO": 400
+      }
+    },
+    "date": "2025-11-13T18:52:32.000+00:00",
+    "dimensions": {
+      "height": 6020,
+      "width": 9030
+    }
+  }
+}

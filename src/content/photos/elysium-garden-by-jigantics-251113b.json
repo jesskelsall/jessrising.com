@@ -1,0 +1,26 @@
+{
+  "title": "Elysium Garden by Jigantics",
+  "meta": {
+    "location": "Durham Cathedral",
+    "tags": [],
+    "trip": "2025-11-13-durham-lumiere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.25,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 200
+      }
+    },
+    "date": "2025-11-13T19:32:41.000+00:00",
+    "dimensions": {
+      "height": 6169,
+      "width": 9253
+    }
+  }
+}

@@ -17,6 +17,10 @@ export const locationHierarchy: LocationHierarchy = {
         Beamish: {},
         "🏙️ Durham": {
           "⛪️ Durham Cathedral": {},
+          "Durham Riverside": {
+            "Prebends Bridge": {},
+            "The Old Corn Mill": {},
+          },
           "🌳 Wharton Park": {},
         },
         Home: {},
@@ -990,6 +994,10 @@ export const locationHierarchy: LocationHierarchy = {
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales": {
       "🏞️ Bannau Brycheiniog": {
         "Henrhyd Falls": {},
+      },
+      "🏙️ Cardiff": {
+        "🏰 Castell Coch": {},
+        "⛪️ Llandaff Cathedral": {},
       },
       "🗺️ Carmarthenshire": {
         "National Botanic Garden of Wales": {},
