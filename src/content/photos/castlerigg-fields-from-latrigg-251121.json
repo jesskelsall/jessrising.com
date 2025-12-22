@@ -1,0 +1,28 @@
+{
+  "title": "Castlerigg Fields From Latrigg",
+  "meta": {
+    "location": "Latrigg",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-11-21-latrigg-high-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.7,
+        "exposureTime": 0.0006249999860301484,
+        "focalLength": 70,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-11-21T09:10:55.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

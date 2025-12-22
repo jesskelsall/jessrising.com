@@ -1,0 +1,29 @@
+{
+  "title": "Latrigg to Crag Hill",
+  "meta": {
+    "location": "Latrigg",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-11-21-latrigg-high-rigg"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 166,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-11-21T08:18:27.000+00:00",
+    "dimensions": {
+      "height": 5871,
+      "width": 8807
+    }
+  }
+}
