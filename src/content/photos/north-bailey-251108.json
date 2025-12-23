@@ -1,0 +1,28 @@
+{
+  "title": "North Bailey",
+  "meta": {
+    "location": "Wear Peninsula",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-11-08-durham-riverside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.003125,
+        "focalLength": 54,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    },
+    "date": "2025-11-08T14:40:49.000+00:00",
+    "dimensions": {
+      "height": 5908,
+      "width": 8862
+    }
+  }
+}

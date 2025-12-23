@@ -1,0 +1,29 @@
+{
+  "title": "Cormorants on the Weir",
+  "meta": {
+    "location": "The Old Corn Mill",
+    "tags": [
+      "Bird",
+      "Waterfall"
+    ],
+    "trip": "2025-11-08-durham-riverside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-11-08T13:50:59.000+00:00",
+    "dimensions": {
+      "height": 4734,
+      "width": 7101
+    }
+  }
+}

@@ -16,10 +16,12 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ County Durham": {
         Beamish: {},
         "🏙️ Durham": {
-          "⛪️ Durham Cathedral": {},
           "Durham Riverside": {
             "Prebends Bridge": {},
             "The Old Corn Mill": {},
+          },
+          "Wear Peninsula": {
+            "⛪️ Durham Cathedral": {},
           },
           "🌳 Wharton Park": {},
         },

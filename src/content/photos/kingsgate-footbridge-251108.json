@@ -1,0 +1,30 @@
+{
+  "title": "Kingsgate Footbridge",
+  "meta": {
+    "location": "Durham Riverside",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-11-08-durham-riverside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.01,
+        "focalLength": 27,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-11-08T14:29:38.000+00:00",
+    "dimensions": {
+      "height": 5824,
+      "width": 8736
+    }
+  }
+}

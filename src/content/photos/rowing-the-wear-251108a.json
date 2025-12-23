@@ -1,0 +1,29 @@
+{
+  "title": "Rowing the Wear",
+  "meta": {
+    "location": "Prebends Bridge",
+    "tags": [
+      "Boat",
+      "People"
+    ],
+    "trip": "2025-11-08-durham-riverside"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-11-08T12:55:56.000+00:00",
+    "dimensions": {
+      "height": 5199,
+      "width": 7798
+    }
+  }
+}
