@@ -1,0 +1,28 @@
+{
+  "title": "Reindeer Boardwalk Procession",
+  "meta": {
+    "location": "Cairngorm Reindeer Herd",
+    "tags": [
+      "Reindeer"
+    ],
+    "trip": "2025-09-13-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 361,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-13T11:35:29.000+01:00",
+    "dimensions": {
+      "height": 5049,
+      "width": 7573
+    }
+  }
+}

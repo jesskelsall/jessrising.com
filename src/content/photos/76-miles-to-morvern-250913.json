@@ -1,0 +1,28 @@
+{
+  "title": "76 Miles to Morvern",
+  "meta": {
+    "location": "Ptarmigan Station",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-09-13-cairngorm-reindeer-herd"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 166,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-13T14:00:35.000+01:00",
+    "dimensions": {
+      "height": 5644,
+      "width": 8466
+    }
+  }
+}

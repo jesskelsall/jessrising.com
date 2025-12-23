@@ -1,28 +1,28 @@
 {
-  "title": "Feeding the Calves",
+  "title": "A Sleepy Reindeer",
   "meta": {
     "location": "Cairngorm Reindeer Herd",
     "tags": [
       "Reindeer"
     ],
-    "trip": "2024-06-09-cairngorm-reindeer-herd"
+    "trip": "2025-09-13-cairngorm-reindeer-herd"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "lens": "Sony FE 100-400mm GM",
       "settings": {
         "exposureBias": 0,
         "exposureTime": 0.008,
-        "focalLength": 253,
+        "focalLength": 250,
         "fStop": 5.6,
-        "ISO": 400
+        "ISO": 100
       }
     },
-    "date": "2024-06-09T15:16:45.000+01:00",
+    "date": "2025-09-13T11:59:24.000+01:00",
     "dimensions": {
-      "height": 6072,
-      "width": 9108
+      "height": 6269,
+      "width": 9404
     }
   }
 }

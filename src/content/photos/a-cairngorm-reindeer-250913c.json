@@ -5,24 +5,24 @@
     "tags": [
       "Reindeer"
     ],
-    "trip": "2024-06-09-cairngorm-reindeer-herd"
+    "trip": "2025-09-13-cairngorm-reindeer-herd"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
-      "lens": "Sony FE 100-400mm F4.5-5.6 OSS",
+      "lens": "Sony FE 100-400mm GM",
       "settings": {
         "exposureBias": 0,
-        "exposureTime": 0.004,
-        "focalLength": 229,
-        "fStop": 5.6,
-        "ISO": 320
+        "exposureTime": 0.0025,
+        "focalLength": 139,
+        "fStop": 5,
+        "ISO": 125
       }
     },
-    "date": "2024-06-09T15:06:46.000+01:00",
+    "date": "2025-09-13T12:22:32.000+01:00",
     "dimensions": {
-      "height": 6336,
-      "width": 9504
+      "height": 4457,
+      "width": 6686
     }
   }
 }
