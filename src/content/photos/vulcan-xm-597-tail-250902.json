@@ -1,0 +1,28 @@
+{
+  "title": "Vulcan XM597 Tail",
+  "meta": {
+    "location": "National Museum of Flight",
+    "tags": [
+      "Aviation"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-02T12:29:49.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

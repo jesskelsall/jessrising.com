@@ -1,0 +1,29 @@
+{
+  "title": "Lindisfarne Castle From Fenham",
+  "meta": {
+    "location": "Northumberland",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.00019999999494630462,
+        "focalLength": 100,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-02T07:18:18.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

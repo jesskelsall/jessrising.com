@@ -1,0 +1,29 @@
+{
+  "title": "Concorde G-BOAA Engine Intake",
+  "meta": {
+    "location": "National Museum of Flight",
+    "tags": [
+      "Interior",
+      "Aviation"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.625,
+        "focalLength": 70,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-09-02T13:08:58.000+01:00",
+    "dimensions": {
+      "height": 6143,
+      "width": 9215
+    }
+  }
+}

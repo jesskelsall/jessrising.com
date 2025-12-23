@@ -479,7 +479,9 @@ export const locationHierarchy: LocationHierarchy = {
         "Farne Islands": {},
         "Hadrian's Wall": {},
         "Kielder Water": {},
-        "🏝️ Lindisfarne": {},
+        "🏝️ Lindisfarne": {
+          "Lindisfarne Causeway": {},
+        },
         "North Charlton": {},
         Seahouses: {},
       },
@@ -868,8 +870,9 @@ export const locationHierarchy: LocationHierarchy = {
           "Royal Botanic Garden Edinburgh": {},
           "Water of Leith": {},
         },
-        Haddington: {},
-        "Tantallon Castle": {},
+        "🏘️ Haddington": {},
+        "National Museum of Flight": {},
+        "🏰 Tantallon Castle": {},
       },
       "🗺️ Moray": {
         "Bow Fiddle Rock": {},

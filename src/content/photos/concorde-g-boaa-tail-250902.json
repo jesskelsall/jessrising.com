@@ -1,0 +1,29 @@
+{
+  "title": "Concorde G-BOAA Tail",
+  "meta": {
+    "location": "National Museum of Flight",
+    "tags": [
+      "Interior",
+      "Aviation"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.8,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 200
+      }
+    },
+    "date": "2025-09-02T13:14:37.000+01:00",
+    "dimensions": {
+      "height": 6246,
+      "width": 9369
+    }
+  }
+}

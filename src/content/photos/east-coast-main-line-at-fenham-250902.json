@@ -1,0 +1,29 @@
+{
+  "title": "East Coast Main Line at Fenham",
+  "meta": {
+    "location": "Northumberland",
+    "tags": [
+      "Landscape",
+      "Rail"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0025,
+        "focalLength": 327,
+        "fStop": 5.6,
+        "ISO": 320
+      }
+    },
+    "date": "2025-09-02T07:45:30.000+01:00",
+    "dimensions": {
+      "height": 5465,
+      "width": 8198
+    }
+  }
+}

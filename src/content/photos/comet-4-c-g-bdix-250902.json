@@ -1,0 +1,28 @@
+{
+  "title": "Comet 4c G-BDIX",
+  "meta": {
+    "location": "National Museum of Flight",
+    "tags": [
+      "Aviation"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 70,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-02T12:34:07.000+01:00",
+    "dimensions": {
+      "height": 5715,
+      "width": 8572
+    }
+  }
+}

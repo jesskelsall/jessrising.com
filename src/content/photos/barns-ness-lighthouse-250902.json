@@ -1,0 +1,30 @@
+{
+  "title": "Barns Ness Lighthouse",
+  "meta": {
+    "location": "Lothian",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Lighthouse"
+    ],
+    "trip": "2025-09-02-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.0006249999860301484,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-02T09:21:39.000+01:00",
+    "dimensions": {
+      "height": 5766,
+      "width": 8649
+    }
+  }
+}
