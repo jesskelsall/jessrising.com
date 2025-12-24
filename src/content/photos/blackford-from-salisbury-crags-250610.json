@@ -1,0 +1,28 @@
+{
+  "title": "Blackford From Salisbury Crags",
+  "meta": {
+    "location": "Holyrood Park",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-10-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-10T09:05:59.000+01:00",
+    "dimensions": {
+      "height": 6089,
+      "width": 9133
+    }
+  }
+}

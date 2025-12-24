@@ -1,0 +1,28 @@
+{
+  "title": "Scottish Parliament From Salisbury Crags",
+  "meta": {
+    "location": "Holyrood Park",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-10-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 61,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-10T08:43:52.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

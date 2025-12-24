@@ -855,6 +855,7 @@ export const locationHierarchy: LocationHierarchy = {
       "🗺️ Lothian": {
         "Balgone Estate": {},
         "🏙️ Edinburgh": {
+          Duddingston: {},
           "Edinburgh New Town": {
             "Calton Hill": {},
             "Circus Lane": {},
@@ -867,7 +868,8 @@ export const locationHierarchy: LocationHierarchy = {
             "⛪️ Old Saint Paul's Scottish Episcopal Church": {},
             "⛪️ St Giles' Cathedral": {},
           },
-          "Royal Botanic Garden Edinburgh": {},
+          "Holyrood Park": {},
+          "🌳 Royal Botanic Garden Edinburgh": {},
           "Water of Leith": {},
         },
         "🏘️ Haddington": {},

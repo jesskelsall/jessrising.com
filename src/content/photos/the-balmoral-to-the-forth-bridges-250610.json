@@ -1,0 +1,28 @@
+{
+  "title": "The Balmoral to the Forth Bridges",
+  "meta": {
+    "location": "Holyrood Park",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-10-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 206,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-10T08:43:58.000+01:00",
+    "dimensions": {
+      "height": 5673,
+      "width": 8510
+    }
+  }
+}

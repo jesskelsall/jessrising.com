@@ -1,0 +1,28 @@
+{
+  "title": "Dr Neil's Garden Hedges",
+  "meta": {
+    "location": "Duddingston",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-10-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.02,
+        "focalLength": 24,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-10T10:07:40.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

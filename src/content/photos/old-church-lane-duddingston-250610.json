@@ -1,0 +1,29 @@
+{
+  "title": "Old Church Lane, Duddingston",
+  "meta": {
+    "location": "Duddingston",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2025-06-10-edinburgh-for-hrt"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.00625,
+        "focalLength": 41,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-10T10:01:36.000+01:00",
+    "dimensions": {
+      "height": 6049,
+      "width": 9073
+    }
+  }
+}
