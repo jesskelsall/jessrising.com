@@ -75,6 +75,10 @@ export const cameras: Camera[] = [
         displayName: "Sony FE 100-400mm GM",
         model: "Sony FE 100-400mm F4.5-5.6 OSS",
       },
+      {
+        displayName: "Sony FE 100-400mm GM + 1.4x Teleconverter Lens",
+        model: "Sony FE 140-560mm F6.3-8.0 OSS",
+      },
     ],
   },
 ];
