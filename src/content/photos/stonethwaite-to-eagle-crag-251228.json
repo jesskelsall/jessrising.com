@@ -1,0 +1,28 @@
+{
+  "title": "Stonethwaite to Eagle Crag",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-28-eagle-crag-sergeants-crag-ullscarf"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.125,
+        "focalLength": 24,
+        "fStop": 10,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-28T08:42:35.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

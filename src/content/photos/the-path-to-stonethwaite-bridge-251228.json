@@ -1,0 +1,28 @@
+{
+  "title": "The Path to Stonethwaite Bridge",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-28-eagle-crag-sergeants-crag-ullscarf"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.25,
+        "focalLength": 35,
+        "fStop": 8,
+        "ISO": 200
+      }
+    },
+    "date": "2025-12-28T15:57:05.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

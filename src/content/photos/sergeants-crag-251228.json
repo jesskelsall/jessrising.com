@@ -1,0 +1,28 @@
+{
+  "title": "Sergeant's Crag",
+  "meta": {
+    "location": "Sergeant's Crag",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.7,
+        "exposureTime": 0.005,
+        "focalLength": 33,
+        "fStop": 11,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-28T11:45:36.000+00:00",
+    "dimensions": {
+      "height": 6243,
+      "width": 9365
+    }
+  }
+}

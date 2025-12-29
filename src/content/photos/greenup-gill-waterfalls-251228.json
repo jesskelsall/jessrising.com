@@ -1,0 +1,29 @@
+{
+  "title": "Greenup Gill Waterfalls",
+  "meta": {
+    "location": "Greenup",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-12-28-eagle-crag-sergeants-crag-ullscarf"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.2,
+        "focalLength": 24,
+        "fStop": 11,
+        "ISO": 100
+      }
+    },
+    "date": "2025-12-28T14:58:54.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

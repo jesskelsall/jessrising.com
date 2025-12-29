@@ -1,0 +1,29 @@
+{
+  "title": "Ruins Below Eagle Crag",
+  "meta": {
+    "location": "Borrowdale",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2025-12-28-eagle-crag-sergeants-crag-ullscarf"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.625,
+        "focalLength": 27,
+        "fStop": 13,
+        "ISO": 200
+      }
+    },
+    "date": "2025-12-28T15:51:32.000+00:00",
+    "dimensions": {
+      "height": 6162,
+      "width": 9243
+    }
+  }
+}

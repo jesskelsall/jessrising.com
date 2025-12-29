@@ -1,0 +1,28 @@
+{
+  "title": "Eagle Crag Stone Terrace",
+  "meta": {
+    "location": "Eagle Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-28-eagle-crag-sergeants-crag-ullscarf"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 37,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-28T10:29:56.000+00:00",
+    "dimensions": {
+      "height": 6035,
+      "width": 9053
+    }
+  }
+}

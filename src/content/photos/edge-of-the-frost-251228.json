@@ -1,0 +1,28 @@
+{
+  "title": "Edge of the Frost",
+  "meta": {
+    "location": "Greenup",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-28-eagle-crag-sergeants-crag-ullscarf"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.16666666666666666,
+        "focalLength": 41,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-12-28T15:32:41.000+00:00",
+    "dimensions": {
+      "height": 6028,
+      "width": 9042
+    }
+  }
+}
