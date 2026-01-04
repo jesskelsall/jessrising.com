@@ -1,0 +1,28 @@
+{
+  "title": "Drummond Castle Gardens Archway",
+  "meta": {
+    "location": "Drummond Castle Gardens",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM + 1.4x Teleconverter Lens",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 155,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-30T11:40:27.000+00:00",
+    "dimensions": {
+      "height": 6186,
+      "width": 9279
+    }
+  }
+}

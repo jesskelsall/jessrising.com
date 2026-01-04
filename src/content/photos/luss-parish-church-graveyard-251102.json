@@ -1,0 +1,29 @@
+{
+  "title": "Luss Parish Church Graveyard",
+  "meta": {
+    "location": "Loch Lomond",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.025,
+        "focalLength": 28,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-11-02T13:23:17.000+00:00",
+    "dimensions": {
+      "height": 6332,
+      "width": 9499
+    }
+  }
+}

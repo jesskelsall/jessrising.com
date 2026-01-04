@@ -1,0 +1,29 @@
+{
+  "title": "Hanging Above Chaos",
+  "meta": {
+    "location": "The Hermitage",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 54,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-11-01T09:03:24.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

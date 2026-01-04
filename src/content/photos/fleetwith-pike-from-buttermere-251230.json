@@ -1,0 +1,28 @@
+{
+  "title": "Fleetwith Pike From Buttermere",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-30-buttermere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.05,
+        "focalLength": 48,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-12-30T10:32:59.000+00:00",
+    "dimensions": {
+      "height": 5899,
+      "width": 8849
+    }
+  }
+}

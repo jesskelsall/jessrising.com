@@ -1,26 +1,26 @@
 {
-  "title": "Pitlochry Dam",
+  "title": "Blair Castle Bridge",
   "meta": {
     "location": "Perth & Kinross",
     "tags": [
       "Landscape",
       "Bridge"
     ],
-    "trip": "2023-07-28-fort-william"
+    "trip": null
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
-        "exposureTime": 0.025,
-        "focalLength": 34,
-        "fStop": 22,
-        "ISO": 250
+        "exposureBias": -0.7,
+        "exposureTime": 0.125,
+        "focalLength": 70,
+        "fStop": 2.8,
+        "ISO": 100
       }
     },
-    "date": "2023-07-30T14:49:26.000+01:00",
+    "date": "2025-10-30T15:28:02.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

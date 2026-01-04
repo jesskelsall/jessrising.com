@@ -1,0 +1,28 @@
+{
+  "title": "Drummond Castle Gardens Statue",
+  "meta": {
+    "location": "Drummond Castle Gardens",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-10-30T11:44:49.000+00:00",
+    "dimensions": {
+      "height": 5499,
+      "width": 8249
+    }
+  }
+}

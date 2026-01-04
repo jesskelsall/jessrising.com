@@ -1,0 +1,29 @@
+{
+  "title": "The Hermitage Tree Overhang",
+  "meta": {
+    "location": "The Hermitage",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.125,
+        "focalLength": 24,
+        "fStop": 4,
+        "ISO": 200
+      }
+    },
+    "date": "2025-11-01T09:24:31.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

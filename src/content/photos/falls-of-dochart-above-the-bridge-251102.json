@@ -1,0 +1,30 @@
+{
+  "title": "Falls of Dochart Above the Bridge",
+  "meta": {
+    "location": "Falls of Dochart",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.025,
+        "focalLength": 50,
+        "fStop": 10,
+        "ISO": 50
+      }
+    },
+    "date": "2025-11-02T11:30:53.000+00:00",
+    "dimensions": {
+      "height": 6055,
+      "width": 9082
+    }
+  }
+}

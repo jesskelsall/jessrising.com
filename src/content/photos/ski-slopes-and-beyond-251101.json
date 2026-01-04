@@ -1,0 +1,30 @@
+{
+  "title": "Ski Slopes and Beyond",
+  "meta": {
+    "location": "Ptarmigan Station",
+    "tags": [
+      "Landscape",
+      "Clouds",
+      "Rainbow"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.003125,
+        "focalLength": 70,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-11-01T14:31:27.000+00:00",
+    "dimensions": {
+      "height": 4789,
+      "width": 7183
+    }
+  }
+}

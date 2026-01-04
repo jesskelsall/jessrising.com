@@ -1,0 +1,29 @@
+{
+  "title": "Ossian's Hall",
+  "meta": {
+    "location": "The Hermitage",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.25,
+        "focalLength": 30,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-11-01T08:54:46.000+00:00",
+    "dimensions": {
+      "height": 6090,
+      "width": 9136
+    }
+  }
+}

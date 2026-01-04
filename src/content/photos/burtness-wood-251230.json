@@ -1,0 +1,28 @@
+{
+  "title": "Burtness Wood",
+  "meta": {
+    "location": "Buttermere",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-12-30-buttermere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 39,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-12-30T10:17:11.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

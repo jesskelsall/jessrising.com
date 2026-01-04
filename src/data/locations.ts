@@ -14,6 +14,7 @@ export const locationHierarchy: LocationHierarchy = {
         Tintagel: {},
       },
       "🗺️ County Durham": {
+        "🏘️ Barnard Castle": {},
         Beamish: {},
         "🏙️ Durham": {
           "Durham Riverside": {
@@ -28,6 +29,7 @@ export const locationHierarchy: LocationHierarchy = {
         Home: {},
         "🏞️ North Pennines": {
           Teesdale: {
+            "💦 High Force": {},
             "💦 Low Force": {},
             "💦 Summerhill Force": {},
             Bowlees: {},
@@ -845,9 +847,9 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🏞️ Loch Lomond & The Trossachs": {
-        "Falls of Falloch": {},
-        "Loch Katrine": {},
-        "Loch Lomond": {
+        "💦 Falls of Falloch": {},
+        "💧 Loch Katrine": {},
+        "💧 Loch Lomond": {
           Inveruglas: {},
         },
         "Rest and Be Thankful": {},
@@ -957,14 +959,19 @@ export const locationHierarchy: LocationHierarchy = {
         },
       },
       "🗺️ Perth & Kinross": {
-        "🚆 Dunkeld & Birnam": {},
+        "🏘️ Aberfeldy": {},
+        "🏰 Drummond Castle Gardens": {},
+        "🏘️ Dunkeld": {
+          "🌳 The Hermitage": {},
+        },
         "🏞️ Loch Rannoch & Glen Lyon": {
           "Dunalasdair Estate": {},
           "Garry Bridge": {},
-          "Loch Rannoch": {},
-          "Loch Tay": {
+          "💧 Loch Rannoch": {},
+          "💧 Loch Tay": {
             "Ben Lawers": {},
-            Kenmore: {},
+            "💦 Falls of Dochart": {},
+            "🏘️ Kenmore": {},
           },
           "Loch Tummel": {},
         },

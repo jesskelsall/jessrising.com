@@ -1,26 +1,25 @@
 {
-  "title": "Pitlochry Dam",
+  "title": "Sheep by Keith Alexander",
   "meta": {
-    "location": "Perth & Kinross",
+    "location": "Low Force",
     "tags": [
-      "Landscape",
-      "Bridge"
+      "Sheep"
     ],
-    "trip": "2023-07-28-fort-william"
+    "trip": "2025-12-31-high-low-force"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1,
+        "exposureBias": -0.7,
         "exposureTime": 0.025,
-        "focalLength": 34,
-        "fStop": 22,
-        "ISO": 250
+        "focalLength": 56,
+        "fStop": 5.6,
+        "ISO": 100
       }
     },
-    "date": "2023-07-30T14:49:26.000+01:00",
+    "date": "2025-12-31T11:47:14.000+00:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

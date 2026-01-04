@@ -1,0 +1,28 @@
+{
+  "title": "Drummond Castle Gardens Foliage",
+  "meta": {
+    "location": "Drummond Castle Gardens",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.01,
+        "focalLength": 100,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-10-30T12:02:29.000+00:00",
+    "dimensions": {
+      "height": 5993,
+      "width": 8989
+    }
+  }
+}

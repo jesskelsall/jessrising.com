@@ -1,0 +1,29 @@
+{
+  "title": "Falls of Dochart Rapids and Trees",
+  "meta": {
+    "location": "Falls of Dochart",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 70,
+        "fStop": 10,
+        "ISO": 50
+      }
+    },
+    "date": "2025-11-02T11:32:03.000+00:00",
+    "dimensions": {
+      "height": 5159,
+      "width": 7738
+    }
+  }
+}
