@@ -1,0 +1,28 @@
+{
+  "title": "Lupines at Crathes Castle",
+  "meta": {
+    "location": "Crathes Castle",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-05-31-aberdeenshire"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 54,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-31T10:40:20.000+01:00",
+    "dimensions": {
+      "height": 4900,
+      "width": 7350
+    }
+  }
+}

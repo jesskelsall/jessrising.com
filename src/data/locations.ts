@@ -560,6 +560,7 @@ export const locationHierarchy: LocationHierarchy = {
     "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland": {
       "🗺️ Aberdeenshire": {
         "🏙️ Aberdeen": {},
+        "🏰 Crathes Castle": {},
         Crovie: {},
         "Rattray Head": {},
       },
@@ -613,7 +614,9 @@ export const locationHierarchy: LocationHierarchy = {
         "Abernethy Forest": {
           "Loch Mallachie": {},
         },
-        Balmoral: {},
+        Balmoral: {
+          "🏰 Balmoral Castle": {},
+        },
         "Cairngorm Mountains": {
           "🦌 Cairngorm Reindeer Herd": {},
           "Ptarmigan Station": {},
