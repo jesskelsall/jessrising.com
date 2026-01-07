@@ -1,0 +1,28 @@
+{
+  "title": "Puffins of the Farne Islands",
+  "meta": {
+    "location": "Farne Islands",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-07-06-farne-islands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-07-06T14:04:42.000+01:00",
+    "dimensions": {
+      "height": 4983,
+      "width": 7474
+    }
+  }
+}
