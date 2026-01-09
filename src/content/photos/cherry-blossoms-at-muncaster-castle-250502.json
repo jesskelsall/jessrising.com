@@ -1,0 +1,28 @@
+{
+  "title": "Cherry Blossoms at Muncaster Castle",
+  "meta": {
+    "location": "Muncaster Castle",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-05-02-bluebells-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.01,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-02T14:34:09.000+01:00",
+    "dimensions": {
+      "height": 6100,
+      "width": 9150
+    }
+  }
+}

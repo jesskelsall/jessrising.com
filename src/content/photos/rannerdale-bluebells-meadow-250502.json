@@ -1,0 +1,28 @@
+{
+  "title": "Rannerdale Bluebells Meadow",
+  "meta": {
+    "location": "Rannerdale",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-05-02-bluebells-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 137,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-02T09:31:14.000+01:00",
+    "dimensions": {
+      "height": 6160,
+      "width": 9240
+    }
+  }
+}

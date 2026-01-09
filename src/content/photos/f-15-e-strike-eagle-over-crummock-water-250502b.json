@@ -1,0 +1,28 @@
+{
+  "title": "F-15E Strike Eagle Over Crummock Water",
+  "meta": {
+    "location": "Rannerdale",
+    "tags": [
+      "Aviation"
+    ],
+    "trip": "2025-05-02-bluebells-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-05-02T10:40:03.000+01:00",
+    "dimensions": {
+      "height": 3868,
+      "width": 5802
+    }
+  }
+}

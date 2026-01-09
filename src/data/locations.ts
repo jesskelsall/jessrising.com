@@ -401,6 +401,9 @@ export const locationHierarchy: LocationHierarchy = {
                 "⛰️ Low Fell": {},
               },
             },
+            "🏘️ Ravenglass": {
+              "🏰 Muncaster Castle": {},
+            },
             "Wasdale Valley": {
               "Copeland Forest": {
                 "Dore Head": {},
@@ -519,6 +522,7 @@ export const locationHierarchy: LocationHierarchy = {
         "🏞️ North York Moors": {
           Whitby: {},
         },
+        "🏘️ Ravensworth": {},
         "🏙️ Ripon": {
           "Fountains Abbey": {},
           "Ripon Cathedral": {},

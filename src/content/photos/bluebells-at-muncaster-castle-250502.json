@@ -1,0 +1,28 @@
+{
+  "title": "Bluebells at Muncaster Castle",
+  "meta": {
+    "location": "Muncaster Castle",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-05-02-bluebells-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 276,
+        "fStop": 6.300000190736682,
+        "ISO": 320
+      }
+    },
+    "date": "2025-05-02T15:04:23.000+01:00",
+    "dimensions": {
+      "height": 5833,
+      "width": 8750
+    }
+  }
+}

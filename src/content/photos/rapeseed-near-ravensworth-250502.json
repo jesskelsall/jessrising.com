@@ -1,0 +1,28 @@
+{
+  "title": "Rapeseed Near Ravensworth",
+  "meta": {
+    "location": "Ravensworth",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-05-02-bluebells-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 150,
+        "fStop": 13,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-02T18:44:53.000+01:00",
+    "dimensions": {
+      "height": 5855,
+      "width": 8783
+    }
+  }
+}

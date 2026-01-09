@@ -1,0 +1,28 @@
+{
+  "title": "Crummock Water and Grasmoor",
+  "meta": {
+    "location": "Crummock Water",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-05-02-bluebells-in-cumbria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0015625,
+        "focalLength": 40,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-02T13:08:29.000+01:00",
+    "dimensions": {
+      "height": 6035,
+      "width": 9052
+    }
+  }
+}
