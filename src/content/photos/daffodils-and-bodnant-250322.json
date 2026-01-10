@@ -1,0 +1,29 @@
+{
+  "title": "Daffodils and Bodnant",
+  "meta": {
+    "location": "Bodnant Garden",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-03-22-daffodils-in-north-wales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 70,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-22T13:17:00.000+00:00",
+    "dimensions": {
+      "height": 6151,
+      "width": 9227
+    }
+  }
+}

@@ -1029,11 +1029,12 @@ export const locationHierarchy: LocationHierarchy = {
         "Devil's Bridge": {},
       },
       "🗺️ Conwy County": {
-        Conwy: {},
-        Deganwy: {},
-        "Gwrych Castle": {},
-        Llandudno: {},
-        "Rhaeadr Y Graig Lwyd": {},
+        "🌳 Bodnant Garden": {},
+        "🏘️ Conwy": {},
+        "🏘️ Deganwy": {},
+        "🏰 Gwrych Castle": {},
+        "🏘️ Llandudno": {},
+        "💦 Rhaeadr Y Graig Lwyd": {},
       },
       "🏞️ Eryri": {
         "Aber Falls": {},
@@ -1059,6 +1060,9 @@ export const locationHierarchy: LocationHierarchy = {
       },
       "🗺️ Powys": {
         "Hay-on-Wye": {},
+      },
+      "🗺️ Wrexham County": {
+        "🏰 Chirk Castle": {},
       },
     },
   },

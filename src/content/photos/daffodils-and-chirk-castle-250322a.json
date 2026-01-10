@@ -1,0 +1,29 @@
+{
+  "title": "Daffodils and Chirk Castle",
+  "meta": {
+    "location": "Chirk Castle",
+    "tags": [
+      "Castle",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-03-22-daffodils-in-north-wales"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 41,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-03-22T15:50:41.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
