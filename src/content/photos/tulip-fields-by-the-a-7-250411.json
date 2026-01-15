@@ -1,0 +1,29 @@
+{
+  "title": "Tulip Fields by the A7",
+  "meta": {
+    "location": "Noord-Holland",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.01,
+        "focalLength": 282,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-11T10:30:06.000+01:00",
+    "dimensions": {
+      "height": 5894,
+      "width": 8841
+    }
+  }
+}

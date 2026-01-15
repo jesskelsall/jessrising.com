@@ -1,0 +1,30 @@
+{
+  "title": "Vissersbocht",
+  "meta": {
+    "location": "Haarlem",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 100,
+        "fStop": 10,
+        "ISO": 200
+      }
+    },
+    "date": "2025-04-11T14:06:21.000+01:00",
+    "dimensions": {
+      "height": 5357,
+      "width": 8036
+    }
+  }
+}

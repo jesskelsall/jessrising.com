@@ -1,0 +1,29 @@
+{
+  "title": "Sint-Agathakerk",
+  "meta": {
+    "location": "Lisse",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 32,
+        "fStop": 3.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-13T12:54:24.000+01:00",
+    "dimensions": {
+      "height": 6135,
+      "width": 9203
+    }
+  }
+}

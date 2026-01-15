@@ -1264,8 +1264,19 @@ export const locationHierarchy: LocationHierarchy = {
     "🗺️ Overijssel": {
       Giethoorn: {},
     },
-    "🗺️ South Holland": {
+    "🗺️ Noord-Holland": {
+      "🏙️ Haarlem": {
+        "⛪️ De Grote of St. Bavokerk te Haarlem": {},
+      },
+      "🏖️ Schoorlse Duinen": {},
+      "Zaanse Schans": {},
+    },
+    "🗺️ Zuid-Holland": {
       Kinderdijk: {},
+      "🏘️ Lisse": {
+        "🌷 Keukenhof": {},
+        "🌷 Tulip Experience Amsterdam": {},
+      },
     },
     "🗺️ Utrecht": {
       Amersfoort: {},

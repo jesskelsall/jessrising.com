@@ -1,0 +1,30 @@
+{
+  "title": "Gravestenenbrug",
+  "meta": {
+    "location": "Haarlem",
+    "tags": [
+      "Landscape",
+      "Bridge",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0015625,
+        "focalLength": 70,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-11T13:58:23.000+01:00",
+    "dimensions": {
+      "height": 6216,
+      "width": 9324
+    }
+  }
+}

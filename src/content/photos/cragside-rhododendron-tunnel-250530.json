@@ -1,0 +1,28 @@
+{
+  "title": "Cragside Rhododendron Tunnel",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 55,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-05-30T16:13:42.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

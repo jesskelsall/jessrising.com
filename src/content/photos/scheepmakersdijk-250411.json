@@ -1,0 +1,29 @@
+{
+  "title": "Scheepmakersdijk",
+  "meta": {
+    "location": "Haarlem",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 56,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-11T14:20:42.000+01:00",
+    "dimensions": {
+      "height": 6302,
+      "width": 9453
+    }
+  }
+}

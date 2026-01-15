@@ -1,0 +1,29 @@
+{
+  "title": "Grote Markt Construction",
+  "meta": {
+    "location": "Haarlem",
+    "tags": [
+      "Landscape",
+      "People"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 51,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-11T12:55:39.000+01:00",
+    "dimensions": {
+      "height": 5832,
+      "width": 8749
+    }
+  }
+}

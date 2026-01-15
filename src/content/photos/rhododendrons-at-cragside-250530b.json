@@ -1,0 +1,28 @@
+{
+  "title": "Rhododendrons at Cragside",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 364,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-05-30T16:29:42.000+01:00",
+    "dimensions": {
+      "height": 5689,
+      "width": 8533
+    }
+  }
+}

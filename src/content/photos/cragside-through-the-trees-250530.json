@@ -1,0 +1,28 @@
+{
+  "title": "Cragside Through the Trees",
+  "meta": {
+    "location": "Cragside",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.002,
+        "focalLength": 59,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-05-30T15:33:06.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

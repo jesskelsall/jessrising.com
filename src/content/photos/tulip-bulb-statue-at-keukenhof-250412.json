@@ -1,0 +1,29 @@
+{
+  "title": "Tulip Bulb Statue at Keukenhof",
+  "meta": {
+    "location": "Keukenhof",
+    "tags": [
+      "Landscape",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 24,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-12T12:28:08.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

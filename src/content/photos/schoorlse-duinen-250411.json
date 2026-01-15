@@ -1,0 +1,29 @@
+{
+  "title": "Schoorlse Duinen",
+  "meta": {
+    "location": "Schoorlse Duinen",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": "2025-04-10-tulips-in-the-netherlands"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.002,
+        "focalLength": 24,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-04-11T18:05:07.000+01:00",
+    "dimensions": {
+      "height": 6065,
+      "width": 9097
+    }
+  }
+}
