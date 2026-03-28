@@ -1,0 +1,29 @@
+{
+  "title": "Pierowall Harbour",
+  "meta": {
+    "location": "Pierowall",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 135,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-19T11:52:00.000+01:00",
+    "dimensions": {
+      "height": 6221,
+      "width": 9332
+    }
+  }
+}

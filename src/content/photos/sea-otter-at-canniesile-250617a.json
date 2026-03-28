@@ -1,0 +1,26 @@
+{
+  "title": "Sea Otter at Canniesile",
+  "meta": {
+    "location": "Holm",
+    "tags": [],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 200
+      }
+    },
+    "date": "2025-06-17T15:16:50.000+01:00",
+    "dimensions": {
+      "height": 1513,
+      "width": 2270
+    }
+  }
+}

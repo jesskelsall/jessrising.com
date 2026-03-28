@@ -1,0 +1,28 @@
+{
+  "title": "Fulmars on Hoy",
+  "meta": {
+    "location": "Old Man of Hoy",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 250
+      }
+    },
+    "date": "2025-06-15T12:24:10.000+01:00",
+    "dimensions": {
+      "height": 6063,
+      "width": 9095
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Westside Church, Tuquoy",
+  "meta": {
+    "location": "Westray",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 40,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-19T13:22:51.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9456
+    }
+  }
+}

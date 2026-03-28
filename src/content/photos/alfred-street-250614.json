@@ -1,0 +1,29 @@
+{
+  "title": "Alfred Street",
+  "meta": {
+    "location": "Stromness",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 61,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-14T11:02:01.000+01:00",
+    "dimensions": {
+      "height": 6066,
+      "width": 9099
+    }
+  }
+}

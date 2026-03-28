@@ -1,0 +1,29 @@
+{
+  "title": "St Magnus Cathedral Transept",
+  "meta": {
+    "location": "St Magnus Cathedral",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.625,
+        "focalLength": 41,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-14T14:07:14.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

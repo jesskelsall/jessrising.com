@@ -1,0 +1,29 @@
+{
+  "title": "Puffins of Westray",
+  "meta": {
+    "location": "Castle o'Burrian",
+    "tags": [
+      "Bird",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.004,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-19T15:46:58.000+01:00",
+    "dimensions": {
+      "height": 5575,
+      "width": 8362
+    }
+  }
+}

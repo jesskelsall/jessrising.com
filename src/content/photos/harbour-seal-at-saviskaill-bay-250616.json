@@ -1,0 +1,26 @@
+{
+  "title": "Harbour Seal at Saviskaill Bay",
+  "meta": {
+    "location": "Rousay",
+    "tags": [],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-16T13:35:12.000+01:00",
+    "dimensions": {
+      "height": 3499,
+      "width": 5249
+    }
+  }
+}

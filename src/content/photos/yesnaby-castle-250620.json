@@ -1,0 +1,29 @@
+{
+  "title": "Yesnaby Castle",
+  "meta": {
+    "location": "Yesnaby",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0007999999797890487,
+        "focalLength": 50,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-20T20:46:46.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}

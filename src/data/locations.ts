@@ -676,8 +676,11 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "🏞️ Caithness": {
           "Duncansby Head": {},
+          "Dunnet Head": {},
           "Noss Head": {},
+          "🏘️ Thurso": {},
         },
+        "🏙️ Inverness": {},
         "🏞️ Knoydart": {
           Sandaig: {},
         },
@@ -695,6 +698,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
         "Ross & Cromarty": {
           Balintore: {},
+          "Easter Ross": {},
           "🏞️ Kintail": {
             Balmacara: {},
             "🏰 Eilean Donan Castle": {},
@@ -889,6 +893,45 @@ export const locationHierarchy: LocationHierarchy = {
         "Bow Fiddle Rock": {},
         "Charlestown of Aberlour": {},
         "Elgin Cathedral": {},
+      },
+      "🗺️ Orkney": {
+        "🏝️ Hoy": {
+          "Old Man of Hoy": {},
+          "South Walls": {},
+        },
+        "🏝️ Mainland (Orkney)": {
+          Birsay: {},
+          "🏝️ Burray": {},
+          Deerness: {},
+          Holm: {},
+          "🏘️ Kirkwall": {
+            "⚓️ Kirkwall Pier": {},
+            "⛪️ St Magnus Cathedral": {},
+          },
+          "🏝️ Lamb Holm": {
+            "⛪️ Italian Chapel": {},
+          },
+          "💧 Loch of Harray": {},
+          "Skara Brae": {},
+          "🏘️ Stromness": {},
+          "🏝️ South Ronaldsay": {
+            "Hoxa Head": {},
+          },
+          Yesnaby: {},
+        },
+        "🏝️ Rousay": {
+          "Mid Howe": {},
+        },
+        "🏝️ Papa Westray": {
+          "North Hill": {},
+          "🏖️ North Wick": {},
+          "⛪️ St Boniface Kirk": {},
+        },
+        "🏝️ Westray": {
+          "🌊 Castle o'Burrian": {},
+          "🌊 Noup Head": {},
+          "🏘️ Pierowall": {},
+        },
       },
       "🗺️ Outer Hebrides": {
         "🗺️ Barra & Vatersay": {

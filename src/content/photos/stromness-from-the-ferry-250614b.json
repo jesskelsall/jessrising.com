@@ -1,0 +1,28 @@
+{
+  "title": "Stromness From the Ferry",
+  "meta": {
+    "location": "Stromness",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 139,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-06-14T10:17:35.000+01:00",
+    "dimensions": {
+      "height": 5402,
+      "width": 8103
+    }
+  }
+}

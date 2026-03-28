@@ -1,0 +1,28 @@
+{
+  "title": "Cnoc Fyrish to Cromarty Firth",
+  "meta": {
+    "location": "Easter Ross",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 36,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-13T12:27:47.000+01:00",
+    "dimensions": {
+      "height": 5819,
+      "width": 8728
+    }
+  }
+}

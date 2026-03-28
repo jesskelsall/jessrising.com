@@ -1,0 +1,30 @@
+{
+  "title": "Nousty Sand",
+  "meta": {
+    "location": "Rousay",
+    "tags": [
+      "Landscape",
+      "Beach",
+      "Coast"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 50,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-16T13:41:09.000+01:00",
+    "dimensions": {
+      "height": 5647,
+      "width": 8470
+    }
+  }
+}

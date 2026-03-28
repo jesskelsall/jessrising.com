@@ -1,0 +1,29 @@
+{
+  "title": "Rackwick Bay",
+  "meta": {
+    "location": "Hoy",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 49,
+        "fStop": 3.2,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-15T11:02:52.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

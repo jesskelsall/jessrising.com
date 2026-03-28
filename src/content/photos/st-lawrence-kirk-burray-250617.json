@@ -1,0 +1,30 @@
+{
+  "title": "St Lawrence Kirk, Burray",
+  "meta": {
+    "location": "Burray",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral",
+      "Ruin"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 53,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-17T12:37:29.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

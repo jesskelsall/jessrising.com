@@ -1,0 +1,28 @@
+{
+  "title": "St Boniface Kirk Gravestones",
+  "meta": {
+    "location": "St Boniface Kirk",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 70,
+        "fStop": 6.300000190736682,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-18T11:11:51.000+01:00",
+    "dimensions": {
+      "height": 6190,
+      "width": 9286
+    }
+  }
+}

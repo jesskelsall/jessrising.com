@@ -1,0 +1,28 @@
+{
+  "title": "MV Hamnavoe Departs Stromness",
+  "meta": {
+    "location": "Stromness",
+    "tags": [
+      "Boat"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.004,
+        "focalLength": 238,
+        "fStop": 5.6,
+        "ISO": 250
+      }
+    },
+    "date": "2025-06-14T11:11:26.000+01:00",
+    "dimensions": {
+      "height": 5355,
+      "width": 8032
+    }
+  }
+}

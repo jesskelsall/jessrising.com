@@ -1,0 +1,28 @@
+{
+  "title": "Puffin at Noup Head",
+  "meta": {
+    "location": "Noup Head",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-19T10:07:58.000+01:00",
+    "dimensions": {
+      "height": 5889,
+      "width": 8834
+    }
+  }
+}

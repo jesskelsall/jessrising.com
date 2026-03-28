@@ -1,0 +1,28 @@
+{
+  "title": "Ravens at Marwick Head",
+  "meta": {
+    "location": "Mainland (Orkney)",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.004,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-20T08:33:29.000+01:00",
+    "dimensions": {
+      "height": 4724,
+      "width": 7086
+    }
+  }
+}

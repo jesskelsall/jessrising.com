@@ -1,0 +1,29 @@
+{
+  "title": "Midhowe Chambered Cairn Walkway",
+  "meta": {
+    "location": "Mid Howe",
+    "tags": [
+      "Interior",
+      "Ruin"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 1,
+        "focalLength": 33,
+        "fStop": 10,
+        "ISO": 200
+      }
+    },
+    "date": "2025-06-16T11:45:42.000+01:00",
+    "dimensions": {
+      "height": 6246,
+      "width": 9370
+    }
+  }
+}

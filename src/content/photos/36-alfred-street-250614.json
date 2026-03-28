@@ -1,0 +1,28 @@
+{
+  "title": "36 Alfred Street",
+  "meta": {
+    "location": "Stromness",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 55,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-06-14T11:02:54.000+01:00",
+    "dimensions": {
+      "height": 6244,
+      "width": 9366
+    }
+  }
+}

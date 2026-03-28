@@ -1,0 +1,29 @@
+{
+  "title": "Midhowe Chambered Cairn Interior",
+  "meta": {
+    "location": "Mid Howe",
+    "tags": [
+      "Interior",
+      "Ruin"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.25,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-16T12:02:01.000+01:00",
+    "dimensions": {
+      "height": 6057,
+      "width": 9085
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Skara Brae House No.2",
+  "meta": {
+    "location": "Skara Brae",
+    "tags": [
+      "Ruin"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.005,
+        "focalLength": 26,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-20T12:32:35.000+01:00",
+    "dimensions": {
+      "height": 6149,
+      "width": 9223
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Fulmar and Egg on Papay",
+  "meta": {
+    "location": "North Hill",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.005,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-18T12:20:38.000+01:00",
+    "dimensions": {
+      "height": 5454,
+      "width": 8181
+    }
+  }
+}

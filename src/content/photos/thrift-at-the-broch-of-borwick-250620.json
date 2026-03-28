@@ -1,0 +1,30 @@
+{
+  "title": "Thrift at the Broch of Borwick",
+  "meta": {
+    "location": "Yesnaby",
+    "tags": [
+      "Landscape",
+      "Coast",
+      "Flowers & Insects"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.0125,
+        "focalLength": 24,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-20T19:42:20.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Brough of Deerness to Copinsay",
+  "meta": {
+    "location": "Deerness",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 57,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-06-17T17:16:04.000+01:00",
+    "dimensions": {
+      "height": 5891,
+      "width": 8836
+    }
+  }
+}

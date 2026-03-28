@@ -1,0 +1,29 @@
+{
+  "title": "Hoxa Head Rocks",
+  "meta": {
+    "location": "Hoxa Head",
+    "tags": [
+      "Landscape",
+      "Coast"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 65,
+        "fStop": 2.8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-17T11:09:52.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

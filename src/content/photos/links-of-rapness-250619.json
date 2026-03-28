@@ -1,0 +1,29 @@
+{
+  "title": "Links of Rapness",
+  "meta": {
+    "location": "Westray",
+    "tags": [
+      "Landscape",
+      "Beach"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 1,
+        "exposureTime": 0.0025,
+        "focalLength": 30,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-19T14:26:31.000+01:00",
+    "dimensions": {
+      "height": 6306,
+      "width": 9459
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Osmundwall Cemetery",
+  "meta": {
+    "location": "South Walls",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.008,
+        "focalLength": 43,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-15T15:51:58.000+01:00",
+    "dimensions": {
+      "height": 5799,
+      "width": 8699
+    }
+  }
+}

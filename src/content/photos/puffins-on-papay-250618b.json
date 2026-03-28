@@ -1,0 +1,28 @@
+{
+  "title": "Puffins on Papay",
+  "meta": {
+    "location": "North Hill",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.00625,
+        "focalLength": 215,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-18T12:56:37.000+01:00",
+    "dimensions": {
+      "height": 5657,
+      "width": 8485
+    }
+  }
+}

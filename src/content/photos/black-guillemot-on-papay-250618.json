@@ -1,0 +1,28 @@
+{
+  "title": "Black Guillemot on Papay",
+  "meta": {
+    "location": "North Hill",
+    "tags": [
+      "Bird"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.01,
+        "focalLength": 306,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-18T13:00:02.000+01:00",
+    "dimensions": {
+      "height": 5107,
+      "width": 7661
+    }
+  }
+}

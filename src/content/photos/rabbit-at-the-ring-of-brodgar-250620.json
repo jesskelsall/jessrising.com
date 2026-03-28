@@ -1,0 +1,26 @@
+{
+  "title": "Rabbit at the Ring of Brodgar",
+  "meta": {
+    "location": "Loch of Harray",
+    "tags": [],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0125,
+        "focalLength": 400,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-06-20T06:26:56.000+01:00",
+    "dimensions": {
+      "height": 3838,
+      "width": 5757
+    }
+  }
+}

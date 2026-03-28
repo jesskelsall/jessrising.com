@@ -1,0 +1,32 @@
+{
+  "title": "Churchill Barrier No.3 and Blockship SS Reginald",
+  "meta": {
+    "location": "Burray",
+    "tags": [
+      "Landscape",
+      "Boat",
+      "Coast",
+      "Road",
+      "Ruin"
+    ],
+    "trip": "2025-06-13-orkney"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.003125,
+        "focalLength": 232,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-06-17T12:54:38.000+01:00",
+    "dimensions": {
+      "height": 5902,
+      "width": 8853
+    }
+  }
+}
