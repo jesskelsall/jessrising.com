@@ -1,0 +1,28 @@
+{
+  "title": "Schellschlicht From Eibsee",
+  "meta": {
+    "location": "Eibsee",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0025,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-21T12:06:22.000+01:00",
+    "dimensions": {
+      "height": 5966,
+      "width": 8949
+    }
+  }
+}

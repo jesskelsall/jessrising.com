@@ -1,0 +1,28 @@
+{
+  "title": "The Last of Northern Schneeferner",
+  "meta": {
+    "location": "Zugspitze",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.002,
+        "focalLength": 141,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-21T15:06:30.000+01:00",
+    "dimensions": {
+      "height": 6086,
+      "width": 9129
+    }
+  }
+}

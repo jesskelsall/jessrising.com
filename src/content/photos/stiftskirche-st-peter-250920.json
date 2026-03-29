@@ -1,0 +1,29 @@
+{
+  "title": "Stiftskirche St. Peter",
+  "meta": {
+    "location": "Salzburg",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.25,
+        "focalLength": 45,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-20T13:19:14.000+01:00",
+    "dimensions": {
+      "height": 6276,
+      "width": 9414
+    }
+  }
+}

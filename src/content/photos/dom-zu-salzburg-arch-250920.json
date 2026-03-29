@@ -1,0 +1,29 @@
+{
+  "title": "Dom zu Salzburg Arch",
+  "meta": {
+    "location": "Dom zu Salzburg",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.25,
+        "focalLength": 59,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-20T13:41:58.000+01:00",
+    "dimensions": {
+      "height": 5192,
+      "width": 7788
+    }
+  }
+}

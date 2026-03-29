@@ -1109,6 +1109,14 @@ export const locationHierarchy: LocationHierarchy = {
       },
     },
   },
+  "🇦🇹 Austria": {
+    "🏙️ Salzburg": {
+      "⛪️ Dom zu Salzburg": {},
+      "🏰 Festung Hohensalzburg": {},
+      "Hettwer Bastei": {},
+      Petersfriedhof: {},
+    },
+  },
   "🇪🇪 Estonia": {
     "🏙️ Tallinn": {
       Vanalinn: {
@@ -1135,6 +1143,13 @@ export const locationHierarchy: LocationHierarchy = {
     },
   },
   "🇩🇪 Germany": {
+    "🗺️ Bavaria": {
+      "🏘️ Garmisch-Partenkirchen": {},
+      "🏘️ Grainau": {
+        "💧 Eibsee": {},
+        "⛰️ Zugspitze": {},
+      },
+    },
     "🏙️ Hamburg": {
       "Elbphilharmonie Hamburg": {},
       Landungsbrücken: {},

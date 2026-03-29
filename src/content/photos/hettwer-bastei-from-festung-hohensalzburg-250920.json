@@ -1,0 +1,29 @@
+{
+  "title": "Hettwer Bastei From Festung Hohensalzburg",
+  "meta": {
+    "location": "Festung Hohensalzburg",
+    "tags": [
+      "Landscape",
+      "Castle"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 40,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-20T10:06:43.000+01:00",
+    "dimensions": {
+      "height": 5999,
+      "width": 8998
+    }
+  }
+}

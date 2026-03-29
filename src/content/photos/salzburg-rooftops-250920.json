@@ -1,0 +1,28 @@
+{
+  "title": "Salzburg Rooftops",
+  "meta": {
+    "location": "Hettwer Bastei",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.3333333333333333,
+        "focalLength": 58,
+        "fStop": 3.5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-20T19:26:51.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

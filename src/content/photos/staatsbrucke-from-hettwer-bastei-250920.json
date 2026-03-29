@@ -1,0 +1,29 @@
+{
+  "title": "Staatsbrücke From Hettwer Bastei",
+  "meta": {
+    "location": "Hettwer Bastei",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.5,
+        "focalLength": 29,
+        "fStop": 2.8,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-20T19:41:02.000+01:00",
+    "dimensions": {
+      "height": 4813,
+      "width": 7192
+    }
+  }
+}
