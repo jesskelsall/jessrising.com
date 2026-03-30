@@ -1,0 +1,29 @@
+{
+  "title": "Kirche St. Mang Drache",
+  "meta": {
+    "location": "Füssen",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.5,
+        "focalLength": 70,
+        "fStop": 4,
+        "ISO": 200
+      }
+    },
+    "date": "2025-09-24T10:48:35.000+01:00",
+    "dimensions": {
+      "height": 6063,
+      "width": 9095
+    }
+  }
+}

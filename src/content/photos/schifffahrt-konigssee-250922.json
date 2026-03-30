@@ -1,0 +1,29 @@
+{
+  "title": "Schifffahrt Königssee",
+  "meta": {
+    "location": "Königssee",
+    "tags": [
+      "Landscape",
+      "Boat"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.02,
+        "focalLength": 44,
+        "fStop": 7.1,
+        "ISO": 200
+      }
+    },
+    "date": "2025-09-22T13:33:11.000+01:00",
+    "dimensions": {
+      "height": 6218,
+      "width": 9327
+    }
+  }
+}

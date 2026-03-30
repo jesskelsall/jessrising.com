@@ -1,0 +1,28 @@
+{
+  "title": "Salet Hillside",
+  "meta": {
+    "location": "Obersee",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.04,
+        "focalLength": 24,
+        "fStop": 8,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-22T15:12:13.000+01:00",
+    "dimensions": {
+      "height": 6147,
+      "width": 9220
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Kehlsteinhaus Cairns",
+  "meta": {
+    "location": "Kehlsteinhaus",
+    "tags": [
+      "Landscape",
+      "Cairn"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 57,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-22T09:34:39.000+01:00",
+    "dimensions": {
+      "height": 5731,
+      "width": 8597
+    }
+  }
+}

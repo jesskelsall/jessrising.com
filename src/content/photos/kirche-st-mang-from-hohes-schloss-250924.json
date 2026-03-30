@@ -1,0 +1,29 @@
+{
+  "title": "Kirche St. Mang From Hohes Schloss",
+  "meta": {
+    "location": "Hohes Schloss",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 46,
+        "fStop": 5,
+        "ISO": 200
+      }
+    },
+    "date": "2025-09-24T11:26:44.000+01:00",
+    "dimensions": {
+      "height": 6304,
+      "width": 9457
+    }
+  }
+}

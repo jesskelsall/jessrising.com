@@ -1,0 +1,28 @@
+{
+  "title": "Fischunkelalm Across Obsersee",
+  "meta": {
+    "location": "Obersee",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.02,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-22T15:41:55.000+01:00",
+    "dimensions": {
+      "height": 5629,
+      "width": 8443
+    }
+  }
+}

@@ -1144,10 +1144,22 @@ export const locationHierarchy: LocationHierarchy = {
   },
   "🇩🇪 Germany": {
     "🗺️ Bavaria": {
-      "🏘️ Garmisch-Partenkirchen": {},
-      "🏘️ Grainau": {
-        "💧 Eibsee": {},
-        "⛰️ Zugspitze": {},
+      "🗺️ Berchtesgadener Land": {
+        Kehlsteinhaus: {},
+        "💧 Königssee": {},
+        "💧 Obersee": {},
+      },
+      "🗺️ Garmisch-Partenkirchen (Landkreis)": {
+        "🏘️ Garmisch-Partenkirchen": {},
+        "🏘️ Grainau": {
+          "💧 Eibsee": {},
+          "⛰️ Zugspitze": {},
+        },
+      },
+      "🗺️ Ostallgäu": {
+        "🏘️ Füssen": {
+          "🏰 Hohes Schloss": {},
+        },
       },
     },
     "🏙️ Hamburg": {

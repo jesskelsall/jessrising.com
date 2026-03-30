@@ -1,0 +1,29 @@
+{
+  "title": "Kehlsteinhaus",
+  "meta": {
+    "location": "Kehlsteinhaus",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.00625,
+        "focalLength": 50,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-22T09:31:18.000+01:00",
+    "dimensions": {
+      "height": 5855,
+      "width": 8783
+    }
+  }
+}

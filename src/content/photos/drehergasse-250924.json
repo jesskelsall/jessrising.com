@@ -1,0 +1,29 @@
+{
+  "title": "Drehergasse",
+  "meta": {
+    "location": "Füssen",
+    "tags": [
+      "Landscape",
+      "Street"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.04,
+        "focalLength": 40,
+        "fStop": 6.300000190736682,
+        "ISO": 200
+      }
+    },
+    "date": "2025-09-24T12:04:20.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

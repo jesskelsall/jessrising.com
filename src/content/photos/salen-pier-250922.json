@@ -1,0 +1,28 @@
+{
+  "title": "Salen Pier",
+  "meta": {
+    "location": "Königssee",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 24,
+        "fStop": 5.6,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-22T16:08:05.000+01:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}
