@@ -1150,10 +1150,27 @@ export const locationHierarchy: LocationHierarchy = {
         "💧 Obersee": {},
       },
       "🗺️ Garmisch-Partenkirchen (Landkreis)": {
-        "🏘️ Garmisch-Partenkirchen": {},
+        "🏘️ Garmisch-Partenkirchen": {
+          "💦 Partnachklamm": {},
+          "⛰️ Wank": {},
+        },
         "🏘️ Grainau": {
           "💧 Eibsee": {},
           "⛰️ Zugspitze": {},
+        },
+        "🏘️ Krün": {
+          "💧 Geroldsee": {},
+        },
+      },
+      "🏙️ München": {
+        "Altstadt (München)": {
+          "⛪️ Alter Peter": {},
+          "⛪️ Frauenkirche": {},
+          Marienplatz: {},
+        },
+        Odeonsplatz: {
+          "Residenz München": {},
+          "⛪️ Theatinerkirche": {},
         },
       },
       "🗺️ Ostallgäu": {

@@ -1,0 +1,29 @@
+{
+  "title": "Partnachklamm Canyon",
+  "meta": {
+    "location": "Partnachklamm",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.7,
+        "exposureTime": 0.025,
+        "focalLength": 51,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-26T14:57:23.000+01:00",
+    "dimensions": {
+      "height": 6136,
+      "width": 9204
+    }
+  }
+}

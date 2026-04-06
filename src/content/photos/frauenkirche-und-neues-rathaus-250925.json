@@ -1,0 +1,29 @@
+{
+  "title": "Frauenkirche und Neues Rathaus",
+  "meta": {
+    "location": "Alter Peter",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.005,
+        "focalLength": 26,
+        "fStop": 4,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-25T10:52:29.000+01:00",
+    "dimensions": {
+      "height": 6149,
+      "width": 9223
+    }
+  }
+}

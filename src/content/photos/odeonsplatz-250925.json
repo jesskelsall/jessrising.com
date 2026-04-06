@@ -1,0 +1,29 @@
+{
+  "title": "Odeonsplatz",
+  "meta": {
+    "location": "Odeonsplatz",
+    "tags": [
+      "Landscape",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0012499999720602967,
+        "focalLength": 31,
+        "fStop": 4.5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-25T12:26:21.000+01:00",
+    "dimensions": {
+      "height": 6154,
+      "width": 9231
+    }
+  }
+}

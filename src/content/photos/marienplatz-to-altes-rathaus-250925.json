@@ -1,0 +1,28 @@
+{
+  "title": "Marienplatz to Altes Rathaus",
+  "meta": {
+    "location": "Marienplatz",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.001,
+        "focalLength": 54,
+        "fStop": 3.5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-25T15:20:18.000+01:00",
+    "dimensions": {
+      "height": 5957,
+      "width": 8936
+    }
+  }
+}

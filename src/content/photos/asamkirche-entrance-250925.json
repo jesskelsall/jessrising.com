@@ -1,0 +1,29 @@
+{
+  "title": "Asamkirche Entrance",
+  "meta": {
+    "location": "Altstadt (München)",
+    "tags": [
+      "Interior",
+      "Church/Cathedral"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.5,
+        "focalLength": 28,
+        "fStop": 3.2,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-25T12:02:47.000+01:00",
+    "dimensions": {
+      "height": 5892,
+      "width": 8839
+    }
+  }
+}

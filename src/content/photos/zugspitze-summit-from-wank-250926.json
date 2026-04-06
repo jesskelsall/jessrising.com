@@ -1,0 +1,29 @@
+{
+  "title": "Zugspitze Summit From Wank",
+  "meta": {
+    "location": "Wank",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.0025,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-26T09:39:41.000+01:00",
+    "dimensions": {
+      "height": 5502,
+      "width": 8254
+    }
+  }
+}

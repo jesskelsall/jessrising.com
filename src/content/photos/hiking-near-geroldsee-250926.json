@@ -1,0 +1,28 @@
+{
+  "title": "Hiking Near Geroldsee",
+  "meta": {
+    "location": "Geroldsee",
+    "tags": [
+      "People"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.0025,
+        "focalLength": 100,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-26T12:49:35.000+01:00",
+    "dimensions": {
+      "height": 6074,
+      "width": 9111
+    }
+  }
+}

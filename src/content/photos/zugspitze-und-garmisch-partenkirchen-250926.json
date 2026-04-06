@@ -1,0 +1,29 @@
+{
+  "title": "Zugspitze und Garmisch-Partenkirchen",
+  "meta": {
+    "location": "Wank",
+    "tags": [
+      "Landscape",
+      "Clouds"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.005,
+        "focalLength": 41,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2025-09-26T10:15:26.000+01:00",
+    "dimensions": {
+      "height": 5662,
+      "width": 8493
+    }
+  }
+}

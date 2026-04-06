@@ -1,0 +1,28 @@
+{
+  "title": "Neues Rathaus Flowers",
+  "meta": {
+    "location": "Marienplatz",
+    "tags": [
+      "Flowers & Insects"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.02,
+        "focalLength": 48,
+        "fStop": 4,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-25T10:27:22.000+01:00",
+    "dimensions": {
+      "height": 6231,
+      "width": 9346
+    }
+  }
+}

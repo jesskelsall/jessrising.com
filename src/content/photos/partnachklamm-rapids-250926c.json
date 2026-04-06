@@ -1,0 +1,29 @@
+{
+  "title": "Partnachklamm Rapids",
+  "meta": {
+    "location": "Partnachklamm",
+    "tags": [
+      "Landscape",
+      "Waterfall"
+    ],
+    "trip": "2025-09-19-bavaria"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.3,
+        "exposureTime": 0.625,
+        "focalLength": 24,
+        "fStop": 5,
+        "ISO": 160
+      }
+    },
+    "date": "2025-09-26T15:05:05.000+01:00",
+    "dimensions": {
+      "height": 5467,
+      "width": 8201
+    }
+  }
+}
