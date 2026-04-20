@@ -1141,6 +1141,15 @@ export const locationHierarchy: LocationHierarchy = {
       Töölö: {},
       Ullanlinna: {},
     },
+    "🗺️ Lappi": {
+      "🗺️ Inari (kunta)": {
+        "🏘️ Saariselkä": {},
+      },
+      "🗺️ Sodankylä (kunta)": {},
+    },
+    "🗺️ Pohjois-Pohjanmaa": {
+      "🏞️ Oulangan kansallispuisto": {},
+    },
   },
   "🇩🇪 Germany": {
     "🗺️ Bavaria": {
