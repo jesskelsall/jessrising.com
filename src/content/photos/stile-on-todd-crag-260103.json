@@ -1,0 +1,28 @@
+{
+  "title": "Stile on Todd Crag",
+  "meta": {
+    "location": "Todd Crag",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2026-01-03-loughrigg-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1,
+        "exposureTime": 0.016666666666666666,
+        "focalLength": 32,
+        "fStop": 13,
+        "ISO": 100
+      }
+    },
+    "date": "2026-01-03T09:38:57.000+00:00",
+    "dimensions": {
+      "height": 5725,
+      "width": 8588
+    }
+  }
+}

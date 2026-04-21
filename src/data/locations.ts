@@ -59,9 +59,11 @@ export const locationHierarchy: LocationHierarchy = {
             "Grasmere & Rydal": {
               "🏘️ Grasmere (Village)": {},
               "💧 Grasmere (Lake)": {},
-              "⛰️ Loughrigg Fell": {},
+              "⛰️ Loughrigg Fell": {
+                "⛰️ Todd Crag": {},
+              },
               "Rydal Cave": {},
-              "Rydal Water": {},
+              "💧 Rydal Water": {},
             },
             "Grasmere Common": {
               "⛰️ Blea Rigg": {},

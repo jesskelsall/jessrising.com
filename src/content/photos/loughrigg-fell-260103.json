@@ -1,0 +1,28 @@
+{
+  "title": "Loughrigg Fell",
+  "meta": {
+    "location": "Loughrigg Fell",
+    "tags": [
+      "Wainwright"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.05,
+        "focalLength": 57,
+        "fStop": 16,
+        "ISO": 125
+      }
+    },
+    "date": "2026-01-03T11:28:26.000+00:00",
+    "dimensions": {
+      "height": 5811,
+      "width": 8716
+    }
+  }
+}

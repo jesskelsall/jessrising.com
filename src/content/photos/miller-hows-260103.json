@@ -1,0 +1,29 @@
+{
+  "title": "Miller Hows",
+  "meta": {
+    "location": "Loughrigg Fell",
+    "tags": [
+      "Landscape",
+      "Forest"
+    ],
+    "trip": "2026-01-03-loughrigg-fell"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 51,
+        "fStop": 7.1,
+        "ISO": 100
+      }
+    },
+    "date": "2026-01-03T09:11:30.000+00:00",
+    "dimensions": {
+      "height": 6178,
+      "width": 9267
+    }
+  }
+}
