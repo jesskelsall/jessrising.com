@@ -1,0 +1,30 @@
+{
+  "title": "Raise Beck Falls",
+  "meta": {
+    "location": "Raise Beck",
+    "tags": [
+      "Landscape",
+      "Snow",
+      "Waterfall"
+    ],
+    "trip": "2026-02-14-helvellyn-from-thirlmere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.07692307692307693,
+        "focalLength": 30,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2026-02-14T09:09:08.000+00:00",
+    "dimensions": {
+      "height": 5841,
+      "width": 8763
+    }
+  }
+}

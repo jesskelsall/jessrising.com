@@ -1,0 +1,29 @@
+{
+  "title": "Striding Edge",
+  "meta": {
+    "location": "Striding Edge",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2026-02-14-helvellyn-from-thirlmere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.3,
+        "exposureTime": 0.002,
+        "focalLength": 35,
+        "fStop": 4.5,
+        "ISO": 100
+      }
+    },
+    "date": "2026-02-14T12:40:18.000+00:00",
+    "dimensions": {
+      "height": 5774,
+      "width": 8661
+    }
+  }
+}

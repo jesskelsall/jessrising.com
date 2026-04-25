@@ -142,6 +142,7 @@ export const locationHierarchy: LocationHierarchy = {
               },
               "⛰️ Nethermost Pike": {},
               "⛰️ Raise": {},
+              "Raise Beck": {},
               "Sticks Pass": {},
               "The Dodds": {
                 "⛰️ Great Dodd": {},

@@ -1,0 +1,29 @@
+{
+  "title": "Blencathra From Thirlmere",
+  "meta": {
+    "location": "Thirlmere",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2026-02-14-helvellyn-from-thirlmere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 185,
+        "fStop": 5.6,
+        "ISO": 125
+      }
+    },
+    "date": "2026-02-14T15:03:35.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  }
+}

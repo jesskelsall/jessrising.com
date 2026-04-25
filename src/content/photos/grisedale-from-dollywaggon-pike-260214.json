@@ -1,0 +1,29 @@
+{
+  "title": "Grisedale From Dollywaggon Pike",
+  "meta": {
+    "location": "Dollywaggon Pike",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2026-02-14-helvellyn-from-thirlmere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.3,
+        "exposureTime": 0.0025,
+        "focalLength": 67,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2026-02-14T10:45:49.000+00:00",
+    "dimensions": {
+      "height": 5754,
+      "width": 8631
+    }
+  }
+}

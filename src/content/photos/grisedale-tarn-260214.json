@@ -1,0 +1,29 @@
+{
+  "title": "Grisedale Tarn",
+  "meta": {
+    "location": "Grisedale Tarn",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2026-02-14-helvellyn-from-thirlmere"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0.7,
+        "exposureTime": 0.0125,
+        "focalLength": 24,
+        "fStop": 10,
+        "ISO": 100
+      }
+    },
+    "date": "2026-02-14T09:38:47.000+00:00",
+    "dimensions": {
+      "height": 6001,
+      "width": 9002
+    }
+  }
+}
