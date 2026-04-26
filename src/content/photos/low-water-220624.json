@@ -1,15 +1,13 @@
 {
-  "title": "Coniston Quarry Ruins",
+  "title": "Low Water",
   "meta": {
     "gps": {
-      "lat": 54.373111111111115,
-      "long": -3.1101833333333335
+      "lat": 54.37283333333333,
+      "long": -3.1182222222222222
     },
-    "location": "The Old Man of Coniston",
+    "location": "Low Water",
     "tags": [
-      "Landscape",
-      "Clouds",
-      "Ruin"
+      "Landscape"
     ],
     "trip": "2022-06-24-old-man-of-coniston"
   },
@@ -18,7 +16,7 @@
       "name": "Apple iPhone 11 Pro Max",
       "lens": "Main Camera"
     },
-    "date": "2022-06-24T10:04:11.000+01:00",
+    "date": "2022-06-24T11:37:09.000+01:00",
     "dimensions": {
       "height": 3024,
       "width": 4032

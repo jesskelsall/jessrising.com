@@ -1,25 +1,25 @@
 {
-  "title": "Stickle Ghyll to Lingmoor Fell",
+  "title": "Low Water Reflections",
   "meta": {
-    "location": "Langdale Pikes",
+    "location": "Low Water",
     "tags": [
       "Landscape"
     ],
-    "trip": "2025-08-02-the-langdale-pikes"
+    "trip": "2026-04-24-coniston-fells"
   },
   "exif": {
     "camera": {
       "name": "Sony ɑ7R V",
       "lens": "Sony FE 24-70mm F2.8 GM II",
       "settings": {
-        "exposureBias": -1.3,
-        "exposureTime": 0.00625,
-        "focalLength": 30,
+        "exposureBias": -0.3,
+        "exposureTime": 0.008,
+        "focalLength": 69,
         "fStop": 5.6,
-        "ISO": 100
+        "ISO": 125
       }
     },
-    "date": "2025-08-02T08:54:24.000+01:00",
+    "date": "2026-04-24T07:29:18.000+01:00",
     "dimensions": {
       "height": 6336,
       "width": 9504

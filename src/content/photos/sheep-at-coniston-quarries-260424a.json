@@ -1,0 +1,29 @@
+{
+  "title": "Sheep at Coniston Quarries",
+  "meta": {
+    "location": "Coniston Quarries",
+    "tags": [
+      "Ruin",
+      "Sheep"
+    ],
+    "trip": "2026-04-24-coniston-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -0.7,
+        "exposureTime": 0.008,
+        "focalLength": 70,
+        "fStop": 4.5,
+        "ISO": 160
+      }
+    },
+    "date": "2026-04-24T06:51:17.000+01:00",
+    "dimensions": {
+      "height": 5991,
+      "width": 8986
+    }
+  }
+}

@@ -81,7 +81,7 @@ export const locationHierarchy: LocationHierarchy = {
               "⛰️ Eagle Crag": {},
               "⛰️ Sergeant's Crag": {},
             },
-            "Langdale Fell": {
+            "Langdale Pikes": {
               "⛰️ Harrison Stickle": {},
               "⛰️ Loft Crag": {},
               "⛰️ Pavey Ark": {},
@@ -330,18 +330,70 @@ export const locationHierarchy: LocationHierarchy = {
             },
           },
           "📒 Southern Fells": {
-            "💧 Blea Tarn": {},
-            "Coniston Fells": {
-              "⛰️ The Old Man of Coniston": {},
+            "Borrowdale Fells": {
+              "⛰️ Allen Crags": {},
+              "⛰️ Glaramara": {},
+              "⛰️ Rosthwaite Fell": {},
+              "⛰️ Seathwaite Fell": {},
+              "Stockley Bridge": {},
             },
-            Eskdale: {
-              "Eskdale Fell": {},
-              "Hardknott Pass": {},
+            "Coniston Fells": {
+              "⛰️ Brim Fell": {},
+              "⛰️ Dow Crag": {},
+              "⛰️ Great Carrs": {},
+              "⛰️ Grey Friar": {},
+              "⛰️ Swirl How": {},
+              "⛰️ The Old Man of Coniston": {
+                "Coniston Quarries": {},
+                "💧 Low Water": {},
+              },
+              "⛰️ Wetherlam": {},
+            },
+            "Coniston Valley": {
+              "⛰️ Black Fell": {},
+              "🏘️ Hawkshead": {},
+              "⛰️ Holme Fell": {},
+              "💧 Tarn Hows": {},
+              "🐑 Yew Tree Farm": {},
+            },
+            Eskdale: {},
+            "Eskdale Fell": {
+              "⛰️ Illgill Head": {},
+              "⛰️ Whin Rigg": {},
+            },
+            "Great Langdale": {},
+            "Hardknott Fells": {
+              "⛰️ Green Crag": {},
+              "⛰️ Hard Knott": {},
+              "🚗 Hardknott Pass": {},
+              "⛰️ Harter Fell (Eskdale)": {},
               "Lingcove Beck": {},
             },
-            Langdale: {},
-            "Little Langdale": {},
-            "Stockley Bridge": {},
+            "Langdale Fell": {
+              "⛰️ Bowfell": {},
+              "⛰️ Crinkle Crags": {},
+              "⛰️ Esk Pike": {},
+              "⛰️ Rossett Pike": {},
+            },
+            "Little Langdale": {
+              "💧 Blea Tarn": {},
+              "⛰️ Lingmoor Fell": {},
+            },
+            Scafells: {
+              "⛰️ Great End": {},
+              "⛰️ Lingmell": {},
+              "⛰️ Scafell": {},
+              "⛰️ Scafell Pike": {},
+              "⛰️ Slight Side": {},
+            },
+            "Windermere Valley": {
+              "🏘️ Ambleside": {},
+              Stockghyll: {},
+            },
+            "Wrynose Fells": {
+              "⛰️ Cold Pike": {},
+              "⛰️ Pike O'Blisco": {},
+            },
           },
           "📒 Western Fells": {
             "Buttermere Valley": {
@@ -425,17 +477,6 @@ export const locationHierarchy: LocationHierarchy = {
                 "⛰️ Great Gable": {},
               },
               "💧 Wast Water": {},
-            },
-          },
-          "South Lakes": {
-            "Coniston Valley": {
-              "🏘️ Hawkshead": {},
-              "Tarn Hows": {},
-              "🐑 Yew Tree Farm": {},
-            },
-            "Windermere Valley": {
-              "🏘️ Ambleside": {},
-              Stockghyll: {},
             },
           },
         },

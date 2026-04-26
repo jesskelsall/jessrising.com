@@ -1,0 +1,29 @@
+{
+  "title": "Coniston Quarries Tramway Tower",
+  "meta": {
+    "location": "Coniston Quarries",
+    "tags": [
+      "Landscape",
+      "Ruin"
+    ],
+    "trip": "2026-04-24-coniston-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": -1.7,
+        "exposureTime": 0.002,
+        "focalLength": 57,
+        "fStop": 5,
+        "ISO": 100
+      }
+    },
+    "date": "2026-04-24T07:08:11.000+01:00",
+    "dimensions": {
+      "height": 5778,
+      "width": 8667
+    }
+  }
+}

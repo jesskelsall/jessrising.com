@@ -1,0 +1,28 @@
+{
+  "title": "Great Carrs From Swirl How",
+  "meta": {
+    "location": "Swirl How",
+    "tags": [
+      "Landscape"
+    ],
+    "trip": "2026-04-24-coniston-fells"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.008,
+        "focalLength": 33,
+        "fStop": 8,
+        "ISO": 160
+      }
+    },
+    "date": "2026-04-24T14:39:58.000+01:00",
+    "dimensions": {
+      "height": 5956,
+      "width": 8934
+    }
+  }
+}
