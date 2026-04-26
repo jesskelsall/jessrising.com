@@ -1,0 +1,29 @@
+{
+  "title": "Fairfield to St Sunday Crag",
+  "meta": {
+    "location": "Fairfield",
+    "tags": [
+      "Landscape",
+      "Snow"
+    ],
+    "trip": "2026-03-27-stone-arthur-seat-sandal-via-fairfield"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.025,
+        "focalLength": 31,
+        "fStop": 14,
+        "ISO": 100
+      }
+    },
+    "date": "2026-03-27T11:57:24.000+00:00",
+    "dimensions": {
+      "height": 6102,
+      "width": 9153
+    }
+  }
+}

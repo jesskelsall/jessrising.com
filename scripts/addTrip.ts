@@ -49,6 +49,7 @@ const addTrip = async (): Promise<void> => {
 
   const emoji = await inquirerInput({
     message: "Emoji",
+    default: "🥾",
   });
 
   // Create trip

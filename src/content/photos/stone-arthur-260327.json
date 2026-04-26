@@ -1,0 +1,32 @@
+{
+  "title": "Stone Arthur",
+  "meta": {
+    "location": "Stone Arthur",
+    "tags": [
+      "Landscape",
+      "Wainwright"
+    ],
+    "trip": "2026-03-27-stone-arthur-seat-sandal-via-fairfield"
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 24-70mm F2.8 GM II",
+      "settings": {
+        "exposureBias": 0,
+        "exposureTime": 0.03333333333333333,
+        "focalLength": 28,
+        "fStop": 20,
+        "ISO": 200
+      }
+    },
+    "date": "2026-03-27T10:25:47.000+00:00",
+    "dimensions": {
+      "height": 6336,
+      "width": 9504
+    }
+  },
+  "settings": {
+    "showPhoto": true
+  }
+}
