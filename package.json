@@ -17,6 +17,8 @@
     "build": "next build",
     "dev": "npm run prebuild && next dev",
     "insta:story": "bash ./scripts/insta-story.sh",
+    "insta:watermark:final": "bash ./scripts/insta-watermark.sh final",
+    "insta:watermark:social": "bash ./scripts/insta-watermark.sh social",
     "lint": "next lint --fix",
     "prebuild": "ts-node -P ./scripts/tsconfig.json ./scripts/prebuild.ts",
     "prepare": "husky install",
