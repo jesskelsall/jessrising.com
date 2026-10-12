@@ -482,6 +482,7 @@ export const locationHierarchy: LocationHierarchy = {
         },
         Shap: {},
       },
+      "🗺️ Derbyshire": {},
       "🗺️ Devon": {
         Beer: {},
         Clovelly: {},
