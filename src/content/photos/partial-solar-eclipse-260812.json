@@ -1,0 +1,28 @@
+{
+  "title": "Partial Solar Eclipse",
+  "meta": {
+    "location": "Derbyshire",
+    "tags": [
+      "Astro"
+    ],
+    "trip": null
+  },
+  "exif": {
+    "camera": {
+      "name": "Sony ɑ7R V",
+      "lens": "Sony FE 100-400mm GM",
+      "settings": {
+        "exposureBias": -3,
+        "exposureTime": 0.000125,
+        "focalLength": 400,
+        "fStop": 5.6,
+        "ISO": 50
+      }
+    },
+    "date": "2026-08-12T19:09:34.000+01:00",
+    "dimensions": {
+      "height": 1623,
+      "width": 2434
+    }
+  }
+}
